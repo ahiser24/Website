@@ -1,41 +1,175 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-    
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andrew Hiser Portfolio</title>
-    <meta name="description" content="A personal portfolio for Andrew Hiser. This includes any projects, apps, and work experience.">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Andrew's Personal Site</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Freeman&display=swap" rel="stylesheet">
 </head>
-
-
 <body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#resume">Resume</a></li>
+      </ul>
+    </nav>
+  </header>
 
+  <section id="home">
+    <h1><u>Andrew Hiser</u></h1>
+    <p>IT Professional / Dad / Gamer</p>
+    <br>
+    <img src="images/profile.png" alt="profile picture">
+  </section>
 
-    <div class="box">
-        <div class="imgBx">
-            <img src="images/profile.jpg" alt="Profile Picture">
-        </div>
-        <ul class="social-icon">
-            <li><a href="index.html"><i class="fa fa-home" aria-hidden="true"></i></a></li>
-            <li><a href="https://github.com/ahiser24" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/hiserandrew/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-            <li><a href="apps.html"><i class="fa fa-download" aria-hidden="true"></i></a></li>
+  <section id="about">
+    <h2><u>About Me</u></h2>
+    <p>👋 Hey, I’m Andrew—an IT enthusiast who took an unexpected detour from Criminal Justice to the world of technology. 🕵️‍♂️ Now, I thrive on bytes, pixels, and all things digital.</p>
+        <p>When I'm not immersed in a work, you'll find me:</p>
+        <ul>
+            <li>🎮 Gaming (because every hero needs a side quest).</li>
+            <li>🌄Going on adventures with my family.</li>
+            <li>💻 Learning to code (okay, maybe not like a pro, but I'm getting there!).</li>
+            <li>🎸 Playing my guitar—because music and tech go hand in hand.</li>
+            <li>🌟 Exploring the latest technologies—I'm like a kid in a digital candy store.</li>
         </ul>
+  </section>
+
+  <section id="experience">
+    <div class="container">
+      <h1><u>Professional Experience</u></h1>
+      <div class="experience">
+        <div class="number">01</div>
         <div class="details">
-            <h2>Andrew Hiser <br><span>Experienced Systems Administrator with various skill sets in networks, scripting, and cloud engineering.</span></h2>
-            <h5>
-                Hosting via Azure
-            </h5>
+          <h2><span class="lists">Certificates</span></h2>
+          <ul>
+            <li>AZ-104 - Microsoft Certified Azure Administrator
+                <ul>
+                    <li>Demonstrates my expertise in managing Azure resources, security, and governance.</li>
+                </ul>
+            </li>
+            <li>AZ-900 - Microsoft Certified Azure Fundamentals
+                <ul>
+                    <li>Establishes my foundational knowledge of Azure cloud services and solutions.</li>
+                </ul>
+            </li>
+        </ul>
+          
         </div>
+      </div>
+      <div class="experience">
+        <div class="number">02</div>
+        <div class="details">
+          <h2><span class="roles">Professional Roles</span></h2>
+          <ul>
+            <li><b>IT Business Owner</b></li>
+            <ul>
+              <li>As the founder of Sky Time LLC, I successfully established and operated a small IT services business.</li>
+                <li>Worked closely with residential clients and small businesses to address their IT needs, troubleshoot issues, and provide tailored solutions.</li>
+                <li>Leveraged my expertise to enhance operational efficiency and ensure seamless technology experiences for clients.</li>
+          </ul>
+          <br>
+            <li><b>Cloud Engineer (MSP Experience)</b></li>
+            <ul>
+              <li>At an MSP (Managed Service Provider), I played a critical role in supporting clients' Amazon Web Services (AWS) environments</li>
+              <li>Despite the intense learning curve, I quickly adapted and became proficient in AWS within a tight timeframe</li>
+              <li>Trained the tier 1 team, sharing my knowledge and empowering them to handle AWS-related challeneges effectively</li>
+            </ul>
+            <br>
+            <li><b>Network Engineer</b></li>
+            <ul>
+              <li>Collaborated with colleagues to develop the tier 2 networking team, collaborating on documentation, processes, and procedures.</li>
+              <li>Managed and configured networks across multiple locations (stores & warehouses), ensuring seamless connectivity and optimal performance.</li>
+            </ul>
+            <br>
+            <li><b>IT Analyst</b></li>
+            <ul>
+              <li>Collaborated with stakeholders at all levels of the business to provide innovative solutions.</li>
+              <li>Focused on automations, process improvements, and training initiatives</li>
+              <li>Bridged the gap between technology implementation and business requirements, driving efficiency and growth.</li>
+            </ul>
+          </ul>
+        </div>
+      </div>
+      <div class="experience">
+        <div class="number">03</div>
+        <div class="details">
+          <h2><span class="projects">Projects</span></h2>
+          <ul>
+            <li><b>Microsoft 365 Migrations</b></li>
+            <ul>
+              <li>Successfully migrated on-premise systems to Microsoft 365.</li>
+              <li>Ensured a seamless transition for usrs, enhancing collaboration and productivity.</li>
+              <li>Addressed challenges related to data migration, security, and user adoption.</li>
+            </ul>
+            <li><b>SharePoint Online Migrations</b></li>
+            <ul>
+              <li>Led the migration of an acquired company's data and workflows to our SharePoint Online environment.</li>
+              <li>Streamlined content management, enabling efficient collaboration across teams.</li>
+              <li>Implemented governance policies and permissions to maintain data integrity.</li>
+            </ul>
+            <li><b>Custom data share tool for Microsoft Teams</b></li>
+            <ul>
+              <li>Developed a bespoke solution to replace an expensive FTP services.</li>
+              <li>Leveraged Microsoft Teams and Power Automate to create temporary, locked-down Teams for secure external data sharing.</li>
+              <li>Enhanced collaboration while ensuring data privacy and compliance.</li>
+            </ul>
+          </ul>
+        </div>
+      </div>
     </div>
+  </section>
+
+  <section id="projects">
+    <div class="container">
+        <h1><u>Personal Projects</u></h1>
+        <div class="experience">
+            <div class="number">01</div>
+            <div class="details">
+                <h2><span class="lists">Game Drop</span></h2>
+                <a href="#expanded-logo">
+                    <img id="logo-thumbnail" src="images/gamedrop_logo.png" alt="Game Drop Logo">
+                </a>
+                <a href="#projects" id="expanded-logo">
+                    <img src="images/gamedrop_logo.png" alt="Game Drop Logo" class="expanded-image">
+                </a>
+                <p>The ultimate platform for gamers to effortlessly curate and share adrenaline-pumping gameplay highlights directly to Discord. Extract and showcase your most thrilling 30 second clips with ease, whether you’re a streamer, content creator, or just eager to dazzle your gaming circle. Join the revolution with Game Drop today! 🎮🔥</p>
+                <p><a href="https://github.com/ahiser24/Game-Drop/releases/latest" target="_blank"><center><u>DOWNLOAD ON GITHUB FOR FREE</u></center></a></p>
+                <br>
+                </p>
+                <a href="#expanded-screenshot">
+                    <img id="screenshot-thumbnail" src="images/screenshot.png" alt="Screenshot">
+                </a>
+                <a href="#projects" id="expanded-screenshot">
+                    <img src="images/screenshot.png" alt="Screenshot" class="expanded-image">
+                </a>
+            </div>
+        </div>
+        <div class="experience">
+            <div class="number">02</div>
+            <div class="details">
+                <h2><span class="roles">Vuelingo</span></h2>
+                <p>(In Progress) - A web app that can convert Microsoft Stream caption files to any language.</p>
+            </div>
+        </div>
+        <br>
+        <p class="highlight">Check out my other scripts and projects on <a href="https://github.com/ahiser24" target="_blank">GitHub</a>.
+    </div>
+</section>
 
 
+
+  <section id="resume">
+    <h2><u>Resume</u></h2>
+    <p>View my professional profile on <a href="https://www.linkedin.com/in/hiserandrew/" target="_blank">LinkedIn</a>.</p>
+  </section>
+  
 </body>
 </html>
