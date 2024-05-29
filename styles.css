@@ -197,7 +197,7 @@ a:hover {
 }
 
 /* Styles for the thumbnails */
-#logo-thumbnail, #screenshot-thumbnail {
+#logo-thumbnail, #screenshot-thumbnail, #vuelingo-logo-thumbnail, #vuelingo-screenshot-thumbnail, #pixel-void-logo-thumbnail, #pixel-void-screenshot-thumbnail {
   max-width: 200px;
   height: auto;
   border-radius: 10px;
@@ -208,11 +208,11 @@ a:hover {
 }
 
 /* Styles for the expanded images */
-#expanded-logo, #expanded-screenshot {
+#expanded-logo, #expanded-screenshot, #expanded-vuelingo-logo, #expanded-vuelingo-screenshot, #expanded-pixel-void-logo, #expanded-pixel-void-screenshot {
   display: none;
 }
 
-#expanded-logo:target, #expanded-screenshot:target {
+#expanded-logo:target, #expanded-screenshot:target, #expanded-vuelingo-logo:target, #expanded-vuelingo-screenshot:target, #expanded-pixel-void-logo:target, #expanded-pixel-void-screenshot:target {
   display: block;
   position: fixed;
   top: 0;
@@ -224,13 +224,13 @@ a:hover {
   padding-top: 10%;
 }
 
-#expanded-logo img, #expanded-screenshot img {
+#expanded-logo img, #expanded-screenshot img, #expanded-vuelingo-logo img, #expanded-vuelingo-screenshot img, #expanded-pixel-void-logo img, #expanded-pixel-void-screenshot img {
   max-width: 90%;
   max-height: 80%;
   border-radius: 0;
 }
 
-#expanded-logo:target::before, #expanded-screenshot:target::before {
+#expanded-logo:target::before, #expanded-screenshot:target::before, #expanded-vuelingo-logo:target::before, #expanded-vuelingo-screenshot:target::before, #expanded-pixel-void-logo:target::before, #expanded-pixel-void-screenshot:target::before {
   content: "×";
   position: absolute;
   top: 10px;
