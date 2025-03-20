@@ -1,257 +1,262 @@
 body {
-  font-family: 'Open Sans', sans-serif;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background-color: #121212;
-  color: #E0E0E0;
+    font-family: 'Inter', sans-serif;
+    background-color: #111827; /* Dark background */
+    color: #f9fafb; /* Light text */
 }
-
-header {
-  background-color: #1b1b1b;
-  color: #E0E0E0;
-  padding: 1rem 0;
-  text-align: center;
-  font-size: 1.5em;
+.bg-gray-100 {
+    background-color: #1F2937; /* Darker container background */
 }
-
-nav ul {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  margin: 0;
-  padding: 0;
+.text-gray-700 {
+    color: #d1d5db; /* Lighter gray text */
 }
-
-nav ul li {
-  margin: 0 1rem;
+.bg-blue-600 {
+    background-color: #6366f1; /* Vibrant purple */
 }
-
-nav ul li a {
-  color: #E0E0E0;
-  text-decoration: none;
-  font-weight: bold;
+.hover\:bg-blue-700:hover {
+    background-color: #4338ca; /* Darker purple hover */
 }
-
-nav ul li a:hover {
-  color: #FFD700;
+.text-blue-700 {
+    color: #a855f7; /* Lighter purple */
 }
-
-section {
-  padding: 3rem 2rem;
-  text-align: center;
-  background-color: #1a1a1a;
-  margin: 2rem 0;
-  border-radius: 10px;
+.border-blue-500 {
+    border-color: #a855f7; /* Purple border */
 }
-
-section p {
-  max-width: 800px;
-  margin: 0 auto;
-  word-wrap: break-word;
-  line-height: 1.6;
+.text-blue-500 {
+    color: #a855f7; /* Lighter purple */
 }
-
-.highlight {
-  color: #FFD700;
+.hover\:text-blue-700:hover {
+    color: #6b7280; /* Gray hover for links */
 }
-
-#home {
-  background-color: #0a0a0a57;
-  color: #f7f7f7;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-end;
-  padding-bottom: 2rem;
+.shadow-md {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2); /* More pronounced shadow */
 }
-
-#home img {
-  max-width: 200px;
-  height: auto;
-  border-radius: 50%;
-  margin-top: 1rem;
+.rounded-md {
+    border-radius: 0.5rem;
 }
-
-#home p {
-  color: #E0E0E0;
-  max-width: 600px;
-  margin: 0 auto;
+.p-4 {
+    padding: 1rem;
 }
-
-#about ul {
-  list-style-type: none; /* Remove default bullet points */
-  padding: 0; /* Remove default padding */
+.mb-6 {
+    margin-bottom: 1.5rem;
 }
-
-#about ul li {
-  margin: 5px 0; /* Add some spacing between list items if needed */
+.text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
 }
-
-#projects {
-  text-align: center;
+.font-semibold {
+    font-weight: 600;
 }
-
-#gamedrop img {
-  max-width: 400px;
-  height: auto;
-  border-radius: 10px;
-  margin-top: 1rem;
+.ml-4 {
+    margin-left: 1rem;
 }
-
-h1, h2, h3 {
-  color: #FFD700;
-  font-family: 'Ubuntu', sans-serif;
+.mr-4 {
+    margin-right: 1rem;
 }
-
-a {
-  color: #FFD700;
-  text-decoration: none;
+.space-x-4 > * + * {
+    margin-left: 1rem;
 }
-
-a:hover {
-  text-decoration: underline;
+.flex {
+    display: flex;
 }
-
-.project {
-  margin: 2rem 0;
+.justify-between {
+    justify-content: space-between;
 }
-
-.project img {
-  max-width: 100%;
-  height: auto;
-  margin: 1rem 0;
-  border: 1px solid #444;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+.items-center {
+    align-items: center;
 }
-
+.sticky {
+    position: sticky;
+    top: 0;
+}
+.z-10 {
+    z-index: 10;
+}
 .container {
-  max-width: 800px;
-  margin: 0 auto;
+    max-width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mt-8 {
+    margin-top: 2rem;
+}
+.flex-col {
+    flex-direction: column;
+}
+.md\:flex-row {
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+}
+.gap-6 {
+    gap: 1.5rem;
+}
+.md\:w-1\/3 {
+    @media (min-width: 768px) {
+        width: 33.33333%;
+    }
+}
+.rounded-full {
+    border-radius: 9999px;
+}
+.shadow-md {
+     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+}
+.md\:w-2\/3 {
+    @media (min-width: 768px) {
+        width: 66.66667%;
+    }
+}
+.grid {
+    display: grid;
+}
+.grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+.md\:grid-cols-2 {
+    @media (min-width: 768px) {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+.lg\:grid-cols-3 {
+    @media (min-width: 1024px) {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+.space-y-4 > * + * {
+    margin-top: 1rem;
+}
+.text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.bg-gray-700 {
+    background-color: #374151; /* Dark gray */
+}
+.hover\:bg-gray-800:hover {
+    background-color: #1f2937; /* Even darker gray */
+}
+.text-white {
+    color: #fff;
+}
+.font-bold {
+    font-weight: 700;
+}
+.focus\:outline-none:focus {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+.focus\:shadow-outline:focus {
+    box-shadow: 0 0 0 3px rgba(168, 85, 247, 0.5); /* Purple focus shadow */
+}
+.bg-blue-500 {
+    background-color: #3b82f6;
+}
+.hover\:bg-blue-700:hover {
+    background-color: #2563eb;
+}
+.py-4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.text-center {
+    text-align: center;
+}
+.\!no-underline {
+    text-decoration: none !important;
 }
 
-.experience {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 20px;
+header nav ul li {
+    margin-top: 15px; /* Add spacing between links */
+    margin-bottom: 15px;
 }
 
-.number {
-  font-size: 3em;
-  color: #888;
-  margin-right: 20px;
+
+ul {
+    list-style-type: disc; /* Add disc (circle) bullets */
+    padding-left: 1.5rem; /* Add some left padding for spacing */
+}
+.nav-list {
+    list-style-type: none;
+}
+.bulleted-list {
+    list-style-type: disc;
+    list-style-position: inside; /* Align bullets inside list items */
+}
+ul li {
+    margin-bottom: 0.5rem; /* Add spacing between list items */
 }
 
-.details {
-  text-align: left; /* Ensure all text in details is left-aligned */
+/* Style for the animated text */
+.animated-heading {
+    animation: color-change 10s infinite alternate; /* Apply the animation */
+}
+@keyframes color-change {
+    0% { color: #a855f7; }       /* Start color: Purple */
+    25% { color: #f43f5e; }    /* Red */
+    50% { color: #3b82f6; }    /* Blue */
+    75% { color: #10b981; }   /* Green */
+    100% { color: #a855f7; }      /* Back to Purple */
 }
 
-.details h2 {
-  font-size: 1.5em;
-  margin: 0;
-  text-align: left; /* Ensure headings are left-aligned */
+/*Socials */
+.fab.fa-linkedin {
+    font-size: 2em; /* Increase size */
+    color: #0a66c2; /* LinkedIn blue */
 }
 
-.lists {
-  color: #34A853;
-  margin: 0;
-  width: 10px;
-  height: auto;
-  border-radius: 50%;
+.fa.fa-github {
+    font-size: 2em;
+    color: #333; /* Dark gray */
 }
 
-.roles {
-  color: #1877F2;
+a[href*="linkedin.com"]:hover .fab.fa-linkedin {
+    color: #004182; /* Darker LinkedIn blue on hover */
 }
 
-.projects {
-  color: #EA4C89;
+a[href*="github.com"]:hover .fa.fa-github {
+    color: #6e5494; /* GitHub purple on hover */
 }
 
-.details ul {
-  list-style: none; /* Remove default list style */
-  padding: 0;
-  margin: 10px 0 0 0;
-  list-style-type: disc; /* Ensure bullets are shown */
-}
+    .fa-brands.fa-linkedin {
+        color: #0a66c2; /* LinkedIn blue */
+    }
 
-.details ul ul {
-  list-style-type: circle; /* Nested list bullets */
-  padding-left: 20px; /* Indent nested lists */
-}
+    .fa-brands.fa-github {
+        color: #110f0f; /* Dark gray */
+    }
 
-.details li {
-  margin: 5px 0;
-  text-align: left;
-}
 
-/* Styles for the thumbnail */
-#gamedrop-logo, #screenshot-thumbnail {
-  max-width: 150px;
-  height: auto;
-  border-radius: 10px;
-  margin: 1rem auto;
-  display: block;
-  border: 3px solid #ffffff42;
-}
 
-/* Styles for the thumbnails */
-#logo-thumbnail, #screenshot-thumbnail, #vuelingo-logo-thumbnail, #vuelingo-screenshot-thumbnail, #pixel-void-logo-thumbnail, #pixel-void-screenshot-thumbnail {
-  max-width: 200px;
-  height: auto;
-  border-radius: 10px;
-  margin: 1rem auto;
-  display: block;
-  border: 3px solid #ffffff42;
-  cursor: pointer;
-}
-
-/* Styles for the expanded images */
-#expanded-logo, #expanded-screenshot, #expanded-vuelingo-logo, #expanded-vuelingo-screenshot, #expanded-pixel-void-logo, #expanded-pixel-void-screenshot {
-  display: none;
-}
-
-#expanded-logo:target, #expanded-screenshot:target, #expanded-vuelingo-logo:target, #expanded-vuelingo-screenshot:target, #expanded-pixel-void-logo:target, #expanded-pixel-void-screenshot:target {
-  display: block;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.9);
-  text-align: center;
-  padding-top: 10%;
-}
-
-#expanded-logo img, #expanded-screenshot img, #expanded-vuelingo-logo img, #expanded-vuelingo-screenshot img, #expanded-pixel-void-logo img, #expanded-pixel-void-screenshot img {
-  max-width: 90%;
-  max-height: 80%;
-  border-radius: 0;
-}
-
-#expanded-logo:target::before, #expanded-screenshot:target::before, #expanded-vuelingo-logo:target::before, #expanded-vuelingo-screenshot:target::before, #expanded-pixel-void-logo:target::before, #expanded-pixel-void-screenshot:target::before {
-  content: "×";
-  position: absolute;
-  top: 10px;
-  right: 25px;
-  font-size: 40px;
-  color: #fff;
-  cursor: pointer;
-  text-decoration: none;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-  nav ul {
-      flex-direction: column;
-  }
-
-  nav ul li {
-      margin: 0.5rem 0;
-  }
-
-  #home img {
-      max-width: 100px;
-  }
+/* Mobile-specific styles */
+@media (max-width: 767px) {
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .md\:flex-row {
+        flex-direction: column;
+    }
+    .md\:w-1\/3, .md\:w-2\/3 {
+        width: 100%;
+    }
+    .text-center {
+        text-align: center;
+    }
+    .space-x-4 > * + * {
+        margin-left: 0;
+        margin-top: 1rem;
+    }
+    .flex-col {
+        flex-direction: column;
+    }
+    .justify-between { /* Added to fix alignment issue on small screens */
+        justify-content: flex-start; /* Aligns items to the start (left in LTR) */
+        flex-wrap: wrap; /* Allows items to wrap to the next line */
+    }
+    .space-x-4 > * + * {
+        margin-left: 1rem; /* Add horizontal space between items */
+    }
+    .space-y-4 > * + * {
+        margin-top: 1rem; /* Add vertical space between items when wrapped */
+    }
 }

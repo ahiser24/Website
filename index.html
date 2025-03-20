@@ -1,219 +1,161 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Andrew's Personal Site</title>
-  <link rel="stylesheet" href="styles.css">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Freeman&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrew Hiser - IT Professional</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-  <header>
-    <nav>
-      <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#experience">Experience</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#resume">Resume</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <section id="home">
-    <h1><u>Andrew Hiser</u></h1>
-    <p>IT Professional / Dad / Gamer</p>
-    <br>
-    <img src="images/profile.png" alt="profile picture">
-  </section>
-
-  <section id="about">
-    <h2><u>About Me</u></h2>
-    <p>👋 Hey, I’m Andrew—an IT enthusiast who took an unexpected detour from Criminal Justice to the world of technology. 🕵️‍♂️ Now, I thrive on bytes, pixels, and all things digital.</p>
-        <p>When I'm not immersed in work, you'll find me:</p>
-        <ul>
-            <li>🎮 Gaming (because every hero needs a side quest).</li>
-            <li>🌄Going on adventures with my family.</li>
-            <li>💻 Learning to code (okay, maybe not like a pro, but I'm getting there!).</li>
-            <li>🎸 Playing my guitar—because music and tech go hand in hand.</li>
-            <li>🌟 Exploring the latest technologies—I'm like a kid in a digital candy store.</li>
+<body class="bg-gray-100">
+    <header class="bg-blue-600 text-white py-4 flex justify-between items-center shadow-md sticky top-0 z-10 rounded-md">
+        <div class="logo text-xl font-bold ml-4">Andrew Hiser</div>
+<nav class="mr-4 **justify-center**">
+    <nav class="flex items-center **justify-between**">
+        <ul class="flex space-x-4 items-center nav-list">
+            <li><a href="#about" class="hover:text-blue-200 no-underline">About Me</a></li>
+            <li><a href="#portfolio" class="hover:text-blue-200 no-underline">Portfolio</a></li>
+            <li><a href="#career" class="hover:text-blue-200 no-underline">Career</a></li>
+            <li><a href="#Socials" class="hover:text-blue-200 no-underline">Socials</a></li>
         </ul>
-  </section>
+    </nav>
+</nav>
+    </header>
 
-  <section id="experience">
-    <div class="container">
-      <h1><u>Professional Experience</u></h1>
-      <div class="experience">
-        <div class="number">01</div>
-        <div class="details">
-          <h2><span class="lists">Certificates</span></h2>
-          <ul>
-            <ul>
-              <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/AndrewHiser-8062/E5FD8B29BB872998?sharingId=D90A62E2F8B00760" target="_blank">AZ-104 - Microsoft Certified Azure Administrator</a>
-                <ul>
-                  <li>Demonstrates my expertise in managing Azure resources, security, and governance.</li>
-                </ul>
-              </li>
-              <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/AndrewHiser-8062/528049ADBEE0EABE?sharingId=D90A62E2F8B00760" target="_blank">AZ-900 - Microsoft Certified Azure Fundamentals</a>
-                <ul>
-                  <li>Establishes my foundational knowledge of Azure cloud services and solutions.</li>
-                </ul>
-              </li>
-              <li><a href="https://learn.microsoft.com/api/credentials/share/en-us/AndrewHiser-8062/AD30A01535D93081?sharingId=D90A62E2F8B00760" target="_blank">AI-900 - Microsoft Certified Azure AI Fundamentals</a> 
-                <ul>
-                  <li>Establishes my foundational knowledge of Azure AI services and solutions.</li> 
-                </ul>
-              </li>
-            </ul>
-          
-        </div>
-      </div>
-      <div class="experience">
-        <div class="number">02</div>
-        <div class="details">
-          <h2><span class="roles">Professional Roles</span></h2>
-          <ul>
-            <li><b>IT Business Owner</b></li>
-            <ul>
-              <li>As the founder of Sky Time LLC, I successfully established and operated a small IT services business.</li>
-                <li>Worked closely with residential clients and small businesses to address their IT needs, troubleshoot issues, and provide tailored solutions.</li>
-                <li>Leveraged my expertise to enhance operational efficiency and ensure seamless technology experiences for clients.</li>
-          </ul>
-          <br>
-            <li><b>Cloud Engineer (MSP Experience)</b></li>
-            <ul>
-              <li>At an MSP (Managed Service Provider), I played a critical role in supporting clients' Amazon Web Services (AWS) environments</li>
-              <li>Despite the intense learning curve, I quickly adapted and became proficient in AWS within a tight timeframe</li>
-              <li>Trained the tier 1 team, sharing my knowledge and empowering them to handle AWS-related challeneges effectively</li>
-            </ul>
-            <br>
-            <li><b>Network Engineer</b></li>
-            <ul>
-              <li>Collaborated with colleagues to develop the tier 2 networking team, collaborating on documentation, processes, and procedures.</li>
-              <li>Managed and configured networks across multiple locations (stores & warehouses), ensuring seamless connectivity and optimal performance.</li>
-            </ul>
-            <br>
-            <li><b>IT Analyst</b></li>
-            <ul>
-              <li>Collaborated with stakeholders at all levels of the business to provide innovative solutions.</li>
-              <li>Focused on automations, process improvements, and training initiatives</li>
-              <li>Bridged the gap between technology implementation and business requirements, driving efficiency and growth.</li>
-            </ul>
-          </ul>
-        </div>
-      </div>
-      <div class="experience">
-        <div class="number">03</div>
-        <div class="details">
-          <h2><span class="projects">Projects</span></h2>
-          <ul>
-            <li><b>Microsoft 365 Migrations</b></li>
-            <ul>
-              <li>Successfully migrated on-premise systems to Microsoft 365.</li>
-              <li>Ensured a seamless transition for usrs, enhancing collaboration and productivity.</li>
-              <li>Addressed challenges related to data migration, security, and user adoption.</li>
-            </ul>
-            <li><b>SharePoint Online Migrations</b></li>
-            <ul>
-              <li>Led the migration of an acquired company's data and workflows to our SharePoint Online environment.</li>
-              <li>Streamlined content management, enabling efficient collaboration across teams.</li>
-              <li>Implemented governance policies and permissions to maintain data integrity.</li>
-            </ul>
-            <li><b>Custom data share tool for Microsoft Teams</b></li>
-            <ul>
-              <li>Developed a bespoke solution to replace an expensive FTP service.</li>
-              <li>Leveraged Microsoft Teams and Power Automate to create temporary, locked-down Teams for secure external data sharing.</li>
-              <li>Enhanced collaboration while ensuring data privacy and compliance.</li>
-            </ul>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="projects">
-    <div class="container">
-        <h1><u>Personal Projects</u></h1>
-        <div class="experience">
-            <div class="number">01</div>
-            <div class="details">
-                <h2><span class="lists">Game Drop</span></h2>
-                <a href="#expanded-logo">
-                    <img id="logo-thumbnail" src="images/gamedrop_logo.png" alt="Game Drop Logo">
-                </a>
-                <a href="#projects" id="expanded-logo">
-                    <img src="images/gamedrop_logo.png" alt="Game Drop Logo" class="expanded-image">
-                </a>
-                <p>The ultimate platform for gamers to effortlessly curate and share adrenaline-pumping gameplay highlights directly to Discord. Extract and showcase your most thrilling 30 second clips with ease, whether you’re a streamer, content creator, or just eager to dazzle your gaming circle. Join the revolution with Game Drop today! 🎮🔥</p>
-                
-                <br>
-                <a href="#expanded-screenshot">
-                    <img id="screenshot-thumbnail" src="images/screenshot.png" alt="Screenshot">
-                </a>
-                <a href="#projects" id="expanded-screenshot">
-                    <img src="images/screenshot.png" alt="Screenshot" class="expanded-image">
-                </a>
-                <p><a href="https://github.com/ahiser24/Game-Drop/releases/latest" target="_blank"><center><u>DOWNLOAD ON GITHUB FOR FREE</u></center></a></p>
+    <main class="container mx-auto mt-8 p-4">
+        <section id="about" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading">About Me</h2>
+            <div class="flex flex-col md:flex-row items-center gap-6">
+                <div class="md:w-1/3">
+                    <img src="images/profile.png" alt="Andrew Hiser" class="rounded-full shadow-md" style="border-radius: 80%; border: 2px solid #a855f7;">
+                </div>
+                <div class="md:w-2/3">
+                    <ul class="text-gray-700 mb-4 bulleted-list">
+                        Hey, I’m Andrew—an IT enthusiast who took an unexpected detour from Criminal Justice to the world of technology.
+                        When I'm not immersed in work, you'll find me: </p>
+                        <p class="text-gray-700 mb-4">
+                            <ul class="text-gray-700 mb-4 **list-disc list-inside**">
+                                <li>Exploring the latest technologies and Artificial Intelligence</li>
+                                <li>Going on adventures with my family</li>
+                                <li>Learning to code</li>
+                                <li>Playing Guitar</li>
+                                <li>Relaxing with some PC Gaming</li>
+                            </ul>
+                            
+                    </p>
+                    <p class="text-gray-700 mb-4">
+                        <b>Core skills:</b> Microsoft 365 Administration, Root Cause Analysis, Project Management, Documentation and Reporting, PowerShell, Python, Azure Cloud, AI, CoPilot, SharePoint Online, Exchange Online.
+                    </p>
+                </div>
             </div>
-        </div>
-        <div class="experience">
-            <div class="number">02</div>
-            <div class="details">
-                <h2><span class="roles">Vuelingo</span></h2>
-                <a href="#expanded-vuelingo-logo">
-                    <img id="vuelingo-logo-thumbnail" src="images/vuelingo_logo.png" alt="Vuelingo Logo">
-                </a>
-                <a href="#projects" id="expanded-vuelingo-logo">
-                    <img src="images/vuelingo_logo.png" alt="Vuelingo Logo" class="expanded-image">
-                </a>
-                <p>(Web version in Progress) Vuelingo is an app specifically designed for translating caption files (.vtt) into any language. It’s particularly useful for Microsoft Stream videos, where captions enhance accessibility and comprehension.</p>
-                
-                <br>
-                <a href="#expanded-vuelingo-screenshot">
-                    <img id="vuelingo-screenshot-thumbnail" src="images/vuelingo_screenshot.png" alt="Vuelingo Screenshot">
-                </a>
-                <a href="#projects" id="expanded-vuelingo-screenshot">
-                    <img src="images/vuelingo_screenshot.png" alt="Vuelingo Screenshot" class="expanded-image">
-                </a>
-                <p><a href="https://github.com/ahiser24/VTT-Translations-local" target="_blank"><center><u>DOWNLOAD ON GITHUB FOR FREE</u></center></a></p>
+        </section>
+
+        <section id="certifications" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading">Certifications</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">AI-900 - Microsoft Certified Azure AI Fundamentals</h3>
+                    <p class="text-gray-700 mb-2">Establishes my foundational knowledge of Azure AI services and solutions.</p>
+                </div>
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">AZ-104 - Microsoft Certified Azure Administrator</h3>
+                    <p class="text-gray-700 mb-2">Demonstrates my expertise in managing Azure resources, security, and governance.</p>
+                </div>
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">AZ-900 - Microsoft Certified Azure Fundamentals</h3>
+                    <p class="text-gray-700 mb-2">Establishes my foundational knowledge of Azure cloud services and solutions.</p>
+                </div>
             </div>
-        </div>
-        <br>
-        <div class="experience">
-            <div class="number">03</div>
-            <div class="details">
-              <h2><span class="roles">Pixel Void</span></h2>
-              <a href="#expanded-pixel-void-logo">
-                <img id="pixel-void-logo-thumbnail" src="images/pixel_void_logo.png" alt="Pixel Void Logo">
-            </a>
-            <a href="#projects" id="expanded-pixel-void-logo">
-                <img src="images/pixel_void_logo.png" alt="Pixel Void Logo" class="expanded-image">
-            </a>
-              <p>Pixel Void is an app designed to remove backgrounds from images. It’s a handy tool for isolating subjects or objects in photos by intelligently detecting and eliminating the background.</p>
-              <br>
-              <a href="#expanded-pixel-void-screenshot">
-                  <img id="pixel-void-screenshot-thumbnail" src="images/pixel_void_screenshot.png" alt="Pixel Void Screenshot">
-              </a>
-              <a href="#projects" id="expanded-pixel-void-screenshot">
-                  <img src="images/pixel_void_screenshot.png" alt="Pixel Void Screenshot" class="expanded-image">
-              </a>
-              <p><a href="https://github.com/ahiser24/Pixel-Void" target="_blank"><center><u>DOWNLOAD ON GITHUB FOR FREE</u></center></a></p>
-          </div>
-        </div>
-        <br>
-        Check out my other scripts and projects on <ins><a href="https://github.com/ahiser24" target="_blank">GitHub</a></ins>.
-    </div>
-    
-</div>
-</section>
+        </section>
 
+        <section id="portfolio" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading">Portfolio</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Microsoft 365 Migrations</h3>
+                    <p class="text-gray-700 mb-2">Successfully migrated organizations from On-Premises to the Microsoft 365 platform.</p>
+                </div>
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">IT Hardware Inventory System</h3>
+                    <p class="text-gray-700 mb-2">Developed an IT Hardware Inventory system for tracking Assets.</p>
+                </div>
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Microsoft Stream Caption Translator</h3>
+                    <p class="text-gray-700 mb-2">Created a Python tool to translate Microsoft Stream video caption files.</p>
+                </div>
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Game Drop</h3>
+                    <p class="text-gray-700 mb-2">A Python application to compress and share gameplay on Discord.</p>
+                </div>
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">SharePoint Online Migrations</h3>
+                    <p class="text-gray-700 mb-2">Led large scale SharePoint Online migrations.</p>
+                </div>
+                <div class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Microsoft Copilot Implementation</h3>
+                    <p class="text-gray-700 mb-2">Led the implementation and adoption of AI and Microsoft Copilot.</p>
+                </div>
+            </div>
+        </section>
 
-  <section id="resume">
-    <h2><u>Resume</u></h2>
-    <p>View my professional profile on <a href="https://www.linkedin.com/in/hiserandrew/" target="_blank">LinkedIn</a>.</p>
-  </section>
-  
+        <section id="career" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading">Career</h2>
+            <div class="space-y-4">
+                <article class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Senior IT Analyst</h3>
+                    <p class="text-gray-700 mb-2">Collaborated with stakeholders at all levels of the business to provide innovative solutions.</p>
+                    <p class="text-gray-700 mb-2">Focused on automations, process improvements, and training initiatives.</p>
+                    <p class="text-gray-700 mb-2">Bridged the gap between technology implementation and business requirements, driving efficiency and growth.</p>
+                </article>
+                <article class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Network Engineer</h3>
+                    <p class="text-gray-700 mb-2">Collaborated with colleagues to develop the tier 2 networking team, collaborating on documentation, processes, and procedures.</p>
+                    <p class="text-gray-700 mb-2">Managed and configured networks across multiple locations (stores & warehouses), ensuring seamless connectivity and optimal performance.</p>
+                </article>
+                <article class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Cloud Engineer (MSP Experience)</h3>
+                    <p class="text-gray-700 mb-2">At an MSP (Managed Service Provider), I played a critical role in supporting clients' Amazon Web Services (AWS) environments.</p>
+                    <p class="text-gray-700 mb-2">Despite the intense learning curve, I quickly adapted and became proficient in AWS within a tight timeframe.</p>
+                    <p class="text-gray-700 mb-2">I was tasked with training the tier 1 team, sharing my knowledge and empowering them to handle AWS-related challenges effectively.</p>
+                </article>
+                <article class="border rounded-md p-4 shadow-sm border-blue-500">
+                    <h3 class="text-lg font-semibold text-gray-700 mb-2">IT Business Owner</h3>
+                    <p class="text-gray-700 mb-2">As the founder of Sky Time LLC, I successfully established and operated a small IT services business.</p>
+                    <p class="text-gray-700 mb-2">I consulted with residential clients and small businesses to address their IT needs, troubleshoot issues, and provide tailored solutions.</p>
+                    <p class="text-gray-700 mb-2">Leveraging my experience, I was able to enhance operational efficiency and ensure seamless technology experiences for clients.</p>
+                </article>
+            </div>
+        </section>
+
+        <section id="Socials" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
+            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading flex justify-center">Socials</h2>
+            <div class="flex justify-center space-x-4 mt-4">
+                <a href="https://www.linkedin.com/in/hiserandrew" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                    <i class="fa-brands fa-linkedin fa-2x"></i>
+                </a>
+                <a href="https://github.com/ahiser24" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                    <i class="fa-brands fa-github fa-2x"></i>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-gray-800 text-white py-4 text-center rounded-md">
+        <p>© 2025 Andrew Hiser. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
 </body>
 </html>
