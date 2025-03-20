@@ -177,6 +177,8 @@ ul {
 }
 .nav-list {
     list-style-type: none;
+    display: flex;
+    align-items: center;
 }
 .bulleted-list {
     list-style-type: disc;
@@ -225,7 +227,17 @@ a[href*="github.com"]:hover .fa.fa-github {
         color: #110f0f; /* Dark gray */
     }
 
+/* Fix for consistent icon vertical alignment */
+.fa-brands {
+    display: inline-flex;
+    vertical-align: middle;
+}
 
+.fa-brands.fa-linkedin, .fa-brands.fa-github {
+    height: 32px; /* Set consistent height */
+    display: flex;
+    align-items: center;
+}
 
 /* Mobile-specific styles */
 @media (max-width: 767px) {
@@ -250,13 +262,68 @@ a[href*="github.com"]:hover .fa.fa-github {
         flex-direction: column;
     }
     .justify-between { /* Added to fix alignment issue on small screens */
-        justify-content: flex-start; /* Aligns items to the start (left in LTR) */
-        flex-wrap: wrap; /* Allows items to wrap to the next line */
+        justify-content: center; /* Centers items horizontally */
+        flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
     }
-    .space-x-4 > * + * {
-        margin-left: 1rem; /* Add horizontal space between items */
+    .space-x-4 {
+        margin-left: 0; /* Remove horizontal space between direct children */
+        display: flex; /* Ensure flexbox is enabled */
+        justify-content: center; /* Re-center the icons */
+        gap: 1rem; /* Use gap for spacing instead of margin */
     }
     .space-y-4 > * + * {
         margin-top: 1rem; /* Add vertical space between items when wrapped */
+    }
+    header nav ul {
+        flex-direction: row; /* Keep the nav horizontal */
+        align-items: center;  /* Align items vertically */
+        justify-content: center;
+        padding-left: 0;
+    }
+    header nav ul li {
+        margin: 0.5rem 0;
+        display: flex;
+        align-items: center;
+        height: 100%;
+    }
+    header nav {
+        margin-right: 0;
+    }
+    .logo {
+        margin-left: 0;
+        text-align: center;
+    }
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+    .nav-list li a {
+        font-size: 0.7rem; /* Adjust font size for smaller screens */
+        padding: 0.2rem 0.5rem;  /* Add padding to the links */
+        white-space: nowrap; /* Prevent text wrapping */
+        display: flex;
+        align-items: center;
+    }
+    .nav-list {
+        display: flex;
+    }
+    header nav {
+        flex-grow: 1;
+        display: flex;
+        justify-content: center;
+    }
+    header ul {
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
+    .social-icons {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .social-icons a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 }
