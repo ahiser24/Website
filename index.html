@@ -9,139 +9,136 @@
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body class="bg-gray-100">
-    <header class="bg-blue-600 text-white py-4 flex justify-between items-center shadow-md sticky top-0 z-10 rounded-md">
-        <div class="logo text-xl font-bold ml-4">Andrew Hiser</div>
-        <nav class="mr-4">
-            <ul class="flex space-x-4 items-center nav-list">
-                <li><a href="#about" class="hover:text-blue-200 no-underline">About Me</a></li>
-                <li><a href="#certifications" class="hover:text-blue-200 no-underline">Certifications</a></li>
-                <li><a href="#portfolio" class="hover:text-blue-200 no-underline">Portfolio</a></li>
-                <li><a href="#career" class="hover:text-blue-200 no-underline">Career</a></li>
-                <li><a href="#Socials" class="hover:text-blue-200 no-underline">Socials</a></li>
+<body class="body">
+    <header class="header">
+        <div class="logo">Andrew Hiser</div>
+        <nav class="nav">
+            <ul class="nav-list">
+                <li><a href="#about" class="nav-link">About Me</a></li>
+                <li><a href="#certifications" class="nav-link">Certifications</a></li>
+                <li><a href="#portfolio" class="nav-link">Portfolio</a></li>
+                <li><a href="#career" class="nav-link">Career</a></li>
+                <li><a href="#Socials" class="nav-link">Socials</a></li>
             </ul>
         </nav>
     </header>
 
-    <main class="container mx-auto mt-8 p-4">
-        <section id="about" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
-            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading">About Me</h2>
-            <div class="flex flex-col md:flex-row items-center gap-6">
-                <div class="md:w-1/3">
-                    <img src="images/profile.png" alt="Andrew Hiser" class="rounded-full shadow-md" style="border-radius: 80%; border: 2px solid #a855f7;">
+    <main class="main-content">
+        <section id="about" class="section">
+            <h2 class="section-heading">About Me</h2>
+            <div class="about-content">
+                <div class="about-image">
+                    <img src="images/profile.png" alt="Andrew Hiser" class="profile-image">
                 </div>
-                <div class="md:w-2/3">
-                    <ul class="text-gray-700 mb-4 bulleted-list">
+                <div class="about-text">
+                    <ul class="bulleted-list">
                         Hey, I'm Andrew—an IT enthusiast who took an unexpected detour from Criminal Justice to the world of technology.
                         When I'm not immersed in work, you'll find me: </p>
-                        <p class="text-gray-700 mb-4">
-                            <ul class="text-gray-700 mb-4 **list-disc list-inside**">
-                                <li>Exploring the latest technologies and Artificial Intelligence</li>
-                                <li>Going on adventures with my family</li>
-                                <li>Learning to code</li>
-                                <li>Playing Guitar</li>
-                                <li>Relaxing with some PC Gaming</li>
-                            </ul>
-                            
-                    </p>
-                    <p class="text-gray-700 mb-4">
+                        <ul class="bulleted-list inner-list">
+                            <li>Exploring the latest technologies and Artificial Intelligence</li>
+                            <li>Going on adventures with my family</li>
+                            <li>Learning to code</li>
+                            <li>Playing Guitar</li>
+                            <li>Relaxing with some PC Gaming</li>
+                        </ul>
+                    <p class="paragraph">
                         <b>Core skills:</b> Microsoft 365 Administration, Root Cause Analysis, Project Management, Documentation and Reporting, PowerShell, Python, Azure Cloud, AI, CoPilot, SharePoint Online, Exchange Online.
                     </p>
                 </div>
             </div>
         </section>
 
-        <section id="certifications" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
-            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading">Certifications</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">AI-900 - Microsoft Certified Azure AI Fundamentals</h3>
-                    <p class="text-gray-700 mb-2">Establishes my foundational knowledge of Azure AI services and solutions.</p>
+        <section id="certifications" class="section">
+            <h2 class="section-heading">Certifications</h2>
+            <div class="certifications-grid">
+                <div class="certification-card">
+                    <h3 class="card-heading">AI-900 - Microsoft Certified Azure AI Fundamentals</h3>
+                    <p class="card-text">Establishes my foundational knowledge of Azure AI services and solutions.</p>
                 </div>
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">AZ-104 - Microsoft Certified Azure Administrator</h3>
-                    <p class="text-gray-700 mb-2">Demonstrates my expertise in managing Azure resources, security, and governance.</p>
+                <div class="certification-card">
+                    <h3 class="card-heading">AZ-104 - Microsoft Certified Azure Administrator</h3>
+                    <p class="card-text">Demonstrates my expertise in managing Azure resources, security, and governance.</p>
                 </div>
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">AZ-900 - Microsoft Certified Azure Fundamentals</h3>
-                    <p class="text-gray-700 mb-2">Establishes my foundational knowledge of Azure cloud services and solutions.</p>
-                </div>
-            </div>
-        </section>
-
-        <section id="portfolio" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
-            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading">Portfolio</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Microsoft 365 Migrations</h3>
-                    <p class="text-gray-700 mb-2">Successfully migrated organizations from On-Premises to the Microsoft 365 platform.</p>
-                </div>
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">IT Hardware Inventory System</h3>
-                    <p class="text-gray-700 mb-2">Developed an IT Hardware Inventory system for tracking Assets.</p>
-                </div>
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Microsoft Stream Caption Translator</h3>
-                    <p class="text-gray-700 mb-2">Created a Python tool to translate Microsoft Stream video caption files.</p>
-                </div>
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Game Drop</h3>
-                    <p class="text-gray-700 mb-2">A Python application to compress and share gameplay on Discord.</p>
-                </div>
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">SharePoint Online Migrations</h3>
-                    <p class="text-gray-700 mb-2">Led large scale SharePoint Online migrations.</p>
-                </div>
-                <div class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Microsoft Copilot Implementation</h3>
-                    <p class="text-gray-700 mb-2">Led the implementation and adoption of AI and Microsoft Copilot.</p>
+                <div class="certification-card">
+                    <h3 class="card-heading">AZ-900 - Microsoft Certified Azure Fundamentals</h3>
+                    <p class="card-text">Establishes my foundational knowledge of Azure cloud services and solutions.</p>
                 </div>
             </div>
         </section>
 
-        <section id="career" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
-            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading">Career</h2>
-            <div class="space-y-4">
-                <article class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Senior IT Analyst</h3>
-                    <p class="text-gray-700 mb-2">Collaborated with stakeholders at all levels of the business to provide innovative solutions.</p>
-                    <p class="text-gray-700 mb-2">Focused on automations, process improvements, and training initiatives.</p>
-                    <p class="text-gray-700 mb-2">Bridged the gap between technology implementation and business requirements, driving efficiency and growth.</p>
+        <section id="portfolio" class="section">
+            <h2 class="section-heading">Portfolio</h2>
+            <div class="portfolio-grid">
+                <div class="portfolio-card">
+                    <h3 class="card-heading">Microsoft 365 Migrations</h3>
+                    <p class="card-text">Successfully migrated organizations from On-Premises to the Microsoft 365 platform.</p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">IT Hardware Inventory System</h3>
+                    <p class="card-text">Developed an IT Hardware Inventory system for tracking Assets.</p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">Microsoft Stream Caption Translator</h3>
+                    <p class="card-text">Created a Python tool to translate Microsoft Stream video caption files.</p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">Game Drop</h3>
+                    <p class="card-text">A Python application to compress and share gameplay on Discord.</p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">SharePoint Online Migrations</h3>
+                    <p class="card-text">Led large scale SharePoint Online migrations.</p>
+                </div>
+                 <div class="portfolio-card">
+                    <h3 class="card-heading">Microsoft Copilot Implementation</h3>
+                    <p class="card-text">Led the implementation and adoption of AI and Microsoft Copilot.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="career" class="section">
+            <h2 class="section-heading">Career</h2>
+            <div class="career-list">
+                <article class="career-card">
+                    <h3 class="job-title">Senior IT Analyst</h3>
+                    <p class="job-description">Collaborated with stakeholders at all levels of the business to provide innovative solutions.</p>
+                    <p class="job-description">Focused on automations, process improvements, and training initiatives.</p>
+                    <p class="job-description">Bridged the gap between technology implementation and business requirements, driving efficiency and growth.</p>
                 </article>
-                <article class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Network Engineer</h3>
-                    <p class="text-gray-700 mb-2">Collaborated with colleagues to develop the tier 2 networking team, collaborating on documentation, processes, and procedures.</p>
-                    <p class="text-gray-700 mb-2">Managed and configured networks across multiple locations (stores & warehouses), ensuring seamless connectivity and optimal performance.</p>
+                <article class="career-card">
+                    <h3 class="job-title">Network Engineer</h3>
+                    <p class="job-description">Collaborated with colleagues to develop the tier 2 networking team, collaborating on documentation, processes, and procedures.</p>
+                    <p class="job-description">Managed and configured networks across multiple locations (stores & warehouses), ensuring seamless connectivity and optimal performance.</p>
                 </article>
-                <article class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">Cloud Engineer (MSP Experience)</h3>
-                    <p class="text-gray-700 mb-2">At an MSP (Managed Service Provider), I played a critical role in supporting clients' Amazon Web Services (AWS) environments.</p>
-                    <p class="text-gray-700 mb-2">Despite the intense learning curve, I quickly adapted and became proficient in AWS within a tight timeframe.</p>
-                    <p class="text-gray-700 mb-2">I was tasked with training the tier 1 team, sharing my knowledge and empowering them to handle AWS-related challenges effectively.</p>
+                <article class="career-card">
+                    <h3 class="job-title">Cloud Engineer (MSP Experience)</h3>
+                    <p class="job-description">At an MSP (Managed Service Provider), I played a critical role in supporting clients' Amazon Web Services (AWS) environments.</p>
+                    <p class="job-description">Despite the intense learning curve, I quickly adapted and became proficient in AWS within a tight timeframe.</p>
+                    <p class="job-description">I was tasked with training the tier 1 team, sharing my knowledge and empowering them to handle AWS-related challenges effectively.</p>
                 </article>
-                <article class="border rounded-md p-4 shadow-sm border-blue-500">
-                    <h3 class="text-lg font-semibold text-gray-700 mb-2">IT Business Owner</h3>
-                    <p class="text-gray-700 mb-2">As the founder of Sky Time LLC, I successfully established and operated a small IT services business.</p>
-                    <p class="text-gray-700 mb-2">I consulted with residential clients and small businesses to address their IT needs, troubleshoot issues, and provide tailored solutions.</p>
-                    <p class="text-gray-700 mb-2">Leveraging my experience, I was able to enhance operational efficiency and ensure seamless technology experiences for clients.</p>
+                <article class="career-card">
+                    <h3 class="job-title">IT Business Owner</h3>
+                    <p class="job-description">As the founder of Sky Time LLC, I successfully established and operated a small IT services business.</p>
+                    <p class="job-description">I consulted with residential clients and small businesses to address their IT needs, troubleshoot issues, and provide tailored solutions.</p>
+                    <p class="job-description">Leveraging my experience, I was able to enhance operational efficiency and ensure seamless technology experiences for clients.</p>
                 </article>
             </div>
         </section>
 
-        <section id="Socials" class="bg-gray-100 rounded-md shadow-md p-6 mb-6">
-            <h2 class="text-2xl font-semibold text-blue-700 mb-4 animated-heading flex justify-center">Socials</h2>
-            <div class="flex justify-center social-icons space-x-4 mt-4">
+        <section id="Socials" class="section">
+            <h2 class="section-heading socials-heading">Socials</h2>
+            <div class="social-icons">
                 <a href="https://www.linkedin.com/in/hiserandrew" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-                    <i class="fa-brands fa-linkedin fa-2x"></i>
+                    <i class="fab fa-linkedin fa-2x"></i>
                 </a>
                 <a href="https://github.com/ahiser24" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-                    <i class="fa-brands fa-github fa-2x"></i>
+                    <i class="fab fa-github fa-2x"></i>
                 </a>
             </div>
         </section>
     </main>
 
-    <footer class="bg-gray-800 text-white py-4 text-center rounded-md">
+    <footer class="footer">
         <p>© 2025 Andrew Hiser. All rights reserved.</p>
     </footer>
 

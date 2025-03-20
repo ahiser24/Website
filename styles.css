@@ -1,282 +1,271 @@
 body {
     font-family: 'Inter', sans-serif;
-    background-color: #111827; /* Dark background */
-    color: #f9fafb; /* Light text */
+    background-color: #111827;
+    color: #f9fafb;
 }
-.bg-gray-100 {
-    background-color: #1F2937; /* Darker container background */
-}
-.text-gray-700 {
-    color: #d1d5db; /* Lighter gray text */
-}
-.bg-blue-600 {
-    background-color: #6366f1; /* Vibrant purple */
-}
-.hover\:bg-blue-700:hover {
-    background-color: #4338ca; /* Darker purple hover */
-}
-.text-blue-700 {
-    color: #a855f7; /* Lighter purple */
-}
-.border-blue-500 {
-    border-color: #a855f7; /* Purple border */
-}
-.text-blue-500 {
-    color: #a855f7; /* Lighter purple */
-}
-.hover\:text-blue-700:hover {
-    color: #6b7280; /* Gray hover for links */
-}
-.shadow-md {
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2); /* More pronounced shadow */
-}
-.rounded-md {
+
+.section {
+    background-color: #1F2937;
     border-radius: 0.5rem;
-}
-.p-4 {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
     padding: 1rem;
-}
-.mb-6 {
     margin-bottom: 1.5rem;
 }
-.text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
+
+.paragraph {
+    color: #d1d5db;
+    margin-bottom: 1rem;
 }
-.font-semibold {
-    font-weight: 600;
-}
-.ml-4 {
-    margin-left: 1rem;
-}
-.mr-4 {
-    margin-right: 1rem;
-}
-.space-x-4 > * + * {
-    margin-left: 1rem;
-}
-.flex {
+
+.header {
+    background-color: #6366f1;
+    color: #fff;
+    padding: 1rem 0;
     display: flex;
-}
-.justify-between {
     justify-content: space-between;
-}
-.items-center {
     align-items: center;
-}
-.sticky {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
     position: sticky;
     top: 0;
-}
-.z-10 {
     z-index: 10;
-}
-.container {
-    max-width: 80rem;
-    margin-left: auto;
-    margin-right: auto;
-}
-.mt-8 {
-    margin-top: 2rem;
-}
-.flex-col {
-    flex-direction: column;
-}
-.md\:flex-row {
-    @media (min-width: 768px) {
-        flex-direction: row;
-    }
-}
-.gap-6 {
-    gap: 1.5rem;
-}
-.md\:w-1\/3 {
-    @media (min-width: 768px) {
-        width: 33.33333%;
-    }
-}
-.rounded-full {
-    border-radius: 9999px;
-}
-.shadow-md {
-     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
-}
-.md\:w-2\/3 {
-    @media (min-width: 768px) {
-        width: 66.66667%;
-    }
-}
-.grid {
-    display: grid;
-}
-.grid-cols-1 {
-    grid-template-columns: repeat(1, minmax(0, 1fr));
-}
-.md\:grid-cols-2 {
-    @media (min-width: 768px) {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-}
-.lg\:grid-cols-3 {
-    @media (min-width: 1024px) {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-    }
-}
-.space-y-4 > * + * {
-    margin-top: 1rem;
-}
-.text-lg {
-    font-size: 1.125rem;
-    line-height: 1.75rem;
-}
-.bg-gray-700 {
-    background-color: #374151; /* Dark gray */
-}
-.hover\:bg-gray-800:hover {
-    background-color: #1f2937; /* Even darker gray */
-}
-.text-white {
-    color: #fff;
-}
-.font-bold {
-    font-weight: 700;
-}
-.focus\:outline-none:focus {
-    outline: 2px solid transparent;
-    outline-offset: 2px;
-}
-.focus\:shadow-outline:focus {
-    box-shadow: 0 0 0 3px rgba(168, 85, 247, 0.5); /* Purple focus shadow */
-}
-.bg-blue-500 {
-    background-color: #3b82f6;
-}
-.hover\:bg-blue-700:hover {
-    background-color: #2563eb;
-}
-.py-4 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
-.text-center {
-    text-align: center;
-}
-.\!no-underline {
-    text-decoration: none !important;
+    border-radius: 0.5rem;
 }
 
-header nav ul li {
-    margin-top: 15px; /* Add spacing between links */
-    margin-bottom: 15px;
+.logo {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: 1rem;
 }
 
-
-ul {
-    list-style-type: disc; /* Add disc (circle) bullets */
-    padding-left: 1.5rem; /* Add some left padding for spacing */
+.nav {
+    margin-right: 1rem;
 }
+
 .nav-list {
     list-style-type: none;
     display: flex;
-    align-items: center;
-}
-.bulleted-list {
-    list-style-type: disc;
-    list-style-position: inside; /* Align bullets inside list items */
-}
-ul li {
-    margin-bottom: 0.5rem; /* Add spacing between list items */
+    margin-left: 1rem;
 }
 
-/* Style for the animated text */
-.animated-heading {
-    animation: color-change 10s infinite alternate; /* Apply the animation */
+.nav-list li {
+    margin-left: 1rem;
 }
+
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #e0e7ff;
+}
+
+.main-content {
+    max-width: 80rem;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.section-heading {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: 600;
+    color: #a855f7;
+    margin-bottom: 1rem;
+    animation: color-change 10s infinite alternate;
+}
+
 @keyframes color-change {
-    0% { color: #a855f7; }       /* Start color: Purple */
-    25% { color: #f43f5e; }    /* Red */
-    50% { color: #3b82f6; }    /* Blue */
-    75% { color: #10b981; }   /* Green */
-    100% { color: #a855f7; }      /* Back to Purple */
+    0% { color: #a855f7; }
+    25% { color: #f43f5e; }
+    50% { color: #3b82f6; }
+    75% { color: #10b981; }
+    100% { color: #a855f7; }
 }
 
-/*Socials */
-.fab.fa-linkedin {
-    font-size: 2em; /* Increase size */
-    color: #0a66c2; /* LinkedIn blue */
-}
-
-.fa.fa-github {
-    font-size: 2em;
-    color: #333; /* Dark gray */
-}
-
-a[href*="linkedin.com"]:hover .fab.fa-linkedin {
-    color: #004182; /* Darker LinkedIn blue on hover */
-}
-
-a[href*="github.com"]:hover .fa.fa-github {
-    color: #6e5494; /* GitHub purple on hover */
-}
-
-    .fa-brands.fa-linkedin {
-        color: #0a66c2; /* LinkedIn blue */
-    }
-
-    .fa-brands.fa-github {
-        color: #110f0f; /* Dark gray */
-    }
-
-/* Fix for consistent icon vertical alignment */
-.fa-brands {
-    display: inline-flex;
-    vertical-align: middle;
-}
-
-.fa-brands.fa-linkedin, .fa-brands.fa-github {
-    height: 32px; /* Set consistent height */
+.about-content {
     display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
     align-items: center;
 }
 
-/* Mobile-specific styles */
+@media (min-width: 768px) {
+    .about-content {
+        flex-direction: row;
+    }
+}
+
+.about-image {
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .about-image {
+        width: 33.33333%;
+    }
+}
+
+.profile-image {
+    border-radius: 9999px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+    border: 2px solid #a855f7;
+    width: 80%;
+}
+
+.about-text {
+     width: 100%;
+}
+@media (min-width: 768px) {
+    .about-text {
+        width: 66.66667%;
+    }
+}
+
+.bulleted-list {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  list-style-position: inside;
+}
+
+.bulleted-list.inner-list {
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.bulleted-list li {
+    margin-bottom: 0.5rem;
+}
+
+.certifications-grid, .portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .certifications-grid, .portfolio-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: 1024px) {
+    .certifications-grid, .portfolio-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+.certification-card, .portfolio-card, .career-card {
+    border: 1px solid #a855f7;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-heading {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-weight: 600;
+    color: #d1d5db;
+    margin-bottom: 0.5rem;
+}
+
+.card-text, .job-description {
+    color: #d1d5db;
+}
+
+.career-list {
+    margin-top: 1rem;
+}
+
+.job-title {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    font-weight: 600;
+    color: #d1d5db;
+    margin-bottom: 0.5rem;
+}
+
+.footer {
+    background-color: #374151;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    border-radius: 0.5rem;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.socials-heading{
+    display: flex;
+    justify-content: center;
+}
+
+.fa-linkedin {
+    font-size: 2em;
+    color: #0a66c2;
+}
+
+.fa-github {
+    font-size: 2em;
+    color: #110f0f;
+}
+
+.fa-linkedin:hover {
+    color: #004182;
+}
+
+.fa-github:hover {
+    color: #6e5494;
+}
+
 @media (max-width: 767px) {
-    .container {
+    .main-content {
         padding-left: 1rem;
         padding-right: 1rem;
     }
-    .md\:flex-row {
+
+    .about-content {
         flex-direction: column;
     }
-    .md\:w-1\/3, .md\:w-2\/3 {
+
+    .about-image, .about-text {
         width: 100%;
     }
-    .text-center {
+
+    .header {
+        flex-direction: column;
         text-align: center;
     }
-    .space-x-4 > * + * {
-        margin-left: 0;
+
+    .nav {
+        margin-right: 0;
         margin-top: 1rem;
     }
-    .flex-col {
+
+    .nav-list {
         flex-direction: column;
+        align-items: center;
+        padding-left: 0;
     }
-    .justify-between { /* Added to fix alignment issue on small screens */
-        justify-content: center; /* Centers items horizontally */
-        flex-wrap: wrap; /* Allows items to wrap to the next line if needed */
+
+    .nav-list li {
+        margin: 0.5rem 0;
     }
-    .space-x-4 {
-        margin-left: 0; /* Remove horizontal space between direct children */
-        display: flex; /* Ensure flexbox is enabled */
-        justify-content: center; /* Re-center the icons */
-        gap: 1rem; /* Use gap for spacing instead of margin */
+    .logo{
+        margin-left: 0;
     }
-    .space-y-4 > * + * {
-        margin-top: 1rem; /* Add vertical space between items when wrapped */
+    .social-icons {
+        justify-content: center;
     }
     header nav ul {
-        flex-direction: row; /* Keep the nav horizontal */
-        align-items: center;  /* Align items vertically */
+        flex-direction: row;
+        align-items: center;
         justify-content: center;
         padding-left: 0;
     }
@@ -289,41 +278,9 @@ a[href*="github.com"]:hover .fa.fa-github {
     header nav {
         margin-right: 0;
     }
-    .logo {
-        margin-left: 0;
-        text-align: center;
-    }
-    header {
-        flex-direction: column;
-        text-align: center;
-    }
-    .nav-list li a {
-        font-size: 0.7rem; /* Adjust font size for smaller screens */
-        padding: 0.2rem 0.5rem;  /* Add padding to the links */
-        white-space: nowrap; /* Prevent text wrapping */
-        display: flex;
-        align-items: center;
-    }
-    .nav-list {
-        display: flex;
-    }
-    header nav {
-        flex-grow: 1;
-        display: flex;
-        justify-content: center;
-    }
-    header ul {
-        justify-content: center;
-        flex-wrap: nowrap;
-    }
-    .social-icons {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    .social-icons a {
-        display: flex;
-        align-items: center;
-        justify-content: center;
+    header nav ul li a{
+        font-size: 0.7rem;
+        padding: 0.2rem 0.5rem;
+        white-space: nowrap;
     }
 }
