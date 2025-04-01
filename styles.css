@@ -277,7 +277,7 @@ body {
     }
 
     .logo {
-        font-size: 1rem;
+        font-size: 0.875rem;
         margin-left: 0.25rem;
     }
 
@@ -298,25 +298,34 @@ body {
         margin: 0;
     }
 
-    .social-icons {
-        justify-content: center;
-    }
-
-    header nav ul li a {
+    .nav-list li a {
         font-size: 0.75rem;
         padding: 0.25rem;
         white-space: nowrap;
     }
+
+    .social-icons {
+        justify-content: center;
+    }
 }
 
-@media (max-width: 360px) {
-    .logo {
-        font-size: 0.875rem;
+@media (max-width: 480px) {
+    .nav-list {
+        flex-wrap: wrap;
+        justify-content: center;
     }
 
-    header nav ul li a {
+    .nav-list li {
+        margin: 0.125rem;
+    }
+
+    .nav-list li a {
         font-size: 0.7rem;
         padding: 0.2rem;
+    }
+
+    .logo {
+        font-size: 0.8rem;
     }
 }
 
