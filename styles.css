@@ -98,6 +98,17 @@ body {
 
 .about-image {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-video {
+    border-radius: 9999px; /* Makes the video circular */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+    border: 2px solid #a855f7; /* Matches the original border style */
+    width: 80%; /* Adjusts the size to match the original image */
+    object-fit: cover; /* Ensures the video scales properly */
 }
 
 @media (min-width: 768px) {
