@@ -480,3 +480,13 @@ body {
     color: #a855f7;
     font-weight: 600;
 }
+
+/* Center and shrink the Game Drop image */
+.game-drop-image {
+    display: block; /* Ensures the image is treated as a block element */
+    margin: 0 auto; /* Centers the image horizontally */
+    max-width: 80%; /* Shrinks the image to fit within 80% of its container */
+    height: auto; /* Maintains the aspect ratio */
+    border-radius: 0.5rem; /* Optional: Adds rounded corners */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow */
+}
