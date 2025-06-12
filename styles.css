@@ -490,3 +490,18 @@ body {
     border-radius: 0.5rem; /* Optional: Adds rounded corners */
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow */
 }
+
+.video-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
