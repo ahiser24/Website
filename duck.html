@@ -407,7 +407,7 @@
 
             const duckElement = createDuckElement(name, ducks.length);
             // Assign a random base speed for each duck for more variability
-            const baseSpeed = 0.3 + Math.random() * 0.2; // 0.3 to 0.5 px per frame (slower)
+            const baseSpeed = 0.3 + Math.random() * 0.6; // 0.3 to 0.5 px per frame (slower)
             const duckObject = {
                 name: name,
                 element: duckElement,
@@ -455,15 +455,19 @@
             
             if (liveDucks.length === 0) return;
             
-            // Ensure enough space for duck and label
-            const totalDuckHeight = duckHeight + labelHeight + margin;
+            // Evenly distribute ducks vertically, no overlap
+            const totalDuckHeight = duckHeight + labelHeight;
             const availableHeight = trackHeight - (margin * 2);
-            const spacing = Math.max(margin, (availableHeight - (liveDucks.length * totalDuckHeight)) / (liveDucks.length + 1));
+            const maxDucks = Math.max(1, liveDucks.length);
+            const spacing = (availableHeight - totalDuckHeight) / (maxDucks - 1 || 1);
 
             liveDucks.forEach((duck, index) => {
-                duck.y = spacing * (index + 1) + (totalDuckHeight * index);
-                // Ensure duck doesn't go off screen
-                duck.y = Math.max(margin, Math.min(duck.y, trackHeight - duckHeight - labelHeight - margin));
+                // If only one duck, center it
+                if (maxDucks === 1) {
+                    duck.y = (trackHeight - totalDuckHeight) / 2;
+                } else {
+                    duck.y = margin + index * spacing;
+                }
                 duck.element.style.top = `${duck.y}px`;
             });
         }
