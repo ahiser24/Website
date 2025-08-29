@@ -189,6 +189,12 @@
             </div>
         </div>
 
+        <!-- Live Duck Name List -->
+        <div id="duck-name-list-container" class="my-4">
+            <div class="text-xs sm:text-sm text-gray-700 font-semibold mb-1">Duck List:</div>
+            <ul id="duck-name-list" class="flex flex-wrap gap-2"></ul>
+        </div>
+
     <div id="race-container" class="relative w-full rounded-lg shadow-inner">
             <div id="race-track" class="w-full h-full rounded-lg"></div>
             <div id="finish-line"></div>
@@ -358,10 +364,11 @@
         }
 
         // Game State
-        let ducks = [];
-        let raceInProgress = false;
-        let animationFrameId;
-        let shark = null;
+    let ducks = [];
+    let duckOrder = [];
+    let raceInProgress = false;
+    let animationFrameId;
+    let shark = null;
 
         const DUCK_IMAGES = [
             'images/1.png', 'images/2.png',
@@ -420,6 +427,7 @@
             };
 
             ducks.push(duckObject);
+            duckOrder.push(duckObject);
             raceTrack.appendChild(duckElement);
             repositionDucks();
             updateItemList();
@@ -432,8 +440,41 @@
             } catch(e){}
         }
 
+
+        // --- Duck Name List Logic ---
+        // We want to only update the duck name list (with strikethroughs) after a shark attack.
+        // During setup, show all names with no strikethroughs.
+        // During race, do not update the list until a duck is eaten.
+        // After a duck is eaten, update the list to cross out the eaten duck(s).
+
+        // Render the live duck name list, optionally crossing out eaten ducks
+        function renderDuckNameList({showEaten = false} = {}) {
+            const list = document.getElementById('duck-name-list');
+            if (!list) return;
+            list.innerHTML = '';
+            if (duckOrder.length === 0) {
+                const li = document.createElement('li');
+                li.textContent = 'No ducks yet!';
+                li.className = 'text-gray-400';
+                list.appendChild(li);
+                return;
+            }
+            duckOrder.forEach(duck => {
+                const li = document.createElement('li');
+                li.className = 'px-2 py-1 rounded bg-yellow-100 text-gray-800 font-medium';
+                if (showEaten && duck.isEaten) {
+                    li.className += ' line-through text-gray-400 bg-gray-100';
+                }
+                li.textContent = duck.name;
+                list.appendChild(li);
+            });
+        }
+
+        // Update the simple contenders list (legacy)
         function updateItemList() {
             itemList.textContent = ducks.length === 0 ? 'None yet!' : ducks.map(d => d.name).join(', ');
+            // During setup, always show all names, no strikethroughs
+            renderDuckNameList({showEaten: false});
         }
 
         function repositionDucks() {
@@ -499,18 +540,18 @@
         function handleShark() {
             if (!shark) return;
 
-        // Shark continues moving left unless it's in the middle of the splash animation
-        if (shark.state !== 'splashing') {
-            // Make shark speed responsive to screen size
-            const trackWidth = raceTrack.clientWidth;
-            const baseSpeed = Math.max(0.8, trackWidth * 0.002); // Responsive speed
-            shark.x -= baseSpeed;
-        }
+            // Shark continues moving left unless it's in the middle of the splash animation
+            if (shark.state !== 'splashing') {
+                // Make shark speed responsive to screen size
+                const trackWidth = raceTrack.clientWidth;
+                const baseSpeed = Math.max(0.8, trackWidth * 0.0002); // Responsive speed
+                shark.x -= baseSpeed;
+            }
 
             // Home in on target duck's Y position
             if (shark.state === 'swimming' || shark.state === 'attacking') {
-                 const yDiff = shark.target.y - shark.y;
-                 shark.y += yDiff * 0.05;
+                const yDiff = shark.target.y - shark.y;
+                shark.y += yDiff * 0.05;
             }
 
             shark.element.style.left = `${shark.x}px`;
@@ -549,6 +590,8 @@
                     shark.element.classList.add('flipping'); // Start the thrashing animation
                     // Play splash sound
                     try { audioSplash.currentTime = 0; audioSplash.play(); } catch(e){}
+                    // --- Update the duck name list to cross out the eaten duck (after shark attack) ---
+                    renderDuckNameList({showEaten: true});
                     // 3. Revert to swim phase after splash animation
                     setTimeout(() => {
                         if (shark) {
@@ -559,7 +602,7 @@
                     }, 1800); // Animation is 0.6s * 3 = 1.8s
                 }
             }
-            
+
             // 4. Swim off-screen
             if (shark.x < -100 && shark.state !== 'splashing') {
                 shark.element.remove();
@@ -584,6 +627,8 @@
                 const j = Math.floor(Math.random() * (i + 1));
                 [ducks[i], ducks[j]] = [ducks[j], ducks[i]];
             }
+
+
 
             ducks.forEach(duck => {
                 if (duck.isEaten) return;
@@ -628,6 +673,7 @@
                     duck.element.style.transform = '';
                 }
             });
+            // Do NOT update the duck name list here; only update after shark attack or on add/reset/clear
 
             handleShark();
 
@@ -765,6 +811,8 @@
                 duck.element.style.display = '';
             });
             repositionDucks();
+            // Always show all names, no strikethroughs after reset
+            renderDuckNameList({showEaten: false});
         }
 
         // Clear all ducks and reset everything (including UI)
@@ -778,7 +826,10 @@
             shark = null;
             ducks.forEach(duck => duck.element.remove());
             ducks = [];
+            duckOrder = [];
             updateItemList();
+            // Always show all names, no strikethroughs after clear (list will be empty)
+            renderDuckNameList({showEaten: false});
             startRaceBtn.classList.remove('hidden');
             resetBtn.classList.add('hidden');
             winnerModal.classList.add('hidden');
