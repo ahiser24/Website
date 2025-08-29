@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duck, Duck, Go!</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            touch-action: manipulation;
+        }
+            /* Custom logo size for easy control */
+            .logo-size {
+                width: auto;
+                height: 320px;
+                max-width: 100%;
+            }
+        .font-fredoka {
+            font-family: 'Fredoka One', cursive;
+        }
+        #race-track {
+            background: linear-gradient(to bottom, #87CEEB, #4682B4);
+            overflow: hidden;
+            position: relative;
+        }
+        #race-container {
+            min-height: 300px;
+            height: clamp(300px, 60vh, 80vh);
+        }
+        #finish-line {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: clamp(20px, 3vw, 30px);
+            background-image: repeating-linear-gradient(
+                45deg,
+                #000,
+                #000 10px,
+                #fff 10px,
+                #fff 20px
+            );
+            box-shadow: -5px 0 15px rgba(0,0,0,0.3);
+            z-index: 1;
+        }
+        .duck-container {
+            position: absolute;
+            width: clamp(60px, 8vw, 100px);
+            height: clamp(60px, 8vw, 100px);
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            transition: top 0.5s ease-in-out, transform 0.3s ease-in-out;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2;
+        }
+        .shark-container {
+            position: absolute;
+            width: clamp(70px, 10vw, 120px);
+            height: clamp(70px, 10vw, 120px);
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            transition: top 0.8s ease-in-out;
+            z-index: 2;
+        }
+        .duck-label {
+            font-size: clamp(9px, 1.5vw, 11px);
+            font-weight: bold;
+            color: white;
+            background-color: rgba(0, 0, 0, 0.5);
+            padding: 2px 4px;
+            border-radius: 4px;
+            text-align: center;
+            user-select: none;
+            position: absolute;
+            bottom: -18px;
+        }
+        /* NEW: CSS animation for the shark's splash thrash */
+        @keyframes flip-animation {
+            0%, 100% { transform: scaleX(-1) rotate(0); }
+            33% { transform: scaleX(1) rotate(8deg); }
+            66% { transform: scaleX(-1) rotate(-8deg); }
+        }
+        .flipping {
+            animation: flip-animation 0.6s linear 3; /* Run animation 3 times */
+        }
+        .btn {
+            @apply py-2 px-4 rounded-lg shadow-md font-semibold text-white transition-all duration-200;
+        }
+        .btn-add {
+            @apply bg-blue-500 hover:bg-blue-600 active:translate-y-px;
+        }
+        .btn-start {
+            @apply bg-green-500 hover:bg-green-600 active:translate-y-px;
+        }
+        .btn-reset {
+             @apply bg-red-500 hover:bg-red-600 active:translate-y-px;
+        }
+
+        @media (max-width: 767px) {
+            .header-logo img { width: 64px; height: 64px; }
+            
+            /* Mobile-specific adjustments */
+            .duck-container {
+                width: clamp(50px, 12vw, 80px) !important;
+                height: clamp(50px, 12vw, 80px) !important;
+            }
+            .shark-container {
+                width: clamp(60px, 14vw, 90px) !important;
+                height: clamp(60px, 14vw, 90px) !important;
+            }
+            #race-container {
+                min-height: 250px;
+                height: clamp(250px, 50vh, 60vh);
+            }
+        }
+
+        @media (max-width: 480px) {
+            /* Extra small mobile devices */
+            .duck-container {
+                width: clamp(40px, 15vw, 70px) !important;
+                height: clamp(40px, 15vw, 70px) !important;
+            }
+            .shark-container {
+                width: clamp(50px, 17vw, 80px) !important;
+                height: clamp(50px, 17vw, 80px) !important;
+            }
+            #race-container {
+                min-height: 200px;
+                height: clamp(200px, 45vh, 55vh);
+            }
+        }
+
+        .header-logo {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
+
+    <!-- Intro Modal -->
+    <div id="intro-modal" class="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center z-50 p-4">
+        <div class="bg-white rounded-2xl p-8 sm:p-16 text-center shadow-2xl w-full max-w-2xl mx-auto">
+            <div class="flex justify-center items-center mb-8">
+                <img src="images/ducklogo.png" alt="Duck Logo" class="w-48 h-48 sm:w-64 sm:h-64 lg:w-80 lg:h-80">
+            </div>
+            <h2 class="text-3xl sm:text-5xl font-fredoka text-gray-700 mb-8">Welcome to Duck, Duck, Go!</h2>
+            <div class="flex justify-center items-center gap-4 mb-8 sm:mb-10">
+                <button id="audio-toggle-btn" aria-label="Toggle audio" class="text-2xl sm:text-4xl focus:outline-none">
+                    <span id="audio-icon">&#127925;</span>
+                </button>
+            </div>
+            <button id="intro-start-btn" class="btn btn-start text-xl sm:text-2xl w-full py-4">START</button>
+        </div>
+    </div>
+
+    <div class="w-full max-w-7xl mx-auto bg-white rounded-2xl shadow-xl p-2 sm:p-4 md:p-6 lg:p-8" id="main-ui" style="display:none;">
+        <!-- Main UI Music Toggle Button -->
+        <div class="flex justify-end mb-2">
+            <button id="main-audio-toggle-btn" aria-label="Toggle audio" class="text-xl sm:text-2xl focus:outline-none">
+                <span id="main-audio-icon">&#127925;</span>
+            </button>
+        </div>
+        <header class="text-center mb-2 sm:mb-4">
+            <div class="flex flex-col sm:flex-row justify-center items-center mb-2 sm:mb-4 gap-2 sm:gap-4">
+                <img src="images/ducklogo.png" alt="Duck Logo" class="w-20 h-20 sm:w-32 sm:h-32 md:w-48 md:h-48 lg:logo-size">
+                <div>
+                    <h1 class="text-2xl sm:text-3xl md:text-4xl font-fredoka text-yellow-500">Duck, Duck, Go!</h1>
+                    <p class="text-sm sm:text-base text-gray-600 mt-1">Add your list and let the ducks decide!</p>
+                </div>
+            </div>
+        </header>
+
+        <div id="setup-section" class="mb-2 sm:mb-4 p-2 sm:p-4 bg-gray-50 rounded-lg">
+            <div class="flex flex-col sm:flex-row gap-2">
+                <input type="text" id="item-input" placeholder="Enter an item or name..." class="flex-grow p-2 text-sm sm:text-base border rounded-lg focus:ring-2 focus:ring-blue-400 focus:outline-none">
+                <button id="add-duck-btn" class="btn btn-add text-sm sm:text-base">Add Duck</button>
+            </div>
+            <div id="item-list" class="mt-3 text-xs sm:text-sm text-gray-700">
+                <strong>Entries:</strong> <span id="contenders-list">None yet!</span>
+            </div>
+        </div>
+
+    <div id="race-container" class="relative w-full rounded-lg shadow-inner">
+            <div id="race-track" class="w-full h-full rounded-lg"></div>
+            <div id="finish-line"></div>
+        </div>
+        <!-- Stopwatch Timer -->
+        <div id="stopwatch-timer" class="mt-2 flex justify-center">
+            <span class="inline-block bg-gray-800 text-yellow-300 font-mono text-lg sm:text-xl px-3 sm:px-4 py-1 rounded-lg shadow-md tracking-widest" style="min-width: 100px; letter-spacing: 0.1em;">00:00.00</span>
+        </div>
+        
+
+        <div class="mt-2 sm:mt-4 flex flex-col sm:flex-row justify-center gap-2 sm:gap-4">
+            <button id="start-race-btn" class="btn btn-start text-base sm:text-lg">Start Race!</button>
+            <button id="reset-btn" class="btn btn-reset text-base sm:text-lg hidden">Race Again</button>
+            <button id="clear-btn" class="btn btn-add text-base sm:text-lg">Clear</button>
+        </div>
+
+        <div id="winner-modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 hidden">
+            <div class="bg-white rounded-2xl p-4 sm:p-8 text-center shadow-2xl transform transition-all scale-95 max-w-md w-full mx-auto">
+                <h2 class="text-xl sm:text-2xl font-fredoka text-gray-700 mb-2">And the winner is...</h2>
+                <p id="winner-name" class="text-2xl sm:text-4xl font-bold text-yellow-500 mb-4 sm:mb-6"></p>
+                <button id="close-modal-btn" class="btn btn-reset text-sm sm:text-base">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Audio Elements -->
+    <audio id="audio-bg" src="images/bg-music.mp3" loop preload="auto"></audio>
+    <audio id="audio-quack" src="images/quack.mp3" preload="auto"></audio>
+    <audio id="audio-splash" src="images/splash.mp3" preload="auto"></audio>
+    <audio id="audio-gun" src="images/gun.mp3" preload="auto"></audio>
+
+    <script>
+        // --- Intro Modal State ---
+        let isMuted = false;
+        // Try to persist mute state in sessionStorage
+        if (window.sessionStorage && sessionStorage.getItem('duckrace-muted')) {
+            isMuted = sessionStorage.getItem('duckrace-muted') === 'true';
+        }
+    // DOM Element References
+    const introModal = document.getElementById('intro-modal');
+    const introStartBtn = document.getElementById('intro-start-btn');
+    const audioToggleBtn = document.getElementById('audio-toggle-btn');
+    const audioIcon = document.getElementById('audio-icon');
+    const mainUI = document.getElementById('main-ui');
+        const itemInput = document.getElementById('item-input');
+        const addDuckBtn = document.getElementById('add-duck-btn');
+        const startRaceBtn = document.getElementById('start-race-btn');
+        const resetBtn = document.getElementById('reset-btn');
+        const raceTrack = document.getElementById('race-track');
+        const itemList = document.getElementById('contenders-list');
+        const winnerModal = document.getElementById('winner-modal');
+        const winnerName = document.getElementById('winner-name');
+        const closeModalBtn = document.getElementById('close-modal-btn');
+        const setupSection = document.getElementById('setup-section');
+
+
+    // Audio Elements
+    const audioBg = document.getElementById('audio-bg');
+    const audioQuack = document.getElementById('audio-quack');
+    const audioSplash = document.getElementById('audio-splash');
+    const audioGun = document.getElementById('audio-gun');
+    const allAudio = [audioBg, audioQuack, audioSplash, audioGun];
+
+
+    // Main UI audio toggle refs
+    const mainAudioToggleBtn = document.getElementById('main-audio-toggle-btn');
+    const mainAudioIcon = document.getElementById('main-audio-icon');
+
+    function setAllAudioMuted(muted) {
+        allAudio.forEach(a => { if (a) a.muted = muted; });
+        isMuted = muted;
+        if (window.sessionStorage) sessionStorage.setItem('duckrace-muted', muted ? 'true' : 'false');
+        // Update both icons
+        if (audioIcon) {
+            audioIcon.innerHTML = muted ? '&#128263;' : '&#127925;';
+        }
+        if (mainAudioIcon) {
+            mainAudioIcon.innerHTML = muted ? '&#128263;' : '&#127925;';
+        }
+    }
+
+    // Initial mute state
+    setAllAudioMuted(isMuted);
+
+
+    // Audio toggle button events (both modals)
+    if (audioToggleBtn) {
+        audioToggleBtn.addEventListener('click', function() {
+            setAllAudioMuted(!isMuted);
+        });
+    }
+    if (mainAudioToggleBtn) {
+        mainAudioToggleBtn.addEventListener('click', function() {
+            setAllAudioMuted(!isMuted);
+        });
+    }
+
+
+    // START button event
+    if (introStartBtn) {
+        introStartBtn.addEventListener('click', function() {
+            introModal.style.display = 'none';
+            mainUI.style.display = '';
+            // Do not restart music, just show main UI
+        });
+    }
+
+
+    // Hide main UI until intro modal is dismissed
+    mainUI.style.display = 'none';
+    introModal.style.display = '';
+
+    // Always play background music on loop, but respect mute
+    function ensureMusicPlaying() {
+        if (audioBg) {
+            audioBg.loop = true;
+            audioBg.volume = 0.5;
+            if (audioBg.paused) {
+                try { audioBg.play(); } catch(e){}
+            }
+        }
+    }
+    // Try to start music as soon as possible
+    document.addEventListener('DOMContentLoaded', ensureMusicPlaying);
+    // Also try again after user interaction (for autoplay restrictions)
+    window.addEventListener('click', ensureMusicPlaying, { once: true });
+    window.addEventListener('keydown', ensureMusicPlaying, { once: true });
+
+
+    // Stopwatch Timer
+    const stopwatchTimer = document.getElementById('stopwatch-timer').querySelector('span');
+    let timerStart = null;
+    let timerInterval = null;
+    let timerElapsed = 0;
+    let winnerCrossTime = null; // ms when winner crosses finish
+    let firstFinisher = null; // persist the first duck that crosses
+
+        function formatTime(ms) {
+            const totalSeconds = Math.floor(ms / 1000);
+            const minutes = Math.floor(totalSeconds / 60);
+            const seconds = totalSeconds % 60;
+            const centiseconds = Math.floor((ms % 1000) / 10);
+            return `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}.${centiseconds.toString().padStart(2, '0')}`;
+        }
+
+        function startTimer() {
+            timerStart = Date.now();
+            timerElapsed = 0;
+            stopwatchTimer.textContent = '00:00.00';
+            timerInterval = setInterval(() => {
+                timerElapsed = Date.now() - timerStart;
+                stopwatchTimer.textContent = formatTime(timerElapsed);
+            }, 31);
+        }
+
+        function stopTimer() {
+            if (timerInterval) clearInterval(timerInterval);
+            if (timerStart) timerElapsed = Date.now() - timerStart;
+            stopwatchTimer.textContent = formatTime(timerElapsed);
+        }
+
+        function resetTimer() {
+            if (timerInterval) clearInterval(timerInterval);
+            timerStart = null;
+            timerElapsed = 0;
+            stopwatchTimer.textContent = '00:00.00';
+        }
+
+        // Game State
+        let ducks = [];
+        let raceInProgress = false;
+        let animationFrameId;
+        let shark = null;
+
+        const DUCK_IMAGES = [
+            'images/1.png', 'images/2.png',
+            'images/3.png', 'images/4.png',
+            'images/5.png', 'images/6.png',
+            'images/7.png', 'images/8.png'
+        ];
+
+        // UPDATED: Shark images now include the splash
+        const SHARK_IMAGES = {
+            swim: 'images/sharky1.png',       // sharky1.png
+            pre_attack: 'images/sharky2.png', // sharky2.png
+            attack: 'images/sharky3.png',     // sharky3.png
+            splash: 'images/sharky4.png'      // sharky4.png
+        };
+
+        function createDuckElement(name, index) {
+            const imageUrl = DUCK_IMAGES[index % DUCK_IMAGES.length];
+            const duckContainer = document.createElement('div');
+            duckContainer.className = 'duck-container';
+            duckContainer.style.backgroundImage = `url('${imageUrl}')`;
+            duckContainer.style.left = '0px';
+
+            const nameLabel = document.createElement('div');
+            nameLabel.className = 'duck-label';
+            nameLabel.textContent = name.substring(0, 10) + (name.length > 10 ? '...' : '');
+            
+            duckContainer.appendChild(nameLabel);
+            return duckContainer;
+        }
+        
+        function addDuck() {
+            const name = itemInput.value.trim();
+            if (name === '') {
+                itemInput.placeholder = "Please enter an item or name first!";
+                setTimeout(() => { itemInput.placeholder = "Enter an item or name..."; }, 2000);
+                return;
+            }
+            if (ducks.length >= 8) {
+                alert("Maximum of 8 ducks reached!");
+                return;
+            }
+
+            const duckElement = createDuckElement(name, ducks.length);
+            // Assign a random base speed for each duck for more variability
+            const baseSpeed = 0.3 + Math.random() * 0.2; // 0.3 to 0.5 px per frame (slower)
+            const duckObject = {
+                name: name,
+                element: duckElement,
+                x: 0,
+                y: 0,
+                isEaten: false,
+                isFinished: false,
+                baseSpeed: baseSpeed,
+                speedVariance: Math.random() * 0.1 // Less variance, slower
+            };
+
+            ducks.push(duckObject);
+            raceTrack.appendChild(duckElement);
+            repositionDucks();
+            updateItemList();
+            itemInput.value = '';
+            itemInput.focus();
+            // Play quack sound (create new audio element for overlapping sounds)
+            try { 
+                const newQuack = new Audio(audioQuack.src);
+                newQuack.play();
+            } catch(e){}
+        }
+
+        function updateItemList() {
+            itemList.textContent = ducks.length === 0 ? 'None yet!' : ducks.map(d => d.name).join(', ');
+        }
+
+        function repositionDucks() {
+            const trackHeight = raceTrack.clientHeight;
+            const trackWidth = raceTrack.clientWidth;
+            
+            // Calculate duck dimensions dynamically based on current container size
+            const duckElement = ducks.length > 0 ? ducks[0].element : null;
+            let duckHeight = 65; // fallback
+            let labelHeight = 22;
+            
+            if (duckElement) {
+                const duckRect = duckElement.getBoundingClientRect();
+                duckHeight = duckRect.height || 65;
+            }
+            
+            const margin = Math.max(8, trackHeight * 0.02); // Responsive margin
+            const liveDucks = ducks.filter(d => !d.isEaten);
+            
+            if (liveDucks.length === 0) return;
+            
+            // Ensure enough space for duck and label
+            const totalDuckHeight = duckHeight + labelHeight + margin;
+            const availableHeight = trackHeight - (margin * 2);
+            const spacing = Math.max(margin, (availableHeight - (liveDucks.length * totalDuckHeight)) / (liveDucks.length + 1));
+
+            liveDucks.forEach((duck, index) => {
+                duck.y = spacing * (index + 1) + (totalDuckHeight * index);
+                // Ensure duck doesn't go off screen
+                duck.y = Math.max(margin, Math.min(duck.y, trackHeight - duckHeight - labelHeight - margin));
+                duck.element.style.top = `${duck.y}px`;
+            });
+        }
+        
+        function spawnShark() {
+            const sharkElement = document.createElement('div');
+            sharkElement.className = 'shark-container';
+            sharkElement.style.backgroundImage = `url('${SHARK_IMAGES.swim}')`;
+
+            const trackWidth = raceTrack.clientWidth;
+            const trackHeight = raceTrack.clientHeight;
+            const targetIndex = Math.floor(Math.random() * ducks.length);
+            const targetDuck = ducks[targetIndex];
+
+            shark = {
+                element: sharkElement,
+                x: trackWidth,
+                y: Math.random() * (trackHeight - 100), // Account for shark height
+                target: targetDuck,
+                state: 'swimming' // swimming, attacking, splashing, finished
+            };
+
+            raceTrack.appendChild(sharkElement);
+        }
+
+        /**
+         * UPDATED: Handles the new shark animation sequence with responsive sizing.
+         */
+        function handleShark() {
+            if (!shark) return;
+
+        // Shark continues moving left unless it's in the middle of the splash animation
+        if (shark.state !== 'splashing') {
+            // Make shark speed responsive to screen size
+            const trackWidth = raceTrack.clientWidth;
+            const baseSpeed = Math.max(0.8, trackWidth * 0.002); // Responsive speed
+            shark.x -= baseSpeed;
+        }
+
+            // Home in on target duck's Y position
+            if (shark.state === 'swimming' || shark.state === 'attacking') {
+                 const yDiff = shark.target.y - shark.y;
+                 shark.y += yDiff * 0.05;
+            }
+
+            shark.element.style.left = `${shark.x}px`;
+            shark.element.style.top = `${shark.y}px`;
+
+            // Get current duck width for collision detection
+            const duckRect = shark.target.element.getBoundingClientRect();
+            const duckWidth = duckRect.width || 65;
+            const distanceToTarget = shark.x - (shark.target.x + duckWidth);
+
+            // 1. Pre-attack phase
+            if (distanceToTarget < 100 && shark.state === 'swimming') {
+                shark.state = 'attacking';
+                shark.element.style.backgroundImage = `url('${SHARK_IMAGES.pre_attack}')`;
+                setTimeout(() => {
+                    if (shark && shark.state === 'attacking') {
+                        shark.element.style.backgroundImage = `url('${SHARK_IMAGES.attack}')`;
+                    }
+                }, 300);
+            }
+
+            // 2. Attack: only transition to splash when shark visually overlaps the duck
+            if (shark.state === 'attacking' && !shark.target.isEaten) {
+                // Check for bounding box collision
+                const duckRect = shark.target.element.getBoundingClientRect();
+                const sharkRect = shark.element.getBoundingClientRect();
+                const overlap = !(duckRect.right < sharkRect.left ||
+                                  duckRect.left > sharkRect.right ||
+                                  duckRect.bottom < sharkRect.top ||
+                                  duckRect.top > sharkRect.bottom);
+                if (overlap) {
+                    shark.target.isEaten = true;
+                    shark.target.element.style.transform = 'scale(0)';
+                    shark.state = 'splashing';
+                    shark.element.style.backgroundImage = `url('${SHARK_IMAGES.splash}')`;
+                    shark.element.classList.add('flipping'); // Start the thrashing animation
+                    // Play splash sound
+                    try { audioSplash.currentTime = 0; audioSplash.play(); } catch(e){}
+                    // 3. Revert to swim phase after splash animation
+                    setTimeout(() => {
+                        if (shark) {
+                            shark.element.classList.remove('flipping');
+                            shark.element.style.backgroundImage = `url('${SHARK_IMAGES.swim}')`;
+                            shark.state = 'finished'; // Attack sequence is over
+                        }
+                    }, 1800); // Animation is 0.6s * 3 = 1.8s
+                }
+            }
+            
+            // 4. Swim off-screen
+            if (shark.x < -100 && shark.state !== 'splashing') {
+                shark.element.remove();
+                shark = null;
+            }
+        }
+
+        function raceLoop() {
+            if (!raceInProgress) return;
+
+            // Protect the loop from unexpected runtime errors so the animation doesn't stop
+            try {
+
+            // Position finish line at the right edge of the black and white striped area
+            // Ducks need to fully cross this line to be considered finished
+            const finishLineElement = document.getElementById('finish-line');
+            const finishLineWidth = finishLineElement ? finishLineElement.clientWidth : 30;
+            const finishLineX = raceTrack.clientWidth - finishLineWidth; // Dynamic finish line position
+
+            // Shuffle ducks array each frame for more passing (Fisher-Yates shuffle)
+            for (let i = ducks.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [ducks[i], ducks[j]] = [ducks[j], ducks[i]];
+            }
+
+            ducks.forEach(duck => {
+                if (duck.isEaten) return;
+
+                // Get current duck size for collision detection
+                const duckRect = duck.element.getBoundingClientRect();
+                const duckWidth = duckRect.width || 65;
+
+                // Add random acceleration/deceleration for more dynamic overtaking
+                if (!duck.speedDelta) duck.speedDelta = 0;
+                // Occasionally change speedDelta
+                if (Math.random() < 0.15) {
+                    duck.speedDelta = (Math.random() - 0.5) * duck.speedVariance * 2;
+                }
+                // Each duck gets a random speed boost per frame, plus a persistent delta
+                const speed = duck.baseSpeed + (Math.random() - 0.5) * duck.speedVariance + duck.speedDelta;
+                
+                // Calculate next position with a higher minimum speed to ensure forward progress
+                const nextX = duck.x + Math.max(0.2, speed);
+                
+                // Allow duck to move past the finish line and continue swimming
+                duck.x = nextX;
+                
+                // Check if duck has fully crossed the finish line (duck's right edge past finish line)
+                if (duck.x + duckWidth >= finishLineX && !duck.isFinished) {
+                    duck.isFinished = true;
+                    // Persist the very first finisher so we can reliably show the winner later
+                    if (!firstFinisher) {
+                        firstFinisher = duck;
+                        winnerCrossTime = Date.now() - timerStart;
+                    }
+                }
+                
+                duck.element.style.left = `${duck.x}px`;
+
+                // Add more vertical bobble for visual interest (only if not finished)
+                if (!duck.isFinished) {
+                    const bobble = Math.sin(Date.now() / (180 + Math.random() * 60) + duck.y) * (3 + Math.random() * 3);
+                    duck.element.style.transform = `translateY(${bobble}px)`;
+                } else {
+                    // Stop bobbing animation when finished, but keep the duck moving forward
+                    duck.element.style.transform = '';
+                }
+            });
+
+            handleShark();
+
+            // Check if all living ducks have finished AFTER they've all had a chance to move
+            const aliveDucks = ducks.filter(d => !d.isEaten);
+            const allFinished = aliveDucks.length > 0 && aliveDucks.every(d => d.isFinished);
+
+            if (allFinished) {
+                // All surviving ducks have crossed the finish line
+                // Use persisted first finisher (fallback to any finished duck if null)
+                endRace(firstFinisher);
+            } else {
+                animationFrameId = requestAnimationFrame(raceLoop);
+            }
+            } catch (err) {
+                // Prevent the whole animation from halting due to unexpected errors
+                console.error('Error in raceLoop:', err);
+                // Ensure timer is stopped and race state cleared
+                stopTimer();
+                raceInProgress = false;
+            }
+        }
+
+        function startRace() {
+            if (ducks.length < 2) {
+                alert("You need at least two ducks to start a race!");
+                return;
+            }
+            if (raceInProgress) return;
+
+            if (ducks.length >= 3) {
+                spawnShark();
+            }
+
+            raceInProgress = true;
+            startRaceBtn.classList.add('hidden');
+            resetBtn.classList.remove('hidden');
+            setupSection.style.display = 'none';
+            // Play gun sound
+            try { audioGun.currentTime = 0; audioGun.play(); } catch(e){}
+            // Do not restart background music
+            startTimer();
+            
+            raceLoop();
+        }
+
+        function endRace(winnerDuck) {
+            // Defensive: ensure race state is stopped
+            raceInProgress = false;
+            cancelAnimationFrame(animationFrameId);
+
+            // Try to resolve a sensible winner if none provided
+            if (!winnerDuck) {
+                winnerDuck = ducks.find(d => d.isFinished) || ducks.find(d => !d.isEaten) || null;
+            }
+
+            try {
+                if (winnerDuck && winnerDuck.element) {
+                    try { winnerDuck.element.style.transform = 'rotate(-10deg) scale(1.1)'; } catch(e){}
+                }
+
+                // Keep track of how many ducks still need to finish
+                const remainingDucks = ducks.filter(d => !d.isEaten && d !== winnerDuck && !d.isFinished).length;
+
+                if (remainingDucks === 0) {
+                    // All ducks have either finished or been eaten
+                    stopTimer();
+                    // capture the recorded winnerCrossTime so clearing state later won't affect what we show
+                    const displayWinnerTime = winnerCrossTime;
+                    setTimeout(() => {
+                        // Show both winner time and total race time in the modal
+                        let raceTimeDisplay = `
+                            <div class="flex flex-col gap-2 mb-4">
+                                <div class="text-gray-600">Winner Time</div>
+                                <div class="text-lg text-yellow-500 font-mono">${formatTime(displayWinnerTime)}</div>
+                                <div class="text-gray-600 mt-2">Total Race Time</div>
+                                <div class="text-lg text-gray-500 font-mono">${formatTime(timerElapsed)}</div>
+                            </div>
+                        `;
+                        if (winnerDuck && winnerDuck.name) {
+                            winnerName.innerHTML = `${winnerDuck.name}${raceTimeDisplay}`;
+                        } else {
+                            winnerName.innerHTML = `No winner${raceTimeDisplay}`;
+                        }
+                        winnerModal.classList.remove('hidden');
+                        winnerModal.querySelector('div').classList.add('scale-100');
+                        // It's safe to clear persisted state now that the modal has been shown
+                        firstFinisher = null;
+                        winnerCrossTime = null;
+                    }, 500);
+                } else {
+                    // Continue the race for remaining ducks
+                    animationFrameId = requestAnimationFrame(raceLoop);
+                    return;
+                }
+            } catch (err) {
+                console.error('Error in endRace:', err);
+                stopTimer();
+                winnerName.textContent = 'Race Ended (error)';
+                winnerModal.classList.remove('hidden');
+                // In an error case, clear persisted state immediately
+                firstFinisher = null;
+                winnerCrossTime = null;
+            }
+        }
+
+        function resetGame() {
+            // Only reset race state, not ducks or music
+            raceInProgress = false;
+            if (animationFrameId) {
+                cancelAnimationFrame(animationFrameId);
+            }
+            if (shark && shark.element) {
+                shark.element.remove();
+            }
+            shark = null;
+            // Ducks remain in play
+            updateItemList();
+            startRaceBtn.classList.remove('hidden');
+            resetBtn.classList.add('hidden');
+            winnerModal.classList.add('hidden');
+            winnerModal.querySelector('div').classList.remove('scale-100');
+            setupSection.style.display = 'block';
+            resetTimer();
+            winnerCrossTime = null;
+            firstFinisher = null;
+            // Do NOT stop or reset background music
+            // Reset duck positions to start
+            ducks.forEach(duck => {
+                duck.x = 0;
+                duck.isEaten = false;
+                duck.isFinished = false;
+                duck.element.style.transform = '';
+                duck.element.style.left = '0px';
+                duck.element.style.display = '';
+            });
+            repositionDucks();
+        }
+
+        // Clear all ducks and reset everything (including UI)
+        function clearDucks() {
+            if (animationFrameId) {
+                cancelAnimationFrame(animationFrameId);
+            }
+            if (shark && shark.element) {
+                shark.element.remove();
+            }
+            shark = null;
+            ducks.forEach(duck => duck.element.remove());
+            ducks = [];
+            updateItemList();
+            startRaceBtn.classList.remove('hidden');
+            resetBtn.classList.add('hidden');
+            winnerModal.classList.add('hidden');
+            winnerModal.querySelector('div').classList.remove('scale-100');
+            setupSection.style.display = 'block';
+            resetTimer();
+            winnerCrossTime = null;
+            firstFinisher = null;
+            // Do NOT stop or reset background music
+        }
+
+        // Event Listeners
+        addDuckBtn.addEventListener('click', addDuck);
+        itemInput.addEventListener('keyup', (event) => {
+            if (event.key === 'Enter') addDuck();
+        });
+        startRaceBtn.addEventListener('click', startRace);
+        resetBtn.addEventListener('click', resetGame);
+        // Clear button event
+        const clearBtn = document.getElementById('clear-btn');
+        if (clearBtn) {
+            clearBtn.addEventListener('click', clearDucks);
+        }
+        closeModalBtn.addEventListener('click', () => {
+             winnerModal.classList.add('hidden');
+             winnerModal.querySelector('div').classList.remove('scale-100');
+        });
+
+        window.addEventListener('resize', repositionDucks);
+        
+        // Add debounced resize handler for better performance
+        let resizeTimeout;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(() => {
+                repositionDucks();
+                // Reposition shark if it exists
+                if (shark) {
+                    const trackHeight = raceTrack.clientHeight;
+                    shark.y = Math.min(shark.y, trackHeight - 100);
+                }
+            }, 100);
+        });
+
+        // Initial setup
+        resetGame();
+        // If user closes modal by other means, ensure main UI is shown (failsafe)
+        window.addEventListener('keydown', function(e) {
+            if (introModal.style.display !== 'none' && (e.key === 'Enter' || e.key === ' ')) {
+                introStartBtn.click();
+            }
+        });
+    </script>
+</body>
+</html>

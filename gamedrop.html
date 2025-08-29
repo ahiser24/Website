@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apps - Andrew Hiser</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="body">
+    <header class="header">
+        <div class="logo">Andrew Hiser</div>
+        <nav class="nav">
+            <ul class="nav-list">
+                <li><a href="index.html#about" class="nav-link">About Me</a></li>
+                <li><a href="index.html#certifications" class="nav-link">Certifications</a></li>
+                <li><a href="index.html#portfolio" class="nav-link">Portfolio</a></li>
+                <li><a href="index.html#career" class="nav-link">Career</a></li>
+                <li><a href="index.html#Socials" class="nav-link">Socials</a></li>
+                <li><a href="apps.html" class="nav-link">Apps</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <div class="app-container">
+            <div class="app-header">
+                <img src="images/logo.png" alt="Game Drop Logo" class="app-logo">
+                <h1 class="app-title section-heading">Game Drop</h1>
+            </div>
+
+            <div class="overview-content">
+                <p class="overview-text">
+                    <h2><center>Revolutionize Your Gameplay Highlights with Clipping and Seamless Discord Sharing!</h2></center>
+                </p>
+                <img src="images/Game Drop.png" alt="Game Drop Screenshot" class="game-drop-image">
+                <div class="key-points">
+                    <h2 class="section-subtitle section-heading">Key Features</h2>
+                    <ul class="overview-list">
+                        <li><strong>Smart Video Clipping:</strong> Easily select portions of your gameplay videos with precise control</li>
+                        <li><strong>Discord-Optimized:</strong> Automatically targets Discord's 10MB file limit for direct sharing</li>
+                        <li><strong>Hardware Acceleration:</strong> Utilizes NVIDIA (NVENC), AMD (AMF), Intel, or VA-API GPU encoding</li>
+                        <li><strong>Custom Export Options:</strong> Adjustable file sizes and quality settings for non-Discord purposes</li>
+                        <li><strong>One-click Discord Integration:</strong> Send clips directly to your Discord servers via webhooks</li>
+                        <li><strong>Cross-Platform Support:</strong> Runs on Windows, Linux, and Steam Deck</li>
+                        <li><strong>Dark-mode Interface:</strong> Clean, modern dark UI designed for gamers</li>
+                    </ul>
+                </div>
+            </div>
+
+            <section class="app-section">
+                <h2 class="section-subtitle section-heading">Getting Started</h2>
+                                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/fFhfKb545To"
+                            title="YouTube video player" frameborder="0" 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                            allowfullscreen>
+                    </iframe>
+                </div>
+                <h3 class="subsection-title">Installation</h3>
+                <div class="download-section">
+                    <h4>Windows</h4>
+                    <p>Please report any bugs: <a href="mailto:tecrexit@gmail.com">tecrexit@gmail.com</a></p>
+                    <ol class="numbered-list">
+                        <li><a href="https://github.com/ahiser24/GameDrop/releases" class="app-link">Download GameDrop_Setup.zip</a></li>
+                        <li>Extract the files</li>
+                        <li>Run the installer and follow the on-screen instructions</li>
+                        <li>Launch Game Drop</li>
+                    </ol>
+                    
+                    <h4>Linux & Steam Deck</h4>
+                    <p>Please report any bugs: <a href="mailto:tecrexit@gmail.com">tecrexit@gmail.com</a></p>
+                    <ol class="numbered-list">
+                        <li><a href="https://github.com/ahiser24/GameDrop/releases" class="app-link">Download GameDrop_Setup.tar.gz</a></li>
+                        <li>Extract the files</li>
+                        <li>Run install_GameDrop.sh and follow the on-screen instructions</li>
+                        <li>Launch Game Drop</li>
+                    </ol>
+                </div>
+                <h2 class="section-subtitle section-heading">How To</h2>
+
+            </section>
+                <ol class="numbered-list">
+                    <li>Click <strong>Load Video</strong> to open a gameplay video file</li>
+                    <li>Use the slider to select the start and end points of your clip</li>
+                    <li>For Discord sharing:
+                        <ul class="overview-list">
+                            <li>RECOMMENDED: Use the "Optimize for Discord (30s / 10MB)" option</li>
+                            <li>(Optional) Set up Discord webhooks by clicking <strong>Manage Webhooks</strong></li>
+                            <li>Add an optional custom clip name</li>
+                        </ul>
+                    </li>
+                    <li>For longer clips:
+                        <ul class="overview-list">
+                            <li>Uncheck the Discord limit to access size and quality options</li>
+                            <li>Select your desired file size or enter a custom value</li>
+                            <li>Add an optional custom clip name</li>
+                        </ul>
+                    </li>
+                    <li>Click <strong>Drop It</strong> to create your clip (and send to Discord if webhooks are configured)</li>
+                </ol>
+                <p class="card-text"><strong>NOTE:</strong> Discord limits sending videos by webhook to 10MB. If the file size is larger, you'll still need to upload it manually. (Nitro may be required for larger file sizes)</p>
+            </section>
+
+            <section class="app-section">
+                <h2 class="section-subtitle section-heading">Setting Up Discord Webhooks</h2>
+                <ol class="numbered-list">
+                    <li>In your Discord server, go to <strong>Server Settings</strong> > <strong>Integrations</strong> > <strong>Webhooks</strong></li>
+                    <li>Click <strong>New Webhook</strong>, give it a name, and select the channel where clips will be posted</li>
+                    <li>Copy the webhook URL</li>
+                    <li>In Game Drop, click <strong>Manage Webhooks</strong>, then <strong>Add Webhook</strong></li>
+                    <li>Enter a name for the webhook and paste the URL</li>
+                </ol>
+            </section>
+
+            <section class="app-section">
+                <h2 class="section-subtitle section-heading">System Requirements</h2>
+                
+                <h3 class="subsection-title">Windows</h3>
+                <ul class="requirements-list">
+                    <li>Windows 10 or later</li>
+                    <li>4GB RAM (8GB recommended)</li>
+                    <li>DirectX 11 compatible graphics card</li>
+                    <li>FFmpeg (automatically downloaded if not found)</li>
+                </ul>
+
+                <h3 class="subsection-title">Linux</h3>
+                <ul class="requirements-list">
+                    <li>Modern Linux distribution (Ubuntu 20.04+, Arch, Fedora 34+, SteamOS)</li>
+                    <li>4GB RAM (8GB recommended)</li>
+                    <li>Mesa drivers for AMD/Intel GPUs or NVIDIA proprietary drivers</li>
+                    <li>FFmpeg (automatically downloaded if not found)</li>
+                </ul>
+            </section>
+
+            <section class="app-section">
+                <h2 class="section-subtitle section-heading">Troubleshooting</h2>
+                <ul class="troubleshooting-list">
+                    <li><strong>FFmpeg Missing:</strong> Game Drop will automatically prompt to download and install FFmpeg on first run</li>
+                    <li><strong>Video Won't Load:</strong> Make sure your video is in a supported format (MP4, AVI, MKV, MOV)</li>
+                    <li><strong>Discord Upload Failing:</strong> Verify your webhook URL and internet connection</li>
+                    <li><strong>Quality Issues:</strong> For better quality but larger files, uncheck the Discord limit and select a higher file size</li>
+                    <li><strong>Hardware Acceleration Not Working:</strong> Update your graphics drivers</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>© 2025 Andrew Hiser. All rights reserved.</p>
+        <p>For support, contact us at: <a href="mailto:tecrexit@gmail.com">tecrexit@gmail.com</a></p>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+
+    <!-- Buy Me a Coffee Widget -->
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="andrewhiser" data-description="Support me on Buy me a coffee!" data-message="Love your clips? Fuel the next update!" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+</body>
+</html>
