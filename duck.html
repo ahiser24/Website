@@ -413,8 +413,7 @@
             }
 
             const duckElement = createDuckElement(name, ducks.length);
-            // Assign a random base speed for each duck for more variability
-            const baseSpeed = 0.3 + Math.random() * 0.6; // 0.3 to 0.5 px per frame (slower)
+            const baseSpeed = 0.002; // Fixed speed for all ducks
             const duckObject = {
                 name: name,
                 element: duckElement,
@@ -423,7 +422,10 @@
                 isEaten: false,
                 isFinished: false,
                 baseSpeed: baseSpeed,
-                speedVariance: Math.random() * 0.1 // Less variance, slower
+                burst: 0,
+                burstEnd: 0,
+                burstCooldownEnd: 0, // NEW: cooldown property
+                currentSpeed: baseSpeed
             };
 
             ducks.push(duckObject);
@@ -433,7 +435,6 @@
             updateItemList();
             itemInput.value = '';
             itemInput.focus();
-            // Play quack sound (create new audio element for overlapping sounds)
             try { 
                 const newQuack = new Audio(audioQuack.src);
                 newQuack.play();
@@ -613,81 +614,83 @@
         function raceLoop() {
             if (!raceInProgress) return;
 
-            // Protect the loop from unexpected runtime errors so the animation doesn't stop
             try {
+                // Position finish line at the right edge of the black and white striped area
+                // Ducks need to fully cross this line to be considered finished
+                const finishLineElement = document.getElementById('finish-line');
+                const finishLineWidth = finishLineElement ? finishLineElement.clientWidth : 30;
+                const finishLineX = raceTrack.clientWidth - finishLineWidth; // Dynamic finish line position
 
-            // Position finish line at the right edge of the black and white striped area
-            // Ducks need to fully cross this line to be considered finished
-            const finishLineElement = document.getElementById('finish-line');
-            const finishLineWidth = finishLineElement ? finishLineElement.clientWidth : 30;
-            const finishLineX = raceTrack.clientWidth - finishLineWidth; // Dynamic finish line position
-
-            // Shuffle ducks array each frame for more passing (Fisher-Yates shuffle)
-            for (let i = ducks.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [ducks[i], ducks[j]] = [ducks[j], ducks[i]];
-            }
-
-
-
-            ducks.forEach(duck => {
-                if (duck.isEaten) return;
-
-                // Get current duck size for collision detection
-                const duckRect = duck.element.getBoundingClientRect();
-                const duckWidth = duckRect.width || 65;
-
-                // Add random acceleration/deceleration for more dynamic overtaking
-                if (!duck.speedDelta) duck.speedDelta = 0;
-                // Occasionally change speedDelta
-                if (Math.random() < 0.15) {
-                    duck.speedDelta = (Math.random() - 0.5) * duck.speedVariance * 2;
+                // Shuffle ducks array each frame for more passing (Fisher-Yates shuffle)
+                for (let i = ducks.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [ducks[i], ducks[j]] = [ducks[j], ducks[i]];
                 }
-                // Each duck gets a random speed boost per frame, plus a persistent delta
-                const speed = duck.baseSpeed + (Math.random() - 0.5) * duck.speedVariance + duck.speedDelta;
-                
-                // Calculate next position with a higher minimum speed to ensure forward progress
-                const nextX = duck.x + Math.max(0.2, speed);
-                
-                // Allow duck to move past the finish line and continue swimming
-                duck.x = nextX;
-                
-                // Check if duck has fully crossed the finish line (duck's right edge past finish line)
-                if (duck.x + duckWidth >= finishLineX && !duck.isFinished) {
-                    duck.isFinished = true;
-                    // Persist the very first finisher so we can reliably show the winner later
-                    if (!firstFinisher) {
-                        firstFinisher = duck;
-                        winnerCrossTime = Date.now() - timerStart;
+
+
+
+                ducks.forEach(duck => {
+                    if (duck.isEaten) return;
+
+                    const duckRect = duck.element.getBoundingClientRect();
+                    const duckWidth = duckRect.width || 65;
+                    const now = Date.now();
+
+                    // --- BURST LOGIC WITH COOLDOWN ---
+                    // If burst just ended, set cooldown
+                    if (duck.burst && now > duck.burstEnd) {
+                        duck.burst = 0;
+                        duck.burstCooldownEnd = now + 2000; // 2 seconds cooldown
                     }
-                }
-                
-                duck.element.style.left = `${duck.x}px`;
 
-                // Add more vertical bobble for visual interest (only if not finished)
-                if (!duck.isFinished) {
-                    const bobble = Math.sin(Date.now() / (180 + Math.random() * 60) + duck.y) * (3 + Math.random() * 3);
-                    duck.element.style.transform = `translateY(${bobble}px)`;
+                    // Only allow new burst if not in cooldown and not already bursting
+                    if (!duck.burst && now > duck.burstCooldownEnd) {
+                        if (Math.random() < 0.02) {
+                            duck.burst = 0.5 + Math.random() * 0.4;
+                            duck.burstEnd = now + 1000;
+                        }
+                    }
+
+                    // --- SMOOTH TRANSITION: Lerp currentSpeed toward target speed ---
+                    const targetSpeed = duck.baseSpeed + (duck.burst || 0);
+                    duck.currentSpeed += (targetSpeed - duck.currentSpeed) * 0.1;
+
+                    // Calculate next position
+                    const nextX = duck.x + Math.max(0.2, duck.currentSpeed);
+
+                    duck.x = nextX;
+
+                    if (duck.x + duckWidth >= finishLineX && !duck.isFinished) {
+                        duck.isFinished = true;
+                        if (!firstFinisher) {
+                            firstFinisher = duck;
+                            winnerCrossTime = Date.now() - timerStart;
+                        }
+                    }
+
+                    duck.element.style.left = `${duck.x}px`;
+
+                    if (!duck.isFinished) {
+                        const bobble = Math.sin(Date.now() / (180 + Math.random() * 60) + duck.y) * (3 + Math.random() * 3);
+                        duck.element.style.transform = `translateY(${bobble}px)`;
+                    } else {
+                        duck.element.style.transform = '';
+                    }
+                });
+
+                handleShark();
+
+                // Check if all living ducks have finished AFTER they've all had a chance to move
+                const aliveDucks = ducks.filter(d => !d.isEaten);
+                const allFinished = aliveDucks.length > 0 && aliveDucks.every(d => d.isFinished);
+
+                if (allFinished) {
+                    // All surviving ducks have crossed the finish line
+                    // Use persisted first finisher (fallback to any finished duck if null)
+                    endRace(firstFinisher);
                 } else {
-                    // Stop bobbing animation when finished, but keep the duck moving forward
-                    duck.element.style.transform = '';
+                    animationFrameId = requestAnimationFrame(raceLoop);
                 }
-            });
-            // Do NOT update the duck name list here; only update after shark attack or on add/reset/clear
-
-            handleShark();
-
-            // Check if all living ducks have finished AFTER they've all had a chance to move
-            const aliveDucks = ducks.filter(d => !d.isEaten);
-            const allFinished = aliveDucks.length > 0 && aliveDucks.every(d => d.isFinished);
-
-            if (allFinished) {
-                // All surviving ducks have crossed the finish line
-                // Use persisted first finisher (fallback to any finished duck if null)
-                endRace(firstFinisher);
-            } else {
-                animationFrameId = requestAnimationFrame(raceLoop);
-            }
             } catch (err) {
                 // Prevent the whole animation from halting due to unexpected errors
                 console.error('Error in raceLoop:', err);
