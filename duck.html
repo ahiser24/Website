@@ -182,7 +182,7 @@
 
         <div id="setup-section" class="mb-2 sm:mb-4 p-2 sm:p-4 bg-gray-50 rounded-lg">
             <div class="flex flex-col sm:flex-row gap-2">
-                <input type="text" id="item-input" placeholder="Enter an item or name..." class="flex-grow p-2 text-sm sm:text-base border rounded-lg focus:ring-2 focus:ring-blue-400 focus:outline-none">
+                <input type="text" id="item-input" autocomplete="off" placeholder="Enter an item or name..." class="flex-grow p-2 text-sm sm:text-base border rounded-lg focus:ring-2 focus:ring-blue-400 focus:outline-none">
                 <button id="add-duck-btn" class="btn btn-add text-sm sm:text-base">Add Duck</button>
             </div>
             <div id="item-list" class="mt-3 text-xs sm:text-sm text-gray-700">
@@ -414,7 +414,7 @@
             }
 
             const duckElement = createDuckElement(name, ducks.length);
-            const baseSpeed = 0.002; // Fixed speed for all ducks
+            const baseSpeed = 1; // Fixed speed for all ducks
             const duckObject = {
                 name: name,
                 element: duckElement,
@@ -546,7 +546,7 @@
             if (shark.state !== 'splashing') {
                 // Make shark speed responsive to screen size
                 const trackWidth = raceTrack.clientWidth;
-                const baseSpeed = Math.max(0.8, trackWidth * 0.0002); // Responsive speed
+                const baseSpeed = Math.max(2, trackWidth * 0.0005); // Responsive speed
                 shark.x -= baseSpeed;
             }
 
@@ -728,6 +728,12 @@
             // Defensive: ensure race state is stopped
             raceInProgress = false;
             cancelAnimationFrame(animationFrameId);
+
+            // Remove shark immediately
+            if (shark && shark.element) {
+                shark.element.remove();
+            }
+            shark = null;
 
             // Try to resolve a sensible winner if none provided
             if (!winnerDuck) {
