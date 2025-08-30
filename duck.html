@@ -414,7 +414,7 @@
             }
 
             const duckElement = createDuckElement(name, ducks.length);
-            const baseSpeed = 1; // Fixed speed for all ducks
+            const baseSpeed = .02; // Fixed speed for all ducks
             const duckObject = {
                 name: name,
                 element: duckElement,
@@ -546,7 +546,7 @@
             if (shark.state !== 'splashing') {
                 // Make shark speed responsive to screen size
                 const trackWidth = raceTrack.clientWidth;
-                const baseSpeed = Math.max(2, trackWidth * 0.0005); // Responsive speed
+                const baseSpeed = Math.max(1, trackWidth * 0.0002); // Responsive speed
                 shark.x -= baseSpeed;
             }
 
