@@ -175,7 +175,7 @@
                 <img src="images/ducklogo.png" alt="Duck Logo" class="w-20 h-20 sm:w-32 sm:h-32 md:w-48 md:h-48 lg:logo-size">
                 <div>
                     <h1 class="text-2xl sm:text-3xl md:text-4xl font-fredoka text-yellow-500">Duck, Duck, Go!</h1>
-                    <p class="text-sm sm:text-base text-gray-600 mt-1">Add your list and let the ducks decide!</p>
+                    <p class="text-sm sm:text-base text-gray-600 mt-1">Add up to 8 items toyour list and let the ducks decide!</p>
                 </div>
             </div>
         </header>
@@ -228,13 +228,13 @@
     <audio id="audio-gun" src="images/gun.mp3" preload="auto"></audio>
 
     <script>
-        // --- Intro Modal State ---
+    // --- Intro Modal State ---
         let isMuted = false;
         // Try to persist mute state in sessionStorage
         if (window.sessionStorage && sessionStorage.getItem('duckrace-muted')) {
             isMuted = sessionStorage.getItem('duckrace-muted') === 'true';
         }
-    // DOM Element References
+    // === DOM Element References ===
     const introModal = document.getElementById('intro-modal');
     const introStartBtn = document.getElementById('intro-start-btn');
     const audioToggleBtn = document.getElementById('audio-toggle-btn');
@@ -252,7 +252,7 @@
         const setupSection = document.getElementById('setup-section');
 
 
-    // Audio Elements
+    // === Audio Elements ===
     const audioBg = document.getElementById('audio-bg');
     const audioQuack = document.getElementById('audio-quack');
     const audioSplash = document.getElementById('audio-splash');
@@ -260,10 +260,11 @@
     const allAudio = [audioBg, audioQuack, audioSplash, audioGun];
 
 
-    // Main UI audio toggle refs
+    // === Main UI audio toggle button references ===
     const mainAudioToggleBtn = document.getElementById('main-audio-toggle-btn');
     const mainAudioIcon = document.getElementById('main-audio-icon');
 
+    // This function mutes or unmutes all game sounds and updates the icons.
     function setAllAudioMuted(muted) {
         allAudio.forEach(a => { if (a) a.muted = muted; });
         isMuted = muted;
@@ -277,11 +278,11 @@
         }
     }
 
-    // Initial mute state
+    // Set the initial mute state based on saved preference
     setAllAudioMuted(isMuted);
 
 
-    // Audio toggle button events (both modals)
+    // Add event listeners for the audio toggle buttons (both intro and main UI)
     if (audioToggleBtn) {
         audioToggleBtn.addEventListener('click', function() {
             setAllAudioMuted(!isMuted);
@@ -294,7 +295,7 @@
     }
 
 
-    // START button event
+    // Show the main UI and hide the intro modal when the START button is clicked
     if (introStartBtn) {
         introStartBtn.addEventListener('click', function() {
             introModal.style.display = 'none';
@@ -304,11 +305,12 @@
     }
 
 
-    // Hide main UI until intro modal is dismissed
+    // Hide the main UI until the intro modal is dismissed
     mainUI.style.display = 'none';
     introModal.style.display = '';
 
-    // Always play background music on loop, but respect mute
+    // This function tries to play the background music (if not muted).
+    // Some browsers block autoplay, so we also try to play after the user interacts.
     function ensureMusicPlaying() {
         if (audioBg) {
             audioBg.loop = true;
@@ -318,14 +320,12 @@
             }
         }
     }
-    // Try to start music as soon as possible
     document.addEventListener('DOMContentLoaded', ensureMusicPlaying);
-    // Also try again after user interaction (for autoplay restrictions)
     window.addEventListener('click', ensureMusicPlaying, { once: true });
     window.addEventListener('keydown', ensureMusicPlaying, { once: true });
 
 
-    // Stopwatch Timer
+    // === Stopwatch Timer ===
     const stopwatchTimer = document.getElementById('stopwatch-timer').querySelector('span');
     let timerStart = null;
     let timerInterval = null;
@@ -364,7 +364,7 @@
             stopwatchTimer.textContent = '00:00.00';
         }
 
-        // Game State
+    // === Game State Variables ===
     let ducks = [];
     let duckOrder = [];
     let raceInProgress = false;
@@ -378,7 +378,7 @@
             'images/7.png', 'images/8.png'
         ];
 
-        // UPDATED: Shark images now include the splash
+    // Shark images for different animation states
         const SHARK_IMAGES = {
             swim: 'images/sharky1.png',       // sharky1.png
             pre_attack: 'images/sharky2.png', // sharky2.png
@@ -401,7 +401,14 @@
             return duckContainer;
         }
         
-        function addDuck() {
+    // === Race Timing Constants ===
+    // Change this value to make the race longer or shorter (in milliseconds)
+    // For example, 30000 = 30 seconds, 15000 = 15 seconds
+    const TARGET_RACE_TIME_MS = 30000; // 30 seconds target race time
+
+    // Adds a new duck to the race with the name from the input box.
+    // Ducks are limited to 8. Speed is set at race start.
+    function addDuck() {
             const name = itemInput.value.trim();
             if (name === '') {
                 itemInput.placeholder = "Please enter an item or name first!";
@@ -414,7 +421,7 @@
             }
 
             const duckElement = createDuckElement(name, ducks.length);
-            const baseSpeed = .02; // Fixed speed for all ducks
+            // baseSpeed will be set at race start, not here
             const duckObject = {
                 name: name,
                 element: duckElement,
@@ -422,11 +429,11 @@
                 y: 0,
                 isEaten: false,
                 isFinished: false,
-                baseSpeed: baseSpeed,
+                baseSpeed: 0, // Will be set at race start
                 burst: 0,
                 burstEnd: 0,
                 burstCooldownEnd: 0, // NEW: cooldown property
-                currentSpeed: baseSpeed
+                currentSpeed: 0
             };
 
             ducks.push(duckObject);
@@ -443,13 +450,11 @@
         }
 
 
-        // --- Duck Name List Logic ---
-        // We want to only update the duck name list (with strikethroughs) after a shark attack.
-        // During setup, show all names with no strikethroughs.
-        // During race, do not update the list until a duck is eaten.
-        // After a duck is eaten, update the list to cross out the eaten duck(s).
+    // === Duck Name List Logic ===
+    // The duck name list shows all duck names.
+    // If a duck is eaten by the shark, its name is crossed out.
 
-        // Render the live duck name list, optionally crossing out eaten ducks
+    // Render the duck name list. If showEaten is true, cross out eaten ducks.
         function renderDuckNameList({showEaten = false} = {}) {
             const list = document.getElementById('duck-name-list');
             if (!list) return;
@@ -472,14 +477,16 @@
             });
         }
 
-        // Update the simple contenders list (legacy)
+    // Update the simple contenders list (shows all names as a comma-separated string)
         function updateItemList() {
             itemList.textContent = ducks.length === 0 ? 'None yet!' : ducks.map(d => d.name).join(', ');
             // During setup, always show all names, no strikethroughs
             renderDuckNameList({showEaten: false});
         }
 
-        function repositionDucks() {
+    // This function arranges the ducks vertically on the track so they don't overlap.
+    // It is called after adding/removing ducks or resizing the window.
+    function repositionDucks() {
             const trackHeight = raceTrack.clientHeight;
             const trackWidth = raceTrack.clientWidth;
             
@@ -515,7 +522,8 @@
             });
         }
         
-        function spawnShark() {
+    // This function creates the shark and picks a random duck to target.
+    function spawnShark() {
             const sharkElement = document.createElement('div');
             sharkElement.className = 'shark-container';
             sharkElement.style.backgroundImage = `url('${SHARK_IMAGES.swim}')`;
@@ -536,10 +544,9 @@
             raceTrack.appendChild(sharkElement);
         }
 
-        /**
-         * UPDATED: Handles the new shark animation sequence with responsive sizing.
-         */
-        function handleShark() {
+    // This function animates the shark's movement and attack.
+    // The shark moves toward its target duck and eats it if they collide.
+    function handleShark() {
             if (!shark) return;
 
             // Shark continues moving left unless it's in the middle of the splash animation
@@ -612,7 +619,12 @@
             }
         }
 
-        function raceLoop() {
+    // === Main Race Animation Loop ===
+    // This function moves the ducks forward and checks for finish or shark attacks.
+    // It uses time-based movement so the race duration is consistent on all screens.
+    // If you want to change how ducks move, adjust baseSpeed or burst logic in startRace and below.
+    let lastFrameTime = null;
+    function raceLoop(now) {
             if (!raceInProgress) return;
 
             try {
@@ -622,42 +634,51 @@
                 const finishLineWidth = finishLineElement ? finishLineElement.clientWidth : 30;
                 const finishLineX = raceTrack.clientWidth - finishLineWidth; // Dynamic finish line position
 
-                // Shuffle ducks array each frame for more passing (Fisher-Yates shuffle)
+                // Calculate how much time has passed since the last frame (in ms)
+                // This keeps movement smooth and consistent even if the frame rate changes.
+                if (!lastFrameTime) lastFrameTime = now;
+                const deltaTime = Math.max(1, now - lastFrameTime); // at least 1ms
+                lastFrameTime = now;
+
+                // Shuffle the ducks each frame to make the race look more random and allow passing.
                 for (let i = ducks.length - 1; i > 0; i--) {
                     const j = Math.floor(Math.random() * (i + 1));
                     [ducks[i], ducks[j]] = [ducks[j], ducks[i]];
                 }
-
-
 
                 ducks.forEach(duck => {
                     if (duck.isEaten) return;
 
                     const duckRect = duck.element.getBoundingClientRect();
                     const duckWidth = duckRect.width || 65;
-                    const now = Date.now();
+                    const nowTime = Date.now();
 
-                    // --- BURST LOGIC WITH COOLDOWN ---
-                    // If burst just ended, set cooldown
-                    if (duck.burst && now > duck.burstEnd) {
+                    // === BURST LOGIC ===
+                    // Ducks can get a short speed boost ("burst") at random times.
+                    // If you want to make bursts more or less frequent, change the 0.02 value below.
+                    // If you want bursts to be faster or slower, change the multiplier (2 + Math.random() * 2) or the duration (500 ms).
+                    // If a burst just ended, start a cooldown before the next one.
+                    if (duck.burst && nowTime > duck.burstEnd) {
                         duck.burst = 0;
-                        duck.burstCooldownEnd = now + 2000; // 2 seconds cooldown
+                        duck.burstCooldownEnd = nowTime + 2000; // 2 seconds cooldown
                     }
 
-                    // Only allow new burst if not in cooldown and not already bursting
-                    if (!duck.burst && now > duck.burstCooldownEnd) {
+                    // Only allow a new burst if not in cooldown and not already bursting
+                    if (!duck.burst && nowTime > duck.burstCooldownEnd) {
                         if (Math.random() < 0.02) {
-                            duck.burst = 0.5 + Math.random() * 0.4;
-                            duck.burstEnd = now + 1000;
+                            // Burst speed: 2x to 4x base speed, lasts 0.5 seconds
+                            duck.burst = duck.baseSpeed * (2 + Math.random() * 2); // 2x-4x baseSpeed
+                            duck.burstEnd = nowTime + 500; // 500 ms burst duration
                         }
                     }
 
-                    // --- SMOOTH TRANSITION: Lerp currentSpeed toward target speed ---
+                    // Smoothly transition the duck's speed toward the target speed (base + burst)
+                    // If you want ducks to accelerate faster or slower, change the 0.1 value below.
                     const targetSpeed = duck.baseSpeed + (duck.burst || 0);
                     duck.currentSpeed += (targetSpeed - duck.currentSpeed) * 0.1;
 
-                    // Calculate next position
-                    const nextX = duck.x + Math.max(0.2, duck.currentSpeed);
+                    // Move the duck forward based on its current speed and the time since the last frame
+                    const nextX = duck.x + Math.max(0.2, duck.currentSpeed * deltaTime);
 
                     duck.x = nextX;
 
@@ -701,6 +722,10 @@
             }
         }
 
+        // === Start the Race ===
+        // This function sets the speed for all ducks and starts the race animation.
+        // If you want to make the race faster or slower, change TARGET_RACE_TIME_MS at the top of the script.
+        // If you want to change how speed is calculated, adjust the baseSpeed formula below.
         function startRace() {
             if (ducks.length < 2) {
                 alert("You need at least two ducks to start a race!");
@@ -708,6 +733,26 @@
             }
             if (raceInProgress) return;
 
+            // Calculate the distance from the start to the finish line (in pixels)
+            const finishLineElement = document.getElementById('finish-line');
+            const finishLineWidth = finishLineElement ? finishLineElement.clientWidth : 30;
+            const finishLineX = raceTrack.clientWidth - finishLineWidth;
+            // Use the width of the first duck as a reference for all
+            let duckWidth = 65;
+            if (ducks.length > 0) {
+                const duckRect = ducks[0].element.getBoundingClientRect();
+                duckWidth = duckRect.width || 65;
+            }
+            const trackDistance = finishLineX - 0 - duckWidth; // from 0 to finish line minus duck width
+            // Set the base speed so the ducks finish in the target race time
+            // (pixels per millisecond)
+            const baseSpeed = trackDistance / TARGET_RACE_TIME_MS;
+            ducks.forEach(duck => {
+                duck.baseSpeed = baseSpeed;
+                duck.currentSpeed = baseSpeed;
+            });
+
+            // If there are 3 or more ducks, spawn the shark
             if (ducks.length >= 3) {
                 spawnShark();
             }
@@ -720,8 +765,8 @@
             try { audioGun.currentTime = 0; audioGun.play(); } catch(e){}
             // Do not restart background music
             startTimer();
-            
-            raceLoop();
+            lastFrameTime = null;
+            animationFrameId = requestAnimationFrame(raceLoop);
         }
 
         function endRace(winnerDuck) {
@@ -790,8 +835,10 @@
             }
         }
 
-        function resetGame() {
-            // Only reset race state, not ducks or music
+    // === Reset the Race (but keep the ducks) ===
+    // This function resets the race state so you can race again with the same ducks.
+    // It does not remove the ducks or stop the music.
+    function resetGame() {
             raceInProgress = false;
             if (animationFrameId) {
                 cancelAnimationFrame(animationFrameId);
@@ -825,7 +872,8 @@
             renderDuckNameList({showEaten: false});
         }
 
-        // Clear all ducks and reset everything (including UI)
+    // === Remove All Ducks and Reset Everything ===
+    // This function removes all ducks and resets the UI to the initial state.
         function clearDucks() {
             if (animationFrameId) {
                 cancelAnimationFrame(animationFrameId);
@@ -851,7 +899,7 @@
             // Do NOT stop or reset background music
         }
 
-        // Event Listeners
+    // === Event Listeners ===
         addDuckBtn.addEventListener('click', addDuck);
         itemInput.addEventListener('keyup', (event) => {
             if (event.key === 'Enter') addDuck();
@@ -870,7 +918,8 @@
 
         window.addEventListener('resize', repositionDucks);
         
-        // Add debounced resize handler for better performance
+    // When the window is resized, reposition the ducks and shark (if present).
+    // Debounced for better performance.
         let resizeTimeout;
         window.addEventListener('resize', () => {
             clearTimeout(resizeTimeout);
@@ -884,9 +933,9 @@
             }, 100);
         });
 
-        // Initial setup
+    // === Initial Setup ===
         resetGame();
-        // If user closes modal by other means, ensure main UI is shown (failsafe)
+    // If user presses Enter or Space while the intro modal is open, start the game (accessibility/failsafe)
         window.addEventListener('keydown', function(e) {
             if (introModal.style.display !== 'none' && (e.key === 'Enter' || e.key === ' ')) {
                 introStartBtn.click();
