@@ -106,7 +106,7 @@
                 
                 const incidents = await response.json();
                 updateMap(incidents);
-                statusEl.textContent = `Updated: ${new Date().toLocaleTimeString()}`;
+                statusEl.textContent = `Update Check: ${new Date().toLocaleTimeString()}`;
                 
             } catch (error) {
                 console.error('Error fetching incident data:', error);
