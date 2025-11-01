@@ -209,41 +209,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 12:27",
+    "dispatch_time": "11/01/2025 12:28",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "2000-BLK W GRACE ST",
-    "status": "Arrived",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "5300-BLK OLD MIDLOTHIAN TPKE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
-    "lat": 37.5562142,
-    "lng": -77.4613416
+    "lat": 37.506841,
+    "lng": -77.494775
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 12:36",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2100-BLK CHAMBERLAYNE PKWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 12:36",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2100-BLK CHAMBERLAYNE PKWY",
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 12:45",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "700-BLK W FELLS ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
+    "nearest_intersection": "Fells Street",
+    "location_township": "FIRE",
+    "lat": 37.5582353,
+    "lng": -77.4394875
   }
 ]
