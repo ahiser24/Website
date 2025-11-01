@@ -8,10 +8,21 @@ on:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
+  # --- THIS IS THE NEW TRIGGER ---
+  workflow_run:
+    workflows: ["Scrape Richmond Data"] # This MUST match the 'name:' in scrape-data.yml
+    types:
+      - completed # This means it runs after the scrape workflow finishes
+  # ------------------------------
 
 jobs:
   build_and_deploy_job:
-    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    # --- THIS 'IF' CONDITION IS UPDATED ---
+    if: >
+      (github.event_name == 'push') ||
+      (github.event_name == 'pull_request' && github.event.action != 'closed') ||
+      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success')
+    # --------------------------------------
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
