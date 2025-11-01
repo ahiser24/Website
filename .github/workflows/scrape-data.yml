@@ -7,6 +7,13 @@ on:
 jobs:
   scrape-and-upload:
     runs-on: ubuntu-latest
+
+    # --- ADD THIS ---
+    # We need permission to write the new incidents.json file back to the repo
+    permissions:
+      contents: write
+    # ----------------
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,13 +32,12 @@ jobs:
         run: |
           python scrape.py # This creates the local incidents.json
 
-      - name: Upload to Azure Blob Storage
-        uses: Azure/storage-blob-upload-action@v1 # Changed this from @v2 to @v1
-        with:
-          connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
-          container-name: "data" # The container name you created in Azure
-          source-path: "incidents.json" # The file the scrape.py just made
-          destination-path: "incidents.json" # The name of the file in the cloud
-          content-type: "application/json" # Important for the browser
-          cache-control: "max-age=120" # Tells browsers to cache for 2 min
-
+      # --- REPLACED THE AZURE STEP WITH THIS ---
+      - name: Commit updated incidents.json
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add incidents.json
+          # Only commit if there are actual changes
+          git diff --staged --quiet || git commit -m "Update incidents.json"
+          git push
