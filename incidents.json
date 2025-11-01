@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 09:21",
-    "box_no": "Precinct 1",
-    "type_specific": "WIRES DOWN (NO FIRE) , INVESTIGATE",
-    "street": "3000-BLK DOCK ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dock Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5292009,
-    "lng": -77.4245052
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 09:29",
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -141,19 +128,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5099124,
     "lng": -77.5193324
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 10:45",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "FOREST HILL AVE/JOE BROOKS BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5337669,
-    "lng": -77.5401206
   },
   {
     "type_general": "RPD",
@@ -209,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 11:12",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "00-BLK N 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337736,
-    "lng": -77.4268235
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 11:14",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -232,19 +193,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5012106,
     "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 11:16",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1400-BLK TREEHAVEN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Treehaven Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.496241,
-    "lng": -77.4787022
   },
   {
     "type_general": "RPD",
@@ -261,29 +209,55 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 11:28",
-    "box_no": "Precinct 4",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "4300-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "dispatch_time": "11/01/2025 11:38",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "5600-BLK WARWICK RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5946094,
-    "lng": -77.4494236
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.496747,
+    "lng": -77.4969317
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/01/2025 11:02",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "2400-BLK CARMINE ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 11:47",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "BELVIDERE RICH:EST LL(-77.4449,37.5521)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 11:47",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "BELVIDERE RICH:EST LL(-77.4449,37.5521)",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Carmine Street",
-    "location_township": "FIRE",
-    "lat": 37.5562698,
-    "lng": -77.4167992
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 11:47",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3200-BLK Q ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Q Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5346307,
+    "lng": -77.405654
   },
   {
     "type_general": "RFD",
@@ -291,11 +265,24 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
     "street": "2200-BLK FAIRFIELD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairfield Avenue",
     "location_township": "FIRE",
     "lat": 37.5482346,
     "lng": -77.4074568
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 11:43",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "3400-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5580018,
+    "lng": -77.4624337
   }
 ]
