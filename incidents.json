@@ -261,6 +261,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/01/2025 11:12",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "00-BLK N 18TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5337736,
+    "lng": -77.4268235
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/01/2025 11:14",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -286,17 +299,30 @@
     "lng": -77.4787022
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/01/2025 10:31",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "6400-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 11:17",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "N PLUM ST/PARK AVE RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5036311,
-    "lng": -77.5151182
+    "nearest_intersection": "North Plum Street",
+    "location_township": "Precinct 3",
+    "lat": 37.548672,
+    "lng": -77.458761
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 11:17",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "N PLUM ST/PARK AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Plum Street",
+    "location_township": "Precinct 3",
+    "lat": 37.548672,
+    "lng": -77.458761
   },
   {
     "type_general": "RFD",
@@ -310,5 +336,18 @@
     "location_township": "FIRE",
     "lat": 37.5562698,
     "lng": -77.4167992
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 11:17",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "N PLUM ST/PARK AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Plum Street",
+    "location_township": "FIRE",
+    "lat": 37.548672,
+    "lng": -77.458761
   }
 ]
