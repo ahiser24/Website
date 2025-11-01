@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 10:55",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2900-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.563653,
-    "lng": -77.4715221
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 10:56",
     "box_no": "Precinct 4",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -128,6 +115,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5748547,
     "lng": -77.4635584
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 11:05",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "N 7TH ST/E MARSHALL ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 7th Street",
+    "location_township": "DPR",
+    "lat": 37.5423231,
+    "lng": -77.4352249
   },
   {
     "type_general": "RPD",
@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 12:05",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "500-BLK LINCOLN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lincoln Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590215,
-    "lng": -77.438124
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 12:18",
     "box_no": "Precinct 1",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -219,6 +206,45 @@
     "location_township": "Precinct 3",
     "lat": 37.506841,
     "lng": -77.494775
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 12:48",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "4000-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5722672,
+    "lng": -77.4813689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 12:53",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3000-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5725597,
+    "lng": -77.4456656
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 12:53",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3000-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5725597,
+    "lng": -77.4456656
   },
   {
     "type_general": "RFD",
