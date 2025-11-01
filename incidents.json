@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 14:22",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 14:23",
     "box_no": "Precinct 3",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -248,6 +235,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/01/2025 15:33",
+    "box_no": "Precinct 2",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "1700-BLK ALASKA DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Alaska Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4916854,
+    "lng": -77.4795771
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/01/2025 15:34",
     "box_no": "Precinct 1",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -297,6 +297,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5477542,
     "lng": -77.4441033
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 16:04",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "2900-BLK LYNHAVEN AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Lynhaven Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4848872,
+    "lng": -77.4409829
   },
   {
     "type_general": "RPD",
@@ -351,6 +364,58 @@
     "lng": -77.4784074
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 16:29",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1700-BLK STONEWALL AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Stonewall Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.524736,
+    "lng": -77.452662
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 16:29",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1700-BLK STONEWALL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stonewall Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.524736,
+    "lng": -77.452662
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 16:31",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "800-BLK N 35TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 35th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5306918,
+    "lng": -77.4057066
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 16:31",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "800-BLK N 35TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 35th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5306918,
+    "lng": -77.4057066
+  },
+  {
     "type_general": "DPW",
     "dispatch_time": "11/01/2025 01:22",
     "box_no": "Public Works",
@@ -362,19 +427,6 @@
     "location_township": "Public Works",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/01/2025 16:01",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "800-BLK W GRAHAM RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Graham Road, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5647573,
-    "lng": -77.4426561
   },
   {
     "type_general": "RFD",
@@ -391,15 +443,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/01/2025 16:15",
+    "dispatch_time": "11/01/2025 16:31",
     "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "4900-BLK NEW KENT RD",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "200-BLK W CHARITY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "FIRE",
+    "lat": 37.5523546,
+    "lng": -77.4384047
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 16:31",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "800-BLK N 35TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "New Kent Road",
+    "nearest_intersection": "North 35th Street, East End",
     "location_township": "FIRE",
-    "lat": 37.5236975,
-    "lng": -77.4845598
+    "lat": 37.5306918,
+    "lng": -77.4057066
   }
 ]
