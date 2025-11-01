@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 17:14",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "5000-BLK SNEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770457,
-    "lng": -77.4856193
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 17:33",
-    "box_no": "Precinct 2",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "3900-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5037621,
-    "lng": -77.4732556
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 17:36",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -115,19 +89,6 @@
     "location_township": "Precinct 3",
     "lat": 37.544957,
     "lng": -77.46522
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 17:43",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "1700-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4923295,
-    "lng": -77.481047
   },
   {
     "type_general": "RPD",
@@ -148,12 +109,25 @@
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
     "street": "900-BLK N THOMPSON ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Monument Avenue",
     "location_township": "Precinct 3",
     "lat": 37.56625,
     "lng": -77.480429
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 17:56",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "SILVERWOOD DR/HULL STREET RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Silverwood Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4873993,
+    "lng": -77.4980623
   },
   {
     "type_general": "RPD",
@@ -187,7 +161,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "6300-BLK POWHITE PKWY",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Powhite Parkway",
     "location_township": "Precinct 3",
@@ -196,16 +170,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 18:12",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1300-BLK N ARTHUR ASHE BLVD",
-    "status": "Enroute",
+    "dispatch_time": "11/01/2025 18:16",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1500-BLK COALTER ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5669513,
-    "lng": -77.4682869
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54623,
+    "lng": -77.419433
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 18:16",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1500-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54623,
+    "lng": -77.419433
   },
   {
     "type_general": "DPW",
@@ -271,5 +258,31 @@
     "location_township": "FIRE",
     "lat": 37.531117,
     "lng": -77.514346
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 18:21",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
+    "street": "600-BLK ELGIN TER",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Elgin Terrace",
+    "location_township": "FIRE",
+    "lat": 37.5122621,
+    "lng": -77.5188585
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 18:23",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "700-BLK KINNEY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.554068,
+    "lng": -77.453541
   }
 ]
