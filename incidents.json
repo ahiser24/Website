@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 14:09",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "200-BLK PEMBER LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Pember Lane",
-    "location_township": "Precinct 3",
-    "lat": 37.5032346,
-    "lng": -77.4952987
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 14:14",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -225,13 +212,13 @@
     "dispatch_time": "11/01/2025 14:18",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3400-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "street": "3600-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "nearest_intersection": "Walton Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
+    "lat": 37.581665,
+    "lng": -77.446998
   },
   {
     "type_general": "RPD",
@@ -286,6 +273,19 @@
     "lng": -77.444674
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 14:51",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RIVERSIDE DR/HILLCREST RD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5279468,
+    "lng": -77.4870276
+  },
+  {
     "type_general": "DPW",
     "dispatch_time": "11/01/2025 01:22",
     "box_no": "Public Works",
@@ -297,5 +297,57 @@
     "location_township": "Public Works",
     "lat": 37.5465072,
     "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 14:54",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5514093,
+    "lng": -77.4534673
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 14:54",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "3800-BLK MASTIN LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.571676,
+    "lng": -77.481157
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 14:55",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1200-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5528754,
+    "lng": -77.4528272
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 14:57",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @POWHITE PKWY BRIDGE SB",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
