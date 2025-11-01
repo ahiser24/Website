@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 13:34",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "4800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5974284,
-    "lng": -77.4498698
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 13:40",
     "box_no": "Precinct 4",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4770648,
     "lng": -77.4318075
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 14:03",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "100-BLK S 14TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337178,
-    "lng": -77.4328912
   },
   {
     "type_general": "RPD",
@@ -278,7 +252,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "400-BLK E 16TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Maury Street",
     "location_township": "Precinct 1",
@@ -287,29 +261,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 15:24",
+    "dispatch_time": "11/01/2025 15:28",
     "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "400-BLK COWARDIN AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5204201,
-    "lng": -77.4500564
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 15:24",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "400-BLK COWARDIN AVE",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
+    "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
-    "lat": 37.5204201,
-    "lng": -77.4500564
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RPD",
@@ -317,12 +278,38 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 15:34",
+    "box_no": "Precinct 1",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "900-BLK GODDIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Goddin Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5161305,
+    "lng": -77.4054849
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 15:35",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "500-BLK W 14TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5245246,
+    "lng": -77.450578
   },
   {
     "type_general": "DPW",
@@ -349,5 +336,18 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 15:35",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "FIRE",
+    "lat": 37.515436,
+    "lng": -77.524786
   }
 ]
