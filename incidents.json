@@ -196,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 10:57",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "700-BLK E BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5419283,
-    "lng": -77.4353683
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 10:58",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -265,7 +252,7 @@
     "box_no": "Precinct 2",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "1400-BLK TREEHAVEN DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Treehaven Drive, Southside",
     "location_township": "Precinct 2",
@@ -284,6 +271,19 @@
     "location_township": "Precinct 3",
     "lat": 37.548672,
     "lng": -77.458761
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 11:28",
+    "box_no": "Precinct 4",
+    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
+    "street": "4300-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5946094,
+    "lng": -77.4494236
   },
   {
     "type_general": "RFD",
