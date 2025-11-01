@@ -223,32 +223,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/01/2025 11:47",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "BELVIDERE RICH:EST LL(-77.4449,37.5521)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 11:47",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "BELVIDERE RICH:EST LL(-77.4449,37.5521)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 11:47",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "3200-BLK Q ST",
@@ -274,15 +248,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/01/2025 11:43",
+    "dispatch_time": "11/01/2025 11:53",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "FIRE",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 11:55",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "3400-BLK W BROAD ST",
-    "status": "Arrived",
+    "street": "600-BLK E CANAL ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "East Canal Street",
     "location_township": "FIRE",
-    "lat": 37.5580018,
-    "lng": -77.4624337
+    "lat": 37.5382689,
+    "lng": -77.4397524
   }
 ]
