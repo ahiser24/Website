@@ -26,7 +26,7 @@ jobs:
           python scrape.py # This creates the local incidents.json
 
       - name: Upload to Azure Blob Storage
-        uses: Azure/storage-blob-upload-action@v2
+        uses: Azure/storage-blob-upload-action@v1 # Changed this from @v2 to @v1
         with:
           connection-string: ${{ secrets.AZURE_STORAGE_CONNECTION_STRING }}
           container-name: "data" # The container name you created in Azure
@@ -34,3 +34,4 @@ jobs:
           destination-path: "incidents.json" # The name of the file in the cloud
           content-type: "application/json" # Important for the browser
           cache-control: "max-age=120" # Tells browsers to cache for 2 min
+
