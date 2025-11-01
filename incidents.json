@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 13:48",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3400-BLK W CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5694404,
-    "lng": -77.4748981
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 14:01",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -148,7 +135,7 @@
     "box_no": "Precinct 3",
     "type_specific": "D.O.A. , INVESTIGATE",
     "street": "3700-BLK GROVE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
@@ -187,7 +174,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "RIVERSIDE DR/HILLCREST RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Riverside Drive",
     "location_township": "Precinct 3",
@@ -313,42 +300,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 15:48",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2900-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Essex Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.570084,
-    "lng": -77.43294
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/01/2025 15:50",
+    "dispatch_time": "11/01/2025 15:57",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "900-BLK W BROOKLAND PARK BLVD",
+    "street": "700-BLK S BELVIDERE ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Brookland Park Boulevard, Northside",
+    "nearest_intersection": "Floyd Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.5724275,
-    "lng": -77.4487587
+    "lat": 37.5450741,
+    "lng": -77.4489075
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 15:50",
+    "dispatch_time": "11/01/2025 15:57",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "900-BLK W BROOKLAND PARK BLVD",
+    "street": "700-BLK S BELVIDERE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Brookland Park Boulevard, Northside",
+    "nearest_intersection": "Floyd Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.5724275,
-    "lng": -77.4487587
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 16:01",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "800-BLK W GRAHAM RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Graham Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5647573,
+    "lng": -77.4426561
   },
   {
     "type_general": "DPW",
@@ -375,5 +362,18 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 16:01",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "800-BLK W GRAHAM RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Graham Road, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5647573,
+    "lng": -77.4426561
   }
 ]
