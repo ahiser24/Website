@@ -248,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 15:56",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "200-BLK W GRACE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5462078,
-    "lng": -77.4445175
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 15:53",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -271,6 +258,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5946094,
     "lng": -77.4494236
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 15:39",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "3200-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 32nd Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.511445,
+    "lng": -77.467436
   },
   {
     "type_general": "RPD",
@@ -287,15 +287,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 15:39",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "3200-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
+    "dispatch_time": "11/02/2025 15:52",
+    "box_no": "Precinct 4",
+    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
+    "street": "2900-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 32nd Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.511445,
-    "lng": -77.467436
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.56968,
+    "lng": -77.466448
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 15:52",
+    "box_no": "Precinct 4",
+    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
+    "street": "2900-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.56968,
+    "lng": -77.466448
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 15:56",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "200-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5462078,
+    "lng": -77.4445175
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/02/2025 16:03",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "FIRE",
+    "lat": 37.53551,
+    "lng": -77.431692
   }
 ]
