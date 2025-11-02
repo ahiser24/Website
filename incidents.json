@@ -92,42 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 11:07",
+    "dispatch_time": "11/02/2025 11:20",
     "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "3500-BLK ELLWOOD AVE",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3600-BLK TANBY RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Ellwood Avenue",
+    "nearest_intersection": "Tanby Road",
     "location_township": "Precinct 3",
-    "lat": 37.556473,
-    "lng": -77.486031
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 11:18",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "LL(-77:28:09.8479,37:30:17.2536): @CIRCLE PLAZA",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East 37th Street, Southside",
-    "location_township": "Precinct 2",
-    "lng": -77.46940219444444,
-    "lat": 37.50479266666667
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 11:18",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "LL(-77:28:09.8479,37:30:17.2536): @CIRCLE PLAZA",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 37th Street, Southside",
-    "location_township": "Precinct 2",
-    "lng": -77.46940219444444,
-    "lat": 37.50479266666667
+    "lat": 37.546793,
+    "lng": -77.557945
   },
   {
     "type_general": "RPD",
@@ -195,6 +169,19 @@
     "lng": -77.4556203
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 11:27",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "DEFORREST ST/WHITCOMB ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Deforrest Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5551833,
+    "lng": -77.4144858
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/02/2025 11:07",
     "box_no": "FIRE",
@@ -206,71 +193,6 @@
     "location_township": "FIRE",
     "lat": 37.556473,
     "lng": -77.486031
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/02/2025 11:20",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "3100-BLK ELLWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ellwood Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5543682,
-    "lng": -77.4796539
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 11:20",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3600-BLK TANBY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tanby Road",
-    "location_township": "Precinct 3",
-    "lat": 37.546793,
-    "lng": -77.557945
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 11:36",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3400-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 11:46",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK W 21ST ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West 21st Street",
-    "location_township": "Precinct 4",
-    "lat": 37.521932,
-    "lng": -77.454684
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 11:46",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK W 21ST ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 21st Street",
-    "location_township": "Precinct 4",
-    "lat": 37.521932,
-    "lng": -77.454684
   },
   {
     "type_general": "RPD",
@@ -310,5 +232,18 @@
     "location_township": "DPR",
     "lat": 37.5667607,
     "lng": -77.475537
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/02/2025 11:55",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "300-BLK W BAKER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "FIRE",
+    "lat": 37.5518853,
+    "lng": -77.4399743
   }
 ]
