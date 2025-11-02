@@ -115,5 +115,44 @@
     "location_township": "Precinct 1",
     "lat": 37.520818,
     "lng": -77.444127
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 07:52",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 2",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 07:47",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2300-BLK W GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "DPR",
+    "lat": 37.5583067,
+    "lng": -77.464809
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 07:57",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "7200-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5160765,
+    "lng": -77.5258248
   }
 ]
