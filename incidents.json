@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 01:12",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "BRANDER ST/MAURY ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Brander Street",
-    "location_township": "Precinct 1",
-    "lat": 37.52495,
-    "lng": -77.4285357
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 01:17",
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
@@ -89,6 +76,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5379794,
     "lng": -77.4613479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 02:43",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 1",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -157,45 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 04:25",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "4900-BLK OLD BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5998898,
-    "lng": -77.4490619
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 04:32",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "2500-BLK 3RD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "3rd Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5645368,
-    "lng": -77.4211687
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 04:32",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "2500-BLK PORTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 2",
-    "lat": 37.51714,
-    "lng": -77.456796
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 04:36",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -209,15 +170,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/02/2025 04:32",
+    "dispatch_time": "11/02/2025 04:45",
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "2500-BLK 3RD AVE",
+    "street": "1400-BLK BAINBRIDGE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue, Northside",
+    "nearest_intersection": "Bainbridge Street",
     "location_township": "FIRE",
-    "lat": 37.5645368,
-    "lng": -77.4211687
+    "lat": 37.5205352,
+    "lng": -77.4464716
   }
 ]
