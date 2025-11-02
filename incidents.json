@@ -92,45 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 08:29",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3800-BLK HULL STREET RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 08:29",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3800-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 08:29",
-    "box_no": "Precinct 2",
-    "type_specific": "HOLD-UP ALARM RESIDENTIAL , INVESTIGATE",
-    "street": "300-BLK W 26TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West 26th Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5178707,
-    "lng": -77.4591174
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 08:15",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -141,5 +102,57 @@
     "location_township": "Precinct 1",
     "lat": 37.5188773,
     "lng": -77.4447765
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 08:37",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "3100-BLK FLOYD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5554365,
+    "lng": -77.4787666
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 08:40",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3700-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5227355,
+    "lng": -77.4412676
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 08:40",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3700-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5227355,
+    "lng": -77.4412676
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 08:40",
+    "box_no": "Precinct 2",
+    "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
+    "street": "1700-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4923295,
+    "lng": -77.481047
   }
 ]
