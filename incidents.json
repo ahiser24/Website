@@ -40,6 +40,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 07:04",
+    "box_no": "Precinct 3",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "1100-BLK WALLACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dobson Street",
+    "location_township": "Precinct 3",
+    "lat": 37.541009,
+    "lng": -77.456769
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 06:59",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1400-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5195165,
+    "lng": -77.4456731
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 06:50",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -53,28 +79,41 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/02/2025 06:58",
+    "dispatch_time": "11/02/2025 07:14",
     "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "2900-BLK HATHAWAY RD",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "500-BLK S SHEPPARD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hathaway Road",
+    "nearest_intersection": "South Sheppard Street",
     "location_township": "FIRE",
-    "lat": 37.5386349,
-    "lng": -77.5200352
+    "lat": 37.5488094,
+    "lng": -77.4804805
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/02/2025 07:23",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "W BACON ST/HICKORY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "FIRE",
+    "lat": 37.5564641,
+    "lng": -77.442216
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 07:04",
+    "dispatch_time": "11/02/2025 07:14",
     "box_no": "Precinct 3",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "1100-BLK WALLACE ST",
-    "status": "Enroute",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Dobson Street",
+    "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "Precinct 3",
-    "lat": 37.541009,
-    "lng": -77.456769
+    "lat": 37.5140128,
+    "lng": -77.4895724
   }
 ]
