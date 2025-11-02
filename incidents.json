@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 06:59",
-    "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "1400-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5195165,
-    "lng": -77.4456731
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 09:16",
     "box_no": "Precinct 1",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -63,6 +50,19 @@
     "location_township": "Precinct 1",
     "lat": 37.536538,
     "lng": -77.424302
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 09:36",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "900-BLK S HARRISON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Harrison Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5379794,
+    "lng": -77.4613479
   },
   {
     "type_general": "RPD",
@@ -89,32 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 09:39",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5725597,
-    "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 09:36",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "900-BLK S HARRISON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Harrison Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5379794,
-    "lng": -77.4613479
   },
   {
     "type_general": "RPD",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 09:49",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5800-BLK WESTOWER DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westower Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5238336,
-    "lng": -77.5039485
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 10:11",
     "box_no": "Precinct 2",
     "type_specific": "HOLD-UP ALARM RESIDENTIAL , INVESTIGATE",
@@ -196,16 +157,68 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 09:31",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3500-BLK EAST RICHMOND RD",
+    "dispatch_time": "11/02/2025 10:22",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "500-BLK W 14TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West 14th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5245246,
+    "lng": -77.450578
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 10:22",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "500-BLK W 14TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
+    "nearest_intersection": "West 14th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5245246,
+    "lng": -77.450578
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 09:49",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5800-BLK WESTOWER DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5238336,
+    "lng": -77.5039485
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 10:16",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3900-BLK E BROAD ROCK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5010195,
+    "lng": -77.4692833
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 10:24",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "700-BLK S HARRISON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Harrison Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5400759,
+    "lng": -77.4597867
   },
   {
     "type_general": "RFD",
@@ -219,31 +232,5 @@
     "location_township": "FIRE",
     "lat": 37.5791153,
     "lng": -77.4602073
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 10:16",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3900-BLK GREENBAY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greenbay Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4821306,
-    "lng": -77.4691115
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 10:16",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "3900-BLK E BROAD ROCK RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5010195,
-    "lng": -77.4692833
   }
 ]
