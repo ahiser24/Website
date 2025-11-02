@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 06:31",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "4800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5974284,
-    "lng": -77.4498698
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 06:33",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -63,5 +50,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5205792,
     "lng": -77.4040318
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 06:31",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "4800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5974284,
+    "lng": -77.4498698
   }
 ]
