@@ -157,16 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 12:13",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "4300-BLK CHAMBERLAYNE AVE",
+    "dispatch_time": "11/02/2025 12:40",
+    "box_no": "Precinct 3",
+    "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
+    "street": "1300-BLK BLAIR ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5946094,
-    "lng": -77.4494236
+    "nearest_intersection": "Blair Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5388161,
+    "lng": -77.4606728
   },
   {
     "type_general": "RPD",
@@ -209,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 12:40",
-    "box_no": "Precinct 3",
-    "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
-    "street": "1300-BLK BLAIR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Blair Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5388161,
-    "lng": -77.4606728
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 13:19",
     "box_no": "Precinct 3",
     "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
@@ -232,32 +219,6 @@
     "location_township": "Precinct 3",
     "lat": 37.515436,
     "lng": -77.524786
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:25",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "300-BLK N BELVIDERE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Belvidere Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511248,
-    "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:25",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "300-BLK N BELVIDERE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Belvidere Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511248,
-    "lng": -77.4451238
   },
   {
     "type_general": "RPD",
@@ -274,19 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:06",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "3100-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5656688,
-    "lng": -77.4738416
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 13:12",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , AGGRESSIVE",
@@ -297,5 +245,70 @@
     "location_township": "Precinct 4",
     "lat": 37.5563334,
     "lng": -77.454402
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 13:40",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N BELVIDERE ST RICH:EST LL(-77.4445,37.5520)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 13:40",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N BELVIDERE ST RICH:EST LL(-77.4445,37.5520)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 13:23",
+    "box_no": "DPR",
+    "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
+    "street": "1000-BLK W MARSHALL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "DPR",
+    "lat": 37.5516403,
+    "lng": -77.449549
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 13:33",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1800-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5356036,
+    "lng": -77.4247666
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 13:11",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "3000-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.564782,
+    "lng": -77.4727504
   }
 ]
