@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 03:46",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "MAGNOLIA ST/MECHANICSVILLE TPKE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Magnolia Street",
-    "location_township": "Precinct 1",
-    "lat": 37.558452,
-    "lng": -77.4128428
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 04:49",
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -92,28 +79,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 05:22",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "RICH: @POWHITE PKWY SB - TOLL PLAZA",
-    "status": "Arrived",
+    "dispatch_time": "11/02/2025 06:31",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "4800-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5974284,
+    "lng": -77.4498698
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 06:13",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "1200-BLK LAKEVIEW AVE",
+    "dispatch_time": "11/02/2025 06:33",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "HOBBS LN/ADMIRAL GRAVELY BLVD RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Lakeview Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5405217,
-    "lng": -77.4597311
+    "nearest_intersection": "Hobbs Lane",
+    "location_township": "Precinct 1",
+    "lat": 37.5205792,
+    "lng": -77.4040318
   }
 ]
