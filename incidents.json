@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:08",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E BROOKLAND PARK BLVD/DILL AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.568967,
-    "lng": -77.4167096
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 13:50",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -131,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:11",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "3000-BLK W BROAD ST",
-    "status": "Arrived",
+    "dispatch_time": "11/02/2025 14:02",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2300-BLK RIVERSIDE DR",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.564782,
-    "lng": -77.4727504
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5234489,
+    "lng": -77.4584367
   },
   {
     "type_general": "RPD",
@@ -170,6 +157,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:09",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "700-BLK REX AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Corbin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.58876,
+    "lng": -77.441886
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 13:47",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -180,19 +180,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5511248,
     "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:02",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2300-BLK RIVERSIDE DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5234489,
-    "lng": -77.4584367
   },
   {
     "type_general": "RPD",
@@ -219,32 +206,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5789985,
     "lng": -77.4891247
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:19",
-    "box_no": "Precinct 3",
-    "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
-    "street": "1300-BLK BLAIR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Blair Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5388161,
-    "lng": -77.4606728
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:09",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "700-BLK REX AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Corbin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.58876,
-    "lng": -77.441886
   },
   {
     "type_general": "RPD",
@@ -284,5 +245,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5278633,
     "lng": -77.4850044
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:12",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "100-BLK W GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Adams Street",
+    "location_township": "DPR",
+    "lat": 37.545457,
+    "lng": -77.443725
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:19",
+    "box_no": "Precinct 3",
+    "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
+    "street": "1300-BLK BLAIR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Blair Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5388161,
+    "lng": -77.4606728
   }
 ]
