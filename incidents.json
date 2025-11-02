@@ -31,7 +31,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "3400-BLK MIKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Mike Road",
     "location_township": "Precinct 2",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 00:08",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "5200-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492722,
-    "lng": -77.4891674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 00:10",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -167,19 +154,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5361073,
     "lng": -77.4327798
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 00:17",
-    "box_no": "Precinct 4",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
-    "street": "N 6TH ST/E FRANKLIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 6th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5428557,
-    "lng": -77.4361186
   },
   {
     "type_general": "RPD",
@@ -237,7 +211,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/02/2025 00:35",
     "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "100-BLK W 33RD ST",
     "status": "Arrived",
     "cross_street": "",
@@ -245,6 +219,45 @@
     "location_township": "Precinct 2",
     "lat": 37.512408,
     "lng": -77.468832
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 00:36",
+    "box_no": "Precinct 2",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
+    "street": "4200-BLK WALMSLEY BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4711956,
+    "lng": -77.475152
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 00:36",
+    "box_no": "Precinct 2",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
+    "street": "4200-BLK WALMSLEY BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4711956,
+    "lng": -77.475152
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 00:40",
+    "box_no": "Precinct 4",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE - EMS",
+    "street": "2200-BLK 4TH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5614963,
+    "lng": -77.4220987
   },
   {
     "type_general": "RFD",
@@ -286,19 +299,6 @@
     "lng": -77.454018
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/02/2025 00:50",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "3800-BLK MASTIN LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.571676,
-    "lng": -77.481157
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/02/2025 00:41",
     "box_no": "Precinct 3",
@@ -312,19 +312,6 @@
     "lng": -77.4561674
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 00:40",
-    "box_no": "Precinct 4",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE - EMS",
-    "street": "2200-BLK 4TH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5614963,
-    "lng": -77.4220987
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/02/2025 00:44",
     "box_no": "FIRE",
@@ -336,5 +323,70 @@
     "location_township": "FIRE",
     "lat": 37.4999081,
     "lng": -77.4478148
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 00:59",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "MECHANICSVILLE TPKE/COOL LN RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5559863,
+    "lng": -77.4101543
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/02/2025 00:50",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "3800-BLK MASTIN LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.571676,
+    "lng": -77.481157
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 01:00",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2800-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5630621,
+    "lng": -77.4702604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 01:00",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2800-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5630621,
+    "lng": -77.4702604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 01:00",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2200-BLK CHALFONT DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chalfont Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4908816,
+    "lng": -77.4654757
   }
 ]
