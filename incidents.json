@@ -156,6 +156,32 @@
     "lng": -77.4631131
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 03:48",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "5000-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.6002259,
+    "lng": -77.4542662
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 03:49",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "4900-BLK OLD BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5998898,
+    "lng": -77.4490619
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/02/2025 03:29",
     "box_no": "FIRE",
@@ -170,15 +196,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/02/2025 03:38",
+    "dispatch_time": "11/02/2025 03:54",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "5700-BLK SWANSON RD",
-    "status": "Arrived",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "1300-BLK COALTER ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Swanson Road",
+    "nearest_intersection": "Coalter Street",
     "location_township": "FIRE",
-    "lat": 37.4899544,
-    "lng": -77.4972492
+    "lat": 37.543765,
+    "lng": -77.422946
   }
 ]
