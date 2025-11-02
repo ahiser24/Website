@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 05:02",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "2500-BLK PORTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 2",
-    "lat": 37.51714,
-    "lng": -77.456796
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 05:22",
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
