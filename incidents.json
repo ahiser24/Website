@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 09:16",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "400-BLK N 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.536538,
-    "lng": -77.424302
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 09:16",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "400-BLK N 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.536538,
-    "lng": -77.424302
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 09:36",
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -76,6 +50,19 @@
     "location_township": "Precinct 2",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 09:47",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1200-BLK E MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5404297,
+    "lng": -77.4303132
   },
   {
     "type_general": "RPD",
@@ -117,6 +104,19 @@
     "lng": -77.4686883
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/02/2025 10:07",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1600-BLK WESTWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westwood Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5791153,
+    "lng": -77.4602073
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/02/2025 10:04",
     "box_no": "Precinct 4",
@@ -128,32 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.548743,
     "lng": -77.444628
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 09:47",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1200-BLK E MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5404297,
-    "lng": -77.4303132
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 10:11",
-    "box_no": "Precinct 2",
-    "type_specific": "HOLD-UP ALARM RESIDENTIAL , INVESTIGATE",
-    "street": "2500-BLK LAMBERTS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lamberts Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.476416,
-    "lng": -77.440876
   },
   {
     "type_general": "RPD",
@@ -221,16 +195,16 @@
     "lng": -77.4597867
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/02/2025 10:07",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1600-BLK WESTWOOD AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 10:30",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1300-BLK BLACKROCK DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westwood Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5791153,
-    "lng": -77.4602073
+    "nearest_intersection": "Blackrock Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.519988,
+    "lng": -77.517726
   }
 ]
