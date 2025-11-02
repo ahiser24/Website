@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:50",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "W 15TH ST/BAINBRIDGE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 15th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5213154,
-    "lng": -77.4489715
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 14:21",
     "box_no": "Precinct 1",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:17",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4600-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5789985,
-    "lng": -77.4891247
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 14:12",
     "box_no": "DPR",
     "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
@@ -154,19 +128,6 @@
     "location_township": "DPR",
     "lat": 37.545457,
     "lng": -77.443725
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:19",
-    "box_no": "Precinct 3",
-    "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
-    "street": "1300-BLK BLAIR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Blair Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5388161,
-    "lng": -77.4606728
   },
   {
     "type_general": "RPD",
@@ -187,7 +148,7 @@
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , PERSON",
     "street": "4900-BLK RIVERSIDE DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Riverside Drive",
     "location_township": "Precinct 3",
@@ -200,12 +161,25 @@
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "1400-BLK MINEFEE ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Minefee Street",
     "location_township": "Precinct 2",
     "lat": 37.5017706,
     "lng": -77.4357245
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:30",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "900-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.522337,
+    "lng": -77.441729
   },
   {
     "type_general": "RPD",
@@ -245,5 +219,31 @@
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:57",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "1600-BLK DOWNTOWN EXPY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 3",
+    "lat": 37.5518661,
+    "lng": -77.4834184
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/02/2025 15:01",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
+    "street": "1600-BLK ROGERS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rogers Street",
+    "location_township": "FIRE",
+    "lat": 37.5490022,
+    "lng": -77.413401
   }
 ]
