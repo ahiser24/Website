@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:02",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5290346,
-    "lng": -77.4208043
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 12:40",
     "box_no": "Precinct 3",
     "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5388161,
     "lng": -77.4606728
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:20",
-    "box_no": "Precinct 2",
-    "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
-    "street": "4600-BLK SOUTHWOOD PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Southwood Parkway, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.493513,
-    "lng": -77.479702
   },
   {
     "type_general": "RPD",
@@ -170,6 +144,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 13:41",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "6900-BLK W CARNATION ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5097042,
+    "lng": -77.5233859
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 13:11",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 4",
     "lat": 37.564782,
     "lng": -77.4727504
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 13:31",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "00-BLK S NANSEMOND ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Nansemond Street",
+    "location_township": "DPR",
+    "lat": 37.5541317,
+    "lng": -77.4873713
   },
   {
     "type_general": "RPD",
@@ -206,19 +206,6 @@
     "location_township": "Precinct 4",
     "lng": -77.43089005555557,
     "lat": 37.56327397222222
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 13:41",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "6900-BLK W CARNATION ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5097042,
-    "lng": -77.5233859
   },
   {
     "type_general": "RPD",
@@ -249,14 +236,40 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/02/2025 14:02",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2300-BLK RIVERSIDE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5234489,
+    "lng": -77.4584367
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:02",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "2300-BLK HALIFAX AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Halifax Avenue",
     "location_township": "Precinct 1",
     "lat": 37.5056499,
     "lng": -77.4444906
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 13:52",
+    "box_no": "Precinct 1",
+    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
+    "street": "2000-BLK E FRANKLIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5327654,
+    "lng": -77.4246753
   }
 ]
