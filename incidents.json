@@ -70,38 +70,12 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "1200-BLK E MARSHALL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 1",
     "lat": 37.5404297,
     "lng": -77.4303132
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 10:39",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 10:59",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "JAHNKE RD/FOREST HILL AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5192018,
-    "lng": -77.5169988
   },
   {
     "type_general": "RPD",
@@ -195,6 +169,32 @@
     "lng": -77.424302
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 10:39",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "4300-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4664874,
+    "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 10:59",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "JAHNKE RD/FOREST HILL AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5192018,
+    "lng": -77.5169988
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/02/2025 11:07",
     "box_no": "FIRE",
@@ -206,19 +206,6 @@
     "location_township": "FIRE",
     "lat": 37.556473,
     "lng": -77.486031
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 11:24",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3400-BLK MAURY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
   },
   {
     "type_general": "RFD",
@@ -235,6 +222,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 11:30",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "300-BLK S. MEADOW ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 11:30",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "300-BLK S. MEADOW ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 11:20",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -245,5 +258,44 @@
     "location_township": "Precinct 3",
     "lat": 37.546793,
     "lng": -77.557945
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 11:33",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "N ADAMS ST/W BROAD ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Adams Street",
+    "location_township": "DPR",
+    "lat": 37.5467716,
+    "lng": -77.442284
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 11:24",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3400-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5030567,
+    "lng": -77.4626598
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 11:37",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "300-BLK STOCKTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5231141,
+    "lng": -77.4348124
   }
 ]
