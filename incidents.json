@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 01:49",
-    "box_no": "Precinct 2",
-    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
-    "street": "800-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.508793,
-    "lng": -77.4480183
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 01:52",
-    "box_no": "Precinct 3",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "900-BLK S HARRISON ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Harrison Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5379794,
-    "lng": -77.4613479
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 01:52",
     "box_no": "Precinct 3",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
@@ -102,32 +76,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5379794,
     "lng": -77.4613479
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 01:50",
-    "box_no": "Precinct 4",
-    "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
-    "street": "200-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.543725,
-    "lng": -77.4407637
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 01:52",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "S 14TH ST/E CARY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534951,
-    "lng": -77.4322804
   },
   {
     "type_general": "RPD",
@@ -157,16 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 03:48",
+    "dispatch_time": "11/02/2025 03:43",
     "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "5000-BLK BROOK RD",
+    "type_specific": "LOUD MUSIC , INVESTIGATE",
+    "street": "900-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Brook Road",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.6002259,
-    "lng": -77.4542662
+    "lat": 37.5504418,
+    "lng": -77.4493985
   },
   {
     "type_general": "RPD",
@@ -174,7 +122,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "4900-BLK OLD BROOK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -182,29 +130,16 @@
     "lng": -77.4490619
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/02/2025 03:29",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "FIRE",
-    "lat": 37.5482872,
-    "lng": -77.4226215
-  },
-  {
-    "type_general": "RFD",
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 03:54",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1300-BLK COALTER ST",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "0-BLK W MARSHALL ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "FIRE",
-    "lat": 37.543765,
-    "lng": -77.422946
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511694,
+    "lng": -77.4489338
   }
 ]
