@@ -92,28 +92,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/02/2025 07:23",
+    "dispatch_time": "11/02/2025 07:31",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "W BACON ST/HICKORY ST RICH",
+    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
+    "street": "2400-BLK THE TERRACE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
+    "nearest_intersection": "Fendall Avenue, Northside",
     "location_township": "FIRE",
-    "lat": 37.5564641,
-    "lng": -77.442216
+    "lat": 37.564859,
+    "lng": -77.43694
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 07:14",
-    "box_no": "Precinct 3",
+    "dispatch_time": "11/02/2025 07:29",
+    "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
+    "street": "1200-BLK HULL ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.520818,
+    "lng": -77.444127
   }
 ]
