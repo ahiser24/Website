@@ -118,11 +118,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 09:14",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "00-BLK W FELLS ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "DPR",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 09:36",
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "900-BLK S HARRISON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South Harrison Street",
     "location_township": "Precinct 3",
@@ -130,16 +143,16 @@
     "lng": -77.4613479
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/02/2025 09:34",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 09:39",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3000-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5692515,
-    "lng": -77.4451986
+    "location_township": "Precinct 4",
+    "lat": 37.5725597,
+    "lng": -77.4456656
   }
 ]
