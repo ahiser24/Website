@@ -128,5 +128,18 @@
     "location_township": "Precinct 2",
     "lat": 37.51714,
     "lng": -77.456796
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 05:22",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "RICH: @POWHITE PKWY SB - TOLL PLAZA",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
   }
 ]
