@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 04:25",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5514093,
-    "lng": -77.4534673
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 04:49",
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -135,7 +122,7 @@
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
     "street": "RICH: @POWHITE PKWY SB - TOLL PLAZA",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
