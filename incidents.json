@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1200-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 07:29",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1200-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.520818,
-    "lng": -77.444127
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 07:52",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -144,15 +131,41 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 07:29",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1200-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.520818,
+    "lng": -77.444127
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 07:57",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "7200-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.5160765,
     "lng": -77.5258248
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 08:09",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1100-BLK W GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5522621,
+    "lng": -77.4544894
   }
 ]
