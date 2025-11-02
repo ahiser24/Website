@@ -44,7 +44,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 1",
@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 03:54",
-    "box_no": "Precinct 4",
-    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
-    "street": "0-BLK W MARSHALL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511694,
-    "lng": -77.4489338
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 04:49",
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -115,5 +102,18 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 06:13",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1200-BLK LAKEVIEW AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Lakeview Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5405217,
+    "lng": -77.4597311
   }
 ]
