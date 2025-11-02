@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 07:52",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 2",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 02:43",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -53,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 10:39",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 12:26",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -76,6 +50,32 @@
     "location_township": "Precinct 4",
     "lat": 37.5569784,
     "lng": -77.4395352
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 10:39",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "4300-BLK COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4664874,
+    "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 07:52",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 2",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -118,29 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:30",
+    "dispatch_time": "11/02/2025 15:10",
     "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "4900-BLK RIVERSIDE DR",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "400-BLK HIOAKS RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
+    "nearest_intersection": "Hioaks Road",
     "location_township": "Precinct 3",
-    "lat": 37.5278633,
-    "lng": -77.4850044
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:41",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
+    "lat": 37.509293,
+    "lng": -77.525136
   },
   {
     "type_general": "RPD",
@@ -154,6 +141,19 @@
     "location_township": "Precinct 2",
     "lat": 37.5017706,
     "lng": -77.4357245
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:48",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "1100-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5141179,
+    "lng": -77.4329313
   },
   {
     "type_general": "RPD",
@@ -183,58 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 15:10",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "400-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.509293,
-    "lng": -77.525136
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:48",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "1100-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5141179,
-    "lng": -77.4329313
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 15:56",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "200-BLK W GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5462078,
-    "lng": -77.4445175
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/02/2025 16:03",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "FIRE",
-    "lat": 37.53551,
-    "lng": -77.431692
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 15:41",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -260,17 +208,17 @@
     "lng": -77.4391955
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/02/2025 16:10",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
-    "street": "900-BLK HALSEY LN",
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 16:19",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2900-BLK NORTH AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Halsey Lane",
-    "location_township": "FIRE",
-    "lat": 37.5159095,
-    "lng": -77.5056995
+    "nearest_intersection": "West Essex Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.570084,
+    "lng": -77.43294
   },
   {
     "type_general": "RPD",
@@ -286,16 +234,42 @@
     "lng": -77.4494236
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/02/2025 16:10",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
+    "street": "900-BLK HALSEY LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Halsey Lane",
+    "location_township": "FIRE",
+    "lat": 37.5159095,
+    "lng": -77.5056995
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/02/2025 15:39",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
     "street": "3200-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East 32nd Street, Southside",
     "location_township": "Precinct 2",
     "lat": 37.511445,
     "lng": -77.467436
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 15:17",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "BELLEMEADE RD/RICHMOND HWY RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellemeade Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4917619,
+    "lng": -77.4371151
   }
 ]
