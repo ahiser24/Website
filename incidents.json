@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 02:43",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 1",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 07:52",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4664874,
     "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 02:43",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 1",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -271,5 +271,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5060193,
     "lng": -77.4421819
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 18:38",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "SPAINE ST/MCGUIRE DR RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Spaine Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.501856,
+    "lng": -77.470475
   }
 ]
