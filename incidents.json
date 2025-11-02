@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:21",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "400-BLK N 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.536538,
-    "lng": -77.424302
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 14:02",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -170,6 +157,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:41",
+    "box_no": "Precinct 2",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 14:22",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -183,32 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 15:00",
-    "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "900-BLK S HARRISON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Harrison Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5379794,
-    "lng": -77.4613479
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:48",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "1100-BLK COMMERCE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5141179,
-    "lng": -77.4329313
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 15:10",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -219,32 +193,6 @@
     "location_township": "Precinct 3",
     "lat": 37.509293,
     "lng": -77.525136
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 15:25",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "800-BLK FOREST LAWN DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Forest Lawn Drive",
-    "location_township": "Precinct 4",
-    "lat": 37.5953885,
-    "lng": -77.4421952
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 14:41",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
   },
   {
     "type_general": "RPD",
@@ -310,5 +258,57 @@
     "location_township": "Precinct 2",
     "lat": 37.4952595,
     "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 14:48",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "1100-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5141179,
+    "lng": -77.4329313
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 15:25",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "800-BLK FOREST LAWN DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Lawn Drive",
+    "location_township": "Precinct 4",
+    "lat": 37.5953885,
+    "lng": -77.4421952
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 15:00",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "900-BLK S HARRISON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Harrison Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5379794,
+    "lng": -77.4613479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 15:39",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "2100-BLK PHAUP ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Phaup Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5510819,
+    "lng": -77.407214
   }
 ]
