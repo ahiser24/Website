@@ -109,7 +109,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "1400-BLK E CARY ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "South 14th Street",
     "location_township": "Precinct 1",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 23:18",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1100-BLK N 33RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Q Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.534191,
-    "lng": -77.405024
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/01/2025 23:19",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -174,7 +161,7 @@
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "4300-BLK COMMERCE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Commerce Road",
     "location_township": "Precinct 2",
@@ -221,6 +208,45 @@
     "lng": -77.4372177
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 23:50",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "R ST/N 19TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "R Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5332081,
+    "lng": -77.4016657
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 23:52",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "5300-BLK HULL STREET RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/01/2025 23:56",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "4100-BLK OLD BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.59131,
+    "lng": -77.446876
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/01/2025 17:17",
     "box_no": "FIRE",
@@ -245,5 +271,31 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 23:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/01/2025 23:56",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1800-BLK ALASKA DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Alaska Drive, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4895279,
+    "lng": -77.4807171
   }
 ]
