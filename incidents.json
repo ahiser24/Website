@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 22:41",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "2500-BLK W CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Davis Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.550422,
-    "lng": -77.472741
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 22:24",
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5072965,
     "lng": -77.4968755
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 22:41",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "2500-BLK W CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Davis Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.550422,
+    "lng": -77.472741
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 00:07",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1700-BLK HALIFAX AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Halifax Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5090095,
-    "lng": -77.4392326
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 00:13",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -183,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 23:02",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1300-BLK E MARSHALL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5396586,
-    "lng": -77.4286204
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 00:18",
     "box_no": "Precinct 2",
     "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
@@ -209,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 23:02",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1300-BLK E MARSHALL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5396586,
+    "lng": -77.4286204
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/03/2025 00:22",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -219,5 +206,70 @@
     "location_township": "Precinct 4",
     "lat": 37.601975,
     "lng": -77.450736
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 00:45",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2600-BLK BELLS RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Bells Road",
+    "location_township": "Precinct 2",
+    "lat": 37.472843,
+    "lng": -77.443917
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 00:45",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2600-BLK BELLS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bells Road",
+    "location_township": "Precinct 2",
+    "lat": 37.472843,
+    "lng": -77.443917
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 00:44",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4770457,
+    "lng": -77.4856193
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 00:44",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "FIRE",
+    "lat": 37.4770457,
+    "lng": -77.4856193
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 00:41",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2100-BLK BELLS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Phillip Morris Drive Way",
+    "location_township": "FIRE",
+    "lat": 37.4692093,
+    "lng": -77.4354413
   }
 ]
