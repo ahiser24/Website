@@ -96,38 +96,12 @@
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "900-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.514923,
-    "lng": -77.5105837
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 14:54",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "900-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.514923,
-    "lng": -77.5105837
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 14:55",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "400-BLK BAINBRIDGE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bainbridge Street",
-    "location_township": "DPR",
-    "lat": 37.525709,
-    "lng": -77.438619
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.514923,
+    "lng": -77.5105837
   },
   {
     "type_general": "RPD",
@@ -187,7 +161,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "HULL STREET RD/ORCUTT LN RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road, Southside",
     "location_township": "Precinct 2",
@@ -274,32 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 16:11",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2100-BLK SEMMES AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5215929,
-    "lng": -77.4545457
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 16:11",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2100-BLK SEMMES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5215929,
-    "lng": -77.4545457
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 16:12",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -323,5 +271,31 @@
     "location_township": "Precinct 2",
     "lat": 37.492722,
     "lng": -77.4891674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 16:20",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "LL(-77:29:21.2281,37:32:45.8376): EST VA 146 RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "VA 146",
+    "location_township": "Precinct 3",
+    "lng": -77.48923002777778,
+    "lat": 37.546065999999996
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 16:27",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5070429,
+    "lng": -77.4949501
   }
 ]
