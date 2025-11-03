@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1200-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -91,29 +91,29 @@
     "lng": -77.4421819
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 03:45",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
-    "street": "3600-BLK FOREST HAVEN DR",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 03:44",
+    "box_no": "Precinct 2",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
+    "street": "2800-BLK HULL ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Forest Haven Drive",
-    "location_township": "FIRE",
-    "lat": 37.4654259,
-    "lng": -77.4878068
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5114959,
+    "lng": -77.4583224
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 03:54",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3200-BLK N ARTHUR ASHE BLVD",
-    "status": "Enroute",
+    "dispatch_time": "11/03/2025 03:41",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "6600-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5757133,
-    "lng": -77.4633313
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5030935,
+    "lng": -77.5178344
   }
 ]
