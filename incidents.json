@@ -66,29 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 12:49",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1800-BLK ALBANY AVE",
+    "dispatch_time": "11/03/2025 13:52",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "1700-BLK SOUTHLAWN AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Albany Avenue",
-    "location_township": "DPR",
-    "lat": 37.51366,
-    "lng": -77.445094
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 14:52",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3100-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5083254,
-    "lng": -77.4635415
+    "nearest_intersection": "Harwood Street",
+    "location_township": "Precinct 1",
+    "lat": 37.503888,
+    "lng": -77.434918
   },
   {
     "type_general": "RPD",
@@ -118,16 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 13:52",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "1700-BLK SOUTHLAWN AVE",
+    "dispatch_time": "11/03/2025 15:04",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "900-BLK SLEDD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "Precinct 1",
-    "lat": 37.503888,
-    "lng": -77.434918
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "DPR",
+    "lat": 37.557176,
+    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -183,29 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:07",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3100-BLK PORTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5153189,
-    "lng": -77.4647902
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:04",
+    "dispatch_time": "11/03/2025 14:55",
     "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "900-BLK SLEDD ST",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "400-BLK BAINBRIDGE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
+    "nearest_intersection": "Bainbridge Street",
     "location_township": "DPR",
-    "lat": 37.557176,
-    "lng": -77.446604
+    "lat": 37.525709,
+    "lng": -77.438619
   },
   {
     "type_general": "RPD",
@@ -287,15 +261,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:20",
-    "box_no": "DPR",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "1300-BLK W CARY ST",
+    "dispatch_time": "11/03/2025 15:51",
+    "box_no": "Precinct 2",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "5500-BLK CHESTERFIELD DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chesterfield Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4867265,
+    "lng": -77.4928022
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 15:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "5500-BLK CHESTERFIELD DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "DPR",
-    "lat": 37.5452186,
-    "lng": -77.4578771
+    "nearest_intersection": "Chesterfield Drive",
+    "location_township": "FIRE",
+    "lat": 37.4867265,
+    "lng": -77.4928022
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 15:54",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
+    "street": "3400-BLK RYBURN RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ryburn Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4783386,
+    "lng": -77.4364514
   }
 ]
