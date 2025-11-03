@@ -80,21 +80,8 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/03/2025 04:51",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "600-BLK E GLADSTONE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Gladstone Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5751861,
-    "lng": -77.4241089
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 04:51",
     "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "type_specific": "ABDUCTION , INVESTIGATE",
     "street": "2200-BLK FAIRFIELD AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -102,5 +89,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5482346,
     "lng": -77.4074568
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 05:26",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1500-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5572501,
+    "lng": -77.4429174
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 05:18",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "6700-BLK WARWICK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 3",
+    "lat": 37.505581,
+    "lng": -77.518303
   }
 ]
