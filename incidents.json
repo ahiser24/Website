@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 05:26",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1500-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5572501,
-    "lng": -77.4429174
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 05:22",
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
@@ -109,11 +96,24 @@
     "box_no": "Precinct 4",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "1200-BLK HERMITAGE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hermitage Road",
     "location_township": "Precinct 4",
     "lat": 37.563296,
     "lng": -77.460563
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 05:44",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516032,
+    "lng": -77.512119
   }
 ]
