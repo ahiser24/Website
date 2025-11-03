@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 14:20",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1400-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5195165,
-    "lng": -77.4456731
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 14:31",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -83,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "3900-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
@@ -102,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.581665,
     "lng": -77.446998
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:12",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "FAIRMOUNT AVE/MECHANICSVILLE TPKE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairmount Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5405153,
-    "lng": -77.4107532
   },
   {
     "type_general": "RPD",
@@ -148,7 +122,7 @@
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , PERSON",
     "street": "500-BLK N 18TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 18th Street",
     "location_township": "Precinct 1",
@@ -167,19 +141,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5202636,
     "lng": -77.4888584
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:54",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
-    "street": "3400-BLK RYBURN RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ryburn Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4783386,
-    "lng": -77.4364514
   },
   {
     "type_general": "RPD",
@@ -239,7 +200,7 @@
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "W 14TH ST/BAINBRIDGE ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West 14th Street",
     "location_township": "Precinct 1",
@@ -339,37 +300,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 16:46",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "RICH: @I195 SB BETWEEN MONUMENT AVE & W CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Capitol Square",
-    "location_township": "Precinct 3",
-    "lat": 37.5385087,
-    "lng": -77.43428
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 16:46",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "1200-BLK ST JAMES ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5530109,
-    "lng": -77.4351594
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 16:47",
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "3000-BLK DECATUR ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Decatur Street, Southside",
     "location_township": "Precinct 2",
@@ -417,45 +352,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 17:03",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1900-BLK VENABLE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street",
-    "location_township": "Precinct 1",
-    "lat": 37.538391,
-    "lng": -77.4216319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 17:06",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "100-BLK COWARDIN AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5204201,
-    "lng": -77.4500564
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 17:06",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "100-BLK COWARDIN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5204201,
-    "lng": -77.4500564
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 17:06",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -466,6 +362,32 @@
     "location_township": "Precinct 3",
     "lat": 37.5035598,
     "lng": -77.5157461
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 17:13",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "00-BLK S 23RD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South 23rd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5297253,
+    "lng": -77.4235235
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 17:15",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "CHAMBERLAYNE AVE/W BROOKLAND PARK BLVD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
   },
   {
     "type_general": "RFD",
@@ -479,18 +401,5 @@
     "location_township": "FIRE",
     "lat": 37.5385087,
     "lng": -77.43428
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 17:08",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "MIDLOTHIAN TPKE/CARNATION ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5070429,
-    "lng": -77.4949501
   }
 ]
