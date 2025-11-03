@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 03:41",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 04:51",
     "box_no": "Precinct 1",
     "type_specific": "ABDUCTION , INVESTIGATE",
@@ -105,15 +92,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 05:18",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "6700-BLK WARWICK RD",
-    "status": "Dispatched",
+    "dispatch_time": "11/03/2025 05:22",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 3",
-    "lat": 37.505581,
-    "lng": -77.518303
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5301228,
+    "lng": -77.3889896
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 05:39",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1200-BLK HERMITAGE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.563296,
+    "lng": -77.460563
   }
 ]
