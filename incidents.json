@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 02:43",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 1",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 16:50",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -50,32 +37,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5032346,
     "lng": -77.4952987
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 20:08",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "MIDLOTHIAN/BELT RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5085323,
-    "lng": -77.488689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 07:52",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 2",
-    "lat": 37.516009,
-    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -92,42 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 23:16",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "E CANAL ST/S 2ND ST RICH",
+    "dispatch_time": "11/02/2025 07:52",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Canal Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5407914,
-    "lng": -77.4451185
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 23:35",
-    "box_no": "Precinct 2",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "4000-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 2",
-    "lat": 37.4702608,
-    "lng": -77.4438114
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 23:35",
-    "box_no": "Precinct 2",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "4000-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4702608,
-    "lng": -77.4438114
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -144,6 +79,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 23:16",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "E CANAL ST/S 2ND ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Canal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5407914,
+    "lng": -77.4451185
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 22:48",
     "box_no": "Precinct 2",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -154,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.504712,
     "lng": -77.4641
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 23:31",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "2400-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5181942,
-    "lng": -77.4484203
   },
   {
     "type_general": "RPD",
@@ -183,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 23:31",
+    "dispatch_time": "11/02/2025 23:46",
     "box_no": "Precinct 1",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "200-BLK EVERETT ST",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2100-BLK PHAUP ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Everett Street",
+    "nearest_intersection": "Phaup Street",
     "location_township": "Precinct 1",
-    "lat": 37.5233315,
-    "lng": -77.4335918
+    "lat": 37.5510819,
+    "lng": -77.407214
   },
   {
     "type_general": "RPD",
@@ -200,12 +135,25 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2100-BLK PHAUP ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Phaup Street",
     "location_township": "Precinct 1",
     "lat": 37.5510819,
     "lng": -77.407214
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/02/2025 23:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "4900-BLK CARY STREET RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cary Street Road, West End",
+    "location_township": "FIRE",
+    "lat": 37.5653066,
+    "lng": -77.5073396
   },
   {
     "type_general": "RPD",
@@ -219,5 +167,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4959016,
     "lng": -77.4801286
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/02/2025 23:31",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "2400-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5181942,
+    "lng": -77.4484203
   }
 ]
