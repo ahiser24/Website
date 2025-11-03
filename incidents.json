@@ -70,7 +70,7 @@
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5751861,
     "lng": -77.4241089
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 05:01",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5514093,
-    "lng": -77.4534673
   },
   {
     "type_general": "RPD",
