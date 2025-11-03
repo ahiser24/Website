@@ -210,13 +210,13 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/03/2025 09:42",
-    "box_no": "Precinct 4",
+    "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1500-BLK N 28TH ST",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 4",
+    "location_township": "Precinct 1",
     "lat": 37.5400835,
     "lng": -77.4068808
   },
@@ -234,45 +234,6 @@
     "lng": -77.4030854
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 10:08",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1600-BLK DINWIDDIE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dinwiddie Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5126069,
-    "lng": -77.4415626
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 10:10",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "100-BLK MANCHESTER RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Manchester Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5263605,
-    "lng": -77.4339202
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 10:12",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "LIBBIE AVE/MATOAKA RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Libbie Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5809071,
-    "lng": -77.5128348
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/03/2025 10:05",
     "box_no": "Precinct 3",
@@ -284,32 +245,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5140128,
     "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 10:00",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "5900-BLK GLENWAY DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Worth Street",
-    "location_township": "DPR",
-    "lat": 37.517501,
-    "lng": -77.506206
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 10:06",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -325,16 +260,68 @@
     "lng": -77.4154503
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 10:23",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "800-BLK E CLAY ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:25",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "1800-BLK SOUTHLAWN AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Clay Street",
+    "nearest_intersection": "Southlawn Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5028468,
+    "lng": -77.4343407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:12",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LIBBIE AVE/MATOAKA RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Libbie Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5809071,
+    "lng": -77.5128348
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:06",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 10:35",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2900-BLK BROAD ROCK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
     "location_township": "FIRE",
-    "lat": 37.543041,
-    "lng": -77.432925
+    "lat": 37.4776426,
+    "lng": -77.4814156
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:00",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "5900-BLK GLENWAY DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Worth Street",
+    "location_township": "DPR",
+    "lat": 37.517501,
+    "lng": -77.506206
   }
 ]
