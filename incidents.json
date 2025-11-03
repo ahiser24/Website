@@ -222,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 10:50",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "1800-BLK HIGHPOINT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Highpoint Avenue",
-    "location_township": "DPR",
-    "lat": 37.570312,
-    "lng": -77.469224
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 11:24",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
@@ -274,19 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 11:38",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2900-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4776426,
-    "lng": -77.4814156
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 11:29",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -297,32 +271,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4923295,
     "lng": -77.481047
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 11:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "1300-BLK COLUMBIA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "FIRE",
-    "lat": 37.503232,
-    "lng": -77.445362
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 11:28",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3900-BLK OLD BROOK CIR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Circle",
-    "location_township": "Precinct 4",
-    "lat": 37.5886258,
-    "lng": -77.4468578
   },
   {
     "type_general": "RPD",
@@ -362,5 +310,70 @@
     "location_township": "Precinct 4",
     "lat": 37.54917,
     "lng": -77.449917
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 11:31",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "100-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "DPR",
+    "lat": 37.5071442,
+    "lng": -77.4853454
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 11:45",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "600-BLK N 3RD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.547032,
+    "lng": -77.436525
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 11:48",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "1500-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.5541589,
+    "lng": -77.4554329
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 11:48",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LL(-77:25:52.6802,37:30:35.6399): EST 1414 COMMERCE RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lng": -77.43130005555555,
+    "lat": 37.50989997222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 11:34",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1000-BLK BELT BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4995229,
+    "lng": -77.4714208
   }
 ]
