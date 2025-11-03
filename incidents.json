@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 02:41",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 02:23",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -118,6 +105,45 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/03/2025 03:06",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "2000-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5608096,
+    "lng": -77.4479214
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 03:06",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2000-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5608096,
+    "lng": -77.4479214
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 03:11",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2200-BLK MANDALAY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/03/2025 02:43",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -128,5 +154,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5332252,
     "lng": -77.4259138
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 03:13",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "LL(-77:30:27.0361,37:30:52.9811): EST 5913 WAINWRIGHT DR RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lng": -77.50751002777778,
+    "lat": 37.514716972222224
   }
 ]
