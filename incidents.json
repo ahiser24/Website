@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 07:39",
-    "box_no": "Precinct 4",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "1600-BLK FENDALL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fendall Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5572705,
-    "lng": -77.4381107
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 07:55",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 08:25",
-    "box_no": "DPR",
-    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
-    "street": "1100-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "DPR",
-    "lat": 37.5052382,
-    "lng": -77.4476466
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 07:52",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -154,6 +128,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5556224,
     "lng": -77.451142
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 08:41",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2400-BLK HADEN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Haden Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4773895,
+    "lng": -77.4390057
   },
   {
     "type_general": "RPD",
@@ -183,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 08:41",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2400-BLK HADEN AVE",
-    "status": "Arrived",
+    "dispatch_time": "11/03/2025 07:39",
+    "box_no": "Precinct 4",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "1600-BLK FENDALL AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Haden Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4773895,
-    "lng": -77.4390057
+    "nearest_intersection": "Fendall Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5572705,
+    "lng": -77.4381107
   },
   {
     "type_general": "RPD",
@@ -222,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 09:07",
-    "box_no": "Precinct 4",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "N LOMBARDY ST/BROOK RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5558128,
-    "lng": -77.4545828
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 09:05",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -245,5 +219,70 @@
     "location_township": "Precinct 2",
     "lat": 37.492271,
     "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 09:21",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2500-BLK Q ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Q Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.538495,
+    "lng": -77.4120703
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 09:20",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "5700-BLK SWEETWOOD DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sweetwood Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.487195,
+    "lng": -77.498162
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 09:26",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5514093,
+    "lng": -77.4534673
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 09:31",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "1600-BLK MECHANICSVILLE TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5493398,
+    "lng": -77.4147445
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 09:32",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "HAMPTON ST/KANSAS AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hampton Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5393138,
+    "lng": -77.4724282
   }
 ]
