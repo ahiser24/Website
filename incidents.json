@@ -14,7 +14,7 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/01/2025 14:01",
+    "dispatch_time": "11/02/2025 07:52",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
@@ -37,6 +37,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5396586,
     "lng": -77.4286204
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 06:50",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "4700-BLK OLD MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Old Main Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5182981,
+    "lng": -77.4158912
   },
   {
     "type_general": "RPD",
@@ -63,32 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5482346,
     "lng": -77.4074568
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 07:52",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 2",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 06:50",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "4700-BLK OLD MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Old Main Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5182981,
-    "lng": -77.4158912
   },
   {
     "type_general": "RPD",
@@ -183,6 +170,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/03/2025 09:57",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "W BROAD ST/N ADAMS ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5667607,
+    "lng": -77.475537
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 09:57",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "W BROAD ST/N ADAMS ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5667607,
+    "lng": -77.475537
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/03/2025 09:20",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -200,51 +213,12 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1500-BLK N 28TH ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 28th Street, East End",
     "location_township": "Precinct 4",
     "lat": 37.5400835,
     "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 09:57",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "W BROAD ST/N ADAMS ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 09:57",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "W BROAD ST/N ADAMS ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 10:02",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "7800-BLK FOREST HILL AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5341817,
-    "lng": -77.5397286
   },
   {
     "type_general": "RPD",
@@ -258,19 +232,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5414918,
     "lng": -77.4030854
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 10:05",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
   },
   {
     "type_general": "RFD",
@@ -297,5 +258,83 @@
     "location_township": "Precinct 1",
     "lat": 37.5263605,
     "lng": -77.4339202
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:12",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LIBBIE AVE/MATOAKA RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Libbie Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5809071,
+    "lng": -77.5128348
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:05",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:00",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "5900-BLK GLENWAY DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Worth Street",
+    "location_township": "DPR",
+    "lat": 37.517501,
+    "lng": -77.506206
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:06",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 10:20",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2300-BLK VENABLE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Venable Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5385645,
+    "lng": -77.4154503
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 10:23",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "800-BLK E CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Clay Street",
+    "location_township": "FIRE",
+    "lat": 37.543041,
+    "lng": -77.432925
   }
 ]
