@@ -70,7 +70,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ABDUCTION , INVESTIGATE",
     "street": "2200-BLK FAIRFIELD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairfield Avenue",
     "location_township": "Precinct 1",
@@ -92,16 +92,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 05:44",
-    "box_no": "Precinct 3",
+    "dispatch_time": "11/03/2025 05:54",
+    "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , PERSON",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Arrived",
+    "street": "700-BLK E MAIN ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516032,
-    "lng": -77.512119
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5393687,
+    "lng": -77.4376041
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 05:59",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "00-BLK S 17TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South 17th Street",
+    "location_township": "FIRE",
+    "lat": 37.5328535,
+    "lng": -77.4290888
   },
   {
     "type_general": "RFD",
@@ -115,5 +128,31 @@
     "location_township": "FIRE",
     "lat": 37.511287,
     "lng": -77.497922
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 06:02",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516032,
+    "lng": -77.512119
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 06:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "2200-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "FIRE",
+    "lat": 37.514084,
+    "lng": -77.450314
   }
 ]
