@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 02:43",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "N 19TH ST/E GRACE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5332252,
-    "lng": -77.4259138
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 03:11",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 03:35",
+    "dispatch_time": "11/03/2025 03:39",
     "box_no": "Precinct 1",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2200-BLK INGRAM AVE",
-    "status": "Enroute",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "1700-BLK CHICAGO AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Ingram Avenue",
+    "nearest_intersection": "Chicago Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5060193,
-    "lng": -77.4421819
+    "lat": 37.5127137,
+    "lng": -77.4430682
   },
   {
     "type_general": "RPD",
@@ -105,15 +92,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 04:19",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1500-BLK N 21ST ST",
-    "status": "Arrived",
+    "dispatch_time": "11/03/2025 04:35",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
+    "street": "1200-BLK HICKORY ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 21st Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5460125,
-    "lng": -77.4108059
+    "nearest_intersection": "Hickory Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5535876,
+    "lng": -77.4402475
   }
 ]
