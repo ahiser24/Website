@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 22:00",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3100-BLK W CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667982,
-    "lng": -77.4718892
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 07:52",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/02/2025 22:41",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "2400-BLK W CARY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Stafford Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.549982,
+    "lng": -77.471509
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/02/2025 23:16",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.504712,
     "lng": -77.4641
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/02/2025 22:41",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "2400-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Stafford Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.549982,
-    "lng": -77.471509
   },
   {
     "type_general": "RPD",
@@ -170,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 00:06",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "900-BLK MYERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Myers Street",
-    "location_township": "Precinct 4",
-    "lat": 37.56341,
-    "lng": -77.469527
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 00:12",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "LL(-77:26:14.4241,37:30:05.0075): EST 1421 DREWRY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Drewry Street",
-    "location_township": "Precinct 2",
-    "lng": -77.43734002777778,
-    "lat": 37.501390972222225
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 00:13",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -209,11 +170,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/03/2025 00:06",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "900-BLK MYERS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Myers Street",
+    "location_township": "Precinct 4",
+    "lat": 37.56341,
+    "lng": -77.469527
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/03/2025 00:17",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "1200-BLK ADMIRAL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bath Street, Northside",
     "location_township": "Precinct 4",
@@ -221,16 +195,55 @@
     "lng": -77.447776
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 00:22",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "FIRE",
+    "lat": 37.601975,
+    "lng": -77.450736
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 00:22",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.601975,
+    "lng": -77.450736
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/03/2025 00:18",
     "box_no": "Precinct 2",
     "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
     "street": "1600-BLK PRESSON BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Presson Boulevard",
     "location_township": "Precinct 2",
     "lat": 37.4974071,
     "lng": -77.4363548
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 00:19",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "5300-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
   }
 ]
