@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 01:40",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1300-BLK E MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5396586,
-    "lng": -77.4286204
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 04:51",
     "box_no": "Precinct 1",
     "type_specific": "ABDUCTION , INVESTIGATE",
@@ -66,6 +53,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/03/2025 01:40",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1300-BLK E MARSHALL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5396586,
+    "lng": -77.4286204
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 05:34",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/03/2025 06:02",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -76,45 +89,6 @@
     "location_township": "Precinct 3",
     "lat": 37.516032,
     "lng": -77.512119
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 05:59",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "00-BLK S 17TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South 17th Street",
-    "location_township": "FIRE",
-    "lat": 37.5328535,
-    "lng": -77.4290888
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 06:18",
-    "box_no": "Precinct 2",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "6200-BLK WARWICK RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Tweeter Branch",
-    "location_township": "Precinct 2",
-    "lat": 37.499961,
-    "lng": -77.510649
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 06:18",
-    "box_no": "Precinct 2",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "6200-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tweeter Branch",
-    "location_township": "Precinct 2",
-    "lat": 37.499961,
-    "lng": -77.510649
   },
   {
     "type_general": "RPD",
