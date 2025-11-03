@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 10:06",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 06:50",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 13:52",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "1700-BLK SOUTHLAWN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "Precinct 1",
-    "lat": 37.503888,
-    "lng": -77.434918
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 13:59",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5034416,
     "lng": -77.5206899
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 13:52",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "1700-BLK SOUTHLAWN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Harwood Street",
+    "location_township": "Precinct 1",
+    "lat": 37.503888,
+    "lng": -77.434918
   },
   {
     "type_general": "RPD",
@@ -115,19 +102,6 @@
     "location_township": "DPR",
     "lat": 37.557176,
     "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 14:03",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "HATHAWAY RD/SEQUOYAH RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hathaway Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5403471,
-    "lng": -77.5185341
   },
   {
     "type_general": "RPD",
@@ -183,16 +157,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:39",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "dispatch_time": "11/03/2025 15:12",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "FAIRMOUNT AVE/MECHANICSVILLE TPKE RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
+    "nearest_intersection": "Fairmount Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5405153,
+    "lng": -77.4107532
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 14:03",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "HATHAWAY RD/SEQUOYAH RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hathaway Road",
     "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
+    "lat": 37.5403471,
+    "lng": -77.5185341
   },
   {
     "type_general": "RPD",
@@ -234,45 +221,6 @@
     "lng": -77.4542788
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:12",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "FAIRMOUNT AVE/MECHANICSVILLE TPKE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fairmount Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5405153,
-    "lng": -77.4107532
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:12",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HULL STREET RD/ORCUTT LN RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.49303,
-    "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/03/2025 15:51",
-    "box_no": "Precinct 2",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "5500-BLK CHESTERFIELD DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chesterfield Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4867265,
-    "lng": -77.4928022
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/03/2025 15:51",
     "box_no": "FIRE",
@@ -297,5 +245,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4783386,
     "lng": -77.4364514
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 15:12",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "HULL STREET RD/ORCUTT LN RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.49303,
+    "lng": -77.487645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 15:55",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3900-BLK OLD BROOK CIR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Circle",
+    "location_township": "Precinct 4",
+    "lat": 37.5886258,
+    "lng": -77.4468578
   }
 ]
