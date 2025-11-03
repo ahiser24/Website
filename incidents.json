@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/02/2025 22:41",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "2500-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Davis Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.550422,
-    "lng": -77.472741
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 07:52",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -66,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 03:02",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2500-BLK W MAIN ST",
+    "dispatch_time": "11/03/2025 01:40",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1300-BLK E MARSHALL ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North Davis Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.551534,
-    "lng": -77.472118
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5396586,
+    "lng": -77.4286204
   },
   {
     "type_general": "RPD",
@@ -89,5 +76,18 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 03:35",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2200-BLK INGRAM AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ingram Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5060193,
+    "lng": -77.4421819
   }
 ]
