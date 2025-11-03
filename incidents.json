@@ -70,7 +70,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "2500-BLK W CARY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South Davis Avenue",
     "location_township": "Precinct 3",
@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 01:49",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "3900-BLK OLD HOPKINS RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Hopkins Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4677901,
-    "lng": -77.4685161
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/02/2025 23:02",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -169,16 +156,42 @@
     "lng": -77.4870488
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 02:03",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "1900-BLK WESTOVER HILLS BLVD",
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 02:06",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "500-BLK E SOUTHSIDE PLZ",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5260272,
-    "lng": -77.4870488
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5043742,
+    "lng": -77.4751373
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 02:09",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5514093,
+    "lng": -77.4534673
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 02:12",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   }
 ]
