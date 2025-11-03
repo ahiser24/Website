@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 13:59",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
-    "street": "6800-BLK EVERGLADES DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Everglades Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5034416,
-    "lng": -77.5206899
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 14:03",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5403471,
     "lng": -77.5185341
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 14:20",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1400-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5195165,
+    "lng": -77.4456731
   },
   {
     "type_general": "RPD",
@@ -250,7 +250,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/03/2025 16:10",
     "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
+    "type_specific": "DISORDERLY , INVESTIGATE - EMS",
     "street": "2900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -263,7 +263,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/03/2025 16:10",
     "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
+    "type_specific": "DISORDERLY , INVESTIGATE - EMS",
     "street": "2900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -276,7 +276,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/03/2025 16:10",
     "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
+    "type_specific": "DISORDERLY , INVESTIGATE - EMS",
     "street": "2900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -323,6 +323,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5072965,
     "lng": -77.4968755
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 16:15",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -390,17 +403,43 @@
     "lng": -77.4853454
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/03/2025 16:27",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 16:36",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "5400-BLK HULL STREET RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4899001,
+    "lng": -77.4939365
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 16:41",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 16:41",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1500-BLK CLARKSON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5070429,
-    "lng": -77.4949501
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
   },
   {
     "type_general": "RFD",
@@ -421,11 +460,24 @@
     "box_no": "FIRE",
     "type_specific": "CRASH , HAZARD CONTROL",
     "street": "RICH: @MM 78 - I95 NB",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 16:43",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   }
 ]
