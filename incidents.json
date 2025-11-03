@@ -89,5 +89,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5060193,
     "lng": -77.4421819
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 03:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
+    "street": "3600-BLK FOREST HAVEN DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Haven Drive",
+    "location_township": "FIRE",
+    "lat": 37.4654259,
+    "lng": -77.4878068
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 03:54",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3200-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5757133,
+    "lng": -77.4633313
   }
 ]
