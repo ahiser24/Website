@@ -79,54 +79,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 05:16",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "700-BLK EVERETT ST",
-    "status": "Dispatched",
+    "dispatch_time": "11/04/2025 05:34",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1600-BLK SKILIFT CT",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Everett Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5202989,
-    "lng": -77.4378027
+    "nearest_intersection": "Skilift Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5244025,
+    "lng": -77.5068684
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 05:16",
+    "dispatch_time": "11/04/2025 05:39",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "700-BLK EVERETT ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Everett Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5202989,
-    "lng": -77.4378027
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 05:18",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "0-BLK MAURY ST",
+    "street": "500-BLK MAURY ST",
     "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Maury Street",
     "location_township": "Precinct 1",
-    "lat": 37.5218604,
-    "lng": -77.4340319
+    "lat": 37.5209379,
+    "lng": -77.4351693
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 05:18",
+    "dispatch_time": "11/04/2025 05:39",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "0-BLK MAURY ST",
+    "street": "500-BLK MAURY ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Maury Street",
     "location_township": "Precinct 1",
-    "lat": 37.5218604,
-    "lng": -77.4340319
+    "lat": 37.5209379,
+    "lng": -77.4351693
   }
 ]
