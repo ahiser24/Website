@@ -40,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 01:46",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 04:00",
-    "box_no": "Precinct 1",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "3000-BLK NINE MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.542062,
-    "lng": -77.399754
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 04:06",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -89,45 +63,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5244025,
     "lng": -77.5068684
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 05:51",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1800-BLK STOPFORD ALY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Stopford Alley",
-    "location_township": "Precinct 3",
-    "lat": 37.5479901,
-    "lng": -77.4643201
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 05:51",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1800-BLK STOPFORD ALY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stopford Alley",
-    "location_township": "Precinct 3",
-    "lat": 37.5479901,
-    "lng": -77.4643201
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 05:55",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "2500-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Davis Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.551534,
-    "lng": -77.472118
   },
   {
     "type_general": "RPD",
@@ -156,29 +91,29 @@
     "lng": -77.452175
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/04/2025 05:55",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "300-BLK HIOAKS RD",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 06:14",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "0-BLK S VINE ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "FIRE",
-    "lat": 37.5077898,
-    "lng": -77.525705
+    "nearest_intersection": "South Vine Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5473397,
+    "lng": -77.4624683
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/04/2025 05:58",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "900-BLK KINNEY ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 06:14",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "0-BLK S VINE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Kinney Street",
-    "location_township": "FIRE",
-    "lat": 37.555501,
-    "lng": -77.452175
+    "nearest_intersection": "South Vine Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5473397,
+    "lng": -77.4624683
   }
 ]
