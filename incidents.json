@@ -92,6 +92,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/03/2025 23:53",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1400-BLK W CLAY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "DPR",
+    "lat": 37.5551411,
+    "lng": -77.4527406
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/03/2025 23:57",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -157,6 +170,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/04/2025 00:06",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/04/2025 00:17",
     "box_no": "Precinct 2",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -213,7 +239,7 @@
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "4400-BLK ANGUS RD",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Angus Road",
     "location_township": "Precinct 2",
@@ -232,19 +258,6 @@
     "location_township": "Precinct 1",
     "lat": 37.523338,
     "lng": -77.440156
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 00:37",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "00-BLK S ADDISON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Addison Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5499798,
-    "lng": -77.4698571
   },
   {
     "type_general": "RFD",
