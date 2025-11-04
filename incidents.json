@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 19:57",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON - JUVENILE 11  AND OLDER , INVESTIGATE",
-    "street": "2400-BLK CERSLEY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cersley Street",
-    "location_township": "Precinct 2",
-    "lat": 37.513136,
-    "lng": -77.4522639
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 20:19",
     "box_no": "Precinct 4",
     "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 22:37",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "BRANDER ST/MAURY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brander Street",
-    "location_township": "Precinct 1",
-    "lat": 37.52495,
-    "lng": -77.4285357
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/03/2025 22:50",
     "box_no": "Precinct 1",
     "type_specific": "SEX OFFENSE , JUST OCCURRED / IN-PROGRESS - EMS",
@@ -187,7 +161,7 @@
     "box_no": "Precinct 3",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "1200-BLK LAKEVIEW AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Lakeview Avenue",
     "location_township": "Precinct 3",
@@ -196,15 +170,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 23:36",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2100-BLK SEMMES AVE",
+    "dispatch_time": "11/03/2025 23:48",
+    "box_no": "Precinct 1",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "N 22ND ST/E GRACE ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.5215929,
-    "lng": -77.4545457
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5340354,
+    "lng": -77.4207124
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 23:54",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2200-BLK ROYALL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Royall Avenue",
+    "location_township": "FIRE",
+    "lat": 37.4952912,
+    "lng": -77.4384581
   }
 ]
