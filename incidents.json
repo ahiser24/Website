@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 23:53",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1400-BLK W CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "DPR",
-    "lat": 37.5551411,
-    "lng": -77.4527406
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 00:03",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5267406,
     "lng": -77.4350441
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 00:06",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
   },
   {
     "type_general": "RPD",
@@ -161,7 +135,7 @@
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -180,19 +154,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5361073,
     "lng": -77.4327798
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 00:30",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "4400-BLK ANGUS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4663708,
-    "lng": -77.4598079
   },
   {
     "type_general": "RPD",
@@ -219,5 +180,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4704251,
     "lng": -77.4818545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 01:09",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "ST JAMES ST/E FEDERAL ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint James Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5523097,
+    "lng": -77.4355762
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/04/2025 01:23",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2600-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "FIRE",
+    "lat": 37.513339,
+    "lng": -77.456128
   }
 ]
