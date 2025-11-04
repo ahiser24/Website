@@ -79,55 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 01:54",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "400-BLK N 12TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.54025,
-    "lng": -77.43045
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 02:19",
+    "dispatch_time": "11/04/2025 02:45",
     "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1000-BLK GREYSTONE AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
+    "nearest_intersection": "Greystone Avenue, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 02:43",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2200-BLK CHALFONT DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4908816,
-    "lng": -77.4654757
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 02:51",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1600-BLK BRAMWELL RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bramwell Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4867785,
-    "lng": -77.5068481
+    "lat": 37.4989928,
+    "lng": -77.4736869
   },
   {
     "type_general": "RPD",
@@ -157,15 +118,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 03:08",
-    "box_no": "Precinct 1",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "2100-BLK PHAUP ST",
-    "status": "Enroute",
+    "dispatch_time": "11/04/2025 03:09",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "4700-BLK WALMSLEY BLVD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Phaup Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5510819,
-    "lng": -77.407214
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4704251,
+    "lng": -77.4818545
   }
 ]
