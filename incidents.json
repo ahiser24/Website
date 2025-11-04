@@ -96,12 +96,25 @@
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , NUISANCE",
     "street": "4700-BLK WALMSLEY BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Walmsley Boulevard",
     "location_township": "Precinct 2",
     "lat": 37.4704251,
     "lng": -77.4818545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 01:22",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "CHAMBERLAYNE PKWY/W BACON ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RPD",
@@ -147,13 +160,13 @@
     "dispatch_time": "11/04/2025 01:54",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "00-BLK N 12TH ST",
+    "street": "400-BLK N 12TH ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 12th Street",
+    "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
-    "lat": 37.5413903,
-    "lng": -77.4292475
+    "lat": 37.54025,
+    "lng": -77.43045
   },
   {
     "type_general": "RPD",
