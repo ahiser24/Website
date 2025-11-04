@@ -128,31 +128,5 @@
     "location_township": "FIRE",
     "lat": 37.4899001,
     "lng": -77.4939365
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/04/2025 04:33",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3200-BLK LOGANDALE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Logandale Avenue, Southside",
-    "location_township": "FIRE",
-    "lat": 37.5043876,
-    "lng": -77.4627782
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/04/2025 04:44",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "600-BLK ROTHESAY RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Rothesay Road",
-    "location_township": "FIRE",
-    "lat": 37.551871,
-    "lng": -77.490339
   }
 ]
