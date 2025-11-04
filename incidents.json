@@ -66,15 +66,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 03:33",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "2200-BLK CHALFONT DR",
+    "dispatch_time": "11/04/2025 03:55",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "500-BLK E BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5431916,
+    "lng": -77.4365125
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 04:00",
+    "box_no": "Precinct 1",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "3000-BLK NINE MILE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.542062,
+    "lng": -77.399754
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 04:06",
+    "box_no": "Precinct 2",
+    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
+    "street": "3400-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
     "location_township": "Precinct 2",
-    "lat": 37.4908816,
-    "lng": -77.4654757
+    "lat": 37.5181942,
+    "lng": -77.4484203
   }
 ]
