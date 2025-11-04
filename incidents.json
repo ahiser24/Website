@@ -76,5 +76,57 @@
     "location_township": "Precinct 2",
     "lat": 37.5181942,
     "lng": -77.4484203
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 05:16",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "700-BLK EVERETT ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5202989,
+    "lng": -77.4378027
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 05:16",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "700-BLK EVERETT ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5202989,
+    "lng": -77.4378027
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 05:18",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "0-BLK MAURY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5218604,
+    "lng": -77.4340319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 05:18",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "0-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5218604,
+    "lng": -77.4340319
   }
 ]
