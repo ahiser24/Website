@@ -5,7 +5,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 28th Street, East End",
     "location_township": "Precinct 1",
@@ -91,16 +91,42 @@
     "lng": -77.463688
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/04/2025 06:42",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "600-BLK WESTOVER HILLS BLVD",
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 06:40",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1400-BLK E BROOKLAND PARK BLVD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5140128,
-    "lng": -77.4895724
+    "nearest_intersection": "East Brookland Park Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.569235,
+    "lng": -77.417054
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 06:49",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "N ADAMS ST/W BROAD ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Adams Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467716,
+    "lng": -77.442284
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 06:49",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "N ADAMS ST/W BROAD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Adams Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467716,
+    "lng": -77.442284
   }
 ]
