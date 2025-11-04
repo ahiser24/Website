@@ -161,7 +161,7 @@
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 2",
@@ -170,28 +170,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/04/2025 02:21",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "3100-BLK MONUMENT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5631357,
-    "lng": -77.4749273
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/04/2025 02:24",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
     "street": "3800-BLK MASTIN LN",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "FIRE",
     "lat": 37.571676,
     "lng": -77.481157
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/04/2025 02:33",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , WATER RELATED",
+    "street": "1200-BLK NELSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "FIRE",
+    "lat": 37.5131526,
+    "lng": -77.4030988
   }
 ]
