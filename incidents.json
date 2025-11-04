@@ -115,5 +115,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5209379,
     "lng": -77.4351693
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 05:51",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1800-BLK STOPFORD ALY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Stopford Alley",
+    "location_township": "Precinct 3",
+    "lat": 37.5479901,
+    "lng": -77.4643201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 05:51",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1800-BLK STOPFORD ALY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stopford Alley",
+    "location_township": "Precinct 3",
+    "lat": 37.5479901,
+    "lng": -77.4643201
   }
 ]
