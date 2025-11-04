@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 04:06",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "3400-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5181942,
-    "lng": -77.4484203
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 05:34",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -63,19 +50,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5244025,
     "lng": -77.5068684
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 05:55",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1900-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5602471,
-    "lng": -77.4431479
   },
   {
     "type_general": "RPD",
@@ -92,28 +66,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 06:14",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "0-BLK S VINE ST",
+    "dispatch_time": "11/04/2025 06:20",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "100-BLK W 29TH ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "South Vine Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5473397,
-    "lng": -77.4624683
+    "nearest_intersection": "West 29th Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5146377,
+    "lng": -77.4613777
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 06:14",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "0-BLK S VINE ST",
-    "status": "Arrived",
+    "dispatch_time": "11/04/2025 06:28",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2200-BLK EDWARDS AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "South Vine Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5473397,
-    "lng": -77.4624683
+    "nearest_intersection": "Edwards Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5086369,
+    "lng": -77.4458022
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 06:31",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "1900-BLK HOPKINS RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hopkins Road, Southside",
+    "location_township": "DPR",
+    "lat": 37.491725,
+    "lng": -77.463688
   }
 ]
