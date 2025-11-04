@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 01:25",
-    "box_no": "Precinct 2",
-    "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 01:46",
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
@@ -89,19 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5301228,
     "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 01:48",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , AGGRESSIVE - EMS",
-    "street": "200-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5523546,
-    "lng": -77.4384047
   },
   {
     "type_general": "RPD",
@@ -148,7 +122,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
     "street": "1600-BLK BRAMWELL RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bramwell Road",
     "location_township": "Precinct 2",
@@ -180,5 +154,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4932381,
     "lng": -77.4554705
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 03:08",
+    "box_no": "Precinct 1",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "2100-BLK PHAUP ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Phaup Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5510819,
+    "lng": -77.407214
   }
 ]
