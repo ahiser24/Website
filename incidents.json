@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 10:25",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1000-BLK DECATUR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5208676,
-    "lng": -77.441657
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 12:46",
     "box_no": "Precinct 3",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
@@ -53,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 15:34",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "2000-BLK ROYALL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Royall Avenue",
-    "location_township": "DPR",
-    "lat": 37.495666,
-    "lng": -77.433922
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 15:52",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -102,19 +76,6 @@
     "location_township": "Precinct 2",
     "lat": 37.472385,
     "lng": -77.453612
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 16:00",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "7100-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5378286,
-    "lng": -77.5260018
   },
   {
     "type_general": "RPD",
@@ -131,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 16:27",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICHMOND HWY/HULL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 1",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 16:31",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -219,19 +167,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5840069,
     "lng": -77.4708596
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 16:33",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 21ST ST/E MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 21st Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5460125,
-    "lng": -77.4108059
   },
   {
     "type_general": "RPD",
@@ -249,19 +184,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/04/2025 16:52",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "100-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5149743,
-    "lng": -77.5244606
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 16:52",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , DPR Call - Take a Report",
     "street": "1500-BLK W BROAD ST",
@@ -271,32 +193,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5541589,
     "lng": -77.4554329
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 16:55",
-    "box_no": "Precinct 1",
-    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "1100-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5372662,
-    "lng": -77.4345287
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 16:55",
-    "box_no": "Precinct 1",
-    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "1100-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5372662,
-    "lng": -77.4345287
   },
   {
     "type_general": "RPD",
@@ -391,11 +287,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/04/2025 17:16",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/04/2025 17:22",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON - JUVENILE 10 AND UNDER , INVESTIGATE",
     "street": "1900-BLK WHITCOMB ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Whitcomb Street",
     "location_township": "Precinct 1",
@@ -414,5 +323,70 @@
     "location_township": "Precinct 3",
     "lat": 37.53821,
     "lng": -77.587837
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 17:24",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "10400-BLK DURYEA DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Duryea Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.53821,
+    "lng": -77.587837
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 17:29",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "3000-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.475069,
+    "lng": -77.481909
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 17:35",
+    "box_no": "Precinct 1",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "N 35TH ST/CANEPA ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 35th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5332924,
+    "lng": -77.3987046
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/04/2025 17:31",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "FIRE",
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/04/2025 17:34",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "800-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "FIRE",
+    "lat": 37.508793,
+    "lng": -77.4480183
   }
 ]
