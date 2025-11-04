@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 06:20",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "100-BLK W 29TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 29th Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5146377,
-    "lng": -77.4613777
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 06:28",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -89,57 +76,5 @@
     "location_township": "DPR",
     "lat": 37.491725,
     "lng": -77.463688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 06:40",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1400-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.569235,
-    "lng": -77.417054
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 06:49",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "N ADAMS ST/W BROAD ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Adams Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5467716,
-    "lng": -77.442284
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 06:49",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "N ADAMS ST/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Adams Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5467716,
-    "lng": -77.442284
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 06:54",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "5000-BLK SNEAD RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770457,
-    "lng": -77.4856193
   }
 ]
