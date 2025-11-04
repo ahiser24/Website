@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/03/2025 22:50",
-    "box_no": "Precinct 1",
-    "type_specific": "SEX OFFENSE , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 00:27",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -167,31 +154,5 @@
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/04/2025 02:24",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3800-BLK MASTIN LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.571676,
-    "lng": -77.481157
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/04/2025 02:33",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , WATER RELATED",
-    "street": "1200-BLK NELSON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "FIRE",
-    "lat": 37.5131526,
-    "lng": -77.4030988
   }
 ]
