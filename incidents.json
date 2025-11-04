@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 01:22",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE-EMS",
-    "street": "CHAMBERLAYNE PKWY/W BACON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 01:46",
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
@@ -79,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 02:45",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "1000-BLK GREYSTONE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Greystone Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4989928,
-    "lng": -77.4736869
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 02:55",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -118,15 +92,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 03:09",
+    "dispatch_time": "11/04/2025 03:33",
     "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "4700-BLK WALMSLEY BLVD",
-    "status": "Arrived",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "2200-BLK CHALFONT DR",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
+    "nearest_intersection": "Chalfont Drive, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.4704251,
-    "lng": -77.4818545
+    "lat": 37.4908816,
+    "lng": -77.4654757
   }
 ]
