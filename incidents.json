@@ -226,7 +226,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "3000-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
@@ -245,5 +245,57 @@
     "location_township": "Precinct 4",
     "lat": 37.57024,
     "lng": -77.420545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 23:07",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "1700-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5335013,
+    "lng": -77.4282824
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 23:09",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/03/2025 23:11",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "E FEDERAL ST/N 2ND ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Federal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5520212,
+    "lng": -77.4344624
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/03/2025 23:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "00-BLK E 31ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 31st Street, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5063691,
+    "lng": -77.4615375
   }
 ]
