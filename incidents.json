@@ -18,7 +18,7 @@
     "box_no": "Precinct 4",
     "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
     "street": "2000-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5301228,
     "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 00:03",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "HULL ST/E 5TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5267406,
-    "lng": -77.4350441
   },
   {
     "type_general": "RPD",
@@ -135,7 +122,7 @@
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
     "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Richmond Road",
     "location_township": "Precinct 1",
@@ -154,5 +141,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5523546,
     "lng": -77.4384047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 01:54",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "00-BLK N 12TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 12th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5413903,
+    "lng": -77.4292475
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 01:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "300-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5077898,
+    "lng": -77.525705
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/04/2025 01:54",
+    "box_no": "FIRE",
+    "type_specific": "# ELEVATOR INCIDENT",
+    "street": "300-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "FIRE",
+    "lat": 37.5077898,
+    "lng": -77.525705
   }
 ]
