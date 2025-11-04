@@ -133,7 +133,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/04/2025 11:54",
     "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "type_specific": "LARCENY , INVESTIGATE",
     "street": "1900-BLK HOPKINS RD",
     "status": "Arrived",
     "cross_street": "",
@@ -209,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 12:09",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "3300-BLK O ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "O Street, East End",
-    "location_township": "DPR",
-    "lat": 37.532423,
-    "lng": -77.406389
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 12:10",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -274,19 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 12:33",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "2800-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4801667,
-    "lng": -77.4805903
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 12:36",
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -336,6 +310,71 @@
     "location_township": "Precinct 1",
     "lat": 37.5322021,
     "lng": -77.403918
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 12:37",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "SEMMES AVE/COWARDIN AVE RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5205143,
+    "lng": -77.4576868
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 12:37",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "SEMMES AVE/COWARDIN AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5205143,
+    "lng": -77.4576868
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 12:39",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "5700-BLK BLILEY RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Bliley Road",
+    "location_township": "Precinct 3",
+    "lat": 37.529505,
+    "lng": -77.502864
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 12:39",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "5700-BLK BLILEY RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bliley Road",
+    "location_township": "Precinct 3",
+    "lat": 37.529505,
+    "lng": -77.502864
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 12:41",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "3300-BLK BROAD ROCK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4717278,
+    "lng": -77.4824414
   },
   {
     "type_general": "RFD",
@@ -349,5 +388,18 @@
     "location_township": "FIRE",
     "lat": 37.5845486,
     "lng": -77.4473886
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/04/2025 12:41",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "1600-BLK MAGNOLIA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Magnolia Street",
+    "location_township": "FIRE",
+    "lat": 37.564132,
+    "lng": -77.418106
   }
 ]
