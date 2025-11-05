@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 03:27",
-    "box_no": "Precinct 1",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "5800-BLK BREMO RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 06:31",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -65,6 +52,19 @@
     "lng": -77.467088
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 06:46",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3400-BLK MAURY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5030567,
+    "lng": -77.4626598
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/05/2025 06:21",
     "box_no": "FIRE",
@@ -76,5 +76,31 @@
     "location_township": "FIRE",
     "lat": 37.4716002,
     "lng": -77.4673762
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 06:48",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
+    "street": "5600-BLK PETOSKEY AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Petoskey Avenue",
+    "location_township": "FIRE",
+    "lat": 37.4988816,
+    "lng": -77.5008037
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 06:48",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "0-BLK N 2ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "FIRE",
+    "lat": 37.5464301,
+    "lng": -77.4383891
   }
 ]
