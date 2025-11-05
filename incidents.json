@@ -46,7 +46,7 @@
     "street": "900-BLK MOSBY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
+    "nearest_intersection": "Mosby Street",
     "location_township": "Precinct 1",
     "lat": 37.5418142,
     "lng": -77.4208953
@@ -59,7 +59,7 @@
     "street": "900-BLK MOSBY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
+    "nearest_intersection": "Mosby Street",
     "location_township": "Precinct 1",
     "lat": 37.5418142,
     "lng": -77.4208953
@@ -76,19 +76,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5997402,
     "lng": -77.4502625
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 01:43",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1600-BLK BRAMWELL RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bramwell Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4867785,
-    "lng": -77.5068481
   },
   {
     "type_general": "RPD",
@@ -115,5 +102,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5452381,
     "lng": -77.4046926
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 02:06",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 03:11",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "6500-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5035598,
+    "lng": -77.5157461
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 03:15",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "DALE AVE/RICHMOND HWY RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Dale Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4652972,
+    "lng": -77.4413265
   }
 ]
