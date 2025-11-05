@@ -31,7 +31,7 @@
     "box_no": "Precinct 1",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
     "street": "1600-BLK HULL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street",
     "location_township": "Precinct 1",
@@ -63,19 +63,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4835974,
     "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 23:27",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2000-BLK PRINCESS ANNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Princess Anne Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.535968,
-    "lng": -77.420918
   },
   {
     "type_general": "RPD",
@@ -167,19 +154,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4867785,
     "lng": -77.5068481
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 01:49",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4200-BLK TERMINAL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Terminal Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.483167,
-    "lng": -77.441767
   },
   {
     "type_general": "RPD",
