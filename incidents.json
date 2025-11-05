@@ -147,13 +147,13 @@
     "dispatch_time": "11/05/2025 01:36",
     "box_no": "Precinct 4",
     "type_specific": "SUBJECT PURSUIT , OFFICER-INITIATED",
-    "street": "AZALEA AVE/CHAMBERLAYNE AVE RICH",
+    "street": "4900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
+    "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.6015861,
-    "lng": -77.4529869
+    "lat": 37.5997402,
+    "lng": -77.4502625
   },
   {
     "type_general": "RPD",
@@ -167,5 +167,44 @@
     "location_township": "Precinct 2",
     "lat": 37.4867785,
     "lng": -77.5068481
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 01:43",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "500-BLK E CANAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.538635,
+    "lng": -77.441345
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 01:49",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4200-BLK TERMINAL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Terminal Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.483167,
+    "lng": -77.441767
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 01:51",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1000-BLK CARLISLE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Carlisle Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5172579,
+    "lng": -77.404473
   }
 ]
