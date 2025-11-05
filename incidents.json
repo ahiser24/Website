@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 07:30",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "1100-BLK E 15TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East 15th Street",
-    "location_township": "DPR",
-    "lat": 37.5109283,
-    "lng": -77.4383028
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 07:43",
     "box_no": "Precinct 1",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -89,19 +76,6 @@
     "location_township": "Precinct 4",
     "lat": 37.591781,
     "lng": -77.447047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 08:52",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
-    "street": "6800-BLK EVERGLADES DR",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Everglades Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5034416,
-    "lng": -77.5206899
   },
   {
     "type_general": "RPD",
@@ -206,6 +180,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5447691,
     "lng": -77.3989708
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 09:41",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2800-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.5630621,
+    "lng": -77.4702604
   },
   {
     "type_general": "RFD",
