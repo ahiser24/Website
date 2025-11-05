@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 09:06",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "DPR",
-    "lat": 37.5035598,
-    "lng": -77.5157461
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 09:10",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -195,17 +182,17 @@
     "lng": -77.4702604
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/05/2025 09:35",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1500-BLK COALTER ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 09:43",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1500-BLK HANOVER AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "FIRE",
-    "lat": 37.54623,
-    "lng": -77.419433
+    "nearest_intersection": "Park Avenue",
+    "location_township": "DPR",
+    "lat": 37.550557,
+    "lng": -77.458064
   },
   {
     "type_general": "RFD",
@@ -232,5 +219,18 @@
     "location_township": "FIRE",
     "lat": 37.5864713,
     "lng": -77.5238056
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 09:35",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1500-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "FIRE",
+    "lat": 37.54623,
+    "lng": -77.419433
   }
 ]
