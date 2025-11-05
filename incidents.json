@@ -122,7 +122,20 @@
     "box_no": "Precinct 4",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
     "street": "HAWTHORNE AVE/W LADIES MILE RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hawthorne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5875695,
+    "lng": -77.4457826
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 23:28",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "HAWTHORNE AVE/W LADIES MILE RD RICH",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hawthorne Avenue",
     "location_township": "Precinct 4",
@@ -213,7 +226,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "700-BLK E MAIN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Main Street",
     "location_township": "Precinct 4",
@@ -245,5 +258,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4771578,
     "lng": -77.4941278
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 23:51",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3900-BLK WAINFLEET DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Wainfleet Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.548836,
+    "lng": -77.58972
   }
 ]
