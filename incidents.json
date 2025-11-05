@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 14:21",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "700-BLK E FRANKLIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5400871,
-    "lng": -77.4367211
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 14:25",
     "box_no": "Precinct 2",
     "type_specific": "WELFARE CHECK , EMS RESPONSE",
@@ -105,29 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 14:31",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2900-BLK HATHAWAY RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hathaway Road",
-    "location_township": "DPR",
-    "lat": 37.5386349,
-    "lng": -77.5200352
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 14:33",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , CITY PROPERTY",
-    "street": "600-BLK W BROAD ST",
+    "street": "500-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5485892,
-    "lng": -77.4465688
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -161,11 +135,63 @@
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "2500-BLK SHEILA LN",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Sheila Lane",
     "location_township": "Precinct 3",
     "lat": 37.5360037,
     "lng": -77.5336528
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 14:55",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1100-BLK W LABURNUM AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 14:55",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1100-BLK W LABURNUM AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 14:56",
+    "box_no": "Precinct 3",
+    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
+    "street": "700-BLK ST JOHNS WOOD DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 14:59",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "800-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "DPR",
+    "lat": 37.5618471,
+    "lng": -77.4709719
   }
 ]
