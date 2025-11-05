@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 06:59",
-    "box_no": "Precinct 2",
-    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
-    "street": "3400-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 07:30",
     "box_no": "DPR",
     "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
@@ -157,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 09:12",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "1200-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5202636,
-    "lng": -77.4888584
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 09:14",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , NUISANCE",
@@ -198,19 +172,6 @@
     "type_general": "RPD",
     "dispatch_time": "11/05/2025 09:29",
     "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "W CLAY ST/N SHEPPARD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5529593,
-    "lng": -77.449671
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 09:29",
-    "box_no": "Precinct 4",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
     "street": "HIGHLAND ST/MISSOURI AVE RICH",
     "status": "Arrived",
@@ -219,6 +180,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5783911,
     "lng": -77.4182579
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 09:33",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "700-BLK EVERETT ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5202989,
+    "lng": -77.4378027
   },
   {
     "type_general": "RPD",
@@ -247,16 +221,29 @@
     "lng": -77.419433
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 09:33",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "700-BLK EVERETT ST",
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 09:40",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "300-BLK HIOAKS RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Everett Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5202989,
-    "lng": -77.4378027
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "FIRE",
+    "lat": 37.5077898,
+    "lng": -77.525705
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 09:41",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
+    "street": "6500-BLK PATTERSON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue, West End",
+    "location_township": "FIRE",
+    "lat": 37.5864713,
+    "lng": -77.5238056
   }
 ]
