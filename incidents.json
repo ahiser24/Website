@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 12:46",
-    "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "7100-BLK TIM PRICE WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tim Price Way",
-    "location_township": "Precinct 3",
-    "lat": 37.5005642,
-    "lng": -77.5267218
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 14:39",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -43,13 +30,13 @@
     "dispatch_time": "11/04/2025 16:31",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "3000-BLK E LABURNUM AVE",
+    "street": "5200-BLK S LABURNUM AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Laburnum Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5840069,
-    "lng": -77.4708596
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -122,7 +109,7 @@
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
     "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "DPR",
@@ -135,7 +122,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 18:29",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICHMOND HWY/TERMINAL AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 18:33",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -210,19 +184,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/04/2025 18:36",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 18:36",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
     "street": "1800-BLK THOMAS ST",
@@ -232,19 +193,6 @@
     "location_township": "Precinct 4",
     "lat": 37.56188,
     "lng": -77.452732
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 18:37",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 23RD ST/E BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5436083,
-    "lng": -77.4102526
   },
   {
     "type_general": "RPD",
@@ -278,7 +226,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "E MARSHALL ST/N 18TH ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 1",
@@ -300,16 +248,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 19:08",
+    "dispatch_time": "11/04/2025 19:28",
     "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "2000-BLK SUSSEX ST",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1900-BLK REDD ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Wood Street",
+    "nearest_intersection": "Accommodation Street",
     "location_township": "Precinct 1",
-    "lat": 37.552953,
-    "lng": -77.418247
+    "lat": 37.547595,
+    "lng": -77.420888
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 19:36",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1600-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5185064,
+    "lng": -77.4475359
   },
   {
     "type_general": "RFD",
@@ -352,15 +313,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/04/2025 19:08",
+    "dispatch_time": "11/04/2025 19:36",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "800-BLK NEWKIRK DR",
-    "status": "Enroute",
+    "type_specific": "# TRASH FIRE , BURN VIOLATION",
+    "street": "1700-BLK W LEIGH ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Newkirk Drive, Southside",
+    "nearest_intersection": "West Leigh Street",
     "location_township": "FIRE",
-    "lat": 37.499196,
-    "lng": -77.4886049
+    "lat": 37.5580027,
+    "lng": -77.4548916
   }
 ]
