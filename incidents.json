@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 01:36",
-    "box_no": "Precinct 4",
-    "type_specific": "SUBJECT PURSUIT , OFFICER-INITIATED",
-    "street": "4900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5997402,
-    "lng": -77.4502625
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 03:27",
     "box_no": "Precinct 1",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -63,71 +50,6 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 04:12",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "LL(-77:24:56.0150,37:32:08.1274)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lng": -77.41555972222223,
-    "lat": 37.53559094444444
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 04:12",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "LL(-77:24:56.0150,37:32:08.1274)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lng": -77.41555972222223,
-    "lat": 37.53559094444444
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 04:12",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "LL(-77:24:56.0150,37:32:08.1274)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lng": -77.41555972222223,
-    "lat": 37.53559094444444
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 04:12",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "LL(-77:24:56.0150,37:32:08.1274)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lng": -77.41555972222223,
-    "lat": 37.53559094444444
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 04:27",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "1000-BLK E BYRD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Byrd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5401544,
-    "lng": -77.4461994
   },
   {
     "type_general": "RPD",
@@ -154,5 +76,18 @@
     "location_township": "Precinct 1",
     "lat": 37.544106,
     "lng": -77.414211
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 05:15",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53551,
+    "lng": -77.431692
   }
 ]
