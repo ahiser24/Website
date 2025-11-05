@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
     "street": "0-BLK S SHIELDS AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Shields Avenue",
     "location_township": "Precinct 3",
@@ -40,55 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 13:27",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "BELMONT RD/WALMSLEY BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Belmont Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4683026,
-    "lng": -77.493611
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 13:27",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "BELMONT RD/WALMSLEY BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Belmont Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4683026,
-    "lng": -77.493611
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 13:45",
     "box_no": "DPR",
     "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
     "street": "300-BLK S ARTHUR ASHE BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South Arthur Ashe Boulevard",
     "location_township": "DPR",
     "lat": 37.5499797,
     "lng": -77.477447
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 13:57",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "00-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5667607,
-    "lng": -77.475537
   },
   {
     "type_general": "RPD",
@@ -105,29 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 14:20",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "6300-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5046527,
-    "lng": -77.5119423
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 14:21",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "6300-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5046527,
-    "lng": -77.5119423
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "DPR",
+    "lat": 37.601975,
+    "lng": -77.450736
   },
   {
     "type_general": "RPD",
@@ -141,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5400871,
     "lng": -77.4367211
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 14:22",
-    "box_no": "Precinct 1",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "1800-BLK N 29TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.542491,
-    "lng": -77.4029941
   },
   {
     "type_general": "RPD",
@@ -187,7 +122,7 @@
     "box_no": "Precinct 2",
     "type_specific": "WELFARE CHECK , EMS RESPONSE",
     "street": "4100-BLK WELFORD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Welford Avenue",
     "location_township": "Precinct 2",
@@ -206,6 +141,19 @@
     "location_township": "Precinct 1",
     "lat": 37.534302,
     "lng": -77.427504
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 14:27",
+    "box_no": "Precinct 2",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "RICH: @SOUTHSIDE PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -247,12 +195,25 @@
     "lng": -77.4465688
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 14:34",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "6100-BLK GLENWAY CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Glenway Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5170176,
+    "lng": -77.5100332
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/05/2025 14:35",
     "box_no": "FIRE",
-    "type_specific": "",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
     "street": "1100-BLK E MARSHALL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "FIRE",
@@ -260,16 +221,16 @@
     "lng": -77.4315227
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 14:27",
-    "box_no": "Precinct 2",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "RICH: @SOUTHSIDE PLAZA",
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 14:40",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "3100-BLK HULL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5083254,
+    "lng": -77.4635415
   }
 ]
