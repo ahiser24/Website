@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "North 28th Street, East End",
     "location_township": "Precinct 4",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 07:06",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "300-BLK N 20TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534543,
-    "lng": -77.423317
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 07:11",
     "box_no": "Precinct 4",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -91,16 +78,29 @@
     "lng": -77.4119515
   },
   {
-    "type_general": "RFD",
+    "type_general": "RPD",
     "dispatch_time": "11/05/2025 07:12",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , WATER RELATED",
-    "street": "3400-BLK PATTERSON AVE",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "HULL STREET RD/WARWICK RD RICH: alias HULL ST/WARWICK RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Patterson Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5624644,
-    "lng": -77.4816024
+    "nearest_intersection": "Hull Street Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.49303,
+    "lng": -77.487645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 07:21",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "00-BLK E FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5409621,
+    "lng": -77.4386469
   }
 ]
