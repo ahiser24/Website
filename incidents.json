@@ -102,5 +102,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5401544,
     "lng": -77.4461994
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 04:51",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   }
 ]
