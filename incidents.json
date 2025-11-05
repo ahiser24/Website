@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 09:58",
-    "box_no": "DPR",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "500-BLK E MARSHALL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "DPR",
-    "lat": 37.543785,
-    "lng": -77.436464
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 10:10",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -37,32 +24,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5077898,
     "lng": -77.525705
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 10:27",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "CITY WIDE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 10:27",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "CITY WIDE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -102,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5035372,
     "lng": -77.5195251
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 10:57",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "00-BLK ERICH RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Erich Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5062683,
+    "lng": -77.4993223
   },
   {
     "type_general": "RPD",
@@ -170,6 +144,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/05/2025 11:40",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1200-BLK ST JAMES ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint James Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5530109,
+    "lng": -77.4351594
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 11:40",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1200-BLK ST JAMES ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint James Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5530109,
+    "lng": -77.4351594
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/05/2025 11:41",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -195,16 +195,29 @@
     "lng": -77.4268235
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/05/2025 11:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "1600-BLK GLENFIELD AVE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 11:56",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "600-BLK N 37TH ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Glenfield Avenue",
+    "nearest_intersection": "Crestview Road",
+    "location_township": "Precinct 1",
+    "lat": 37.527574,
+    "lng": -77.405499
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 11:56",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK - RUPTURED MAIN (OUTSIDE)",
+    "street": "600-BLK N 37TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Crestview Road",
     "location_township": "FIRE",
-    "lat": 37.506154,
-    "lng": -77.434326
+    "lat": 37.527574,
+    "lng": -77.405499
   }
 ]
