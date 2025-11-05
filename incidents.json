@@ -57,7 +57,7 @@
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
     "street": "1700-BLK FLOYD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Floyd Avenue",
     "location_township": "Precinct 3",
@@ -96,25 +96,12 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "400-BLK MELMARK CT",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Melmark Court",
     "location_township": "Precinct 3",
     "lat": 37.5111106,
     "lng": -77.5020742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 15:20",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1500-BLK MOORE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": 37.5577619,
-    "lng": -77.4521527
   },
   {
     "type_general": "RPD",
@@ -161,7 +148,7 @@
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "3200-BLK WOODROW AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Woodrow Avenue, Northside",
     "location_township": "Precinct 4",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5618934,
     "lng": -77.4354821
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 15:43",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1700-BLK ROSECREST AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Rosecrest Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5038492,
+    "lng": -77.4325932
   },
   {
     "type_general": "RFD",
@@ -208,6 +208,19 @@
     "lng": -77.4208043
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 15:48",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "5900-BLK RIVER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "River Road",
+    "location_township": "FIRE",
+    "lat": 37.5683371,
+    "lng": -77.5273976
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/05/2025 15:44",
     "box_no": "Precinct 2",
@@ -219,5 +232,57 @@
     "location_township": "Precinct 2",
     "lat": 37.481899,
     "lng": -77.479478
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 15:48",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "5900-BLK RIVER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "River Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5683371,
+    "lng": -77.5273976
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 15:52",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "600-BLK FAYETTE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 15:52",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "600-BLK FAYETTE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 15:52",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "S 3RD ST/E CARY ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South 3rd Street",
+    "location_township": "DPR",
+    "lat": 37.5395616,
+    "lng": -77.4434884
   }
 ]
