@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 01:51",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1000-BLK CARLISLE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carlisle Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5172579,
-    "lng": -77.404473
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 03:19",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2100-BLK SELDEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5502101,
-    "lng": -77.4076761
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 03:27",
     "box_no": "Precinct 1",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -89,5 +63,18 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 04:01",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2500-BLK NORTHUMBERLAND AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Northumberland Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.565561,
+    "lng": -77.447383
   }
 ]
