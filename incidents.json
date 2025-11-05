@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 20:52",
-    "box_no": "Precinct 2",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "200-BLK MARDICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mardick Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5079513,
-    "lng": -77.4760461
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 22:35",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -96,7 +83,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "5000-BLK OLD WARWICK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Warwick Road, Southside",
     "location_township": "Precinct 2",
@@ -156,16 +143,29 @@
     "lng": -77.4888165
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/05/2025 01:21",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "4900-BLK EVELYN BYRD RD",
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 01:36",
+    "box_no": "Precinct 4",
+    "type_specific": "SUBJECT PURSUIT , OFFICER-INITIATED",
+    "street": "AZALEA AVE/CHAMBERLAYNE AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Evelyn Byrd Road",
-    "location_township": "FIRE",
-    "lat": 37.527463,
-    "lng": -77.4842645
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.6015861,
+    "lng": -77.4529869
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 01:43",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1600-BLK BRAMWELL RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Bramwell Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4867785,
+    "lng": -77.5068481
   }
 ]
