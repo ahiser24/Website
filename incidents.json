@@ -57,7 +57,7 @@
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "1300-BLK COALTER ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Coalter Street",
     "location_township": "Precinct 1",
@@ -115,5 +115,31 @@
     "location_township": "Precinct 2",
     "lat": 37.494099,
     "lng": -77.4511111
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 05:49",
+    "box_no": "Precinct 3",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "PETERBOROUGH RD/DEVONSHIRE RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Peterborough Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5260433,
+    "lng": -77.4915249
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 05:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "PETERBOROUGH RD/DEVONSHIRE RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Peterborough Road",
+    "location_township": "FIRE",
+    "lat": 37.5260433,
+    "lng": -77.4915249
   }
 ]
