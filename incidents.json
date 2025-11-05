@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 14:39",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 15:16",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -122,64 +109,12 @@
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "1400-BLK DREWRY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Drewry Street",
     "location_township": "Precinct 2",
     "lat": 37.5017349,
     "lng": -77.4368822
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 23:28",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1500-BLK ROGERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rogers Street",
-    "location_township": "Precinct 1",
-    "lat": 37.546815,
-    "lng": -77.414654
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 23:28",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1500-BLK ROGERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rogers Street",
-    "location_township": "Precinct 1",
-    "lat": 37.546815,
-    "lng": -77.414654
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 23:28",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1500-BLK ROGERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rogers Street",
-    "location_township": "Precinct 1",
-    "lat": 37.546815,
-    "lng": -77.414654
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/04/2025 23:28",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1500-BLK ROGERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rogers Street",
-    "location_township": "Precinct 1",
-    "lat": 37.546815,
-    "lng": -77.414654
   },
   {
     "type_general": "RPD",
@@ -196,27 +131,14 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 00:00",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "300-BLK W ROANOKE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Roanoke Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5137506,
-    "lng": -77.4761962
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 00:25",
-    "box_no": "DPR",
-    "type_specific": "DOMESTIC TROUBLE , DPR Call - Advice Only",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "5000-BLK OLD WARWICK RD",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Warwick Road, Southside",
-    "location_township": "DPR",
+    "location_township": "Precinct 2",
     "lat": 37.489377,
     "lng": -77.484226
   },
@@ -262,28 +184,15 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/05/2025 00:32",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
-    "street": "SWAN LAKE DR",
-    "status": "Dispatched",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "1100-BLK RICHMOND HWY",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Swan Lake Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5438908,
-    "lng": -77.4752981
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 00:32",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
-    "street": "SWAN LAKE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Swan Lake Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5438908,
-    "lng": -77.4752981
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.5052382,
+    "lng": -77.4476466
   },
   {
     "type_general": "RPD",
@@ -297,5 +206,18 @@
     "location_township": "Precinct 4",
     "lat": 37.552025,
     "lng": -77.447971
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 00:39",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "900-BLK MOSBY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5418142,
+    "lng": -77.4208953
   }
 ]
