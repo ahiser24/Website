@@ -66,15 +66,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 04:01",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2500-BLK NORTHUMBERLAND AVE",
+    "dispatch_time": "11/05/2025 04:12",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "LL(-77:24:56.0150,37:32:08.1274)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lng": -77.41555972222223,
+    "lat": 37.53559094444444
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 04:12",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "LL(-77:24:56.0150,37:32:08.1274)",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Northumberland Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.565561,
-    "lng": -77.447383
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lng": -77.41555972222223,
+    "lat": 37.53559094444444
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 04:19",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5089813,
+    "lng": -77.478859
   }
 ]
