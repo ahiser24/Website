@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 23:24",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "3900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5884889,
-    "lng": -77.4485395
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/04/2025 23:27",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -131,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/04/2025 23:27",
-    "box_no": "Precinct 3",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "dispatch_time": "11/04/2025 23:28",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "HAWTHORNE AVE/W LADIES MILE RD RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5035598,
-    "lng": -77.5157461
+    "nearest_intersection": "Hawthorne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5875695,
+    "lng": -77.4457826
   },
   {
     "type_general": "RPD",
@@ -219,6 +206,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5350473,
     "lng": -77.4082125
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 23:30",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "700-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5393687,
+    "lng": -77.4376041
   },
   {
     "type_general": "RPD",
@@ -226,7 +226,20 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "5400-BLK SNEAD RD",
-    "status": "Enroute",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4771578,
+    "lng": -77.4941278
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/04/2025 23:31",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5400-BLK SNEAD RD",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Snead Road",
     "location_township": "Precinct 2",
