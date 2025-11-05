@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 00:30",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1200-BLK SOUTHWOOD PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Southwood Parkway, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4937634,
-    "lng": -77.4828589
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 00:32",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
@@ -200,7 +187,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , PERSON",
     "street": "900-BLK W CLAY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Clay Street",
     "location_township": "Precinct 4",
@@ -219,5 +206,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5418142,
     "lng": -77.4208953
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 00:40",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "3400-BLK KENSINGTON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.561458,
+    "lng": -77.481132
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 00:52",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "500-BLK STOCKTON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5224135,
+    "lng": -77.436784
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 00:52",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "500-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "FIRE",
+    "lat": 37.5224135,
+    "lng": -77.436784
   }
 ]
