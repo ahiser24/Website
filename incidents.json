@@ -65,6 +65,19 @@
     "lng": -77.4626598
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 06:50",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "0-BLK N 2ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5464301,
+    "lng": -77.4383891
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/05/2025 06:21",
     "box_no": "FIRE",
@@ -76,19 +89,6 @@
     "location_township": "FIRE",
     "lat": 37.4716002,
     "lng": -77.4673762
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/05/2025 06:48",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
-    "street": "5600-BLK PETOSKEY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Petoskey Avenue",
-    "location_township": "FIRE",
-    "lat": 37.4988816,
-    "lng": -77.5008037
   },
   {
     "type_general": "RFD",
