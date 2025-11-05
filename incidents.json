@@ -89,5 +89,18 @@
     "location_township": "Precinct 1",
     "lat": 37.53551,
     "lng": -77.431692
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 05:34",
+    "box_no": "Precinct 3",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "6700-BLK N GRAND BROOK CIR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Grand Brook Circle",
+    "location_township": "Precinct 3",
+    "lat": 37.5170935,
+    "lng": -77.5196614
   }
 ]
