@@ -14,32 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 11:39",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
-    "street": "300-BLK N 8TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 8th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.541527,
-    "lng": -77.434693
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 12:22",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "700-BLK STOCKTON ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "DPR",
-    "lat": 37.5214521,
-    "lng": -77.4386556
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 12:30",
     "box_no": "Precinct 3",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -76,32 +50,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5460125,
     "lng": -77.4108059
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 13:19",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "CHIMBORAZO BLVD/N ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chimborazo Boulevard",
-    "location_township": "Precinct 1",
-    "lat": 37.5271114,
-    "lng": -77.4102595
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 13:19",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "CHIMBORAZO BLVD/N ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chimborazo Boulevard",
-    "location_township": "Precinct 1",
-    "lat": 37.5271114,
-    "lng": -77.4102595
   },
   {
     "type_general": "RPD",
@@ -144,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 13:27",
-    "box_no": "Precinct 4",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "600-BLK W LANCASTER RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Lancaster Road, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.566565,
-    "lng": -77.440867
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 13:32",
     "box_no": "Precinct 4",
     "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
@@ -167,6 +102,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5563334,
     "lng": -77.454402
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 13:45",
+    "box_no": "DPR",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "300-BLK S ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Arthur Ashe Boulevard",
+    "location_township": "DPR",
+    "lat": 37.5499797,
+    "lng": -77.477447
   },
   {
     "type_general": "RPD",
@@ -200,7 +148,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
     "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
@@ -208,28 +156,15 @@
     "lng": -77.4407689
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/05/2025 13:54",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "4300-BLK SHACKLEFORD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Shackleford Road",
-    "location_township": "FIRE",
-    "lat": 37.467021,
-    "lng": -77.4613393
-  },
-  {
-    "type_general": "RFD",
+    "type_general": "RPD",
     "dispatch_time": "11/05/2025 14:03",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
     "street": "1700-BLK BELLEVUE AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bellevue Avenue",
-    "location_township": "FIRE",
+    "location_township": "Precinct 4",
     "lat": 37.590597,
     "lng": -77.464322
   },
@@ -247,16 +182,16 @@
     "lng": -77.4644653
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 14:03",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "1700-BLK BELLEVUE AVE",
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 14:15",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "200-BLK RICHMOND WAY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
+    "nearest_intersection": "Westhampton Way",
+    "location_township": "FIRE",
+    "lat": 37.5789023,
+    "lng": -77.5379153
   }
 ]
