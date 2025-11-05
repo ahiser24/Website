@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 00:25",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5000-BLK OLD WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.489377,
-    "lng": -77.484226
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/05/2025 00:39",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -76,32 +63,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5418142,
     "lng": -77.4208953
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 01:00",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "3100-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.566148,
-    "lng": -77.472909
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 01:21",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3800-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
   },
   {
     "type_general": "RPD",
@@ -154,31 +115,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5452381,
     "lng": -77.4046926
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 02:31",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "5300-BLK HULL STREET ROAD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 02:31",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "5300-BLK HULL STREET ROAD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
   }
 ]
