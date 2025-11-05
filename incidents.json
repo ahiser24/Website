@@ -70,7 +70,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "400-BLK MELMARK CT",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Melmark Court",
     "location_township": "Precinct 3",
@@ -83,7 +83,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "E CLAY ST/N 12TH ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Clay Street",
     "location_township": "Precinct 4",
@@ -115,19 +115,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5751071,
     "lng": -77.4292738
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/05/2025 15:40",
-    "box_no": "Precinct 4",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
-    "street": "W ROBERTS ST/BROOK RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Roberts Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5618934,
-    "lng": -77.4354821
   },
   {
     "type_general": "RPD",
@@ -248,16 +235,55 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 16:06",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "800-BLK RICHMOND HWY",
+    "dispatch_time": "11/05/2025 16:28",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "700-BLK S PINE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Pine Street",
+    "location_township": "Precinct 4",
+    "lat": 37.536169,
+    "lng": -77.4506815
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 16:28",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "700-BLK S PINE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.508793,
-    "lng": -77.4480183
+    "nearest_intersection": "South Pine Street",
+    "location_township": "Precinct 4",
+    "lat": 37.536169,
+    "lng": -77.4506815
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/05/2025 16:32",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "2300-BLK ROSETTA ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Rosetta Street",
+    "location_township": "FIRE",
+    "lat": 37.548743,
+    "lng": -77.406126
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/05/2025 16:18",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1100-BLK W LEIGH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5539958,
+    "lng": -77.4477219
   },
   {
     "type_general": "RPD",
@@ -271,18 +297,5 @@
     "location_township": "Precinct 2",
     "lat": 37.5215929,
     "lng": -77.4545457
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/05/2025 16:13",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "RICH: @MM 71 - I95 NB",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
   }
 ]
