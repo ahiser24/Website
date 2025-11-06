@@ -96,7 +96,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "3800-BLK GLENWOOD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Glenwood Avenue",
     "location_township": "Precinct 1",
@@ -131,45 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 12:49",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "S CHERRY ST/IDLEWOOD AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Cherry Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5353631,
-    "lng": -77.4530183
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 12:54",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "N THOMPSON ST/HANOVER AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Thompson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5658211,
-    "lng": -77.4807515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 13:01",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "3500-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5799327,
-    "lng": -77.4469305
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 13:08",
     "box_no": "Precinct 2",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -193,19 +154,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4844173,
     "lng": -77.4944991
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 13:09",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2100-BLK CREIGHTON RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Creighton Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5447691,
-    "lng": -77.3989708
   },
   {
     "type_general": "RPD",
@@ -221,19 +169,6 @@
     "lng": -77.4724282
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 13:36",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "3000-BLK MONUMENT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5626501,
-    "lng": -77.4741261
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/06/2025 13:44",
     "box_no": "Precinct 1",
@@ -245,19 +180,6 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 13:16",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "4100-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.585559,
-    "lng": -77.440752
   },
   {
     "type_general": "RPD",
@@ -299,30 +221,30 @@
     "lng": -77.4658483
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 13:46",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "1800-BLK P ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 13:53",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1200-BLK N BELVIDERE ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "P Street",
-    "location_township": "FIRE",
-    "lat": 37.541579,
-    "lng": -77.419166
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 12:53",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "WAYNE ST/W GRACE ST RICH",
+    "dispatch_time": "11/06/2025 13:53",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1200-BLK N BELVIDERE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Wayne Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5632158,
-    "lng": -77.4733602
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
   },
   {
     "type_general": "RPD",
@@ -336,5 +258,31 @@
     "location_township": "Precinct 2",
     "lat": 37.5012106,
     "lng": -77.4784074
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 13:01",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5799327,
+    "lng": -77.4469305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 13:57",
+    "box_no": "Precinct 4",
+    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
+    "street": "00-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5667607,
+    "lng": -77.475537
   }
 ]
