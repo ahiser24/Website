@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 02:42",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "2600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.513339,
-    "lng": -77.456128
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 03:19",
     "box_no": "Precinct 1",
     "type_specific": "PERSON DOWN , INVESTIGATE",
@@ -81,7 +68,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/06/2025 03:33",
     "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
     "street": "900-BLK MYERS ST",
     "status": "Enroute",
     "cross_street": "",
@@ -91,16 +78,16 @@
     "lng": -77.469527
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 03:34",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "3600-BLK MISSOURI AVE",
+    "type_general": "RFD",
+    "dispatch_time": "11/06/2025 03:58",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "6300-BLK CHRISTIANA DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Missouri Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5800768,
-    "lng": -77.4206539
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
