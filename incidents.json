@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 11:39",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "3000-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.565391,
-    "lng": -77.4068934
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 12:26",
     "box_no": "Precinct 3",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -144,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 14:20",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "100-BLK PULLIAM ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.54867,
-    "lng": -77.440688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 14:20",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "100-BLK PULLIAM ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.54867,
-    "lng": -77.440688
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 14:23",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -193,19 +154,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5414918,
     "lng": -77.4030854
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 14:26",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2200-BLK MAGNOLIA ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Magnolia Street",
-    "location_township": "DPR",
-    "lat": 37.5598466,
-    "lng": -77.4136929
   },
   {
     "type_general": "RPD",
@@ -287,32 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 14:34",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3600-BLK E BROAD ROCK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5025962,
-    "lng": -77.4660676
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 14:44",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHOKING",
-    "street": "2500-BLK BRADY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brady Street",
-    "location_township": "FIRE",
-    "lat": 37.4904019,
-    "lng": -77.4438339
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 14:25",
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -338,16 +260,42 @@
     "lng": -77.4328957
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 14:45",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2200-BLK 3RD AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 14:34",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "3600-BLK E BROAD ROCK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.561959,
-    "lng": -77.423031
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5025962,
+    "lng": -77.4660676
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 14:29",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "200-BLK W COUTTS ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Coutts Street",
+    "location_township": "DPR",
+    "lat": 37.553775,
+    "lng": -77.437112
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 14:49",
+    "box_no": "Precinct 2",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3300-BLK PEYTON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Peyton Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.5086077,
+    "lng": -77.4681475
   }
 ]
