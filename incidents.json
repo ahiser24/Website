@@ -122,7 +122,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "1300-BLK N 25TH ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 25th Street",
     "location_township": "Precinct 1",
@@ -156,32 +156,6 @@
     "lng": -77.4383838
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 15:21",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "4700-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "FIRE",
-    "lat": 37.4624001,
-    "lng": -77.4430084
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 15:22",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "100-BLK W DUVAL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Duval Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5505469,
-    "lng": -77.4391577
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/06/2025 15:32",
     "box_no": "Precinct 3",
@@ -206,19 +180,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5520493,
     "lng": -77.4809159
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 15:05",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "100-BLK GREEN ACRES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Green Acres Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.507265,
-    "lng": -77.488846
   },
   {
     "type_general": "RPD",
@@ -260,19 +221,6 @@
     "lng": -77.4873713
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 15:31",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "900-BLK PARK AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Park Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5483097,
-    "lng": -77.4532708
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/06/2025 15:17",
     "box_no": "Precinct 3",
@@ -297,5 +245,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5608096,
     "lng": -77.4479214
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 15:46",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "300-BLK TREDEGAR ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Tredegar Street",
+    "location_township": "Precinct 1",
+    "lat": 37.534577,
+    "lng": -77.44718
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 15:40",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "7800-BLK FOREST HILL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5341817,
+    "lng": -77.5397286
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/06/2025 15:44",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2300-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5583067,
+    "lng": -77.464809
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/06/2025 15:46",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , PERSON TRAPPED",
+    "street": "300-BLK TREDEGAR ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Tredegar Street",
+    "location_township": "FIRE",
+    "lat": 37.534577,
+    "lng": -77.44718
   }
 ]
