@@ -14,32 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/05/2025 23:03",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2800-BLK W CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "DPR",
-    "lat": 37.564739,
-    "lng": -77.469247
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 01:37",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "700-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5214521,
-    "lng": -77.4386556
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 02:20",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -70,7 +44,7 @@
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "4000-BLK W BROAD ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 3",
@@ -105,28 +79,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 04:34",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "600-BLK N 38TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 38th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5269521,
-    "lng": -77.4049886
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 04:43",
+    "dispatch_time": "11/06/2025 05:06",
     "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "700-BLK E FRANKLIN ST",
-    "status": "Arrived",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.5400871,
-    "lng": -77.4367211
+    "lat": 37.5845486,
+    "lng": -77.4473886
   }
 ]
