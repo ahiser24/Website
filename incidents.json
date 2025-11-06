@@ -130,19 +130,6 @@
     "lng": -77.4387938
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 10:10",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BURGUNDY RD/N HUGUENOT RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Burgundy Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5504194,
-    "lng": -77.5517544
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/06/2025 10:22",
     "box_no": "FIRE",
@@ -167,19 +154,6 @@
     "location_township": "Precinct 4",
     "lat": 37.556334,
     "lng": -77.425946
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 10:04",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "4600-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5789985,
-    "lng": -77.4891247
   },
   {
     "type_general": "RPD",
@@ -232,5 +206,70 @@
     "location_township": "DPR",
     "lat": 37.5946094,
     "lng": -77.4494236
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 10:50",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3900-BLK OLD BROOK CIR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Circle",
+    "location_township": "Precinct 4",
+    "lat": 37.5886258,
+    "lng": -77.4468578
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 10:37",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3300-BLK P ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "P Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5333854,
+    "lng": -77.4054813
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 10:54",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "WICKHAM ST/FENDALL AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Wickham Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5638844,
+    "lng": -77.4434504
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/06/2025 10:52",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "1000-BLK E BYRD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Byrd Street",
+    "location_township": "FIRE",
+    "lat": 37.5401544,
+    "lng": -77.4461994
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/06/2025 10:55",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2300-BLK AFTON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Afton Avenue",
+    "location_township": "FIRE",
+    "lat": 37.4923187,
+    "lng": -77.4405374
   }
 ]
