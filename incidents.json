@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/06/2025 07:46",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "2100-BLK WILLIAMSBURG RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Williamsburg Road, East End",
+    "location_township": "DPR",
+    "lat": 37.51706,
+    "lng": -77.3892048
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/06/2025 07:58",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -70,7 +83,7 @@
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
     "street": "1100-BLK N SHEPPARD ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North Sheppard Street",
     "location_township": "Precinct 4",
@@ -115,19 +128,6 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 09:06",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1300-BLK COALTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
   },
   {
     "type_general": "RFD",
@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 09:14",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "400-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.557348,
-    "lng": -77.473238
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 09:24",
     "box_no": "Precinct 1",
     "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
@@ -206,19 +193,6 @@
     "location_township": "Precinct 1",
     "lat": 37.51343,
     "lng": -77.4330761
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 09:39",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "N LOMBARDY ST/W BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5558128,
-    "lng": -77.4545828
   },
   {
     "type_general": "RPD",
@@ -235,16 +209,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 09:27",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1500-BLK PRESSON BLVD",
+    "dispatch_time": "11/06/2025 09:33",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "LL(-77:33:34.7401,37:32:46.6907): EST CHIPPENHAM PKWY RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Presson Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.496695,
-    "lng": -77.435308
+    "nearest_intersection": "Chippenham Parkway",
+    "location_township": "Precinct 3",
+    "lng": -77.55965002777778,
+    "lat": 37.54630297222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 09:47",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "900-BLK MOSBY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5418142,
+    "lng": -77.4208953
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 09:14",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "400-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.557348,
+    "lng": -77.473238
   },
   {
     "type_general": "RPD",
@@ -261,15 +261,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 09:33",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "LL(-77:33:34.7401,37:32:46.6907): EST CHIPPENHAM PKWY RICH",
+    "dispatch_time": "11/06/2025 09:46",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3300-BLK DETROIT AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chippenham Parkway",
+    "nearest_intersection": "Detroit Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5690577,
+    "lng": -77.4105357
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 09:47",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2000-BLK MONUMENT AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
     "location_township": "Precinct 3",
-    "lng": -77.55965002777778,
-    "lat": 37.54630297222222
+    "lat": 37.555466,
+    "lng": -77.4620943
   }
 ]
