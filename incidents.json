@@ -169,19 +169,6 @@
     "lng": -77.4391625
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 15:47",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "2300-BLK CARMINE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carmine Street",
-    "location_township": "Precinct 1",
-    "lat": 37.555794,
-    "lng": -77.418531
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/06/2025 15:56",
     "box_no": "FIRE",
@@ -193,32 +180,6 @@
     "location_township": "FIRE",
     "lat": 37.5260606,
     "lng": -77.4865771
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 16:13",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "5800-BLK ULLSWATER AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Ullswater Avenue",
-    "location_township": "FIRE",
-    "lat": 37.487945,
-    "lng": -77.501695
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 16:13",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "5800-BLK ULLSWATER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ullswater Avenue",
-    "location_township": "FIRE",
-    "lat": 37.487945,
-    "lng": -77.501695
   },
   {
     "type_general": "RPD",
@@ -284,5 +245,70 @@
     "location_township": "Precinct 1",
     "lat": 37.5478392,
     "lng": -77.4217136
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 16:28",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "500-BLK W 20TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West 20th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.522393,
+    "lng": -77.453771
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 16:28",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "500-BLK W 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 20th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.522393,
+    "lng": -77.453771
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 15:47",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "2300-BLK CARMINE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carmine Street",
+    "location_township": "Precinct 1",
+    "lat": 37.555794,
+    "lng": -77.418531
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 16:21",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "ELLWOOD AVE/S ARTHUR ASHE BLVD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Ellwood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5533831,
+    "lng": -77.4775739
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/06/2025 16:33",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "2000-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5573327,
+    "lng": -77.4604978
   }
 ]
