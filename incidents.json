@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 08:04",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "900-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street, East End",
-    "location_township": "DPR",
-    "lat": 37.5364911,
-    "lng": -77.4129541
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 09:06",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -96,38 +83,12 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "RICH: @DOWNTOWN EXPY EB BETWEEN 7TH ST / 9TH ST & I95",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 09:14",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "400-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.557348,
-    "lng": -77.473238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 09:24",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
-    "street": "COMMERCE RD/GORDON AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.51343,
-    "lng": -77.4330761
   },
   {
     "type_general": "RPD",
@@ -157,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 10:04",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "4600-BLK W BROAD ST",
-    "status": "Enroute",
+    "dispatch_time": "11/06/2025 10:03",
+    "box_no": "Precinct 2",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "2200-BLK AFTON AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5789985,
-    "lng": -77.4891247
+    "nearest_intersection": "Afton Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.492501,
+    "lng": -77.4387938
   },
   {
     "type_general": "RPD",
@@ -195,19 +156,6 @@
     "lng": -77.5517544
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 10:13",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "7500-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5369172,
-    "lng": -77.5344455
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/06/2025 10:22",
     "box_no": "FIRE",
@@ -219,19 +167,6 @@
     "location_township": "FIRE",
     "lat": 37.556334,
     "lng": -77.425946
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 10:03",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "2200-BLK AFTON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Afton Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.492501,
-    "lng": -77.4387938
   },
   {
     "type_general": "RPD",
@@ -284,5 +219,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4951658,
     "lng": -77.5045
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 10:38",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "300-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5475032,
+    "lng": -77.4444903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 10:04",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4600-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5789985,
+    "lng": -77.4891247
   }
 ]
