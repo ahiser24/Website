@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "400-BLK MELMARK CT",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Melmark Court",
     "location_township": "Precinct 3",
@@ -40,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 05:06",
+    "dispatch_time": "11/06/2025 05:20",
     "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
-    "status": "Arrived",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1700-BLK ARLINGTON RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "nearest_intersection": "Arlington Road",
     "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
+    "lat": 37.575571,
+    "lng": -77.463337
   },
   {
     "type_general": "RFD",
