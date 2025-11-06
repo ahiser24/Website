@@ -40,28 +40,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 05:20",
+    "dispatch_time": "11/06/2025 05:41",
     "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1700-BLK ARLINGTON RD",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "5000-BLK W SEMINARY AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Arlington Road",
+    "nearest_intersection": "West Seminary Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.575571,
-    "lng": -77.463337
+    "lat": 37.5994226,
+    "lng": -77.4528195
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/06/2025 05:19",
+    "dispatch_time": "11/06/2025 05:42",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "200-BLK HIOAKS RD",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "MAGNOLIA ST/MECHANICSVILLE TPKE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
+    "nearest_intersection": "Magnolia Street",
     "location_township": "FIRE",
-    "lat": 37.5056338,
-    "lng": -77.5252413
+    "lat": 37.558452,
+    "lng": -77.4128428
   }
 ]
