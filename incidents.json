@@ -144,54 +144,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 01:45",
+    "dispatch_time": "11/06/2025 02:07",
     "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1500-BLK N 28TH ST",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1300-BLK N 35TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
+    "nearest_intersection": "North 35th Street",
     "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
+    "lat": 37.5334015,
+    "lng": -77.3991791
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 01:57",
+    "dispatch_time": "11/06/2025 02:11",
     "box_no": "Precinct 2",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "4000-BLK RICHMOND HWY",
+    "street": "2600-BLK WALMSLEY BLVD",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
+    "nearest_intersection": "Walmsley Boulevard",
     "location_township": "Precinct 2",
-    "lat": 37.4702608,
-    "lng": -77.4438114
+    "lat": 37.460887,
+    "lng": -77.442719
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 01:57",
+    "dispatch_time": "11/06/2025 02:11",
     "box_no": "Precinct 2",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "4000-BLK RICHMOND HWY",
+    "street": "2600-BLK WALMSLEY BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
+    "nearest_intersection": "Walmsley Boulevard",
     "location_township": "Precinct 2",
-    "lat": 37.4702608,
-    "lng": -77.4438114
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 02:02",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "2400-BLK OAKLAND AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Webber Avenue",
-    "location_township": "FIRE",
-    "lat": 37.49694,
-    "lng": -77.442539
+    "lat": 37.460887,
+    "lng": -77.442719
   }
 ]
