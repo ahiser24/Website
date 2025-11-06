@@ -83,7 +83,7 @@
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "4000-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 3",
@@ -130,16 +130,16 @@
     "lng": -77.4049886
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/06/2025 04:12",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "2000-BLK BOSTON AVE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 04:43",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "700-BLK E FRANKLIN ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Boston Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5120473,
-    "lng": -77.4457934
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5400871,
+    "lng": -77.4367211
   }
 ]
