@@ -70,25 +70,12 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 04:10",
-    "box_no": "Precinct 2",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "400-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504277,
-    "lng": -77.4768127
   },
   {
     "type_general": "RPD",
@@ -118,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 04:24",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2600-BLK NINE MILE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5409841,
-    "lng": -77.4081043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/06/2025 04:24",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2600-BLK NINE MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5409841,
-    "lng": -77.4081043
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 04:27",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -154,6 +115,19 @@
     "location_township": "Precinct 2",
     "lat": 37.490591,
     "lng": -77.4814536
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 04:34",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "600-BLK N 38TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 38th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5269521,
+    "lng": -77.4049886
   },
   {
     "type_general": "RFD",
