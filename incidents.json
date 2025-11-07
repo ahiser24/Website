@@ -109,7 +109,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -141,19 +141,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4664874,
     "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:44",
-    "box_no": "Precinct 4",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
-    "street": "HIGHPOINT AVE/MOORE ST RICH: alias HIGHPOINT AVE/W MOORE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Highpoint Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5682866,
-    "lng": -77.4717485
   },
   {
     "type_general": "RPD",
@@ -200,7 +187,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "1300-BLK COALTER ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Coalter Street",
     "location_township": "Precinct 1",
@@ -219,19 +206,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5464301,
     "lng": -77.4383891
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 18:01",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "JAHNKE RD/YELLOWPINE CIR RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5192018,
-    "lng": -77.5169988
   },
   {
     "type_general": "RPD",
@@ -258,6 +232,58 @@
     "location_township": "Precinct 2",
     "lat": 37.4995902,
     "lng": -77.4856528
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 18:21",
+    "box_no": "Precinct 2",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 18:29",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "200-BLK BELT BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.505642,
+    "lng": -77.4809186
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 18:31",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "200-BLK LORDLEY LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Lordley Lane, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5057449,
+    "lng": -77.4789518
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 18:31",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "4300-BLK WALDOR DR",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Waldor Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.467899,
+    "lng": -77.475611
   },
   {
     "type_general": "RFD",
@@ -291,11 +317,37 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
     "street": "1200-BLK N 36TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 36th Street",
     "location_township": "FIRE",
     "lat": 37.5321696,
     "lng": -77.4012407
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/07/2025 18:29",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "200-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "FIRE",
+    "lat": 37.505642,
+    "lng": -77.4809186
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/07/2025 18:31",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "200-BLK LORDLEY LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Lordley Lane, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5057449,
+    "lng": -77.4789518
   }
 ]
