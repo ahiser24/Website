@@ -167,5 +167,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4807712,
     "lng": -77.4800812
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:09",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "3700-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:09",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "3700-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
   }
 ]
