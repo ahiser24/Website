@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 23:55",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "E GERMAN SCHOOL RD/MIDLOTHIAN TPKE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5033799,
-    "lng": -77.5042451
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 00:44",
     "box_no": "Precinct 4",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -76,19 +63,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5012106,
     "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 01:56",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2000-BLK E FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5327654,
-    "lng": -77.4246753
   },
   {
     "type_general": "RPD",
@@ -157,71 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:22",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1100-BLK N 25TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street",
-    "location_township": "Precinct 1",
-    "lat": 37.538561,
-    "lng": -77.412322
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:22",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1100-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street",
-    "location_township": "Precinct 1",
-    "lat": 37.538561,
-    "lng": -77.412322
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:23",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:23",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 02:16",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @EXIT 2A - I195 NB (PATTERSON AVE / GROVE AVE)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 02:21",
     "box_no": "Precinct 4",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -232,5 +141,44 @@
     "location_township": "Precinct 4",
     "lat": 37.547254,
     "lng": -77.4419569
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 02:22",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1100-BLK N 25TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Venable Street",
+    "location_township": "Precinct 1",
+    "lat": 37.538561,
+    "lng": -77.412322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 02:22",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1100-BLK N 25TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Venable Street",
+    "location_township": "Precinct 1",
+    "lat": 37.538561,
+    "lng": -77.412322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 02:29",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1400-BLK COALTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.545688,
+    "lng": -77.419866
   }
 ]
