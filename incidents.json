@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
     "street": "100-BLK S MEADOW ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "South Meadow Street",
     "location_township": "Precinct 3",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 08:14",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
-    "street": "2100-BLK IDLEWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Shields Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.546853,
-    "lng": -77.4689311
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 08:13",
     "box_no": "Precinct 2",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -195,16 +182,68 @@
     "lng": -77.456407
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/07/2025 08:29",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "3000-BLK WOODROW AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Woodrow Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5717004,
+    "lng": -77.4295162
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 08:14",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "2100-BLK IDLEWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Shields Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.546853,
+    "lng": -77.4689311
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/07/2025 08:15",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "1200-BLK N 37TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 37th Street",
     "location_township": "Precinct 1",
     "lat": 37.531343,
     "lng": -77.4010222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 08:27",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6400-BLK POWHITE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5510136,
+    "lng": -77.4907863
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 08:22",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
+    "street": "300-BLK N 8TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 8th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.541527,
+    "lng": -77.434693
   }
 ]
