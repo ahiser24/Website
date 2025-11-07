@@ -148,7 +148,7 @@
     "box_no": "Precinct 3",
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
     "street": "300-BLK S MEADOW ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South Meadow Street",
     "location_township": "Precinct 3",
@@ -219,19 +219,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5754748,
     "lng": -77.4462032
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 15:30",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "800-BLK N 23RD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.537228,
-    "lng": -77.416446
   },
   {
     "type_general": "RPD",
@@ -317,7 +304,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "CARY STREET RD/LIBBIE AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Cary Street Road, West End",
     "location_township": "Precinct 3",
@@ -364,6 +351,71 @@
     "lng": -77.4598983
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 15:59",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "800-BLK E CANAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Canal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.537195,
+    "lng": -77.438049
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 15:59",
+    "box_no": "Precinct 4",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "3400-BLK DELAWARE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Delaware Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5777064,
+    "lng": -77.4198877
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 15:59",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2300-BLK SELDEN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Selden Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549784,
+    "lng": -77.4058634
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 16:02",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "BLAKEY ST/OAKWOOD AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Blakey Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5325487,
+    "lng": -77.4028535
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 16:04",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "900-BLK MYERS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Myers Street",
+    "location_township": "Precinct 4",
+    "lat": 37.56341,
+    "lng": -77.469527
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/07/2025 15:51",
     "box_no": "FIRE",
@@ -375,5 +427,18 @@
     "location_township": "FIRE",
     "lat": 37.5600072,
     "lng": -77.4971408
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/07/2025 16:06",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1300-BLK MINEFEE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Minefee Street",
+    "location_township": "FIRE",
+    "lat": 37.503846,
+    "lng": -77.43571
   }
 ]
