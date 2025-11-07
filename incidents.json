@@ -14,6 +14,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/06/2025 21:15",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "2100-BLK FAIRFIELD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.548153,
+    "lng": -77.409036
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 21:15",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "2100-BLK FAIRFIELD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.548153,
+    "lng": -77.409036
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/06/2025 21:40",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -79,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 23:14",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "5800-BLK BREMO RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 23:21",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -122,7 +135,7 @@
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "0-BLK RIVER RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "River Road",
     "location_township": "Precinct 3",
@@ -156,19 +169,6 @@
     "lng": -77.4101543
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 00:24",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "1000-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.601975,
-    "lng": -77.450736
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/07/2025 00:23",
     "box_no": "FIRE",
@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 23:55",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "E GERMAN SCHOOL RD/MIDLOTHIAN TPKE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5033799,
-    "lng": -77.5042451
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 00:23",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -206,19 +193,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5131526,
     "lng": -77.4030988
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 00:22",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
   },
   {
     "type_general": "RPD",
@@ -245,5 +219,83 @@
     "location_township": "Precinct 3",
     "lat": 37.5491505,
     "lng": -77.4573378
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 00:44",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N 21ST ST/E BROAD ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5460125,
+    "lng": -77.4108059
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 00:44",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N 21ST ST/E BROAD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5460125,
+    "lng": -77.4108059
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 00:18",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1100-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5522621,
+    "lng": -77.4544894
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/06/2025 23:55",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E GERMAN SCHOOL RD/MIDLOTHIAN TPKE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5033799,
+    "lng": -77.5042451
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 00:44",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "ST PAUL ST/W FEDERAL ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint Paul Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5534222,
+    "lng": -77.4372177
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 00:41",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "300-BLK W 7TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 7th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.526071,
+    "lng": -77.442834
   }
 ]
