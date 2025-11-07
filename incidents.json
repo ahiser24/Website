@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 15:51",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "CARY STREET RD/LIBBIE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cary Street Road, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5600072,
-    "lng": -77.4971408
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 15:52",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 15:59",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3000-BLK 5TH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "5th Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5685166,
-    "lng": -77.4152543
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 16:02",
     "box_no": "Precinct 1",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -167,19 +141,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5325487,
     "lng": -77.4028535
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 16:04",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "900-BLK MYERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Myers Street",
-    "location_township": "Precinct 4",
-    "lat": 37.56341,
-    "lng": -77.469527
   },
   {
     "type_general": "RPD",
@@ -200,7 +161,7 @@
     "box_no": "Precinct 3",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
     "street": "3900-BLK PARK AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Park Avenue, West End",
     "location_township": "Precinct 3",
@@ -237,7 +198,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/07/2025 16:37",
     "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "2200-BLK CONCORD AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -245,19 +206,6 @@
     "location_township": "Precinct 2",
     "lat": 37.485437,
     "lng": -77.440093
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 16:46",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "AZALEA AVE/BROOK RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.6015861,
-    "lng": -77.4529869
   },
   {
     "type_general": "RPD",
@@ -271,32 +219,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5334015,
     "lng": -77.3991791
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:01",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "600-BLK W SOUTHSIDE PLAZA",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:01",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "600-BLK W SOUTHSIDE PLAZA",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
   },
   {
     "type_general": "RPD",
@@ -326,6 +248,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/07/2025 17:03",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/07/2025 17:04",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -336,5 +271,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5530934,
     "lng": -77.4801689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 17:08",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "100-BLK W BAKER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5517889,
+    "lng": -77.4384316
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 17:10",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "NINE MILE RD/N 29TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5414918,
+    "lng": -77.4030854
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 17:12",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1500-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5572501,
+    "lng": -77.4429174
   }
 ]
