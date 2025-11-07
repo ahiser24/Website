@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 06:20",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1500-BLK SPOTSYLVANIA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Redd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5459,
-    "lng": -77.417684
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 06:30",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -89,5 +76,44 @@
     "location_township": "Precinct 1",
     "lat": 37.543608,
     "lng": -77.4145486
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 07:18",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "DINWIDDIE AVE/E 16TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dinwiddie Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.517808,
+    "lng": -77.4340653
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 07:29",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5070429,
+    "lng": -77.4949501
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 07:29",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5070429,
+    "lng": -77.4949501
   }
 ]
