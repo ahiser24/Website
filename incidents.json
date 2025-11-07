@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 16:02",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "BLAKEY ST/OAKWOOD AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Blakey Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5325487,
-    "lng": -77.4028535
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 16:10",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -92,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:10",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "NINE MILE RD/N 29TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5414918,
-    "lng": -77.4030854
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 17:14",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -118,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:24",
-    "box_no": "Precinct 3",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "3000-BLK MONUMENT AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5626501,
-    "lng": -77.4741261
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 17:31",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -141,6 +102,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4664874,
     "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 17:38",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , TAMPER - DISARM W/O PROPER CODE",
+    "street": "2200-BLK MAGNOLIA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Magnolia Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5598466,
+    "lng": -77.4136929
   },
   {
     "type_general": "RPD",
@@ -252,7 +226,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "200-BLK BELT BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Belt Boulevard, Southside",
     "location_township": "Precinct 2",
@@ -278,7 +252,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "4300-BLK WALDOR DR",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Waldor Drive",
     "location_township": "Precinct 2",
@@ -286,17 +260,17 @@
     "lng": -77.475611
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 17:59",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "2500-BLK W GRACE ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 18:32",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "NORTH AVE/OVERBROOK RD RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5594905,
-    "lng": -77.4668202
+    "nearest_intersection": "North Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5878395,
+    "lng": -77.4443988
   },
   {
     "type_general": "RFD",
@@ -336,18 +310,5 @@
     "location_township": "FIRE",
     "lat": 37.505642,
     "lng": -77.4809186
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 18:31",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "200-BLK LORDLEY LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Lordley Lane, Southside",
-    "location_township": "FIRE",
-    "lat": 37.5057449,
-    "lng": -77.4789518
   }
 ]
