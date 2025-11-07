@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 08:15",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "1200-BLK N 37TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 37th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.531343,
-    "lng": -77.4010222
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 08:22",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
-    "street": "300-BLK N 8TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 8th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.541527,
-    "lng": -77.434693
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 09:54",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -144,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 11:11",
-    "box_no": "Precinct 1",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "1400-BLK JENNIE SCHER RD",
+    "dispatch_time": "11/07/2025 10:47",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4000-BLK NORTH AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5226217,
-    "lng": -77.3994575
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5840735,
+    "lng": -77.4381519
   },
   {
     "type_general": "RPD",
@@ -183,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 11:20",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BELT BLVD/BROAD ROCK RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4819006,
-    "lng": -77.4619128
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 11:15",
     "box_no": "Precinct 1",
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
@@ -209,32 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 10:47",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "4000-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5840735,
-    "lng": -77.4381519
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 11:21",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3400-BLK R ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 34th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534476,
-    "lng": -77.402996
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 11:37",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
@@ -245,19 +180,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5060193,
     "lng": -77.4421819
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 11:32",
-    "box_no": "Precinct 4",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "TEAKWOOD AVE/W LABURNUM AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Teakwood Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.585798,
-    "lng": -77.4670142
   },
   {
     "type_general": "RPD",
@@ -302,7 +224,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/07/2025 11:37",
     "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "2200-BLK CHALFONT DR",
     "status": "Arrived",
     "cross_street": "",
@@ -313,16 +235,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 11:29",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3000-BLK KROUSE ST",
+    "dispatch_time": "11/07/2025 10:52",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "300-BLK N 8TH ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Krouse Street",
-    "location_township": "Precinct 2",
-    "lat": 37.483041,
-    "lng": -77.4393335
+    "nearest_intersection": "North 8th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.541527,
+    "lng": -77.434693
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 11:32",
+    "box_no": "Precinct 4",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "TEAKWOOD AVE/W LABURNUM AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Teakwood Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.585798,
+    "lng": -77.4670142
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 11:29",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "900-BLK E BYRD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Byrd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.535674,
+    "lng": -77.4384959
   },
   {
     "type_general": "RPD",
@@ -336,5 +284,31 @@
     "location_township": "Precinct 1",
     "lat": 37.549394,
     "lng": -77.408293
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 11:52",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 11:50",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 20TH ST/E FRANKLIN ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543608,
+    "lng": -77.4145486
   }
 ]
