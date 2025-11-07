@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 03:57",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "100-BLK S MEADOW ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.54804,
-    "lng": -77.466699
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 07:17",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -57,7 +44,7 @@
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
     "street": "300-BLK N 8TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 8th Street",
     "location_township": "Precinct 4",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 09:26",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "500-BLK E LADIES MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Ladies Mile Road, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.581714,
-    "lng": -77.424757
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 09:38",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -141,6 +115,19 @@
     "location_township": "Precinct 2",
     "lat": 37.464799,
     "lng": -77.460475
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 09:58",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1300-BLK ST PETER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint Peter Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5533937,
+    "lng": -77.4388408
   },
   {
     "type_general": "RPD",
@@ -183,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 09:58",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "1300-BLK ST PETER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint Peter Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5533937,
-    "lng": -77.4388408
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 10:30",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -219,19 +193,6 @@
     "location_township": "FIRE",
     "lat": 37.4934824,
     "lng": -77.4357828
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 10:24",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1300-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
   },
   {
     "type_general": "RPD",
@@ -274,16 +235,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 10:44",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , BLS 1st Party Not Dangerous Injury",
-    "street": "RICH: @EXIT 79 - I95 NB (I64 WB / I195 SB / POWHITE PKWY)",
-    "status": "Enroute",
+    "dispatch_time": "11/07/2025 10:45",
+    "box_no": "Precinct 1",
+    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
+    "street": "1700-BLK E BROAD ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5361461,
+    "lng": -77.4257319
   },
   {
     "type_general": "RFD",
@@ -300,15 +261,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 10:45",
-    "box_no": "Precinct 1",
-    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
-    "street": "1700-BLK E BROAD ST",
+    "dispatch_time": "11/07/2025 10:18",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "800-BLK W CANAL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5361461,
-    "lng": -77.4257319
+    "nearest_intersection": "West Canal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5421793,
+    "lng": -77.4474595
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 10:44",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , BLS 1st Party Not Dangerous Injury",
+    "street": "RICH: @EXIT 79 - I95 NB (I64 WB / I195 SB / POWHITE PKWY)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 10:24",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1300-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4835974,
+    "lng": -77.444674
   }
 ]
