@@ -118,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 15:04",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "300-BLK BELT BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504835,
-    "lng": -77.478641
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 15:04",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "300-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504835,
-    "lng": -77.478641
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 15:07",
     "box_no": "Precinct 3",
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
@@ -261,19 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 15:44",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "2300-BLK SELDEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549784,
-    "lng": -77.4058634
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 15:48",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -382,7 +343,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "5600-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road, Southside",
     "location_township": "Precinct 2",
@@ -417,19 +378,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 16:09",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "S ROWLAND ST/GRAYLAND AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Rowland Street",
-    "location_township": "Precinct 3",
-    "lat": 37.545452,
-    "lng": -77.4694594
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 16:10",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -442,16 +390,42 @@
     "lng": -77.3958039
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 16:06",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "1300-BLK MINEFEE ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 16:21",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "4100-BLK NORTH AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Minefee Street",
+    "nearest_intersection": "North Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.585559,
+    "lng": -77.440752
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 16:22",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/07/2025 16:24",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "2900-BLK E STONY HILL CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Stony Hill Court",
     "location_township": "FIRE",
-    "lat": 37.503846,
-    "lng": -77.43571
+    "lat": 37.5366103,
+    "lng": -77.5673865
   }
 ]
