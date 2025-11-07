@@ -40,15 +40,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 05:01",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "W 30TH ST/RIVERSIDE DR RICH",
-    "status": "Enroute",
+    "dispatch_time": "11/07/2025 05:17",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "E 2ND ST/DECATUR ST RICH",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West 30th Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5203529,
-    "lng": -77.4660856
+    "nearest_intersection": "East 2nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.524324,
+    "lng": -77.434441
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 05:17",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "E 2ND ST/DECATUR ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 2nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.524324,
+    "lng": -77.434441
   }
 ]
