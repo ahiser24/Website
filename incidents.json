@@ -5,7 +5,7 @@
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
     "street": "1200-BLK N 5TH ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 5th Street",
     "location_township": "Precinct 1",
@@ -31,11 +31,37 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
     "street": "100-BLK S MEADOW ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South Meadow Street",
     "location_township": "Precinct 3",
     "lat": 37.54804,
     "lng": -77.466699
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 04:46",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2600-BLK NINE MILE RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5409841,
+    "lng": -77.4081043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 04:46",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2600-BLK NINE MILE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5409841,
+    "lng": -77.4081043
   }
 ]
