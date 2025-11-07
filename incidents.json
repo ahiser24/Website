@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 01:37",
-    "box_no": "Precinct 1",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "1200-BLK E CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5410235,
-    "lng": -77.4292888
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 01:52",
     "box_no": "Precinct 4",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -66,28 +53,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 03:20",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "2200-BLK NORTHUMBERLAND AVE",
+    "dispatch_time": "11/07/2025 03:38",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1600-BLK SKILIFT CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Northumberland Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5624943,
-    "lng": -77.446649
+    "nearest_intersection": "Skilift Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5244025,
+    "lng": -77.5068684
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/07/2025 02:48",
+    "dispatch_time": "11/07/2025 03:39",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
-    "street": "900-BLK OLD NICHOLSON ST",
+    "type_specific": "",
+    "street": "LL(-77:26:15.2161,37:32:35.9915): EST 414 E BROAD ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Nicholson Street",
+    "nearest_intersection": "East Broad Street",
     "location_township": "FIRE",
-    "lat": 37.5207605,
-    "lng": -77.4065067
+    "lng": -77.43756002777778,
+    "lat": 37.54333097222222
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/07/2025 03:47",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "700-BLK W FELLS ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fells Street",
+    "location_township": "FIRE",
+    "lat": 37.5582353,
+    "lng": -77.4394875
   }
 ]
