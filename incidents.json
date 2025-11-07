@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 14:16",
-    "box_no": "Precinct 1",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "1900-BLK RAVEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Raven Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549938,
-    "lng": -77.421725
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 14:41",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -102,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5732845,
     "lng": -77.4228229
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 15:07",
-    "box_no": "Precinct 3",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
   },
   {
     "type_general": "RPD",
@@ -209,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/07/2025 15:41",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/07/2025 15:48",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -284,19 +271,6 @@
     "location_township": "Precinct 4",
     "lat": 37.537195,
     "lng": -77.438049
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 15:59",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2300-BLK SELDEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549784,
-    "lng": -77.4058634
   },
   {
     "type_general": "RPD",
@@ -427,6 +401,19 @@
     "location_township": "Precinct 3",
     "lat": 37.547341,
     "lng": -77.464112
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 16:27",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2700-BLK FLOYD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5536331,
+    "lng": -77.4738805
   },
   {
     "type_general": "RPD",
