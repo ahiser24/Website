@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "11/06/2025 21:15",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "2100-BLK FAIRFIELD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.548153,
+    "lng": -77.409036
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/06/2025 23:21",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -105,45 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:29",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1400-BLK COALTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.545688,
-    "lng": -77.419866
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:37",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "3000-BLK HULL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5098428,
-    "lng": -77.4611804
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:37",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "3000-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5098428,
-    "lng": -77.4611804
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 02:38",
     "box_no": "Precinct 1",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -167,5 +141,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5332252,
     "lng": -77.4259138
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/07/2025 02:48",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "900-BLK OLD NICHOLSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Nicholson Street",
+    "location_township": "FIRE",
+    "lat": 37.5207605,
+    "lng": -77.4065067
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/07/2025 02:48",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "900-BLK OLD NICHOLSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Nicholson Street",
+    "location_township": "FIRE",
+    "lat": 37.5207605,
+    "lng": -77.4065067
   }
 ]
