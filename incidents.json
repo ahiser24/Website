@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "11/04/2025 18:33",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "3400-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/07/2025 13:06",
     "box_no": "Precinct 2",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -11,19 +24,6 @@
     "location_township": "Precinct 2",
     "lat": 37.549784,
     "lng": -77.4058634
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 13:54",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "200-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5462078,
-    "lng": -77.4445175
   },
   {
     "type_general": "RPD",
@@ -57,7 +57,7 @@
     "box_no": "Precinct 3",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
     "street": "3900-BLK PARK AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Park Avenue, West End",
     "location_township": "Precinct 3",
@@ -158,19 +158,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/07/2025 17:24",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3400-BLK CLIFF AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cliff Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5795063,
-    "lng": -77.4323274
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:24",
     "box_no": "Precinct 3",
     "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
     "street": "3000-BLK MONUMENT AVE",
@@ -183,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:26",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "500-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.542073,
-    "lng": -77.438086
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 17:31",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -206,32 +180,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4664874,
     "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:31",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:37",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "101-BLK LIBBIE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Libbie Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.570915,
-    "lng": -77.518987
   },
   {
     "type_general": "RPD",
@@ -278,7 +226,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2300-BLK FAIRMOUNT AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairmount Avenue",
     "location_township": "Precinct 1",
@@ -286,55 +234,68 @@
     "lng": -77.4119407
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 17:59",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 18:01",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "0-BLK N 2ND ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5464301,
+    "lng": -77.4383891
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 18:01",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "JAHNKE RD/YELLOWPINE CIR RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5192018,
+    "lng": -77.5169988
+  },
+  {
     "type_general": "RFD",
-    "dispatch_time": "11/07/2025 17:33",
+    "dispatch_time": "11/07/2025 17:59",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "1900-BLK KANSAS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Kansas Avenue",
-    "location_township": "FIRE",
-    "lat": 37.531676,
-    "lng": -77.4740006
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 17:39",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "2000-BLK W BROAD ST",
+    "street": "2500-BLK W GRACE ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "West Grace Street",
     "location_township": "FIRE",
-    "lat": 37.5573327,
-    "lng": -77.4604978
+    "lat": 37.5594905,
+    "lng": -77.4668202
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/07/2025 17:46",
+    "dispatch_time": "11/07/2025 18:02",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "4300-BLK HERMITAGE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
-    "location_township": "FIRE",
-    "lat": 37.5586945,
-    "lng": -77.4600341
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 17:48",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "1000-BLK N LOMBARDY ST",
+    "street": "JAHNKE RD/YELLOWPINE CIR RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "FIRE",
-    "lat": 37.558898,
-    "lng": -77.4535371
+    "lat": 37.5192018,
+    "lng": -77.5169988
   }
 ]
