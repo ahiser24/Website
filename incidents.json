@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
     "street": "100-BLK S MEADOW ST",
-    "status": "Arrived",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "South Meadow Street",
     "location_township": "Precinct 3",
@@ -40,24 +40,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 05:19",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
-    "street": "2600-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4873864,
-    "lng": -77.4324436
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 05:20",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "WESTOVER HILLS BLVD/FOREST HILL AVE RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "Precinct 3",
@@ -92,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 06:14",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "COOL LN/MECHANICSVILLE TPKE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cool Lane",
-    "location_township": "Precinct 1",
-    "lat": 37.5495323,
-    "lng": -77.3958039
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 06:20",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -115,5 +89,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5459,
     "lng": -77.417684
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:30",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:30",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   }
 ]
