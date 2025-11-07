@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:48",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1200-BLK N 37TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 37th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.531343,
-    "lng": -77.4010222
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 03:57",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5428557,
     "lng": -77.4361186
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 05:18",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "200-BLK E 36TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 36th Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5076914,
-    "lng": -77.4713103
   },
   {
     "type_general": "RPD",
@@ -128,5 +102,70 @@
     "location_township": "Precinct 3",
     "lat": 37.5781477,
     "lng": -77.5119831
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:00",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "VENABLE ST/MOSBY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Venable Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5383422,
+    "lng": -77.4163815
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:01",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "600-BLK E SOUTHSIDE PLZ",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5043742,
+    "lng": -77.4751373
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:01",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "600-BLK E SOUTHSIDE PLZ",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5043742,
+    "lng": -77.4751373
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:02",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2700-BLK BROAD ROCK BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4807712,
+    "lng": -77.4800812
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 06:02",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2700-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4807712,
+    "lng": -77.4800812
   }
 ]
