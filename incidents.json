@@ -14,24 +14,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 05:02",
-    "box_no": "Precinct 4",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "0-BLK N 6TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 6th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5428557,
-    "lng": -77.4361186
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 05:20",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "WESTOVER HILLS BLVD/FOREST HILL AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "Precinct 3",
@@ -89,5 +76,18 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 07:05",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 20TH ST/E FRANKLIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543608,
+    "lng": -77.4145486
   }
 ]
