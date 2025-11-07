@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 21:15",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "2100-BLK FAIRFIELD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.548153,
-    "lng": -77.409036
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/06/2025 23:21",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -105,29 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:38",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "N 19TH ST/E FRANKLIN ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5332252,
-    "lng": -77.4259138
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 02:38",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "N 19TH ST/E FRANKLIN ST RICH",
+    "dispatch_time": "11/07/2025 02:57",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1800-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5332252,
-    "lng": -77.4259138
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5564183,
+    "lng": -77.4595959
   },
   {
     "type_general": "RFD",
