@@ -70,7 +70,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "5700-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road, Southside",
     "location_township": "Precinct 2",
@@ -83,7 +83,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "3000-BLK DECATUR ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Decatur Street, Southside",
     "location_township": "Precinct 2",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5503586,
     "lng": -77.5718286
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 10:18",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2400-BLK ALEXANDER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Alexander Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.475365,
-    "lng": -77.43908
   },
   {
     "type_general": "RPD",
@@ -144,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 10:34",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2100-BLK NEWBOURNE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Newbourne Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549394,
-    "lng": -77.408293
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 10:34",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2100-BLK NEWBOURNE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Newbourne Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549394,
-    "lng": -77.408293
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 10:40",
     "box_no": "Precinct 1",
     "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
@@ -193,6 +154,45 @@
     "location_township": "Precinct 1",
     "lat": 37.504815,
     "lng": -77.439995
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 10:41",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.601975,
+    "lng": -77.450736
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 10:41",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.601975,
+    "lng": -77.450736
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 10:44",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
   },
   {
     "type_general": "RFD",
@@ -219,5 +219,18 @@
     "location_township": "FIRE",
     "lat": 37.5503586,
     "lng": -77.5718286
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 10:41",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "FIRE",
+    "lat": 37.601975,
+    "lng": -77.450736
   }
 ]
