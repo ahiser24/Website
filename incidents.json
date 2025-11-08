@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/08/2025 14:52",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3600-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4752744,
+    "lng": -77.4444157
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/08/2025 15:02",
     "box_no": "Precinct 2",
     "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
@@ -89,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5530934,
     "lng": -77.4801689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 15:23",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2900-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5086475,
-    "lng": -77.4586127
   },
   {
     "type_general": "RPD",
@@ -196,6 +196,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:06",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "RICH: @POWHITE PKWY BRIDGE SB",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/08/2025 16:12",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -223,19 +236,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/08/2025 16:19",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1700-BLK MONTEIRO ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Monteiro Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5575863,
-    "lng": -77.4306111
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 16:19",
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "3RD AVE/MILTON ST RICH",
@@ -258,32 +258,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5334333,
     "lng": -77.4254626
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 16:24",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2200-BLK PARKWOOD AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Parkwood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5483902,
-    "lng": -77.46939
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 16:24",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2200-BLK PARKWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Parkwood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5483902,
-    "lng": -77.46939
   },
   {
     "type_general": "RPD",
@@ -323,6 +297,58 @@
     "location_township": "Precinct 1",
     "lat": 37.547595,
     "lng": -77.420888
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:37",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "4900-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5997402,
+    "lng": -77.4502625
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:37",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "4900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5997402,
+    "lng": -77.4502625
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:38",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "LL(-77:25:21.7562,37:32:59.2403): EST 1904 RAVEN ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Raven Street",
+    "location_township": "Precinct 1",
+    "lng": -77.42271005555556,
+    "lat": 37.54978897222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:41",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "100-BLK BELT BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5071442,
+    "lng": -77.4853454
   },
   {
     "type_general": "RFD",
@@ -365,15 +391,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/08/2025 16:33",
+    "dispatch_time": "11/08/2025 16:42",
     "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1000-BLK BLANDY AVE",
-    "status": "Enroute",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Blandy Avenue",
+    "nearest_intersection": "Azalea Avenue",
     "location_township": "FIRE",
-    "lat": 37.5177452,
-    "lng": -77.5074281
+    "lat": 37.601975,
+    "lng": -77.450736
   }
 ]
