@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 16:10",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "7100-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5378286,
-    "lng": -77.5260018
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 17:08",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 19:02",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "KENMORE RD/FOREST HILL AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Kenmore Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5397322,
-    "lng": -77.53797
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 20:01",
     "box_no": "Precinct 4",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -102,19 +76,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4908816,
     "lng": -77.4654757
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 21:00",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "1700-BLK SEDDON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Seddon Road",
-    "location_township": "Precinct 4",
-    "lat": 37.581177,
-    "lng": -77.46223
   },
   {
     "type_general": "RPD",
@@ -261,6 +222,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/07/2025 22:09",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3900-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5722247,
+    "lng": -77.4796483
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/07/2025 22:26",
     "box_no": "Precinct 2",
     "type_specific": "INTOXICATED PERSON , INVESTIGATE",
@@ -291,12 +265,25 @@
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
     "street": "HULL ST/E 3RD ST RICH",
-    "status": "Arrived",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Hull Street",
     "location_township": "Precinct 1",
     "lat": 37.5267406,
     "lng": -77.4350441
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 22:55",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "400-BLK STRAWBERRY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stuart Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.555153,
+    "lng": -77.467088
   },
   {
     "type_general": "RFD",
