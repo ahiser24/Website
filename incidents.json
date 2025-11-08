@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 21:13",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 21:17",
     "box_no": "Precinct 4",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
@@ -76,19 +63,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4963453,
     "lng": -77.4656428
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 21:44",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "5800-BLK BREMO RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -187,25 +161,12 @@
     "box_no": "Precinct 1",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Richmond Road",
     "location_township": "Precinct 1",
     "lat": 37.5301228,
     "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 00:32",
-    "box_no": "Precinct 3",
-    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
-    "street": "6300-BLK CHRISTIANA DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
