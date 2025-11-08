@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 05:48",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "100-BLK E 2ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 2nd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.525093,
-    "lng": -77.435078
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 06:23",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -40,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 06:23",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "400-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5426237,
-    "lng": -77.4389179
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 06:25",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -63,5 +37,44 @@
     "location_township": "Precinct 3",
     "lat": 37.555048,
     "lng": -77.48201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 06:49",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516032,
+    "lng": -77.512119
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 06:57",
+    "box_no": "Precinct 3",
+    "type_specific": "MAYDAY/Deputy/Officer Down , Officer-Initiated",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 06:53",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1500-BLK N 21ST ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "FIRE",
+    "lat": 37.5460125,
+    "lng": -77.4108059
   }
 ]
