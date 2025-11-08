@@ -118,6 +118,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/08/2025 15:27",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "N 14TH ST/E MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "DPR",
+    "lat": 37.537676,
+    "lng": -77.4296236
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/08/2025 15:30",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -213,12 +226,25 @@
     "box_no": "Precinct 4",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
     "street": "1700-BLK MONTEIRO ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Monteiro Street, Northside",
     "location_township": "Precinct 4",
     "lat": 37.5575863,
     "lng": -77.4306111
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:19",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "3RD AVE/MILTON ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "3rd Avenue, Northside",
+    "location_township": "DPR",
+    "lat": 37.5635519,
+    "lng": -77.4216847
   },
   {
     "type_general": "RPD",
@@ -235,32 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 16:23",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2500-BLK SEMMES AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.5198453,
-    "lng": -77.458831
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 16:23",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2500-BLK SEMMES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.5198453,
-    "lng": -77.458831
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 16:24",
     "box_no": "Precinct 3",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -284,6 +284,45 @@
     "location_township": "Precinct 3",
     "lat": 37.5483902,
     "lng": -77.46939
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:32",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:32",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:34",
+    "box_no": "Precinct 1",
+    "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
+    "street": "1900-BLK REDD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "Precinct 1",
+    "lat": 37.547595,
+    "lng": -77.420888
   },
   {
     "type_general": "RFD",
@@ -326,15 +365,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/08/2025 16:26",
+    "dispatch_time": "11/08/2025 16:33",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "3400-BLK RIVERVIEW DR",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "1000-BLK BLANDY AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Riverview Drive",
+    "nearest_intersection": "Blandy Avenue",
     "location_township": "FIRE",
-    "lat": 37.545549,
-    "lng": -77.52045
+    "lat": 37.5177452,
+    "lng": -77.5074281
   }
 ]
