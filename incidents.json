@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
     "street": "400-BLK N 2ND ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 2nd Street",
     "location_township": "Precinct 4",
@@ -94,7 +94,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/08/2025 03:50",
     "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
     "street": "100-BLK W BROOKLAND PARK BLVD",
     "status": "Arrived",
     "cross_street": "",
@@ -102,5 +102,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5717288,
     "lng": -77.4340347
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 04:03",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2200-BLK N 26TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "FIRE",
+    "lat": 37.54812,
+    "lng": -77.402046
   }
 ]
