@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 23:43",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5335013,
-    "lng": -77.4282824
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 23:55",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -206,5 +193,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5337736,
     "lng": -77.4268235
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 00:10",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 00:10",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 00:12",
+    "box_no": "Precinct 3",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "3800-BLK CUTSHAW AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cutshaw Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.568939,
+    "lng": -77.480932
   }
 ]
