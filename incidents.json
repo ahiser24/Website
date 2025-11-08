@@ -1,32 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 06:23",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 06:23",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 06:25",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -66,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 07:19",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "800-BLK N 23RD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.537228,
-    "lng": -77.416446
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 07:19",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "800-BLK N 23RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.537228,
-    "lng": -77.416446
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 07:22",
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
@@ -122,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , TAMPER WITH EQUIPMENT",
     "street": "3900-BLK PINEY RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Piney Road",
     "location_township": "Precinct 4",
@@ -154,5 +102,57 @@
     "location_township": "Precinct 4",
     "lat": 37.581665,
     "lng": -77.446998
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 07:36",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "2600-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5131919,
+    "lng": -77.4558898
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 07:52",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "400-BLK BAINBRIDGE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 1",
+    "lat": 37.525709,
+    "lng": -77.438619
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 07:52",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "400-BLK BAINBRIDGE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 1",
+    "lat": 37.525709,
+    "lng": -77.438619
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 07:40",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "2200-BLK AFTON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Afton Avenue",
+    "location_township": "FIRE",
+    "lat": 37.492501,
+    "lng": -77.4387938
   }
 ]
