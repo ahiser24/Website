@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/06/2025 19:44",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1600-BLK STANSBURY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stansbury Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4863043,
-    "lng": -77.5043015
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 07:36",
     "box_no": "Precinct 2",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -40,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 10:44",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1300-BLK COALTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 10:47",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -63,19 +37,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5741027,
     "lng": -77.4601736
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 10:51",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.57024,
-    "lng": -77.420545
   },
   {
     "type_general": "RPD",
@@ -102,32 +63,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4937634,
     "lng": -77.4828589
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 11:04",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "700-BLK E 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chicago Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.512461,
-    "lng": -77.443566
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 11:14",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "MOORE ST/N ARTHUR ASHE BLVD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Moore Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5560077,
-    "lng": -77.4493935
   },
   {
     "type_general": "RPD",
@@ -183,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 11:27",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "HULL ST/E 4TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5267406,
-    "lng": -77.4350441
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 11:31",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -213,7 +135,7 @@
     "box_no": "Precinct 2",
     "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
     "street": "1900-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
@@ -247,6 +169,71 @@
     "lng": -77.4207124
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:41",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "400-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5470878,
+    "lng": -77.4461783
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:43",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3100-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5083254,
+    "lng": -77.4635415
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:43",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3100-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5083254,
+    "lng": -77.4635415
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:44",
+    "box_no": "Precinct 2",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "5600-BLK CHARLEVOIX CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Charlevoix Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4999424,
+    "lng": -77.5010213
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:47",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "N 2ND ST/E LEIGH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5464301,
+    "lng": -77.4383891
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/08/2025 08:03",
     "box_no": "FIRE",
@@ -274,19 +261,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/08/2025 11:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ABDOMINAL PAIN",
-    "street": "500-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "FIRE",
-    "lat": 37.5468144,
-    "lng": -77.447785
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/08/2025 11:31",
     "box_no": "FIRE",
     "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
@@ -297,5 +271,44 @@
     "location_township": "FIRE",
     "lat": 37.5070429,
     "lng": -77.4949501
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 11:41",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "400-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5470878,
+    "lng": -77.4461783
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 11:44",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "3100-BLK JOHNS WAY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Johns Way",
+    "location_township": "FIRE",
+    "lat": 37.4687797,
+    "lng": -77.5024022
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 11:44",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "5600-BLK CHARLEVOIX CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Charlevoix Court",
+    "location_township": "FIRE",
+    "lat": 37.4999424,
+    "lng": -77.5010213
   }
 ]
