@@ -109,7 +109,7 @@
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "2400-BLK ALEXANDER AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Alexander Avenue",
     "location_township": "Precinct 2",
@@ -128,5 +128,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5394511,
     "lng": -77.4180765
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 05:13",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "HULL ST/E 5TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5267406,
+    "lng": -77.4350441
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 05:16",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "500-BLK DUFFTON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Duffton Road",
+    "location_township": "FIRE",
+    "lat": 37.510251,
+    "lng": -77.508955
   }
 ]
