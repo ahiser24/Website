@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 04:43",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "W LADIES MILE RD/HAWTHORNE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Ladies Mile Road, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5736257,
-    "lng": -77.4449395
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 04:50",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -102,58 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5694531,
     "lng": -77.4722339
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 05:23",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "901-BLK N 25TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.536906,
-    "lng": -77.413645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 05:23",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "901-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.536906,
-    "lng": -77.413645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 05:30",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1400-BLK N 26TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5408948,
-    "lng": -77.4088515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 05:30",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1400-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5408948,
-    "lng": -77.4088515
   },
   {
     "type_general": "RPD",
@@ -169,29 +104,16 @@
     "lng": -77.485841
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/08/2025 05:16",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "500-BLK DUFFTON RD",
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 05:59",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2600-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Duffton Road",
-    "location_township": "FIRE",
-    "lat": 37.510251,
-    "lng": -77.508955
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/08/2025 05:35",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "200-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "FIRE",
-    "lat": 37.5056338,
-    "lng": -77.5252413
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5668206,
+    "lng": -77.4448967
   }
 ]
