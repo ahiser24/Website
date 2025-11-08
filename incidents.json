@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 01:49",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "W MARSHALL ST/N ARTHUR ASHE BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Harrison Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5523768,
-    "lng": -77.4515312
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 02:49",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -118,15 +105,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 03:38",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1000-BLK W GRACE ST",
+    "dispatch_time": "11/08/2025 03:39",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "900-BLK N 25TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5370722,
+    "lng": -77.4139206
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 03:39",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "900-BLK N 25TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5514093,
-    "lng": -77.4534673
+    "nearest_intersection": "North 25th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5370722,
+    "lng": -77.4139206
   }
 ]
