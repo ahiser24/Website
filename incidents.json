@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 05:35",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3900-BLK REBECCA RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rebecca Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464706,
-    "lng": -77.485841
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 05:59",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -89,5 +76,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5668206,
     "lng": -77.4448967
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 06:19",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "1800-BLK WINDER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Winder Street",
+    "location_township": "FIRE",
+    "lat": 37.5404116,
+    "lng": -77.4677605
   }
 ]
