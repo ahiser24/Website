@@ -143,6 +143,45 @@
     "lng": -77.442993
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 02:03",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1100-BLK N 2ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5520175,
+    "lng": -77.4334273
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 02:06",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "5500-BLK HANSDALE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hansdale Road",
+    "location_township": "DPR",
+    "lat": 37.473584,
+    "lng": -77.496133
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 02:07",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "500-BLK W FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5468144,
+    "lng": -77.447785
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/08/2025 01:59",
     "box_no": "FIRE",
