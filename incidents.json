@@ -234,6 +234,32 @@
     "lng": -77.4063129
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 17:40",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "300-BLK S COLONIAL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Colonial Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5503331,
+    "lng": -77.4783523
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 17:44",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6500-BLK POWHITE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5510136,
+    "lng": -77.4907863
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/08/2025 17:28",
     "box_no": "FIRE",
