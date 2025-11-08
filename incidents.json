@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 12:41",
-    "box_no": "Precinct 3",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 12:44",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -161,7 +148,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "W LABURNUM AVE/CHAMBERLAYNE AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Laburnum Avenue",
     "location_township": "Precinct 4",
@@ -235,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 13:28",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "6000-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5199652,
-    "lng": -77.5070464
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 13:30",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -301,19 +275,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/08/2025 13:43",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1500-BLK N 22ND ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5340354,
-    "lng": -77.4207124
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 13:43",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
     "street": "3400-BLK ENSLOW AVE",
@@ -323,6 +284,32 @@
     "location_township": "DPR",
     "lat": 37.5761799,
     "lng": -77.416669
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 13:47",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1400-BLK CUMMINGS DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cummings Drive, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.569166,
+    "lng": -77.454018
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 13:50",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "1700-BLK SOUTHLAWN AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Harwood Street",
+    "location_township": "Precinct 1",
+    "lat": 37.503888,
+    "lng": -77.434918
   },
   {
     "type_general": "RFD",
