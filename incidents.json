@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 07:16",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "NINE MILE RD/GORDONS LN HENR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5414918,
-    "lng": -77.4030854
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 07:36",
     "box_no": "Precinct 2",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5089634,
     "lng": -77.4602856
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 10:13",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "9200-BLK STONY POINT PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5503586,
-    "lng": -77.5718286
   },
   {
     "type_general": "RPD",
@@ -96,38 +70,12 @@
     "box_no": "Precinct 4",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
     "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.57024,
-    "lng": -77.420545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 10:51",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Brookland Park Boulevard, Northside",
     "location_township": "Precinct 4",
     "lat": 37.57024,
     "lng": -77.420545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 10:54",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "700-BLK ALBANY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Albany Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.51911,
-    "lng": -77.4358438
   },
   {
     "type_general": "RPD",
@@ -154,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4937634,
     "lng": -77.4828589
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 11:03",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5514093,
-    "lng": -77.4534673
   },
   {
     "type_general": "RPD",
@@ -200,7 +135,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "1300-BLK IDLEWOOD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Idlewood Avenue",
     "location_township": "Precinct 3",
@@ -222,6 +157,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:24",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3100-BLK JOHNS WAY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Johns Way",
+    "location_township": "Precinct 2",
+    "lat": 37.4687797,
+    "lng": -77.5024022
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:26",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3400-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/08/2025 11:27",
     "box_no": "Precinct 1",
     "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
@@ -232,6 +193,58 @@
     "location_township": "Precinct 1",
     "lat": 37.5267406,
     "lng": -77.4350441
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:31",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "MIDLOTHIAN TPKE/OAK GLEN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5070429,
+    "lng": -77.4949501
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:32",
+    "box_no": "Precinct 2",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "1900-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4835974,
+    "lng": -77.444674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:36",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "1600-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.554602,
+    "lng": -77.4561674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 11:36",
+    "box_no": "Precinct 1",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "N 22ND ST/FAIRMOUNT AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5340354,
+    "lng": -77.4207124
   },
   {
     "type_general": "RFD",
@@ -271,5 +284,18 @@
     "location_township": "FIRE",
     "lat": 37.5468144,
     "lng": -77.447785
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 11:31",
+    "box_no": "FIRE",
+    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
+    "street": "MIDLOTHIAN TPKE/OAK GLEN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5070429,
+    "lng": -77.4949501
   }
 ]
