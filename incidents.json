@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 22:49",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
-    "street": "HULL ST/E 3RD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5267406,
-    "lng": -77.4350441
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 01:31",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
@@ -66,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 03:39",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "900-BLK N 25TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5370722,
-    "lng": -77.4139206
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 03:39",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "900-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5370722,
-    "lng": -77.4139206
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 03:50",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -115,5 +76,44 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 04:23",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "700-BLK N 1ST ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Jackson Street",
+    "location_township": "Precinct 4",
+    "lat": 37.548957,
+    "lng": -77.437527
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 04:25",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1800-BLK SUSSEX ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sussex Street",
+    "location_township": "Precinct 1",
+    "lat": 37.550855,
+    "lng": -77.417879
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 04:23",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "700-BLK N 1ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Jackson Street",
+    "location_township": "FIRE",
+    "lat": 37.548957,
+    "lng": -77.437527
   }
 ]
