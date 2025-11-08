@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 08:47",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3200-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5754748,
-    "lng": -77.4462032
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 09:07",
     "box_no": "Precinct 4",
     "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
@@ -118,29 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 09:36",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "SUSSEX ST/BETHEL ST RICH",
-    "status": "Dispatched",
+    "dispatch_time": "11/08/2025 09:30",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "HAWTHORNE AVE/W BROOKLAND PARK BLVD RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Sussex Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5542042,
-    "lng": -77.418396
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 09:36",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "SUSSEX ST/BETHEL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sussex Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5542042,
-    "lng": -77.418396
+    "nearest_intersection": "Hawthorne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5875695,
+    "lng": -77.4457826
   },
   {
     "type_general": "RPD",
@@ -167,32 +141,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5337582,
     "lng": -77.5360979
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 09:42",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2400-BLK CARMINE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Carmine Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5562698,
-    "lng": -77.4167992
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 09:42",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2400-BLK CARMINE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carmine Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5562698,
-    "lng": -77.4167992
   },
   {
     "type_general": "RPD",
@@ -200,12 +148,25 @@
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "1400-BLK ARMFIELD RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Armfield Road",
     "location_township": "Precinct 2",
     "lat": 37.482345,
     "lng": -77.5152669
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 09:47",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "300-BLK SOMERSET AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Somerset Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.573036,
+    "lng": -77.521867
   },
   {
     "type_general": "RFD",
