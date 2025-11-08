@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "11/08/2025 06:27",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "200-BLK STRAWBERRY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Strawberry Street",
+    "location_township": "DPR",
+    "lat": 37.553329,
+    "lng": -77.4682337
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/08/2025 07:14",
     "box_no": "Precinct 1",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -24,19 +37,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5297586,
     "lng": -77.4244833
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 07:29",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "AMELIA ST/HAMPTON ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Amelia Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5403194,
-    "lng": -77.4735485
   },
   {
     "type_general": "RPD",
@@ -70,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
     "street": "W CLAY ST/HIGHPOINT AVE RICH",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Clay Street",
     "location_township": "Precinct 4",
@@ -109,7 +109,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "900-BLK W CARY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Floyd Avenue",
     "location_township": "Precinct 4",
@@ -131,15 +131,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/08/2025 08:13",
+    "dispatch_time": "11/08/2025 08:21",
     "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "900-BLK W CARY ST",
+    "type_specific": "",
+    "street": "2800-BLK FAIRFIELD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
+    "nearest_intersection": "Fairfield Avenue",
     "location_township": "FIRE",
-    "lat": 37.544586,
-    "lng": -77.452993
+    "lat": 37.5480463,
+    "lng": -77.4062874
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 08:21",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "1700-BLK N 29TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street",
+    "location_township": "FIRE",
+    "lat": 37.541536,
+    "lng": -77.40372
   }
 ]
