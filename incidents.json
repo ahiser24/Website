@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "11/08/2025 10:58",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N HAMILTON ST/MASTIN LN RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Hamilton Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5713386,
+    "lng": -77.4781347
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/08/2025 13:04",
     "box_no": "Precinct 4",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -24,19 +37,6 @@
     "location_township": "Precinct 4",
     "lat": 37.54025,
     "lng": -77.43045
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 14:21",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
   },
   {
     "type_general": "RPD",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5530934,
     "lng": -77.4801689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 15:27",
-    "box_no": "Precinct 3",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "6100-BLK GLENWAY CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Glenway Court",
-    "location_township": "Precinct 3",
-    "lat": 37.5170176,
-    "lng": -77.5100332
   },
   {
     "type_general": "RPD",
@@ -291,7 +278,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
     "street": "1900-BLK REDD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Accommodation Street",
     "location_township": "Precinct 1",
@@ -330,7 +317,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "LL(-77:25:21.7562,37:32:59.2403): EST 1904 RAVEN ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Raven Street",
     "location_township": "Precinct 1",
@@ -349,6 +336,45 @@
     "location_township": "Precinct 2",
     "lat": 37.5071442,
     "lng": -77.4853454
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:43",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "5600-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.49303,
+    "lng": -77.487645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:47",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2600-BLK SEMMES AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.5193628,
+    "lng": -77.4600418
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 16:47",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2600-BLK SEMMES AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.5193628,
+    "lng": -77.4600418
   },
   {
     "type_general": "RFD",
@@ -401,5 +427,31 @@
     "location_township": "FIRE",
     "lat": 37.601975,
     "lng": -77.450736
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 16:44",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "700-BLK W FRANKLIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5479619,
+    "lng": -77.4497989
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 16:48",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4961097,
+    "lng": -77.4759645
   }
 ]
