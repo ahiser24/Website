@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:38",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , TAMPER - DISARM W/O PROPER CODE",
-    "street": "2200-BLK MAGNOLIA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Magnolia Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5598466,
-    "lng": -77.4136929
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 18:41",
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
@@ -37,19 +24,6 @@
     "location_township": "Precinct 3",
     "lat": 37.537455,
     "lng": -77.530122
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 19:39",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "6100-BLK KIM CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -170,32 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 23:03",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1600-BLK BRAMWELL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bramwell Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4867785,
-    "lng": -77.5068481
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 23:12",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "W BROAD ST/N BELVIDERE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 23:14",
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -235,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 23:45",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1500-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Plum Street",
-    "location_township": "Precinct 3",
-    "lat": 37.546019,
-    "lng": -77.460424
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 23:55",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -260,16 +195,16 @@
     "lng": -77.4479505
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 23:52",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "5300-BLK HULL STREET RD",
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 23:59",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N 18TH ST/E MAIN ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "FIRE",
-    "lat": 37.492271,
-    "lng": -77.4888165
+    "nearest_intersection": "North 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5337736,
+    "lng": -77.4268235
   }
 ]
