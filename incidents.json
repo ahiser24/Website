@@ -14,24 +14,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 20:04",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "2200-BLK CHALFONT DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4908816,
-    "lng": -77.4654757
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 21:17",
     "box_no": "Precinct 4",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
     "street": "100-BLK W BAKER ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Baker Street",
     "location_township": "Precinct 4",
@@ -161,7 +148,7 @@
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "100-BLK BELT BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Belt Boulevard, Southside",
     "location_township": "Precinct 2",
@@ -180,19 +167,6 @@
     "location_township": "Precinct 4",
     "lat": 37.554602,
     "lng": -77.4561674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 00:51",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "200-BLK W COUTTS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Coutts Street",
-    "location_township": "Precinct 4",
-    "lat": 37.553775,
-    "lng": -77.437112
   },
   {
     "type_general": "RPD",
@@ -239,7 +213,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "W CARY ST/S AUBURN AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Cary Street",
     "location_township": "Precinct 3",
@@ -248,16 +222,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 01:04",
+    "dispatch_time": "11/08/2025 01:10",
     "box_no": "Precinct 4",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "300-BLK W FRANKLIN ST",
-    "status": "Enroute",
+    "type_specific": "DISORDERLY , INVESTIGATE - EMS",
+    "street": "200-BLK W BAKER ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
+    "nearest_intersection": "West Baker Street",
     "location_township": "Precinct 4",
-    "lat": 37.5460104,
-    "lng": -77.446368
+    "lat": 37.551566,
+    "lng": -77.439165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 01:11",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "100-BLK S 15TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South 15th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.533699,
+    "lng": -77.431349
   },
   {
     "type_general": "RFD",
@@ -271,18 +258,5 @@
     "location_township": "FIRE",
     "lat": 37.516032,
     "lng": -77.512119
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/08/2025 01:04",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "4200-BLK FERGUSON LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Ferguson Lane",
-    "location_township": "FIRE",
-    "lat": 37.476566,
-    "lng": -77.473997
   }
 ]
