@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 06:27",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "200-BLK STRAWBERRY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Strawberry Street",
-    "location_township": "DPR",
-    "lat": 37.553329,
-    "lng": -77.4682337
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 07:14",
     "box_no": "Precinct 1",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -117,6 +104,58 @@
     "lng": -77.452993
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 08:23",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2600-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5668206,
+    "lng": -77.4448967
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 08:33",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "100-BLK GRESHAMWOOD PL",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Greshamwood Place",
+    "location_township": "DPR",
+    "lat": 37.5005134,
+    "lng": -77.5228532
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 08:38",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "200-BLK E 37TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 37th Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.507164,
+    "lng": -77.4721158
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/08/2025 08:43",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "6500-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5035598,
+    "lng": -77.5157461
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/08/2025 08:03",
     "box_no": "FIRE",
@@ -144,15 +183,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/08/2025 08:21",
+    "dispatch_time": "11/08/2025 08:38",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "1700-BLK N 29TH ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "5300-BLK HULL STREET RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 29th Street",
+    "nearest_intersection": "Hull Street Road",
     "location_township": "FIRE",
-    "lat": 37.541536,
-    "lng": -77.40372
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/08/2025 08:41",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
+    "street": "2000-BLK RIVERSIDE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "FIRE",
+    "lat": 37.52427,
+    "lng": -77.4552133
   }
 ]
