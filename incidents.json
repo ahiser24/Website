@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 17:08",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "100-BLK W BAKER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Baker Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5517889,
-    "lng": -77.4384316
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 17:14",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 3",
     "lat": 37.537455,
     "lng": -77.530122
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 20:01",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "4800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5974284,
-    "lng": -77.4498698
   },
   {
     "type_general": "RPD",
@@ -144,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 21:35",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "100-BLK E CARY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5417057,
-    "lng": -77.4440781
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 21:42",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -183,45 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 21:44",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "200-BLK N 20TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53368,
-    "lng": -77.424149
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 22:20",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1300-BLK WENTBRIDGE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Wentbridge Road, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5720922,
-    "lng": -77.4544475
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 22:26",
-    "box_no": "Precinct 2",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 22:49",
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
@@ -235,42 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 22:53",
+    "dispatch_time": "11/07/2025 22:58",
     "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "W CARY ST/S LAUREL ST RICH",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Cary Street",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.5540735,
-    "lng": -77.4832405
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 22:58",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1600-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5185064,
-    "lng": -77.4475359
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/07/2025 23:02",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "BETHEL ST/MAGNOLIA ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bethel Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5553938,
-    "lng": -77.4165144
+    "lat": 37.5799327,
+    "lng": -77.4469305
   },
   {
     "type_general": "RPD",
@@ -300,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/07/2025 23:08",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3200-BLK HAZELHURST AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hazelhurst Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5779332,
-    "lng": -77.4273049
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/07/2025 23:12",
     "box_no": "Precinct 4",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -349,6 +232,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5419283,
     "lng": -77.4353683
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 23:14",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2600-BLK REDWOOD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Redwood Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5515356,
+    "lng": -77.4150814
   },
   {
     "type_general": "RPD",
@@ -364,6 +260,71 @@
     "lng": -77.4443028
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 23:22",
+    "box_no": "Precinct 2",
+    "type_specific": "OVERDOSE/POISONING , BLS Narcotics Heroin",
+    "street": "5800-BLK ORCUTT LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4829472,
+    "lng": -77.4998228
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 23:23",
+    "box_no": "Precinct 1",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 23:24",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "5800-BLK WESTOWER DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5238336,
+    "lng": -77.5039485
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 23:28",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "4900-BLK FOREST HILL AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5212602,
+    "lng": -77.4895783
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/07/2025 23:28",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "4900-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5212602,
+    "lng": -77.4895783
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/07/2025 23:18",
     "box_no": "FIRE",
@@ -375,31 +336,5 @@
     "location_township": "FIRE",
     "lat": 37.5527677,
     "lng": -77.4391603
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 23:19",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "700-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "FIRE",
-    "lat": 37.545901,
-    "lng": -77.45048
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/07/2025 23:20",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "3500-BLK HANOVER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5599516,
-    "lng": -77.4840751
   }
 ]
