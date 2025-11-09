@@ -200,7 +200,7 @@
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
     "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
@@ -213,7 +213,7 @@
     "box_no": "Precinct 4",
     "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
     "street": "3100-BLK 3RD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "3rd Avenue",
     "location_township": "Precinct 4",
@@ -265,7 +265,7 @@
     "box_no": "Precinct 3",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "700-BLK S HARRISON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South Harrison Street",
     "location_township": "Precinct 3",
@@ -297,5 +297,18 @@
     "location_township": "FIRE",
     "lat": 37.5845486,
     "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 01:51",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2100-BLK FAIRFIELD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.548153,
+    "lng": -77.409036
   }
 ]
