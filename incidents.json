@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 08:46",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "00-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 08:33",
     "box_no": "Precinct 4",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 08:21",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "200-BLK STRAWBERRY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Strawberry Street",
-    "location_township": "DPR",
-    "lat": 37.553329,
-    "lng": -77.4682337
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 09:31",
     "box_no": "Precinct 4",
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
@@ -206,45 +180,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5404297,
     "lng": -77.4303132
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 09:33",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "800-BLK BLANTON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Blanton Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5455374,
-    "lng": -77.4815409
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 09:37",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "STONY POINT PKWY RICH:EST LL(-77.5674,37.5511)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 09:37",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "STONY POINT PKWY RICH:EST LL(-77.5674,37.5511)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -284,5 +219,44 @@
     "location_township": "FIRE",
     "lat": 37.5504418,
     "lng": -77.4493985
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 09:44",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "900-BLK N 3RD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 3rd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.549898,
+    "lng": -77.433825
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 09:39",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2800-BLK W MARSHALL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "DPR",
+    "lat": 37.5638804,
+    "lng": -77.4697676
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 09:43",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "E MAIN ST/N 26TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5361073,
+    "lng": -77.4327798
   }
 ]
