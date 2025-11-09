@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 16:25",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "3500-BLK DELAWARE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Delaware Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5789175,
-    "lng": -77.4189562
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 18:24",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
@@ -174,7 +161,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , NUISANCE",
     "street": "200-BLK ERICH RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Erich Road",
     "location_township": "Precinct 3",
@@ -193,5 +180,18 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 05:41",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1000-BLK KINGSWAY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Kingsway Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4940853,
+    "lng": -77.4998469
   }
 ]
