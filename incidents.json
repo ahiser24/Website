@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 02:40",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "5100-BLK HULL STREET RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 02:48",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -174,7 +161,20 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 1",
+    "lat": 37.5482872,
+    "lng": -77.4226215
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 03:22",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairfield Way",
     "location_township": "Precinct 1",
@@ -209,32 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 03:39",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5335013,
-    "lng": -77.4282824
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 03:40",
-    "box_no": "Precinct 2",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "3900-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 03:48",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -258,5 +232,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4952587,
     "lng": -77.4812815
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 04:05",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "E BROAD ST/N 19TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5263227,
+    "lng": -77.4100894
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 04:11",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5514093,
+    "lng": -77.4534673
   }
 ]
