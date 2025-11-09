@@ -117,6 +117,84 @@
     "lng": -77.451142
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 12:46",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "200-BLK WELLFORD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Wellford Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5587581,
+    "lng": -77.4313071
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 12:52",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "4300-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4669702,
+    "lng": -77.4434064
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 12:56",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1900-BLK REDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "Precinct 1",
+    "lat": 37.547595,
+    "lng": -77.420888
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 12:56",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1900-BLK REDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "Precinct 1",
+    "lat": 37.547595,
+    "lng": -77.420888
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 11:49",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1100-BLK DECATUR ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Decatur Street",
+    "location_township": "Precinct 1",
+    "lat": 37.520471,
+    "lng": -77.442472
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 12:54",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "100-BLK S ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Arthur Ashe Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.551581,
+    "lng": -77.4766431
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/09/2025 12:39",
     "box_no": "FIRE",
@@ -143,32 +221,6 @@
     "lng": -77.4434077
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 11:49",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1100-BLK DECATUR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "Precinct 1",
-    "lat": 37.520471,
-    "lng": -77.442472
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 12:46",
-    "box_no": "Precinct 4",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "200-BLK WELLFORD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Wellford Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5587581,
-    "lng": -77.4313071
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/09/2025 12:51",
     "box_no": "FIRE",
@@ -180,5 +232,31 @@
     "location_township": "FIRE",
     "lat": 37.554602,
     "lng": -77.4561674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 13:03",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "HANOVER AVE/N ALLEN AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5587725,
+    "lng": -77.4813626
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 13:03",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "3500-BLK CAROLINA AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carolina Avenue",
+    "location_township": "FIRE",
+    "lat": 37.577767,
+    "lng": -77.41668
   }
 ]
