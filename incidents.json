@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 00:16",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "1100-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5487219,
-    "lng": -77.4554131
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 11:49",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 13:39",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5725597,
-    "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 13:33",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -92,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 16:12",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "2000-BLK MOORE ST",
-    "status": "Enroute",
+    "dispatch_time": "11/09/2025 15:14",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2200-BLK AFTON AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Moore Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5600299,
-    "lng": -77.4567694
+    "nearest_intersection": "Afton Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.492501,
+    "lng": -77.4387938
   },
   {
     "type_general": "RPD",
@@ -118,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 15:14",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2200-BLK AFTON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Afton Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.492501,
-    "lng": -77.4387938
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 15:57",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -141,6 +102,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4717278,
     "lng": -77.4824414
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 16:42",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "500-BLK W 19TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 19th Street",
+    "location_township": "Precinct 3",
+    "lat": 37.523018,
+    "lng": -77.452975
   },
   {
     "type_general": "RPD",
@@ -184,10 +158,23 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/09/2025 16:12",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "2000-BLK MOORE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Moore Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5600299,
+    "lng": -77.4567694
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 16:12",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
     "street": "5500-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road, Southside",
     "location_township": "Precinct 2",
@@ -196,15 +183,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 16:42",
-    "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "500-BLK W 19TH ST",
+    "dispatch_time": "11/09/2025 16:51",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3200-BLK DEEPWATER TERMINAL RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West 19th Street",
-    "location_township": "Precinct 3",
-    "lat": 37.523018,
-    "lng": -77.452975
+    "nearest_intersection": "Deepwater Terminal Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4799926,
+    "lng": -77.4296279
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 16:54",
+    "box_no": "FIRE",
+    "type_specific": "# TRASH FIRE , DEBRIS",
+    "street": "RUFFIN RD/RICHMOND HWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ruffin Road",
+    "location_township": "FIRE",
+    "lat": 37.4795889,
+    "lng": -77.4375534
   }
 ]
