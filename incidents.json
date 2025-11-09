@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 23:17",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "MECHANICSVILLE TPKE/COOL LN RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5559863,
-    "lng": -77.4101543
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 00:16",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
@@ -170,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 02:13",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3600-BLK FOREST HILL AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.5153956,
-    "lng": -77.4714372
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 02:13",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3600-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.5153956,
-    "lng": -77.4714372
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 02:21",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -265,7 +226,7 @@
     "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
     "street": "5100-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
@@ -313,19 +274,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 02:46",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3600-BLK CAROLINA AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Carolina Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5790272,
-    "lng": -77.4159466
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 02:48",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -336,6 +284,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4624001,
     "lng": -77.4430084
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 02:48",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
+    "street": "200-BLK ERICH RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Erich Road",
+    "location_township": "Precinct 3",
+    "lat": 37.50836,
+    "lng": -77.500036
   },
   {
     "type_general": "RPD",
@@ -365,15 +326,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 02:48",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
-    "street": "200-BLK ERICH RD",
+    "dispatch_time": "11/09/2025 02:59",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "COMMERCE RD/STOCKTON ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Erich Road",
-    "location_township": "Precinct 3",
-    "lat": 37.50836,
-    "lng": -77.500036
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5221785,
+    "lng": -77.4403053
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 03:02",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "600-BLK N 26TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "FIRE",
+    "lat": 37.533836,
+    "lng": -77.4154
   }
 ]
