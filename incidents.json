@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "900-BLK GREEN RIDGE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Green Ridge Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4945606,
-    "lng": -77.502083
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 08:33",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1900-BLK MAPLE SHADE LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maple Shade Lane",
-    "location_township": "Precinct 4",
-    "lat": 37.5821305,
-    "lng": -77.4662061
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 08:46",
     "box_no": "Precinct 4",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -105,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 08:44",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 09:00",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
@@ -128,19 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4973887,
     "lng": -77.4735448
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 09:00",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W 27TH ST/MIDLOTHIAN TPKE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 27th Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5196704,
-    "lng": -77.4613917
   },
   {
     "type_general": "RPD",
@@ -208,19 +156,6 @@
     "lng": -77.418396
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/09/2025 09:35",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "900-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5504418,
-    "lng": -77.4493985
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/09/2025 09:44",
     "box_no": "Precinct 4",
@@ -258,5 +193,70 @@
     "location_township": "Precinct 1",
     "lat": 37.5361073,
     "lng": -77.4327798
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 09:00",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W 27TH ST/MIDLOTHIAN TPKE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 27th Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5196704,
+    "lng": -77.4613917
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 09:35",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "900-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5504418,
+    "lng": -77.4493985
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 09:44",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "CHIPPENHAM/STONY POINT RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Tremont Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5337582,
+    "lng": -77.5360979
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 09:44",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "CHIPPENHAM/STONY POINT RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Tremont Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5337582,
+    "lng": -77.5360979
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 09:48",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "W 11TH ST/PERRY ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 11th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5235617,
+    "lng": -77.4453592
   }
 ]
