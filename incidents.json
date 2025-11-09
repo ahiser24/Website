@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 08:56",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "5800-BLK ORCUTT LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4829472,
-    "lng": -77.4998228
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 08:46",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -183,6 +170,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/09/2025 08:56",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "5800-BLK ORCUTT LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4829472,
+    "lng": -77.4998228
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/09/2025 09:00",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
@@ -195,55 +195,29 @@
     "lng": -77.4735448
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 09:08",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "1300-BLK N 25TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.540421,
-    "lng": -77.410557
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 09:08",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "1300-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.540421,
-    "lng": -77.410557
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/09/2025 09:07",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3000-BLK HEY RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hey Road",
-    "location_township": "FIRE",
-    "lat": 37.4702126,
-    "lng": -77.5018424
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/09/2025 09:09",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
     "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bellevue Avenue",
     "location_township": "FIRE",
     "lat": 37.590597,
     "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 09:19",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "TULIP ST/N 23RD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Tulip Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5386406,
+    "lng": -77.4156053
   }
 ]
