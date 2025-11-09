@@ -170,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 15:05",
+    "dispatch_time": "11/09/2025 15:12",
     "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N LOMBARDY ST/CHAMBERLAYNE AVE RICH",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "WILMINGTON AVE/CHATHAM RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
+    "nearest_intersection": "Wilmington Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.5558128,
-    "lng": -77.4545828
+    "lat": 37.5829447,
+    "lng": -77.4672819
   },
   {
     "type_general": "RPD",
@@ -219,19 +219,6 @@
     "location_township": "Precinct 2",
     "lat": 37.492501,
     "lng": -77.4387938
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 15:12",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "WILMINGTON AVE/CHATHAM RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Wilmington Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5829447,
-    "lng": -77.4672819
   },
   {
     "type_general": "RPD",
@@ -300,15 +287,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 15:30",
-    "box_no": "Precinct 1",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "E 11TH ST/STOCKTON ST RICH",
+    "dispatch_time": "11/09/2025 15:57",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2600-BLK FLOYD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.553104,
+    "lng": -77.472742
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 15:57",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2600-BLK FLOYD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 11th Street",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.553104,
+    "lng": -77.472742
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 16:01",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1300-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": 37.5197952,
-    "lng": -77.4415888
+    "lat": 37.5353479,
+    "lng": -77.4336162
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 16:05",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "600-BLK BANCROFT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bancroft Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5760134,
+    "lng": -77.4239419
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 16:05",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "700-BLK S LOMBARDY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Lombardy Street",
+    "location_township": "FIRE",
+    "lat": 37.5414279,
+    "lng": -77.4644394
   }
 ]
