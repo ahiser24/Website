@@ -183,32 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 15:44",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.57024,
-    "lng": -77.420545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 15:44",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.57024,
-    "lng": -77.420545
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 15:21",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -258,19 +232,6 @@
     "location_township": "Precinct 3",
     "lat": 37.553104,
     "lng": -77.472742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 16:01",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1300-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5353479,
-    "lng": -77.4336162
   },
   {
     "type_general": "RFD",
@@ -326,19 +287,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 16:13",
-    "box_no": "Precinct 2",
-    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
-    "street": "2600-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5131919,
-    "lng": -77.4558898
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 16:12",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -349,5 +297,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5600299,
     "lng": -77.4567694
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 16:21",
+    "box_no": "Precinct 4",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "100-BLK W BAKER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5517889,
+    "lng": -77.4384316
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 15:44",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1200-BLK E BROOKLAND PARK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.57024,
+    "lng": -77.420545
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 16:24",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "3500-BLK HANOVER AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5599516,
+    "lng": -77.4840751
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 15:26",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "MAPLE AVE/PATTERSON AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Maple Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5819769,
+    "lng": -77.5156821
   }
 ]
