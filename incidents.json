@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 03:48",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "400-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.509293,
-    "lng": -77.525136
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 04:05",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -174,7 +161,7 @@
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "1500-BLK EDDYSTONE CT",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Eddystone Court",
     "location_township": "Precinct 2",
@@ -183,15 +170,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 04:38",
-    "box_no": "Precinct 4",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "400-BLK N 1ST ST",
+    "dispatch_time": "11/09/2025 04:35",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1900-BLK W MAIN ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 1st Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5461415,
-    "lng": -77.4402743
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
   }
 ]
