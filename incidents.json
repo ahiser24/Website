@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:22",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3100-BLK MAURICE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maurice Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.493725,
-    "lng": -77.4583899
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 07:49",
     "box_no": "Precinct 4",
     "type_specific": "INTOXICATED PERSON , INVESTIGATE - EMS",
@@ -131,16 +118,55 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:33",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "3300-BLK ELLWOOD AVE",
-    "status": "Enroute",
+    "dispatch_time": "11/09/2025 08:40",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2400-BLK P ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "North Dooley Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.555512,
-    "lng": -77.4833
+    "nearest_intersection": "P Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5322021,
+    "lng": -77.403918
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 08:40",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2400-BLK P ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "P Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5322021,
+    "lng": -77.403918
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 08:35",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1100-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5212499,
+    "lng": -77.4431859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 08:33",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1900-BLK MAPLE SHADE LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maple Shade Lane",
+    "location_township": "Precinct 4",
+    "lat": 37.5821305,
+    "lng": -77.4662061
   },
   {
     "type_general": "RPD",
@@ -157,29 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 08:33",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1900-BLK MAPLE SHADE LN",
-    "status": "Enroute",
+    "dispatch_time": "11/09/2025 07:33",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "3300-BLK ELLWOOD AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Maple Shade Lane",
-    "location_township": "Precinct 4",
-    "lat": 37.5821305,
-    "lng": -77.4662061
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 08:35",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1100-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5212499,
-    "lng": -77.4431859
+    "nearest_intersection": "North Dooley Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.555512,
+    "lng": -77.4833
   },
   {
     "type_general": "RFD",
@@ -193,5 +206,18 @@
     "location_township": "FIRE",
     "lat": 37.5821305,
     "lng": -77.4662061
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 08:40",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1700-BLK HOPKINS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard, Southside",
+    "location_township": "FIRE",
+    "lat": 37.494477,
+    "lng": -77.462441
   }
 ]
