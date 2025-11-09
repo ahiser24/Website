@@ -135,7 +135,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "N 18TH ST/COALTER ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 18th Street",
     "location_township": "Precinct 1",
@@ -148,7 +148,7 @@
     "box_no": "Precinct 2",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
     "street": "1500-BLK ARMFIELD RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Armfield Road",
     "location_township": "Precinct 2",
@@ -222,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 23:44",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "0-BLK N 5TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "DPR",
-    "lat": 37.5497878,
-    "lng": -77.4309047
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 23:45",
     "box_no": "Precinct 4",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -261,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/08/2025 23:48",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "100-BLK E 32ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "McRand Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.508735,
-    "lng": -77.466795
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/08/2025 23:51",
     "box_no": "Precinct 2",
     "type_specific": "RECKLESS DRIVING , INVESTIGATE",
@@ -284,32 +258,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4788253,
     "lng": -77.4293818
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/08/2025 23:57",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "FOREST HILL AVE/WESTOVER HILLS BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5337669,
-    "lng": -77.5401206
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/08/2025 23:55",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3400-BLK KEIGHLY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Keighly Road",
-    "location_township": "FIRE",
-    "lat": 37.4785136,
-    "lng": -77.436944
   },
   {
     "type_general": "RPD",
@@ -326,6 +274,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/08/2025 23:53",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2900-BLK W MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "DPR",
+    "lat": 37.564223,
+    "lng": -77.470712
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/08/2025 23:57",
     "box_no": "Precinct 2",
     "type_specific": "LOUD MUSIC , INVESTIGATE",
@@ -336,5 +297,44 @@
     "location_township": "Precinct 2",
     "lat": 37.5098428,
     "lng": -77.4611804
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 00:03",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "3200-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5757133,
+    "lng": -77.4633313
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 00:19",
+    "box_no": "Precinct 4",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "300-BLK E FRANKLIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5423406,
+    "lng": -77.4398757
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 00:16",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "1100-BLK GROVE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5487219,
+    "lng": -77.4554131
   }
 ]
