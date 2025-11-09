@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 04:35",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 05:43",
     "box_no": "Precinct 4",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -66,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/09/2025 07:16",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "900-BLK GREEN RIDGE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Green Ridge Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4945606,
+    "lng": -77.502083
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/09/2025 06:18",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -76,32 +76,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5110515,
     "lng": -77.488118
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 06:27",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "3900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5884889,
-    "lng": -77.4485395
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:11",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "4200-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.468287,
-    "lng": -77.4436513
   },
   {
     "type_general": "RPD",
@@ -157,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "900-BLK GREEN RIDGE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Green Ridge Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4945606,
-    "lng": -77.502083
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 07:33",
     "box_no": "Precinct 3",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
@@ -193,5 +154,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5471493,
     "lng": -77.4100295
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 08:33",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1900-BLK MAPLE SHADE LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Maple Shade Lane",
+    "location_township": "Precinct 4",
+    "lat": 37.5821305,
+    "lng": -77.4662061
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 08:35",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1100-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5212499,
+    "lng": -77.4431859
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 08:33",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1900-BLK MAPLE SHADE LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maple Shade Lane",
+    "location_township": "FIRE",
+    "lat": 37.5821305,
+    "lng": -77.4662061
   }
 ]
