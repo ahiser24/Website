@@ -196,42 +196,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 03:34",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2400-BLK NORTHUMBERLAND AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Northumberland Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.564119,
-    "lng": -77.4474311
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 03:48",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "400-BLK HIOAKS RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hioaks Road",
     "location_township": "Precinct 3",
     "lat": 37.509293,
     "lng": -77.525136
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 03:54",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1600-BLK TREEHAVEN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Treehaven Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952587,
-    "lng": -77.4812815
   },
   {
     "type_general": "RPD",
@@ -245,6 +219,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5263227,
     "lng": -77.4100894
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 04:10",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1500-BLK EDDYSTONE CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Eddystone Court",
+    "location_township": "Precinct 2",
+    "lat": 37.483593,
+    "lng": -77.515253
   },
   {
     "type_general": "RPD",
@@ -269,19 +256,6 @@
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5475032,
-    "lng": -77.4444903
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/09/2025 04:24",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "300-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
     "lat": 37.5475032,
     "lng": -77.4444903
   }
