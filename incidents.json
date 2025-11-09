@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "2200-BLK CHALFONT DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chalfont Drive, Southside",
     "location_township": "Precinct 2",
@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 03:18",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "N 1ST ST/E BAKER ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 1st Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5553171,
-    "lng": -77.4314859
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 03:22",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -157,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 05:17",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "200-BLK ERICH RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Erich Road",
-    "location_township": "Precinct 3",
-    "lat": 37.50836,
-    "lng": -77.500036
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 05:24",
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -193,5 +167,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4940853,
     "lng": -77.4998469
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 05:47",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "4100-BLK NORTH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue",
+    "location_township": "FIRE",
+    "lat": 37.585559,
+    "lng": -77.440752
   }
 ]
