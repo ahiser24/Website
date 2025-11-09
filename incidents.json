@@ -161,11 +161,24 @@
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "1900-BLK W MAIN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Main Street",
     "location_township": "Precinct 3",
     "lat": 37.5489827,
     "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 04:55",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3000-BLK NINE MILE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.542062,
+    "lng": -77.399754
   }
 ]
