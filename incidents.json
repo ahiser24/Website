@@ -27,45 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 00:16",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "1100-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5487219,
-    "lng": -77.4554131
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 00:52",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , CITY PROPERTY",
-    "street": "MECHANICSVILLE TPKE/E LABURNUM AVE HENR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5559863,
-    "lng": -77.4101543
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 02:48",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
-    "street": "200-BLK ERICH RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Erich Road",
-    "location_township": "Precinct 3",
-    "lat": 37.50836,
-    "lng": -77.500036
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 04:35",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -79,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 04:55",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3000-BLK NINE MILE RD",
+    "dispatch_time": "11/09/2025 00:16",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "1100-BLK GROVE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.542062,
-    "lng": -77.399754
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5487219,
+    "lng": -77.4554131
   },
   {
     "type_general": "RPD",
@@ -105,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 06:27",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "3900-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
+    "dispatch_time": "11/09/2025 00:52",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , CITY PROPERTY",
+    "street": "MECHANICSVILLE TPKE/E LABURNUM AVE HENR",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5884889,
-    "lng": -77.4485395
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5559863,
+    "lng": -77.4101543
   },
   {
     "type_general": "RPD",
@@ -141,5 +102,44 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 06:27",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 06:42",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 06:42",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   }
 ]
