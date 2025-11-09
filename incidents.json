@@ -31,7 +31,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "2200-BLK CHALFONT DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chalfont Drive, Southside",
     "location_township": "Precinct 2",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 00:36",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1200-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.520818,
-    "lng": -77.444127
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 00:52",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , CITY PROPERTY",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5559863,
     "lng": -77.4101543
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 01:06",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "3300-BLK NORFOLK ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Norfolk Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5706189,
+    "lng": -77.4712603
   },
   {
     "type_general": "RPD",
@@ -209,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 01:17",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK JENNIE SCHER RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5226217,
-    "lng": -77.3994575
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 01:21",
     "box_no": "Precinct 4",
     "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
@@ -235,29 +222,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 01:23",
-    "box_no": "Precinct 3",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
-    "street": "6300-BLK MIDLOTHIAN TPKE",
+    "dispatch_time": "11/09/2025 01:30",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "5600-BLK SWANSON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5046527,
-    "lng": -77.5119423
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 01:31",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "LL(-77:28:06.1370,37:28:32.9099): HOPKINS/WARWICK",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hopkins Road",
+    "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
-    "lng": -77.4683713888889,
-    "lat": 37.47580830555556
+    "lat": 37.488047,
+    "lng": -77.49501
   },
   {
     "type_general": "RPD",
@@ -274,16 +248,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 01:32",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "2900-BLK W BROAD ST",
+    "dispatch_time": "11/09/2025 01:34",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "900-BLK N HAMILTON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.563653,
-    "lng": -77.4715221
+    "nearest_intersection": "North Hamilton Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5652364,
+    "lng": -77.4851039
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 01:44",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "700-BLK S HARRISON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Harrison Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5400759,
+    "lng": -77.4597867
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 01:44",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
   },
   {
     "type_general": "RFD",
@@ -297,31 +297,5 @@
     "location_township": "FIRE",
     "lat": 37.5845486,
     "lng": -77.4473886
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/09/2025 01:23",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
-    "street": "3100-BLK 3RD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "3rd Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5709731,
-    "lng": -77.4161597
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 01:34",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "900-BLK N HAMILTON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Hamilton Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5652364,
-    "lng": -77.4851039
   }
 ]
