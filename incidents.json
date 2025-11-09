@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 13:53",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "500-BLK CATHERINE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Catherine Street",
-    "location_township": "DPR",
-    "lat": 37.550665,
-    "lng": -77.444195
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 14:02",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
@@ -115,6 +102,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5812835,
     "lng": -77.4623654
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 14:06",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "2200-BLK CHALFONT DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chalfont Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4908816,
+    "lng": -77.4654757
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 13:39",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5725597,
-    "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 13:33",
     "box_no": "Precinct 4",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
@@ -182,6 +169,19 @@
     "lng": -77.440891
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 13:39",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "3000-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5725597,
+    "lng": -77.4456656
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/09/2025 14:07",
     "box_no": "FIRE",
@@ -193,19 +193,6 @@
     "location_township": "FIRE",
     "lat": 37.5224135,
     "lng": -77.436784
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 14:06",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "2200-BLK CHALFONT DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4908816,
-    "lng": -77.4654757
   },
   {
     "type_general": "RPD",
@@ -245,5 +232,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5185064,
     "lng": -77.4475359
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 14:33",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "LL(-77:25:42.0404,37:32:43.6470): @EXIT 75 - I95 NB (I64 EB / 7TH ST)",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond-Petersburg Turnpike",
+    "location_township": "FIRE",
+    "lng": -77.42834455555555,
+    "lat": 37.5454575
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 14:33",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "1800-BLK 4TH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5581658,
+    "lng": -77.4247105
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 14:33",
+    "box_no": "FIRE",
+    "type_specific": "# OTHER , SINGLE COMPANY",
+    "street": "300-BLK W ROANOKE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Roanoke Street",
+    "location_township": "FIRE",
+    "lat": 37.5137506,
+    "lng": -77.4761962
   }
 ]
