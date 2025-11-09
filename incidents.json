@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:27",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1600-BLK N 30TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5406703,
-    "lng": -77.4032774
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 11:05",
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -50,32 +37,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5510819,
     "lng": -77.407214
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 10:54",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "3200BLK CUTSHAW AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 10:26",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
   },
   {
     "type_general": "RPD",
@@ -92,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 11:47",
-    "box_no": "Precinct 4",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "W LABURNUM AVE/SAUNDERS AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Laburnum Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5840069,
-    "lng": -77.4708596
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 11:06",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -118,29 +66,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 11:49",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1100-BLK DECATUR ST",
+    "dispatch_time": "11/09/2025 10:26",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "Precinct 1",
-    "lat": 37.520471,
-    "lng": -77.442472
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
   },
   {
     "type_general": "RPD",
     "dispatch_time": "11/09/2025 11:47",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "LITTLEPAGE ST/SPOTSYLVANIA ST RICH",
+    "box_no": "Precinct 4",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "W LABURNUM AVE/SAUNDERS AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Littlepage Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5448449,
-    "lng": -77.4183979
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
   },
   {
     "type_general": "RPD",
@@ -170,6 +118,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/09/2025 12:15",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "00-BLK E BROOKLAND PARK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.568967,
+    "lng": -77.4167096
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 12:15",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "00-BLK E BROOKLAND PARK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.568967,
+    "lng": -77.4167096
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/09/2025 12:04",
     "box_no": "Precinct 3",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -183,28 +157,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 12:15",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "00-BLK E BROOKLAND PARK BLVD",
+    "dispatch_time": "11/09/2025 11:49",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1100-BLK DECATUR ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.568967,
-    "lng": -77.4167096
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 12:15",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "00-BLK E BROOKLAND PARK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.568967,
-    "lng": -77.4167096
+    "nearest_intersection": "Decatur Street",
+    "location_township": "Precinct 1",
+    "lat": 37.520471,
+    "lng": -77.442472
   }
 ]
