@@ -44,7 +44,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , CITY PROPERTY",
     "street": "MECHANICSVILLE TPKE/E LABURNUM AVE HENR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Mechanicsville Turnpike",
     "location_township": "Precinct 1",
@@ -104,16 +104,42 @@
     "lat": 37.54282422222222
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/09/2025 06:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1200-BLK LORRAINE AVE",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 06:27",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Lorraine Avenue",
-    "location_township": "FIRE",
-    "lat": 37.595912,
-    "lng": -77.45353
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 06:30",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 06:30",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   }
 ]
