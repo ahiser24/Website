@@ -135,7 +135,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , CITY PROPERTY",
     "street": "MECHANICSVILLE TPKE/E LABURNUM AVE HENR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Mechanicsville Turnpike",
     "location_township": "Precinct 1",
@@ -252,12 +252,38 @@
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 02:11",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 02:12",
+    "box_no": "Precinct 3",
+    "type_specific": "LOUD MUSIC , INVESTIGATE",
+    "street": "2600-BLK W MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.55211,
+    "lng": -77.4732564
   },
   {
     "type_general": "RFD",
@@ -271,5 +297,44 @@
     "location_township": "FIRE",
     "lat": 37.5845486,
     "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 02:13",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3600-BLK FOREST HILL AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.5153956,
+    "lng": -77.4714372
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 02:13",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3600-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.5153956,
+    "lng": -77.4714372
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 02:13",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "200-BLK N ADAMS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Adams Street",
+    "location_township": "DPR",
+    "lat": 37.545465,
+    "lng": -77.443653
   }
 ]
