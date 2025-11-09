@@ -18,7 +18,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
     "street": "1600-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Mechanicsville Turnpike",
     "location_township": "Precinct 1",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5559863,
     "lng": -77.4101543
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 01:17",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
   },
   {
     "type_general": "RPD",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 04:05",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "E BROAD ST/N 19TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5263227,
-    "lng": -77.4100894
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 04:35",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -144,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 05:24",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 05:41",
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -169,16 +130,55 @@
     "lng": -77.4998469
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/09/2025 05:47",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "4100-BLK NORTH AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 05:43",
+    "box_no": "Precinct 4",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "LL(-77:27:19.8029,37:32:34.1672): @DOWNTOWN EXPY EB BETWEEN TOLL PLAZA & BELVIDERE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 4",
+    "lng": -77.45550080555556,
+    "lat": 37.54282422222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 05:46",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 05:58",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "600-BLK W SOUTHSIDE PLZ",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Southside Plaza, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5012106,
+    "lng": -77.4784074
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 05:58",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "600-BLK W SOUTHSIDE PLZ",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Avenue",
-    "location_township": "FIRE",
-    "lat": 37.585559,
-    "lng": -77.440752
+    "nearest_intersection": "West Southside Plaza, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5012106,
+    "lng": -77.4784074
   }
 ]
