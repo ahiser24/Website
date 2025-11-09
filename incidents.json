@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 17:19",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "4500-BLK HANOVER AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5657536,
-    "lng": -77.4973605
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 17:27",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -183,29 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 16:56",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2500-BLK E MAIN ST",
-    "status": "Arrived",
+    "dispatch_time": "11/09/2025 17:19",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "4500-BLK HANOVER AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "DPR",
-    "lat": 37.5290346,
-    "lng": -77.4208043
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/09/2025 17:39",
-    "box_no": "FIRE",
-    "type_specific": "# SMOKE INVESTIGATION",
-    "street": "700-BLK WHITEHEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Whitehead Road",
-    "location_township": "FIRE",
-    "lat": 37.497236,
-    "lng": -77.506505
+    "nearest_intersection": "Hanover Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5657536,
+    "lng": -77.4973605
   },
   {
     "type_general": "RPD",
@@ -213,38 +187,12 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "4800-BLK E SEMINARY AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Seminary Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5972451,
-    "lng": -77.4511592
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 17:38",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "4800-BLK E SEMINARY AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Seminary Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5972451,
-    "lng": -77.4511592
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/09/2025 17:38",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "HULL STREET RD/BELT RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.49303,
-    "lng": -77.487645
+    "nearest_intersection": "East Seminary Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5972451,
+    "lng": -77.4511592
   },
   {
     "type_general": "RPD",
@@ -284,5 +232,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5565875,
     "lng": -77.4412236
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 17:47",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "700-BLK DINWIDDIE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dinwiddie Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5170381,
+    "lng": -77.4342407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 17:47",
+    "box_no": "Precinct 3",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "GLENWAY DR/GERMAN SCHOOL RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Glenway Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.517105,
+    "lng": -77.5110113
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 17:50",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "1300-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "FIRE",
+    "lat": 37.5191862,
+    "lng": -77.5159063
   }
 ]
