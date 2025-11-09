@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 11:40",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "3400-BLK MIKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mike Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770648,
-    "lng": -77.4318075
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 12:04",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "MIDLOTHIAN TPKE/ERICH RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 12:36",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 12:46",
-    "box_no": "Precinct 4",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "200-BLK WELLFORD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Wellford Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5587581,
-    "lng": -77.4313071
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 11:49",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -193,5 +154,31 @@
     "location_township": "Precinct 1",
     "lat": 37.520471,
     "lng": -77.442472
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 12:46",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "200-BLK WELLFORD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Wellford Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5587581,
+    "lng": -77.4313071
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/09/2025 12:51",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1600-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.554602,
+    "lng": -77.4561674
   }
 ]
