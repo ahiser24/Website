@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:33",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "3300-BLK ELLWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Dooley Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.555512,
-    "lng": -77.4833
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 07:22",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -144,29 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:47",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "CHIPPENHAM PKWY RICH:EST LL(-77.5709,37.5540)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:47",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "CHIPPENHAM PKWY RICH:EST LL(-77.5709,37.5540)",
+    "dispatch_time": "11/09/2025 07:49",
+    "box_no": "Precinct 4",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE - EMS",
+    "street": "BROOK RD/W BROOKLAND PARK BLVD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5534081,
+    "lng": -77.4419452
   },
   {
     "type_general": "RPD",
@@ -196,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 07:49",
-    "box_no": "Precinct 4",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE - EMS",
-    "street": "BROOK RD/W BROOKLAND PARK BLVD RICH",
-    "status": "Arrived",
+    "dispatch_time": "11/09/2025 07:33",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "3300-BLK ELLWOOD AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5534081,
-    "lng": -77.4419452
+    "nearest_intersection": "North Dooley Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.555512,
+    "lng": -77.4833
   },
   {
     "type_general": "RPD",
@@ -219,5 +193,31 @@
     "location_township": "Precinct 2",
     "lat": 37.508735,
     "lng": -77.466795
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 08:10",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "RICH: @POWHITE PKWY SB BETWEEN CARY ST & DOUGLASDALE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5411754,
+    "lng": -77.4932097
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 08:13",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4300-BLK GRANTLAKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grantlake Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4602251,
+    "lng": -77.4806014
   }
 ]
