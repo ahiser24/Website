@@ -70,7 +70,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -82,13 +82,13 @@
     "dispatch_time": "11/10/2025 09:02",
     "box_no": "Precinct 4",
     "type_specific": "MISSING PERSON - ELDERLY / AT RISK , INVESTIGATE",
-    "street": "3300-BLK MARYLAND AVE",
+    "street": "1500-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Maryland Avenue",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5759876,
-    "lng": -77.4197017
+    "lat": 37.5541589,
+    "lng": -77.4554329
   },
   {
     "type_general": "RPD",
@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 10:33",
-    "box_no": "DPR",
-    "type_specific": "PARKING COMPLAINT , DPR/ADVICE",
-    "street": "2200-BLK BROOK RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bath Street, Northside",
-    "location_township": "DPR",
-    "lat": 37.5625595,
-    "lng": -77.4482371
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 10:30",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -206,6 +193,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 09:47",
+    "box_no": "Precinct 3",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
   },
   {
     "type_general": "RFD",
@@ -247,19 +247,6 @@
     "lng": null
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 10:37",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "4600-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.464094,
-    "lng": -77.442993
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 10:37",
     "box_no": "FIRE",
@@ -274,28 +261,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 10:44",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "N 8TH ST/E FRANKLIN ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 8th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5436749,
-    "lng": -77.4325329
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 10:41",
-    "box_no": "FIRE",
-    "type_specific": "# SMOKE INVESTIGATION",
-    "street": "3300-BLK MIKE RD",
+    "dispatch_time": "11/10/2025 10:37",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "4600-BLK RICHMOND HWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Ruffin Road",
-    "location_township": "FIRE",
-    "lat": 37.479616,
-    "lng": -77.431895
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 10:37",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
   }
 ]
