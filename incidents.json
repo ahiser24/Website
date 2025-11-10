@@ -143,19 +143,6 @@
     "lng": -77.464491
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 00:09",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1900-BLK HOPKINS RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hopkins Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.491725,
-    "lng": -77.463688
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/10/2025 00:27",
     "box_no": "Precinct 2",
@@ -170,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:30",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "5700-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5730388,
-    "lng": -77.5167053
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 23:59",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1000-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 00:20",
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -206,5 +167,70 @@
     "location_township": "Precinct 1",
     "lat": 37.505994,
     "lng": -77.438058
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 23:59",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1000-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:48",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "400-BLK W BACON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.556191,
+    "lng": -77.43803
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:45",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516032,
+    "lng": -77.512119
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 00:09",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1900-BLK HOPKINS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hopkins Road, Southside",
+    "location_township": "FIRE",
+    "lat": 37.491725,
+    "lng": -77.463688
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 00:46",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "FIRE",
+    "lat": 37.516032,
+    "lng": -77.512119
   }
 ]
