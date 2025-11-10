@@ -91,45 +91,6 @@
     "lng": -77.4895724
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 03:36",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "1300-BLK COALTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 05:35",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1100-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5212499,
-    "lng": -77.4431859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 05:49",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "5600-BLK PATTERSON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Patterson Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5781477,
-    "lng": -77.5119831
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 05:57",
     "box_no": "FIRE",
