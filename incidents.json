@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 01:55",
-    "box_no": "Precinct 3",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "400-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.509293,
-    "lng": -77.525136
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 01:56",
     "box_no": "Precinct 1",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -170,16 +157,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 02:28",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "LL(-77:25:42.0404,37:32:43.6470): @EXIT 75 - I95 NB (I64 EB / 7TH ST)",
-    "status": "Enroute",
+    "dispatch_time": "11/10/2025 02:40",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3300-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond-Petersburg Turnpike",
-    "location_township": "Precinct 4",
-    "lng": -77.42834455555555,
-    "lat": 37.5454575
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.471946,
+    "lng": -77.482853
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:34",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1200-BLK NELSON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
   },
   {
     "type_general": "RFD",
@@ -206,31 +206,5 @@
     "location_township": "FIRE",
     "lat": 37.5291728,
     "lng": -77.416605
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 02:35",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "MECHANICSVILLE TPKE/COOL LN RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5559863,
-    "lng": -77.4101543
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 02:34",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1200-BLK NELSON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5131526,
-    "lng": -77.4030988
   }
 ]
