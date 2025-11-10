@@ -80,6 +80,19 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/10/2025 15:22",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "CLAREMONT AVE/NORTH AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Claremont Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5880782,
+    "lng": -77.4499465
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 15:22",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "3500-BLK CAROLINA AVE",
@@ -128,45 +141,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5431916,
     "lng": -77.4365125
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 16:08",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.508019,
-    "lng": -77.4897113
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 16:58",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "3100-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 16:58",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "3100-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
   },
   {
     "type_general": "RPD",
@@ -221,32 +195,6 @@
     "lng": -77.451142
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:05",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534496,
-    "lng": -77.432243
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:13",
-    "box_no": "Precinct 2",
-    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
-    "street": "5300-BLK TROY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Troy Road",
-    "location_township": "Precinct 2",
-    "lat": 37.481847,
-    "lng": -77.490133
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 17:12",
     "box_no": "FIRE",
@@ -258,32 +206,6 @@
     "location_township": "FIRE",
     "lat": 37.590597,
     "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:18",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "5600-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.518679,
-    "lng": -77.502435
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:03",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "00-BLK WYTHEMAR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Wythemar Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5086921,
-    "lng": -77.4785605
   },
   {
     "type_general": "RPD",
@@ -338,19 +260,6 @@
     "lng": -77.4557678
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:04",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "6400-BLK HAGUEMAN DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hagueman Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5245642,
-    "lng": -77.5150693
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 17:10",
     "box_no": "FIRE",
@@ -364,29 +273,29 @@
     "lng": -77.464322
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 17:25",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1300-BLK JENNIE SCHER RD",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 17:22",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "1300-BLK N 20TH ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road",
-    "location_township": "FIRE",
-    "lat": 37.521475,
-    "lng": -77.40059
+    "nearest_intersection": "Fairmount Avenue",
+    "location_township": "DPR",
+    "lat": 37.543239,
+    "lng": -77.415038
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:27",
-    "box_no": "Precinct 1",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
-    "street": "900-BLK E 15TH ST",
+    "dispatch_time": "11/10/2025 17:18",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "5600-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Dinwiddie Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.513208,
-    "lng": -77.44072
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.518679,
+    "lng": -77.502435
   }
 ]
