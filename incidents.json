@@ -40,29 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 22:46",
+    "dispatch_time": "11/10/2025 01:56",
     "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "COMMERCE RD/GORDON AVE RICH",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "1900-BLK REDD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Commerce Road",
+    "nearest_intersection": "Accommodation Street",
     "location_township": "Precinct 1",
-    "lat": 37.5221785,
-    "lng": -77.4403053
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 23:59",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1000-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
+    "lat": 37.547595,
+    "lng": -77.420888
   },
   {
     "type_general": "RPD",
@@ -79,29 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:49",
-    "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "7100-BLK TIM PRICE WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tim Price Way",
-    "location_township": "Precinct 3",
-    "lat": 37.5005642,
-    "lng": -77.5267218
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 01:56",
+    "dispatch_time": "11/09/2025 22:46",
     "box_no": "Precinct 1",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "1900-BLK REDD ST",
-    "status": "Arrived",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "COMMERCE RD/GORDON AVE RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
+    "nearest_intersection": "Commerce Road",
     "location_township": "Precinct 1",
-    "lat": 37.547595,
-    "lng": -77.420888
+    "lat": 37.5221785,
+    "lng": -77.4403053
   },
   {
     "type_general": "RPD",
@@ -115,32 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5291728,
     "lng": -77.416605
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 02:26",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "LL(-77:25:41.0522,37:32:19.7735): EST BROAD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond-Petersburg Turnpike",
-    "location_township": "FIRE",
-    "lng": -77.42807005555557,
-    "lat": 37.53882597222222
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 02:40",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3300-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.471946,
-    "lng": -77.482853
   },
   {
     "type_general": "RPD",
@@ -195,6 +143,58 @@
     "lng": -77.4030988
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:40",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3300-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.471946,
+    "lng": -77.482853
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:37",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "4600-BLK SOUTHWOOD PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Southwood Parkway, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.493513,
+    "lng": -77.479702
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:57",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON - JUVENILE 11  AND OLDER , INVESTIGATE",
+    "street": "500-BLK DECATUR ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.523491,
+    "lng": -77.437717
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:17",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "300-BLK E 10TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 10th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.519396,
+    "lng": -77.439755
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 02:27",
     "box_no": "FIRE",
@@ -206,5 +206,31 @@
     "location_township": "FIRE",
     "lat": 37.5291728,
     "lng": -77.416605
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 02:54",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "200-BLK W CHARITY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "FIRE",
+    "lat": 37.5523546,
+    "lng": -77.4384047
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 02:54",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "200-BLK W CHARITY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "FIRE",
+    "lat": 37.5523546,
+    "lng": -77.4384047
   }
 ]
