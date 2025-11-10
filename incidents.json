@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:03",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 13:33",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -83,7 +70,7 @@
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "BELLS RD/RICHMOND HWY RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Bells Road",
     "location_township": "Precinct 2",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5131526,
     "lng": -77.4030988
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 04:21",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2400-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5287098,
-    "lng": -77.4220145
   },
   {
     "type_general": "RPD",
