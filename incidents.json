@@ -105,35 +105,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 03:36",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "1300-BLK COALTER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 04:18",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "1300-BLK WENTBRIDGE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Wentbridge Road, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5720922,
-    "lng": -77.4544475
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 04:16",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "6300-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
@@ -154,5 +128,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5131526,
     "lng": -77.4030988
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 04:21",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2400-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5287098,
+    "lng": -77.4220145
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 03:36",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
   }
 ]
