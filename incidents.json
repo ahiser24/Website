@@ -66,29 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 06:17",
+    "dispatch_time": "11/10/2025 05:32",
     "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "900-BLK OLIVER HILL WAY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Oliver Hill Way",
-    "location_township": "Precinct 1",
-    "lat": 37.5501278,
-    "lng": -77.4239328
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 06:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "3800-BLK MASTIN LN",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2100-BLK CHICAGO AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.571676,
-    "lng": -77.481157
+    "nearest_intersection": "Chicago Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5107706,
+    "lng": -77.4461866
   },
   {
     "type_general": "RFD",
@@ -104,6 +91,19 @@
     "lng": -77.5020742
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 06:50",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 06:39",
     "box_no": "FIRE",
@@ -117,29 +117,29 @@
     "lng": -77.495451
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 06:42",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1600-BLK MECHANICSVILLE TPKE",
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 06:49",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1600-BLK N 27TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5493398,
-    "lng": -77.4147445
+    "nearest_intersection": "North 27th Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.5421105,
+    "lng": -77.4063129
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 06:45",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1600-BLK WESTWOOD AVE",
-    "status": "Enroute",
+    "dispatch_time": "11/10/2025 06:17",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "900-BLK OLIVER HILL WAY",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westwood Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5791153,
-    "lng": -77.4602073
+    "nearest_intersection": "Oliver Hill Way",
+    "location_township": "Precinct 1",
+    "lat": 37.5501278,
+    "lng": -77.4239328
   }
 ]
