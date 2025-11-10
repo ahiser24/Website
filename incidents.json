@@ -78,30 +78,17 @@
     "lng": -77.4530383
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 09:00",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "1500-BLK RICHMOND HWY",
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 06:39",
+    "box_no": "FIRE",
+    "type_specific": "# BRUSH FIRE , GRASS",
+    "street": "1200-BLK ROTHESAY CIR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4999081,
-    "lng": -77.4478148
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 08:50",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "100-BLK S LAUREL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Laurel Street",
-    "location_township": "DPR",
-    "lat": 37.543707,
-    "lng": -77.451718
+    "nearest_intersection": "Rothesay Circle",
+    "location_township": "FIRE",
+    "lat": 37.543172,
+    "lng": -77.495451
   },
   {
     "type_general": "RPD",
@@ -128,32 +115,6 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 09:31",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2400-BLK E CARY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5287098,
-    "lng": -77.4220145
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 09:31",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2400-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5287098,
-    "lng": -77.4220145
   },
   {
     "type_general": "RPD",
@@ -183,24 +144,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 09:36",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1000-BLK FOURQUREAN LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fourqurean Lane, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5686638,
-    "lng": -77.4250346
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 09:45",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "00-BLK E LEIGH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Leigh Street",
     "location_township": "Precinct 4",
@@ -209,28 +157,41 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/10/2025 06:39",
+    "dispatch_time": "11/10/2025 09:57",
     "box_no": "FIRE",
-    "type_specific": "# BRUSH FIRE , GRASS",
-    "street": "1200-BLK ROTHESAY CIR",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1300-BLK W GRAHAM RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rothesay Circle",
+    "nearest_intersection": "Bath Street, Northside",
     "location_township": "FIRE",
-    "lat": 37.543172,
-    "lng": -77.495451
+    "lat": 37.564,
+    "lng": -77.452132
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 10:02",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "3300-BLK CASTLEWOOD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Castlewood Road",
+    "location_township": "FIRE",
+    "lat": 37.4780439,
+    "lng": -77.4450334
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 09:51",
+    "dispatch_time": "11/10/2025 09:55",
     "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK W 20TH ST",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "WOODCLIFF AVE/HIGHLAND VIEW AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West 20th Street",
+    "nearest_intersection": "Woodcliff Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.522393,
-    "lng": -77.453771
+    "lat": 37.5688385,
+    "lng": -77.4204148
   }
 ]
