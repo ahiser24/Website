@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "1100-BLK GROVE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 01:28",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "DPR",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 01:56",
     "box_no": "Precinct 1",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -115,32 +102,6 @@
     "location_township": "Precinct 1",
     "lat": 37.547595,
     "lng": -77.420888
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 01:59",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "5700-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.505677,
-    "lng": -77.50241
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 01:52",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "3500-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Iron Bridge Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468377,
-    "lng": -77.486275
   },
   {
     "type_general": "RPD",
@@ -156,17 +117,69 @@
     "lng": -77.416605
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 02:26",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "LL(-77:25:41.0522,37:32:19.7735): EST BROAD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond-Petersburg Turnpike",
+    "location_township": "FIRE",
+    "lng": -77.42807005555557,
+    "lat": 37.53882597222222
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/10/2025 02:40",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "3300-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Broad Rock Boulevard",
     "location_township": "Precinct 2",
     "lat": 37.471946,
     "lng": -77.482853
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:48",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "3000-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5098428,
+    "lng": -77.4611804
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:49",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:49",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
   },
   {
     "type_general": "RPD",
@@ -180,19 +193,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5131526,
     "lng": -77.4030988
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 02:26",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "LL(-77:25:41.0522,37:32:19.7735): EST BROAD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond-Petersburg Turnpike",
-    "location_township": "FIRE",
-    "lng": -77.42807005555557,
-    "lat": 37.53882597222222
   },
   {
     "type_general": "RFD",
