@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 07:19",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1400-BLK ARMFIELD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Armfield Road",
-    "location_township": "Precinct 2",
-    "lat": 37.482345,
-    "lng": -77.5152669
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 07:44",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -118,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 08:15",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "4500-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "DPR",
-    "lat": 37.49303,
-    "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 07:56",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "200-BLK S DAVIS AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Davis Avenue",
-    "location_township": "DPR",
-    "lat": 37.5494989,
-    "lng": -77.4737347
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 08:16",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -154,6 +115,32 @@
     "location_township": "Precinct 2",
     "lat": 37.5097917,
     "lng": -77.4530383
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 08:34",
+    "box_no": "Precinct 4",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "1600-BLK RHOADMILLER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rhoadmiller Street",
+    "location_township": "Precinct 4",
+    "lat": 37.567427,
+    "lng": -77.4577366
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 08:06",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2900-BLK W MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.564223,
+    "lng": -77.470712
   },
   {
     "type_general": "RPD",
@@ -170,16 +157,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 08:06",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2900-BLK W MARSHALL ST",
+    "dispatch_time": "11/10/2025 08:02",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "LL(-77:31:35.2525,37:31:01.6320): EST 1243 BOULDER CREEK RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
+    "nearest_intersection": "Boulder Creek Drive",
+    "location_township": "Precinct 3",
+    "lng": -77.52645902777778,
+    "lat": 37.51712
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 08:33",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E 16TH ST/INGRAM AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 16th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5170562,
+    "lng": -77.4458916
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 08:33",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3100-BLK 4TH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.564223,
-    "lng": -77.470712
+    "lat": 37.5696681,
+    "lng": -77.4145437
   },
   {
     "type_general": "RFD",
@@ -193,19 +206,6 @@
     "location_township": "FIRE",
     "lat": 37.543172,
     "lng": -77.495451
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 08:33",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E 16TH ST/INGRAM AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 16th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5170562,
-    "lng": -77.4458916
   },
   {
     "type_general": "RPD",
@@ -248,15 +248,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 08:34",
-    "box_no": "Precinct 4",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "1600-BLK RHOADMILLER ST",
+    "dispatch_time": "11/10/2025 08:44",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "3000-BLK NOBLE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Noble Avenue, Northside",
+    "location_township": "DPR",
+    "lat": 37.5720993,
+    "lng": -77.4424364
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 08:56",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "1700-BLK ALBANY AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Albany Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.514121,
+    "lng": -77.444369
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 08:49",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "3300-BLK PARK AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rhoadmiller Street",
-    "location_township": "Precinct 4",
-    "lat": 37.567427,
-    "lng": -77.4577366
+    "nearest_intersection": "Park Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5624182,
+    "lng": -77.4787873
   }
 ]
