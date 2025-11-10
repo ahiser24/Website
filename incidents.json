@@ -27,58 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 13:33",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "100-BLK S 5TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.539453,
-    "lng": -77.440891
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 22:46",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "COMMERCE RD/GORDON AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5221785,
-    "lng": -77.4403053
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 21:09",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:03",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 01:56",
     "box_no": "Precinct 1",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -102,6 +50,32 @@
     "location_township": "Precinct 2",
     "lat": 37.471946,
     "lng": -77.482853
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:03",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 13:33",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "100-BLK S 5TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.539453,
+    "lng": -77.440891
   },
   {
     "type_general": "RPD",
@@ -143,16 +117,42 @@
     "lng": -77.422946
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 04:18",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "1300-BLK WENTBRIDGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Wentbridge Road, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5720922,
+    "lng": -77.4544475
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/10/2025 04:16",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "6300-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
     "lat": 37.5046527,
     "lng": -77.5119423
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 04:23",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1200-BLK NELSON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
   }
 ]
