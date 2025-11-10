@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 14:51",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "100-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.544751,
-    "lng": -77.4444328
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 15:27",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 18:19",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "WESTOWER DR/FOREST HILL AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westower Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5235476,
-    "lng": -77.5052403
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 18:06",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -157,29 +131,29 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/10/2025 18:19",
+    "box_no": "Precinct 3",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "WESTOWER DR/FOREST HILL AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5235476,
+    "lng": -77.5052403
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/10/2025 18:25",
     "box_no": "Precinct 2",
     "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "1300-BLK CARGREEN RD",
+    "street": "1400-BLK FLYNN RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Cargreen Road",
+    "nearest_intersection": "Flynn Road",
     "location_township": "Precinct 2",
-    "lat": 37.486393,
-    "lng": -77.516524
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 18:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3500-BLK SKIPPING ROCK WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Skipping Rock Way",
-    "location_township": "FIRE",
-    "lat": 37.4692287,
-    "lng": -77.4959887
+    "lat": 37.4869069,
+    "lng": -77.5171099
   },
   {
     "type_general": "RPD",
@@ -193,32 +167,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5831376,
     "lng": -77.4246224
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 18:21",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "WESTOWER DR/FOREST HILL AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westower Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5235476,
-    "lng": -77.5052403
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 18:30",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "200-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "DPR",
-    "lat": 37.505642,
-    "lng": -77.4809186
   },
   {
     "type_general": "RFD",
@@ -235,32 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 18:37",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 18:36",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3100-BLK W CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5530934,
-    "lng": -77.4801689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 18:31",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -274,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 18:25",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BROOK/BELVIDERE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Road",
-    "location_township": "Precinct 4",
-    "lat": 37.6048041,
-    "lng": -77.4502233
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 18:26",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -297,19 +206,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5178012,
     "lng": -77.4110581
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 18:39",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1100-BLK ST JOHN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "FIRE",
-    "lat": 37.5531273,
-    "lng": -77.4363957
   },
   {
     "type_general": "RPD",
@@ -362,5 +258,44 @@
     "location_township": "FIRE",
     "lat": 37.5688385,
     "lng": -77.4204148
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 18:45",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "4700-BLK COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.5221785,
+    "lng": -77.4403053
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 18:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "6900-BLK MARLOWE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Marlowe Road",
+    "location_township": "FIRE",
+    "lat": 37.515422,
+    "lng": -77.52309
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 18:25",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "BROOK/BELVIDERE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Road",
+    "location_township": "Precinct 4",
+    "lat": 37.6048041,
+    "lng": -77.4502233
   }
 ]
