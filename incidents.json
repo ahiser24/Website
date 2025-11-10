@@ -118,15 +118,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 05:42",
+    "dispatch_time": "11/10/2025 05:49",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "200-BLK WAKEFIELD RD",
+    "street": "5600-BLK PATTERSON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5781477,
+    "lng": -77.5119831
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 05:57",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "6400-BLK BINNS AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Wakefield Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5549975,
-    "lng": -77.5017828
+    "nearest_intersection": "Binns Avenue",
+    "location_township": "FIRE",
+    "lat": 37.4975948,
+    "lng": -77.5122623
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 05:29",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4300-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4664874,
+    "lng": -77.4274885
   }
 ]
