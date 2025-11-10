@@ -105,6 +105,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/10/2025 03:21",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/10/2025 03:36",
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
@@ -118,15 +131,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 03:21",
+    "dispatch_time": "11/10/2025 05:13",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "600-BLK WESTOVER HILLS BLVD",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3000-BLK STONY POINT RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
+    "nearest_intersection": "Stony Point Road",
     "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
+    "lat": 37.5387389,
+    "lng": -77.5642407
   }
 ]
