@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "1100-BLK GROVE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
@@ -40,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 18:32",
-    "box_no": "Precinct 4",
+    "dispatch_time": "11/09/2025 21:59",
+    "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 14TH ST/E BROAD ST RICH",
+    "street": "3000-BLK BROAD ROCK BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.537676,
-    "lng": -77.4296236
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.475069,
+    "lng": -77.481909
   },
   {
     "type_general": "RPD",
@@ -79,45 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 21:59",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3000-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.475069,
-    "lng": -77.481909
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 22:42",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1500-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 15th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.533737,
-    "lng": -77.430987
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 22:07",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , INVESTIGATE-EMS",
-    "street": "1300-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5362219,
-    "lng": -77.4321747
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 23:27",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -131,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 23:42",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 22:46",
     "box_no": "Precinct 1",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -154,5 +102,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5221785,
     "lng": -77.4403053
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 22:07",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "1300-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5362219,
+    "lng": -77.4321747
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 23:59",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1000-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   }
 ]
