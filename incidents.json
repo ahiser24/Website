@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 22:46",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "COMMERCE RD/GORDON AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5221785,
-    "lng": -77.4403053
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 00:26",
     "box_no": "Precinct 1",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -102,45 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.536232,
     "lng": -77.422238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:25",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3300-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.505048,
-    "lng": -77.464491
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:25",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3300-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.505048,
-    "lng": -77.464491
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:25",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3300-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.505048,
-    "lng": -77.464491
   },
   {
     "type_general": "RPD",
@@ -157,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:45",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516032,
-    "lng": -77.512119
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 00:48",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -180,19 +115,6 @@
     "location_township": "Precinct 4",
     "lat": 37.556191,
     "lng": -77.43803
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:20",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1800-BLK KESWICK AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Keswick Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.505994,
-    "lng": -77.438058
   },
   {
     "type_general": "RPD",
@@ -208,17 +130,43 @@
     "lng": -77.438016
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 00:09",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1900-BLK HOPKINS RD",
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 22:46",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "COMMERCE RD/GORDON AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5221785,
+    "lng": -77.4403053
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:59",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1200-BLK W GRAHAM RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hopkins Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.491725,
-    "lng": -77.463688
+    "nearest_intersection": "West Graham Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5642037,
+    "lng": -77.4489079
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:49",
+    "box_no": "Precinct 3",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "7100-BLK TIM PRICE WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Tim Price Way",
+    "location_township": "Precinct 3",
+    "lat": 37.5005642,
+    "lng": -77.5267218
   },
   {
     "type_general": "RPD",
@@ -226,7 +174,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "N 28TH ST/NINE MILE RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 28th Street",
     "location_township": "Precinct 1",
@@ -235,28 +183,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:49",
+    "dispatch_time": "11/10/2025 01:02",
     "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "7100-BLK TIM PRICE WAY",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "5600-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Tim Price Way",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
-    "lat": 37.5005642,
-    "lng": -77.5267218
+    "lat": 37.5067222,
+    "lng": -77.5001482
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 00:46",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1100-BLK GERMAN SCHOOL RD",
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 01:00",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1100-BLK N HAMILTON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "FIRE",
-    "lat": 37.517118,
-    "lng": -77.513788
+    "nearest_intersection": "North Hamilton Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5664399,
+    "lng": -77.4835284
   }
 ]
