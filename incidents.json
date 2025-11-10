@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 01:00",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1100-BLK N HAMILTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Hamilton Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5664399,
-    "lng": -77.4835284
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 00:49",
     "box_no": "Precinct 3",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 02:16",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1200-BLK BRANDER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brander Street",
-    "location_township": "Precinct 1",
-    "lat": 37.52292,
-    "lng": -77.423625
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 02:17",
     "box_no": "Precinct 1",
     "type_specific": "PERSON DOWN , INVESTIGATE",
@@ -191,45 +165,6 @@
     "cross_street": "",
     "nearest_intersection": "East Grace Street, East End",
     "location_township": "Precinct 1",
-    "lat": 37.5291728,
-    "lng": -77.416605
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 02:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "2700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "FIRE",
-    "lat": 37.527783,
-    "lng": -77.419068
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 02:26",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "LL(-77:25:41.0522,37:32:19.7735): EST BROAD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond-Petersburg Turnpike",
-    "location_township": "FIRE",
-    "lng": -77.42807005555557,
-    "lat": 37.53882597222222
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 02:27",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "2800-BLK E GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street, East End",
-    "location_township": "FIRE",
     "lat": 37.5291728,
     "lng": -77.416605
   },
@@ -245,5 +180,57 @@
     "location_township": "Precinct 4",
     "lng": -77.42834455555555,
     "lat": 37.5454575
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 02:26",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "LL(-77:25:41.0522,37:32:19.7735): EST BROAD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond-Petersburg Turnpike",
+    "location_township": "FIRE",
+    "lng": -77.42807005555557,
+    "lat": 37.53882597222222
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 02:27",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "2800-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.5291728,
+    "lng": -77.416605
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 02:35",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "MECHANICSVILLE TPKE/COOL LN RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5559863,
+    "lng": -77.4101543
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:34",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1200-BLK NELSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
   }
 ]
