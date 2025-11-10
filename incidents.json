@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 14:57",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "3600-BLK GREER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greer Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4683596,
-    "lng": -77.4620016
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 15:22",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -248,19 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 15:15",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1900-BLK Q ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Q Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5421232,
-    "lng": -77.4170719
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 15:45",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -271,19 +245,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5071442,
     "lng": -77.4853454
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 15:46",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1500-BLK SILVER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Silver Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4992388,
-    "lng": -77.4358002
   },
   {
     "type_general": "RPD",
@@ -310,19 +271,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5489827,
     "lng": -77.4646467
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 16:01",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "5400-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "FIRE",
-    "lat": 37.4899001,
-    "lng": -77.4939365
   },
   {
     "type_general": "RPD",
@@ -364,19 +312,6 @@
     "lng": -77.4365125
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 16:11",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "3500-BLK MONTROSE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Montrose Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5796622,
-    "lng": -77.4399374
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/10/2025 15:11",
     "box_no": "Precinct 3",
@@ -388,5 +323,70 @@
     "location_township": "Precinct 3",
     "lat": 37.519751,
     "lng": -77.51884
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 16:11",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "3500-BLK MONTROSE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Montrose Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5796622,
+    "lng": -77.4399374
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 14:57",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "3600-BLK GREER AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greer Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4683596,
+    "lng": -77.4620016
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 16:13",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2000-BLK ROSEWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Rosewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.545195,
+    "lng": -77.468341
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 16:19",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2100-BLK PHAUP ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Phaup Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5510819,
+    "lng": -77.407214
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 16:19",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2100-BLK PHAUP ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Phaup Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5510819,
+    "lng": -77.407214
   }
 ]
