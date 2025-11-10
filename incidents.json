@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 19:23",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "5800-BLK ORCUTT LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4829472,
-    "lng": -77.4998228
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 18:32",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/09/2025 21:09",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1900-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5528738,
+    "lng": -77.4124488
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/09/2025 21:59",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -89,58 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.475069,
     "lng": -77.481909
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 23:19",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4200-BLK COMMERCE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road Access Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468084,
-    "lng": -77.428152
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 23:19",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4200-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road Access Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468084,
-    "lng": -77.428152
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 21:09",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 22:46",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "COMMERCE RD/GORDON AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5221785,
-    "lng": -77.4403053
   },
   {
     "type_general": "RPD",
@@ -196,15 +144,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 23:45",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "5400-BLK MIDLOTHIAN TPKE",
+    "dispatch_time": "11/09/2025 22:46",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "COMMERCE RD/GORDON AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "DPR",
-    "lat": 37.5072965,
-    "lng": -77.4968755
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5221785,
+    "lng": -77.4403053
   }
 ]
