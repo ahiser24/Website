@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 23:59",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1000-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/09/2025 21:09",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 13:33",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -79,16 +53,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:26",
-    "box_no": "Precinct 1",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "1900-BLK PRINCESS ANNE AVE",
-    "status": "Arrived",
+    "dispatch_time": "11/09/2025 23:59",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1000-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Princess Anne Avenue",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/09/2025 21:09",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1900-BLK MECHANICSVILLE TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
     "location_township": "Precinct 1",
-    "lat": 37.536232,
-    "lng": -77.422238
+    "lat": 37.5528738,
+    "lng": -77.4124488
   },
   {
     "type_general": "RPD",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5005642,
     "lng": -77.5267218
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 01:52",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "3500-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Iron Bridge Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468377,
-    "lng": -77.486275
   },
   {
     "type_general": "RPD",
@@ -193,5 +167,44 @@
     "location_township": "Precinct 2",
     "lat": 37.505677,
     "lng": -77.50241
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 01:52",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3500-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Iron Bridge Road",
+    "location_township": "Precinct 2",
+    "lat": 37.468377,
+    "lng": -77.486275
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:16",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1200-BLK BRANDER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brander Street",
+    "location_township": "Precinct 1",
+    "lat": 37.52292,
+    "lng": -77.423625
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 02:17",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "2800-BLK E GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5291728,
+    "lng": -77.416605
   }
 ]
