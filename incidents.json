@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "1100-BLK GROVE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 06:32",
+    "dispatch_time": "11/10/2025 06:17",
     "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "2300-BLK ROSETTA ST",
-    "status": "Arrived",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "900-BLK OLIVER HILL WAY",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Rosetta Street",
+    "nearest_intersection": "Oliver Hill Way",
     "location_township": "Precinct 1",
-    "lat": 37.548743,
-    "lng": -77.406126
+    "lat": 37.5501278,
+    "lng": -77.4239328
   },
   {
     "type_general": "RFD",
@@ -83,25 +83,12 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
     "street": "3800-BLK MASTIN LN",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "FIRE",
     "lat": 37.571676,
     "lng": -77.481157
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 06:39",
-    "box_no": "FIRE",
-    "type_specific": "# BRUSH FIRE , GRASS",
-    "street": "LL(-77:31:29.0671,37:31:41.0092): @POWHITE PKWY NB BETWEEN CHIPPENHAM PKWY & MAIN TOLL PLAZA",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Powhite Parkway",
-    "location_township": "FIRE",
-    "lng": -77.52474086111111,
-    "lat": 37.52805811111111
   },
   {
     "type_general": "RFD",
@@ -117,16 +104,42 @@
     "lng": -77.5020742
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 06:40",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1100-BLK SOUTHWOOD PKWY",
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 06:39",
+    "box_no": "FIRE",
+    "type_specific": "# BRUSH FIRE , GRASS",
+    "street": "1200-BLK ROTHESAY CIR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Southwood Parkway, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4939666,
-    "lng": -77.4818206
+    "nearest_intersection": "Rothesay Circle",
+    "location_township": "FIRE",
+    "lat": 37.543172,
+    "lng": -77.495451
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 06:42",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1600-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5493398,
+    "lng": -77.4147445
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 06:45",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1600-BLK WESTWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westwood Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5791153,
+    "lng": -77.4602073
   }
 ]
