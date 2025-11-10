@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 04:16",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "6300-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5046527,
-    "lng": -77.5119423
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 04:23",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1200-BLK NELSON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5131526,
-    "lng": -77.4030988
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 03:21",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -131,15 +105,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 05:13",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3000-BLK STONY POINT RD",
+    "dispatch_time": "11/10/2025 05:35",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "LL(-77:26:34.8362,37:31:16.0391): EST 37 E 11TH ST RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Stony Point Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5387389,
-    "lng": -77.5642407
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lng": -77.44301005555556,
+    "lat": 37.52112197222222
   }
 ]
