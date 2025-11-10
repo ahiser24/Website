@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 10:30",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 10:20",
     "box_no": "Precinct 1",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 10:56",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1200-BLK NELSON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
   },
   {
     "type_general": "RPD",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5535135,
     "lng": -77.4360289
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 10:56",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1200-BLK NELSON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5131526,
-    "lng": -77.4030988
   },
   {
     "type_general": "RPD",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5530109,
     "lng": -77.4351594
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 11:41",
+    "box_no": "DPR",
+    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
+    "street": "6400-BLK DAYTONA DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Daytona Drive",
+    "location_township": "DPR",
+    "lat": 37.4880054,
+    "lng": -77.5116849
   },
   {
     "type_general": "RPD",
@@ -260,19 +260,6 @@
     "lng": -77.4576868
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 12:17",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , PREGNANCY",
-    "street": "2800-BLK EDGEWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Edgewood Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5689144,
-    "lng": -77.4390438
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/10/2025 12:20",
     "box_no": "Precinct 3",
@@ -284,5 +271,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5199118,
     "lng": -77.5063553
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 12:36",
+    "box_no": "Precinct 4",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "1700-BLK MONTEIRO ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Monteiro Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5575863,
+    "lng": -77.4306111
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 12:36",
+    "box_no": "Precinct 4",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "1700-BLK MONTEIRO ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monteiro Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5575863,
+    "lng": -77.4306111
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 12:37",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "1000-BLK E 16TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 16th Street",
+    "location_township": "FIRE",
+    "lat": 37.5116816,
+    "lng": -77.4401491
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 12:37",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
+    "street": "6400-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5036311,
+    "lng": -77.5151182
   }
 ]
