@@ -144,32 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:27",
-    "box_no": "Precinct 2",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "1400-BLK BOWEN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Stegge Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.502767,
-    "lng": -77.438016
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:20",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1800-BLK KESWICK AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Keswick Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.505994,
-    "lng": -77.438058
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 23:59",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -180,19 +154,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:48",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "400-BLK W BACON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
-    "location_township": "Precinct 4",
-    "lat": 37.556191,
-    "lng": -77.43803
   },
   {
     "type_general": "RPD",
@@ -208,6 +169,45 @@
     "lng": -77.512119
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:48",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "400-BLK W BACON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.556191,
+    "lng": -77.43803
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:20",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1800-BLK KESWICK AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Keswick Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.505994,
+    "lng": -77.438058
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:27",
+    "box_no": "Precinct 2",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "1400-BLK BOWEN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stegge Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.502767,
+    "lng": -77.438016
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 00:09",
     "box_no": "FIRE",
@@ -221,16 +221,42 @@
     "lng": -77.463688
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:49",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 28TH ST/NINE MILE RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5407104,
+    "lng": -77.4058116
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:49",
+    "box_no": "Precinct 3",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "7100-BLK TIM PRICE WAY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tim Price Way",
+    "location_township": "Precinct 3",
+    "lat": 37.5005642,
+    "lng": -77.5267218
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 00:46",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
+    "street": "1100-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "German School Road",
     "location_township": "FIRE",
-    "lat": 37.516032,
-    "lng": -77.512119
+    "lat": 37.517118,
+    "lng": -77.513788
   }
 ]
