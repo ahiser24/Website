@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/09/2025 23:27",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "900-BLK MYERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Myers Street",
-    "location_township": "Precinct 4",
-    "lat": 37.56341,
-    "lng": -77.469527
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/09/2025 22:46",
     "box_no": "Precinct 1",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -102,58 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5221785,
     "lng": -77.4403053
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 00:09",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1900-BLK HOPKINS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hopkins Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.491725,
-    "lng": -77.463688
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 00:09",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1900-BLK HOPKINS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hopkins Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.491725,
-    "lng": -77.463688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:16",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "MAURY ST/E 3RD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5097917,
-    "lng": -77.4530383
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 00:30",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "5700-BLK GROVE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5730388,
-    "lng": -77.5167053
   },
   {
     "type_general": "RPD",
@@ -208,16 +143,68 @@
     "lng": -77.464491
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 00:09",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1900-BLK HOPKINS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hopkins Road, Southside",
+    "location_township": "FIRE",
+    "lat": 37.491725,
+    "lng": -77.463688
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:27",
+    "box_no": "Precinct 2",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "1400-BLK BOWEN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stegge Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.502767,
+    "lng": -77.438016
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:30",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "5700-BLK GROVE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5730388,
+    "lng": -77.5167053
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/09/2025 23:59",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "1000-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 00:20",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1800-BLK KESWICK AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Keswick Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.505994,
+    "lng": -77.438058
   }
 ]
