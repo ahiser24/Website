@@ -104,32 +104,6 @@
     "lng": -77.482853
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 02:17",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "300-BLK E 10TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 10th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.519396,
-    "lng": -77.439755
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 02:57",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON - JUVENILE 11  AND OLDER , INVESTIGATE",
-    "street": "500-BLK DECATUR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.523491,
-    "lng": -77.437717
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/10/2025 03:04",
     "box_no": "FIRE",
@@ -154,5 +128,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5290346,
     "lng": -77.4208043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 03:18",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "BELLS RD/RICHMOND HWY RICH: alias BELLS RD/JEFFERSON DAVIS HWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bells Road",
+    "location_township": "Precinct 2",
+    "lat": 37.472385,
+    "lng": -77.453612
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 03:21",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
   }
 ]
