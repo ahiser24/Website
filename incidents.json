@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 14:35",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "3300-BLK MIDLOTHIAN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5110125,
-    "lng": -77.4689147
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 14:51",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -144,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/10/2025 16:36",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W MAIN ST/N ROBINSON ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.54586,
+    "lng": -77.4557678
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/10/2025 16:57",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -167,19 +167,6 @@
     "location_township": "FIRE",
     "lat": 37.49303,
     "lng": -77.487645
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 17:11",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "FIRE",
-    "lat": 37.557176,
-    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -209,32 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:27",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "600-BLK W SOUTHSIDE PLZ",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:27",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "600-BLK W SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 16:38",
     "box_no": "Precinct 4",
     "type_specific": "ROBBERY , INVESTIGATE",
@@ -245,19 +206,6 @@
     "location_township": "Precinct 4",
     "lat": 37.546364,
     "lng": -77.442794
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 16:36",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "W MAIN ST/N ROBINSON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.54586,
-    "lng": -77.4557678
   },
   {
     "type_general": "RFD",
@@ -274,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 17:22",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "1300-BLK N 20TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Fairmount Avenue",
-    "location_township": "DPR",
-    "lat": 37.543239,
-    "lng": -77.415038
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 17:18",
     "box_no": "Precinct 3",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -297,5 +232,44 @@
     "location_township": "Precinct 3",
     "lat": 37.518679,
     "lng": -77.502435
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 17:22",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "1300-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairmount Avenue",
+    "location_township": "DPR",
+    "lat": 37.543239,
+    "lng": -77.415038
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 17:20",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "W GRAHAM RD/CHAMBERLAYNE AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.563921,
+    "lng": -77.4508006
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 17:41",
+    "box_no": "Precinct 3",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "COVINGTON RD/MIDLOTHIAN TPKE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Covington Road",
+    "location_township": "Precinct 3",
+    "lat": 37.507653,
+    "lng": -77.4928501
   }
 ]
