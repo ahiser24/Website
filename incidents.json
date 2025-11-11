@@ -131,45 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 05:02",
-    "box_no": "Precinct 1",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "GLENFIELD AVE/HARWOOD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Glenfield Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5051605,
-    "lng": -77.4343396
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 05:15",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "900-BLK ST PAUL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Saint Paul Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5516719,
-    "lng": -77.43914
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 05:15",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "900-BLK ST PAUL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint Paul Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5516719,
-    "lng": -77.43914
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 05:07",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -180,32 +141,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5339539,
     "lng": -77.4009847
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 05:07",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "1400-BLK OAKWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Oakwood Avenue, East End",
-    "location_township": "FIRE",
-    "lat": 37.5339539,
-    "lng": -77.4009847
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 05:17",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1300-BLK ST PAUL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Hill Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5545,
-    "lng": -77.436362
   },
   {
     "type_general": "RPD",
