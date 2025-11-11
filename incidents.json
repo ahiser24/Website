@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 05:19",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "0-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 06:18",
     "box_no": "Precinct 4",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -102,5 +89,18 @@
     "location_township": "Precinct 4",
     "lat": 37.554765,
     "lng": -77.431824
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 06:33",
+    "box_no": "FIRE",
+    "type_specific": "# OTHER , SINGLE COMPANY",
+    "street": "2300-BLK HANOVER AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5543183,
+    "lng": -77.4681761
   }
 ]
