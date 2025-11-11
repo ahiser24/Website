@@ -157,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 22:57",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 22:57",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 23:03",
     "box_no": "Precinct 4",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -206,19 +180,6 @@
     "location_township": "Precinct 4",
     "lat": 37.601975,
     "lng": -77.450736
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 23:05",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5140128,
-    "lng": -77.4895724
   },
   {
     "type_general": "RPD",
@@ -232,5 +193,70 @@
     "location_township": "Precinct 2",
     "lat": 37.5117693,
     "lng": -77.4649524
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 23:14",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2900-BLK 3RD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "3rd Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5683155,
+    "lng": -77.41837
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 23:18",
+    "box_no": "FIRE",
+    "type_specific": "# ELEVATOR INCIDENT",
+    "street": "2400-BLK BURTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Pink Street",
+    "location_township": "FIRE",
+    "lat": 37.537979,
+    "lng": -77.414427
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 23:18",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "2400-BLK BURTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Pink Street",
+    "location_township": "Precinct 1",
+    "lat": 37.537979,
+    "lng": -77.414427
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 23:24",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "2800-BLK NINE MILE RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5413597,
+    "lng": -77.4050112
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 23:24",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "2800-BLK NINE MILE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "FIRE",
+    "lat": 37.5413597,
+    "lng": -77.4050112
   }
 ]
