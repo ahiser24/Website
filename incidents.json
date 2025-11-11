@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 00:48",
-    "box_no": "Precinct 2",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "200-BLK W ROANOKE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Roanoke Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5123438,
-    "lng": -77.4754932
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 02:49",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -104,29 +91,16 @@
     "lng": -77.475537
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 06:00",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "I-195 RICH:EST LL(-77.4816,37.5664)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 06:00",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "I-195 RICH:EST LL(-77.4816,37.5664)",
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 06:14",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1000-BLK BYSWICK LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Byswick Lane",
+    "location_township": "FIRE",
+    "lat": 37.5170715,
+    "lng": -77.4979273
   }
 ]
