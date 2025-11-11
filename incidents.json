@@ -148,7 +148,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "W 26TH ST/SEMMES AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West 26th Street",
     "location_township": "Precinct 3",
@@ -287,29 +287,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 17:35",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N 32ND ST/E BROAD ST RICH",
-    "status": "Dispatched",
+    "dispatch_time": "11/11/2025 17:46",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "2200-BLK HANOVER AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 32nd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.533338,
-    "lng": -77.4071263
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5536881,
+    "lng": -77.4664551
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 17:35",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N 32ND ST/E BROAD ST RICH",
-    "status": "Arrived",
+    "dispatch_time": "11/11/2025 17:47",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "4300-BLK SHACKLEFORD RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 32nd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.533338,
-    "lng": -77.4071263
+    "nearest_intersection": "Shackleford Road",
+    "location_township": "Precinct 2",
+    "lat": 37.467021,
+    "lng": -77.4613393
   },
   {
     "type_general": "RPD",
@@ -323,5 +323,18 @@
     "location_township": "Precinct 1",
     "lat": 37.544191,
     "lng": -77.409823
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 17:46",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "2200-BLK HANOVER AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5536881,
+    "lng": -77.4664551
   }
 ]
