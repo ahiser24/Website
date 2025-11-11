@@ -66,24 +66,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 08:02",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1800-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 08:29",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "3600-BLK NORTH AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Avenue, Northside",
     "location_township": "Precinct 4",
@@ -130,6 +117,19 @@
     "lng": -77.487645
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 09:04",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "200-BLK E 6TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.522245,
+    "lng": -77.437419
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/11/2025 07:23",
     "box_no": "FIRE",
@@ -157,28 +157,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 08:55",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "UNNAMED RD RICH:EST LL(-77.4528,37.5248)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 08:55",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "UNNAMED RD RICH:EST LL(-77.4528,37.5248)",
+    "dispatch_time": "11/11/2025 09:05",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "2600-BLK GROVE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5543423,
+    "lng": -77.4720912
   }
 ]
