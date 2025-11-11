@@ -157,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 22:51",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1800-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5564183,
-    "lng": -77.4595959
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 22:53",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "7500-BLK DRUMHELLER DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Drumheller Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.534183,
-    "lng": -77.5340173
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 22:57",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -206,5 +180,57 @@
     "location_township": "Precinct 2",
     "lat": 37.464799,
     "lng": -77.460475
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 23:03",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.601975,
+    "lng": -77.450736
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 23:03",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.601975,
+    "lng": -77.450736
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/10/2025 23:05",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "FIRE",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/10/2025 23:04",
+    "box_no": "Precinct 2",
+    "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
+    "street": "3100-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5117693,
+    "lng": -77.4649524
   }
 ]
