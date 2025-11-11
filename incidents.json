@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 14:36",
-    "box_no": "Precinct 2",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 15:18",
     "box_no": "Precinct 4",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -180,32 +167,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5028468,
     "lng": -77.4343407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 14:45",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1700-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "School Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5590895,
-    "lng": -77.443309
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 15:30",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "N 19TH ST/FAIRFIELD AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "FIRE",
-    "lat": 37.5332252,
-    "lng": -77.4259138
   },
   {
     "type_general": "RPD",
@@ -314,28 +275,15 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 15:50",
-    "box_no": "Precinct 3",
+    "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
     "street": "200-BLK S DAVIS AVE",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "South Davis Avenue",
-    "location_township": "Precinct 3",
+    "location_township": "DPR",
     "lat": 37.5494989,
     "lng": -77.4737347
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 15:59",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1600-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4984487,
-    "lng": -77.4474666
   },
   {
     "type_general": "RFD",
@@ -349,32 +297,6 @@
     "location_township": "FIRE",
     "lat": 37.5390233,
     "lng": -77.4476628
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 15:59",
-    "box_no": "Precinct 3",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "1700-BLK DAKOTA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dakota Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5358909,
-    "lng": -77.4676175
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 16:02",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
   },
   {
     "type_general": "RPD",
@@ -392,14 +314,66 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 15:59",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1600-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4984487,
+    "lng": -77.4474666
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 15:59",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "SPRING ST/S BELVIDERE ST RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Spring Street",
     "location_township": "Precinct 4",
     "lat": 37.5390233,
     "lng": -77.4476628
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 16:02",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 16:02",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 14:45",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1700-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "School Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5590895,
+    "lng": -77.443309
   }
 ]
