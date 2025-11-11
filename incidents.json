@@ -67,19 +67,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 08:49",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1400-BLK NEWELL RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Newell Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5219139,
-    "lng": -77.5071218
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 08:49",
     "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
     "street": "HULL STREET RD/HEY RD RICH",
@@ -143,6 +130,19 @@
     "lng": -77.4500564
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 09:26",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1200-BLK BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5819039,
+    "lng": -77.4509633
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/11/2025 07:23",
     "box_no": "FIRE",
@@ -156,16 +156,29 @@
     "lng": -77.438422
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 09:12",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "3800-BLK GRANDEL DR",
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 09:32",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK COWARDIN AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5204201,
+    "lng": -77.4500564
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 09:32",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK COWARDIN AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Grandel Drive",
-    "location_township": "FIRE",
-    "lat": 37.4781541,
-    "lng": -77.465117
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5204201,
+    "lng": -77.4500564
   }
 ]
