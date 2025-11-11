@@ -131,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/11/2025 01:32",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "3200-BLK 1ST AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "1st Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5733114,
+    "lng": -77.4173729
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/11/2025 02:14",
     "box_no": "Precinct 1",
     "type_specific": "",
@@ -143,29 +156,42 @@
     "lng": -77.4386556
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 02:20",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "HANOVER AVE/N ROWLAND ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5587725,
-    "lng": -77.4813626
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 02:26",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "500-BLK E BROAD ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Broad Street",
     "location_township": "Precinct 4",
     "lat": 37.5431916,
     "lng": -77.4365125
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 02:35",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "4100-BLK CASTLEWOOD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Castlewood Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4700931,
+    "lng": -77.4457163
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 02:35",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SPRINKLER/WATERFLOW",
+    "street": "4100-BLK CASTLEWOOD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Castlewood Road",
+    "location_township": "FIRE",
+    "lat": 37.4700931,
+    "lng": -77.4457163
   }
 ]
