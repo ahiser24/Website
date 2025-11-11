@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 08:34",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3200-BLK SUNSET AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sunset Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.543058,
-    "lng": -77.4880128
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 08:41",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -128,6 +115,19 @@
     "location_township": "Precinct 2",
     "lat": 37.5063621,
     "lng": -77.4750457
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 08:49",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "HULL STREET RD/HEY RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.49303,
+    "lng": -77.487645
   },
   {
     "type_general": "RFD",
@@ -157,15 +157,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 08:49",
-    "box_no": "Precinct 2",
+    "dispatch_time": "11/11/2025 08:55",
+    "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "HULL STREET RD/HEY RD RICH",
-    "status": "Enroute",
+    "street": "UNNAMED RD RICH:EST LL(-77.4528,37.5248)",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.49303,
-    "lng": -77.487645
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 08:55",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "UNNAMED RD RICH:EST LL(-77.4528,37.5248)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   }
 ]
