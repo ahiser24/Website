@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 16:39",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N BELMONT AVE/MONUMENT AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Belmont Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5637523,
-    "lng": -77.4741154
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 16:56",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -222,32 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 17:23",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1600-BLK W MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.547576,
-    "lng": -77.461027
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 17:23",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1600-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.547576,
-    "lng": -77.461027
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 17:16",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -258,19 +219,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5397748,
     "lng": -77.4364173
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 17:05",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "2200-BLK INGRAM AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ingram Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5060193,
-    "lng": -77.4421819
   },
   {
     "type_general": "RPD",
@@ -336,5 +284,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5630621,
     "lng": -77.4702604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 17:35",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N 32ND ST/E BROAD ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 32nd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.533338,
+    "lng": -77.4071263
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 17:35",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N 32ND ST/E BROAD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 32nd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.533338,
+    "lng": -77.4071263
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 17:38",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , DPR Call - Advice Only",
+    "street": "1600-BLK N 23RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 23rd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.544191,
+    "lng": -77.409823
   }
 ]
