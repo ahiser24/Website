@@ -118,28 +118,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 03:07",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "5800-BLK WESTOWER DR",
+    "dispatch_time": "11/11/2025 03:33",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "00-BLK W BROAD ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westower Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5238336,
-    "lng": -77.5039485
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 03:17",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "700-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 1",
-    "lat": 37.4835974,
-    "lng": -77.444674
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5667607,
+    "lng": -77.475537
   }
 ]
