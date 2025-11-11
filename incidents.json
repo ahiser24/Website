@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 14:54",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1100-BLK W LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5539958,
-    "lng": -77.4477219
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 15:18",
     "box_no": "Precinct 4",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -180,19 +167,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5602774,
     "lng": -77.450569
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 15:09",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "200-BLK W CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Prentis Street",
-    "location_township": "DPR",
-    "lat": 37.548744,
-    "lng": -77.442459
   },
   {
     "type_general": "RPD",
@@ -211,7 +185,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 15:40",
     "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "PARKWOOD AVE/TEMPLE ST RICH",
     "status": "Arrived",
     "cross_street": "",
@@ -219,19 +193,6 @@
     "location_township": "Precinct 3",
     "lat": 37.551703,
     "lng": -77.4792407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 15:33",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E 30TH ST/MIDLOTHIAN TPKE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 30th Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5089896,
-    "lng": -77.4601356
   },
   {
     "type_general": "RPD",
@@ -258,19 +219,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5590895,
     "lng": -77.443309
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 15:30",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "HUGUENOT/CHIPPENHAM PKWY RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Uppingham Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5540359,
-    "lng": -77.5844328
   },
   {
     "type_general": "RFD",
@@ -339,6 +287,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/11/2025 15:40",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "400-BLK BAINBRIDGE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 1",
+    "lat": 37.525709,
+    "lng": -77.438619
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/11/2025 15:26",
     "box_no": "Precinct 2",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -349,5 +310,70 @@
     "location_township": "Precinct 2",
     "lat": 37.4783623,
     "lng": -77.4353333
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 15:39",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "E 32ND ST/MCRAND ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 32nd Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5065641,
+    "lng": -77.4644767
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 15:46",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1300-BLK N BELVIDERE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 15:46",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1300-BLK N BELVIDERE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 15:30",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "HUGUENOT/CHIPPENHAM PKWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Uppingham Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5540359,
+    "lng": -77.5844328
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 15:33",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E 30TH ST/MIDLOTHIAN TPKE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 30th Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5089896,
+    "lng": -77.4601356
   }
 ]
