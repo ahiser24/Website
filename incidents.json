@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 09:55",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WOODCLIFF AVE/HIGHLAND VIEW AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Woodcliff Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5688385,
-    "lng": -77.4204148
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/10/2025 11:59",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -92,11 +79,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/11/2025 08:29",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3600-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5803545,
+    "lng": -77.4337353
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/11/2025 08:34",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "3200-BLK SUNSET AVE",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Sunset Avenue",
     "location_township": "Precinct 3",
@@ -105,16 +105,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 08:34",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3200-BLK SUNSET AVE",
-    "status": "Dispatched",
+    "dispatch_time": "11/11/2025 08:41",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2400-BLK V ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Sunset Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.543058,
-    "lng": -77.4880128
+    "nearest_intersection": "North 24th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54348,
+    "lng": -77.408736
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 08:41",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "3800-BLK PEYTON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Peyton Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5063621,
+    "lng": -77.4750457
   },
   {
     "type_general": "RFD",
@@ -141,5 +154,18 @@
     "location_township": "FIRE",
     "lat": 37.587353,
     "lng": -77.451924
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 08:49",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "HULL STREET RD/HEY RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.49303,
+    "lng": -77.487645
   }
 ]
