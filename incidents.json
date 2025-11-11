@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "2200-BLK CHALFONT DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chalfont Drive, Southside",
     "location_township": "Precinct 2",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 13:55",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "1300-BLK OVERLOOK ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Overlook Street",
-    "location_township": "Precinct 2",
-    "lat": 37.503041,
-    "lng": -77.44145
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 13:56",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -180,19 +167,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5565875,
     "lng": -77.4412236
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 14:15",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2600-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5131919,
-    "lng": -77.4558898
   },
   {
     "type_general": "RPD",
@@ -352,28 +326,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 14:45",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1700-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "School Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5590895,
-    "lng": -77.443309
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 14:54",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "1100-BLK W LEIGH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Leigh Street",
     "location_township": "Precinct 4",
     "lat": 37.5539958,
     "lng": -77.4477219
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 15:04",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "600-BLK W SOUTHSIDE PLZ",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Southside Plaza, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5012106,
+    "lng": -77.4784074
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 14:45",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1700-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "School Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5590895,
+    "lng": -77.443309
   }
 ]
