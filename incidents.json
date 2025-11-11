@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 09:04",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "700-BLK EVERETT ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Everett Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5202989,
-    "lng": -77.4378027
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 11:12",
     "box_no": "Precinct 3",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 11:46",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "500-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5468144,
-    "lng": -77.447785
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 11:47",
     "box_no": "Precinct 2",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -130,17 +104,17 @@
     "lng": -77.442993
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 07:23",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 11:53",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "2300-BLK ROSETTA ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "nearest_intersection": "Rosetta Street",
+    "location_township": "Precinct 1",
+    "lat": 37.548743,
+    "lng": -77.406126
   },
   {
     "type_general": "RPD",
@@ -154,6 +128,19 @@
     "location_township": "Precinct 3",
     "lat": 37.56625,
     "lng": -77.480429
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 07:23",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -183,45 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 12:33",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 13:13",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N BELVIDERE ST RICH:EST LL(-77.4428,37.5536)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 13:13",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N BELVIDERE ST RICH:EST LL(-77.4428,37.5536)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 13:06",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
@@ -232,19 +180,6 @@
     "location_township": "Precinct 1",
     "lat": 37.519278,
     "lng": -77.4423862
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 13:10",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "200-BLK E CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5462743,
-    "lng": -77.4382147
   },
   {
     "type_general": "RPD",
@@ -261,32 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 11:53",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
-    "street": "2300-BLK ROSETTA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rosetta Street",
-    "location_township": "Precinct 1",
-    "lat": 37.548743,
-    "lng": -77.406126
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 13:06",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "1400-BLK BROWNLEAF DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Brownleaf Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.520165,
-    "lng": -77.5191
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 12:53",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -297,5 +206,83 @@
     "location_township": "Precinct 2",
     "lat": 37.5000553,
     "lng": -77.4609708
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:07",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "N 21ST ST/VENABLE ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5460125,
+    "lng": -77.4108059
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:24",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "IDLEWOOD AVE/S GRANBY ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.541964,
+    "lng": -77.4565646
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:28",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1300-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.520299,
+    "lng": -77.444944
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:14",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "N 3RD ST/E CLAY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 3rd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5480773,
+    "lng": -77.4352319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:16",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W CLAY ST/ROSENEATH RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5529593,
+    "lng": -77.449671
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:32",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "4800-BLK RADFORD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Radford Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.579456,
+    "lng": -77.492934
   }
 ]
