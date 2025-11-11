@@ -44,7 +44,7 @@
     "box_no": "Precinct 2",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
     "street": "200-BLK W ROANOKE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Roanoke Street",
     "location_township": "Precinct 2",
@@ -154,5 +154,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5414918,
     "lng": -77.4030854
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 04:36",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "600-BLK BAINBRIDGE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "FIRE",
+    "lat": 37.5246596,
+    "lng": -77.440166
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 04:40",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "2200-BLK W CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.549102,
+    "lng": -77.469045
   }
 ]
