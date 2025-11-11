@@ -148,11 +148,24 @@
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "3400-BLK CASTLEWOOD RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Castlewood Road",
     "location_township": "Precinct 2",
     "lat": 37.47711,
     "lng": -77.445065
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 05:52",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "2400-BLK BURTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Pink Street",
+    "location_township": "FIRE",
+    "lat": 37.537979,
+    "lng": -77.414427
   }
 ]
