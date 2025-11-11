@@ -83,25 +83,12 @@
     "box_no": "Precinct 1",
     "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
     "street": "800-BLK N 38TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 38th Street",
     "location_township": "Precinct 1",
     "lat": 37.5290538,
     "lng": -77.402976
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 02:14",
-    "box_no": "Precinct 1",
-    "type_specific": "",
-    "street": "700-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5214521,
-    "lng": -77.4386556
   },
   {
     "type_general": "RPD",
@@ -118,22 +105,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 02:35",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "4100-BLK CASTLEWOOD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Castlewood Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4700931,
-    "lng": -77.4457163
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 02:48",
     "box_no": "Precinct 3",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "6300-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
@@ -141,58 +115,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5046527,
     "lng": -77.5119423
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 02:58",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 02:58",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 03:04",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "RICH: @POWHITE PKWY SB BETWEEN FOREST HILL & CHIPPENHAM SB",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Powhite Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5411754,
-    "lng": -77.4932097
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 03:04",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "RICH: @POWHITE PKWY SB BETWEEN FOREST HILL & CHIPPENHAM SB",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Powhite Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5411754,
-    "lng": -77.4932097
   },
   {
     "type_general": "RPD",
@@ -208,16 +130,16 @@
     "lng": -77.5039485
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 03:01",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "100-BLK E 34TH ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 03:17",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "700-BLK RICHMOND HWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 34th Street",
-    "location_township": "FIRE",
-    "lat": 37.50966,
-    "lng": -77.4699103
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 1",
+    "lat": 37.4835974,
+    "lng": -77.444674
   }
 ]
