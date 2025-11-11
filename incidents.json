@@ -105,11 +105,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/11/2025 03:04",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "RICH: @POWHITE PKWY SB BETWEEN FOREST HILL & CHIPPENHAM SB",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5411754,
+    "lng": -77.4932097
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/11/2025 03:35",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "200-BLK E 36TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East 36th Street, Southside",
     "location_township": "Precinct 2",
@@ -118,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 03:43",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "E 3RD ST/DECATUR ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East 3rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5238252,
-    "lng": -77.4352392
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 03:43",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "E 3RD ST/DECATUR ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 3rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5238252,
-    "lng": -77.4352392
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 04:30",
     "box_no": "Precinct 4",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -167,19 +154,6 @@
     "location_township": "Precinct 4",
     "lat": 37.535573,
     "lng": -77.449424
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 04:36",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "600-BLK BAINBRIDGE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bainbridge Street",
-    "location_township": "FIRE",
-    "lat": 37.5246596,
-    "lng": -77.440166
   },
   {
     "type_general": "RPD",
@@ -187,11 +161,24 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "NINE MILE RD/GORDONS LN HENR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Nine Mile Road",
     "location_township": "Precinct 1",
     "lat": 37.5414918,
     "lng": -77.4030854
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 04:56",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1600-BLK RHOADMILLER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Rhoadmiller Street",
+    "location_township": "Precinct 4",
+    "lat": 37.567427,
+    "lng": -77.4577366
   }
 ]
