@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 01:15",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "MECHANICSVILLE TPKE/FAIRFIELD AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5559863,
-    "lng": -77.4101543
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 01:32",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -187,7 +174,7 @@
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , SPRINKLER/WATERFLOW",
     "street": "4100-BLK CASTLEWOOD RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Castlewood Road",
     "location_township": "FIRE",
