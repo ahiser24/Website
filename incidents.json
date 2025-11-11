@@ -115,5 +115,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5238252,
     "lng": -77.4352392
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 04:30",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "700-BLK OREGON HILL PKWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Robert E. Lee Memorial Bridge",
+    "location_township": "Precinct 4",
+    "lat": 37.535573,
+    "lng": -77.449424
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 04:30",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "700-BLK OREGON HILL PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Robert E. Lee Memorial Bridge",
+    "location_township": "Precinct 4",
+    "lat": 37.535573,
+    "lng": -77.449424
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 04:31",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "NINE MILE RD/GORDONS LN HENR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5414918,
+    "lng": -77.4030854
   }
 ]
