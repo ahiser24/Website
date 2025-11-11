@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 23:04",
-    "box_no": "Precinct 2",
-    "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
-    "street": "3100-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5117693,
-    "lng": -77.4649524
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 07:25",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -92,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 07:38",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WESTWOOD AVE/N ARTHUR ASHE BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westwood Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5782609,
-    "lng": -77.4685841
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 08:02",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
@@ -118,16 +92,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 08:19",
+    "dispatch_time": "11/11/2025 08:34",
     "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "1400-BLK KEMPER ST",
-    "status": "Enroute",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3200-BLK SUNSET AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Bethany Drive",
+    "nearest_intersection": "Sunset Avenue",
     "location_township": "Precinct 3",
-    "lat": 37.54149,
-    "lng": -77.46135
+    "lat": 37.543058,
+    "lng": -77.4880128
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 08:34",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3200-BLK SUNSET AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Sunset Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.543058,
+    "lng": -77.4880128
   },
   {
     "type_general": "RFD",
