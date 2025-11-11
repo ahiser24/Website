@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "2200-BLK CHALFONT DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chalfont Drive, Southside",
     "location_township": "Precinct 2",
@@ -18,7 +18,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "00-BLK W CLOPTON ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Clopton Street",
     "location_township": "Precinct 2",
@@ -37,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": 37.540296,
     "lng": -77.432735
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 23:50",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "700-BLK BLANDY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Glenway Court",
-    "location_township": "Precinct 3",
-    "lat": 37.516444,
-    "lng": -77.508298
   },
   {
     "type_general": "RPD",
