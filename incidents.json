@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 12:13",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "6400-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5204082,
-    "lng": -77.5140908
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 13:06",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
@@ -248,6 +235,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:55",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1300-BLK OVERLOOK ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Overlook Street",
+    "location_township": "Precinct 2",
+    "lat": 37.503041,
+    "lng": -77.44145
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/11/2025 13:40",
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
@@ -265,7 +265,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "400-BLK N 3RD ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -278,11 +278,24 @@
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "700-BLK RICHMOND HWY",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 1",
     "lat": 37.4835974,
     "lng": -77.444674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 14:04",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "2300-BLK SELDEN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Selden Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549784,
+    "lng": -77.4058634
   }
 ]
