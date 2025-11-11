@@ -66,45 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 06:31",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "6700-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030478,
-    "lng": -77.5189608
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 06:47",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1100-BLK WALLACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Dobson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.541009,
-    "lng": -77.456769
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 06:47",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1100-BLK WALLACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Dobson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.541009,
-    "lng": -77.456769
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 06:48",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -130,29 +91,16 @@
     "lng": -77.4785319
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 06:47",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1100-BLK WALLACE ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 06:52",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "5000-BLK FOREST HILL AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Dobson Street",
-    "location_township": "FIRE",
-    "lat": 37.541009,
-    "lng": -77.456769
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 06:47",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1100-BLK WALLACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Dobson Street",
-    "location_township": "FIRE",
-    "lat": 37.541009,
-    "lng": -77.456769
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5337669,
+    "lng": -77.5401206
   }
 ]
