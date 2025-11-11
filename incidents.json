@@ -31,7 +31,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1000-BLK E BROAD ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 2",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5460125,
     "lng": -77.4108059
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 12:04",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "1300-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5362219,
-    "lng": -77.4321747
   },
   {
     "type_general": "RPD",
@@ -130,19 +117,6 @@
     "lng": -77.443309
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 07:23",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 15:18",
     "box_no": "Precinct 4",
@@ -156,17 +130,17 @@
     "lng": -77.450569
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 15:33",
-    "box_no": "Precinct 3",
-    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "00-BLK S STAFFORD AVE",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 07:23",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Stafford Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5496456,
-    "lng": -77.47153
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -232,19 +206,6 @@
     "location_township": "Precinct 1",
     "lat": 37.536673,
     "lng": -77.41554
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 15:50",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "200-BLK S DAVIS AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Davis Avenue",
-    "location_township": "DPR",
-    "lat": 37.5494989,
-    "lng": -77.4737347
   },
   {
     "type_general": "RFD",
@@ -339,11 +300,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/11/2025 16:27",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1500-BLK COLUMBIA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Columbia Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5003628,
+    "lng": -77.4449302
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/11/2025 15:33",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W 30TH ST/MIDLOTHIAN TPKE RICH",
-    "status": "Enroute",
+    "street": "00-BLK W 30TH ST",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West 30th Street",
     "location_township": "Precinct 2",
@@ -356,11 +330,24 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "SPRING ST/S BELVIDERE ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Spring Street",
     "location_township": "Precinct 4",
     "lat": 37.5390233,
     "lng": -77.4476628
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 16:16",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2500-BLK W CARY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Davis Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.550422,
+    "lng": -77.472741
   }
 ]
