@@ -183,32 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 13:45",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "500-BLK HARROW RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Harrow Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5102388,
-    "lng": -77.5189618
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 13:40",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "300-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53124,
-    "lng": -77.417883
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 13:14",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -247,19 +221,6 @@
     "lng": -77.4683408
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 14:10",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "600-BLK HENRICO BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Henrico Boulevard, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5833164,
-    "lng": -77.4397948
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 14:06",
     "box_no": "Precinct 3",
@@ -287,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 14:15",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2600-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5131919,
-    "lng": -77.4558898
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 14:04",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -310,5 +258,57 @@
     "location_township": "Precinct 1",
     "lat": 37.549784,
     "lng": -77.4058634
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:56",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "600-BLK W BACON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5565875,
+    "lng": -77.4412236
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:52",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2500-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5290346,
+    "lng": -77.4208043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 14:15",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "2600-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5131919,
+    "lng": -77.4558898
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 13:51",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "500-BLK N 35TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Clay Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.528001,
+    "lng": -77.408085
   }
 ]
