@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 07:26",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "N 7TH ST/E JACKSON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 7th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5423231,
-    "lng": -77.4352249
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 08:41",
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
@@ -130,6 +117,19 @@
     "lng": -77.414128
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 10:18",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1600-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 16th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.516894,
+    "lng": -77.445922
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/11/2025 07:23",
     "box_no": "FIRE",
@@ -141,58 +141,6 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 10:27",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "1600-BLK MINEFEE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Minefee Street",
-    "location_township": "Precinct 2",
-    "lat": 37.4985789,
-    "lng": -77.4377129
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 10:40",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S BELVIDERE ST RICH:EST LL(-77.4515,37.5280)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 10:40",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S BELVIDERE ST RICH:EST LL(-77.4515,37.5280)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 10:39",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "5200-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "FIRE",
-    "lat": 37.492722,
-    "lng": -77.4891674
   },
   {
     "type_general": "RPD",
@@ -222,32 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 10:44",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "DOWNTOWN EXPY RICH:EST LL(-77.4775,37.5489)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 10:44",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "DOWNTOWN EXPY RICH:EST LL(-77.4775,37.5489)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 10:37",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -258,32 +180,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5482872,
     "lng": -77.4226215
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 10:18",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1600-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 16th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.516894,
-    "lng": -77.445922
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 10:21",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "5300-BLK SALEM ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Salem Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5112953,
-    "lng": -77.3962734
   },
   {
     "type_general": "RPD",
@@ -310,5 +206,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5465473,
     "lng": -77.4123402
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 10:53",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "0-BLK S 17TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 17th Street",
+    "location_township": "FIRE",
+    "lat": 37.5328535,
+    "lng": -77.4290888
   }
 ]
