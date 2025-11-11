@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 00:55",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "CAROLINA AVE/BYRON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carolina Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5763826,
-    "lng": -77.4176441
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 02:49",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 04:31",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "NINE MILE RD/GORDONS LN HENR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5414918,
-    "lng": -77.4030854
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 05:19",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
@@ -131,41 +105,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 05:41",
+    "dispatch_time": "11/11/2025 06:00",
     "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "EVERGLADES DR/ARCADIA ST RICH",
-    "status": "Enroute",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "I-195 RICH:EST LL(-77.4816,37.5664)",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Everglades Drive",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5040322,
-    "lng": -77.5163409
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 05:47",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3400-BLK CASTLEWOOD RD",
+    "dispatch_time": "11/11/2025 06:00",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "I-195 RICH:EST LL(-77.4816,37.5664)",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Castlewood Road",
-    "location_township": "Precinct 2",
-    "lat": 37.47711,
-    "lng": -77.445065
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 05:52",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "2400-BLK BURTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Pink Street",
-    "location_township": "FIRE",
-    "lat": 37.537979,
-    "lng": -77.414427
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
   }
 ]
