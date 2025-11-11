@@ -18,7 +18,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "00-BLK W CLOPTON ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Clopton Street",
     "location_township": "Precinct 2",
@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "3200-BLK 1ST AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "1st Avenue",
     "location_township": "Precinct 4",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 2",
     "lat": 37.540296,
     "lng": -77.432735
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 22:00",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "500-BLK E CANAL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.538635,
-    "lng": -77.441345
   },
   {
     "type_general": "RPD",
@@ -122,7 +109,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "700-BLK BLANDY AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Glenway Court",
     "location_township": "Precinct 3",
@@ -144,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/10/2025 23:59",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/10/2025 23:59",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 00:01",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -182,19 +143,6 @@
     "lng": -77.4077563
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/10/2025 23:58",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5514093,
-    "lng": -77.4534673
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 00:04",
     "box_no": "Precinct 4",
@@ -219,5 +167,57 @@
     "location_township": "Precinct 4",
     "lat": 37.546364,
     "lng": -77.442794
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 00:15",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N LAUREL ST/W FRANKLIN ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 00:15",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N LAUREL ST/W FRANKLIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 00:06",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2600-BLK HOUSTON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Houston Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5661336,
+    "lng": -77.425366
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 00:09",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "700-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5393687,
+    "lng": -77.4376041
   }
 ]
