@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 10:54",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "OLIVER HILL WAY/E MARSHALL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Oliver Hill Way",
-    "location_township": "Precinct 1",
-    "lat": 37.5501278,
-    "lng": -77.4239328
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 11:06",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 3",
     "lat": 37.559244,
     "lng": -77.482321
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 07:23",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -154,6 +128,19 @@
     "location_township": "Precinct 3",
     "lat": 37.553104,
     "lng": -77.472742
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 07:23",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -180,19 +167,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5460125,
     "lng": -77.4108059
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 11:43",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "3600-BLK NORTH AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5803545,
-    "lng": -77.4337353
   },
   {
     "type_general": "RFD",
@@ -265,11 +239,76 @@
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "500-BLK W FRANKLIN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Franklin Street",
     "location_township": "Precinct 4",
     "lat": 37.5468144,
     "lng": -77.447785
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 12:03",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1100-BLK JUNIPER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Juniper Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5626085,
+    "lng": -77.4222452
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 11:53",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "2300-BLK ROSETTA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rosetta Street",
+    "location_township": "Precinct 1",
+    "lat": 37.548743,
+    "lng": -77.406126
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 11:43",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "3600-BLK NORTH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5803545,
+    "lng": -77.4337353
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/11/2025 12:04",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
+    "street": "1300-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "FIRE",
+    "lat": 37.5362219,
+    "lng": -77.4321747
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 12:04",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "1300-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5362219,
+    "lng": -77.4321747
   }
 ]
