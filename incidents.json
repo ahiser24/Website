@@ -141,18 +141,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4927875,
     "lng": -77.4716127
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 03:37",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1700-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4927875,
-    "lng": -77.4716127
   }
 ]
