@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 20:59",
-    "box_no": "Precinct 4",
-    "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
-    "street": "3200-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5757133,
-    "lng": -77.4633313
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 21:57",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -131,15 +118,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 04:20",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1000-BLK W GRACE ST",
+    "dispatch_time": "11/12/2025 04:27",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "00-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5514093,
-    "lng": -77.4534673
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5667607,
+    "lng": -77.475537
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 04:36",
+    "box_no": "Precinct 2",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "5400-BLK HULL STREET RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4899001,
+    "lng": -77.4939365
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/12/2025 04:28",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "3000-BLK SEMINARY AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Seminary Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5726794,
+    "lng": -77.4476087
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/12/2025 04:36",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "5400-BLK HULL STREET RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "FIRE",
+    "lat": 37.4899001,
+    "lng": -77.4939365
   }
 ]
