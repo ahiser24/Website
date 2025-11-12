@@ -209,15 +209,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 01:59",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3200-BLK W BROAD ST",
-    "status": "Enroute",
+    "dispatch_time": "11/12/2025 02:05",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "4300-BLK AMBERLY RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5666169,
-    "lng": -77.4750226
+    "nearest_intersection": "Amberly Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4668073,
+    "lng": -77.4753977
   }
 ]
