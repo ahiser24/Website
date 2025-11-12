@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 04:36",
-    "box_no": "Precinct 2",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "5400-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4899001,
-    "lng": -77.4939365
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 05:44",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -161,11 +148,24 @@
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "2100-BLK N HAMILTON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Hamilton Street",
     "location_township": "Precinct 4",
     "lat": 37.5751385,
     "lng": -77.4750168
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 06:02",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2200-BLK NATIONAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "National Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5183424,
+    "lng": -77.3888558
   }
 ]
