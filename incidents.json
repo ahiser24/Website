@@ -42,7 +42,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 21:57",
     "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FAIRFIELD WAY",
     "status": "Arrived",
     "cross_street": "",
@@ -115,5 +115,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4899001,
     "lng": -77.4939365
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 05:44",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3100-BLK 4TH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5696681,
+    "lng": -77.4145437
   }
 ]
