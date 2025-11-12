@@ -174,7 +174,7 @@
     "box_no": "Precinct 3",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
     "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
@@ -193,32 +193,6 @@
     "location_township": "Precinct 2",
     "lat": 37.492271,
     "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 02:35",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2100-BLK SLEDD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5626331,
-    "lng": -77.4437478
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 02:35",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2100-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5626331,
-    "lng": -77.4437478
   },
   {
     "type_general": "RPD",
