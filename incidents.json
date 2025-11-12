@@ -117,16 +117,16 @@
     "lng": -77.4939365
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 04:36",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "5400-BLK HULL STREET RD",
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 05:06",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2500-BLK W MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "FIRE",
-    "lat": 37.4899001,
-    "lng": -77.4939365
+    "nearest_intersection": "North Davis Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.551534,
+    "lng": -77.472118
   }
 ]
