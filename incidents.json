@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 08:42",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "HULL ST/COWARDIN AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5267406,
-    "lng": -77.4350441
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 09:43",
     "box_no": "Precinct 4",
     "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
@@ -79,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 10:01",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W LABURNUM AVE/NORTH AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Laburnum Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5840069,
-    "lng": -77.4708596
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 10:30",
     "box_no": "Precinct 4",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -115,6 +89,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5730388,
     "lng": -77.5167053
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 10:46",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "0-BLK N 2ND ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5464301,
+    "lng": -77.4383891
   },
   {
     "type_general": "RPD",
@@ -148,7 +135,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -183,32 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 11:27",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.57024,
-    "lng": -77.420545
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 09:56",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 11:30",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -226,12 +187,25 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairfield Way",
     "location_township": "Precinct 1",
     "lat": 37.5482872,
     "lng": -77.4226215
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/12/2025 09:56",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -261,15 +235,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/12/2025 11:50",
+    "dispatch_time": "11/12/2025 11:56",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
+    "street": "5500-BLK RIVERSIDE DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
+    "nearest_intersection": "Riverside Drive",
     "location_township": "FIRE",
-    "lat": 37.5602471,
-    "lng": -77.4431479
+    "lat": 37.5304363,
+    "lng": -77.4951447
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 11:38",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "200BLK N 32ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   }
 ]
