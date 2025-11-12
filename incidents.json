@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 00:01",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1700-BLK E MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5370165,
-    "lng": -77.4247541
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 00:37",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -148,7 +135,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
     "street": "2500-BLK ROSETTA ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Rosetta Street",
     "location_township": "Precinct 1",
@@ -206,44 +193,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5035598,
     "lng": -77.5157461
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 01:26",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S SHIELDS AVE/W CARY ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Shields Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5491486,
-    "lng": -77.4688539
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 01:38",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2600-BLK WALMSLEY BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.460887,
-    "lng": -77.442719
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 01:38",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2600-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.460887,
-    "lng": -77.442719
   }
 ]
