@@ -18,7 +18,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "00-BLK W CLOPTON ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Clopton Street",
     "location_township": "Precinct 2",
@@ -31,7 +31,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1000-BLK E BROAD ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 2",
@@ -135,25 +135,12 @@
     "box_no": "Precinct 3",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
     "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
     "lat": 37.5035598,
     "lng": -77.5157461
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 02:26",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3800-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
   },
   {
     "type_general": "RPD",
@@ -167,31 +154,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5304882,
     "lng": -77.4030137
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 03:08",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N ALLEN AVE/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Allen Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5505316,
-    "lng": -77.4621462
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 03:09",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N ALLEN AVE/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Allen Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5505316,
-    "lng": -77.4621462
   }
 ]
