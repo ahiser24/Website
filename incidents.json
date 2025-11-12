@@ -31,25 +31,12 @@
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "2400-BLK LANCELOT AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Lancelot Avenue",
     "location_township": "Precinct 2",
     "lat": 37.465988,
     "lng": -77.439655
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 13:46",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1300-BLK WILLIS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Willis Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5031278,
-    "lng": -77.4403091
   },
   {
     "type_general": "RPD",
@@ -141,6 +128,19 @@
     "location_township": "Precinct 1",
     "lat": 37.545519,
     "lng": -77.398135
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 15:46",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "1400-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "DPR",
+    "lat": 37.521479,
+    "lng": -77.4884595
   },
   {
     "type_general": "RPD",
@@ -248,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 17:48",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 18:08",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
@@ -274,19 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 18:20",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK HALIFAX AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Halifax Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5056499,
-    "lng": -77.4444906
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 18:24",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -297,19 +271,6 @@
     "location_township": "Precinct 3",
     "lat": 37.537934,
     "lng": -77.524228
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 18:12",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "900-BLK SLEDD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -339,19 +300,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/12/2025 18:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "3200-BLK TUXEDO BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tuxedo Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5413858,
-    "lng": -77.3944095
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/12/2025 18:31",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
@@ -364,17 +312,30 @@
     "lng": -77.4218522
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 18:26",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , ELECTRICAL FIRE",
-    "street": "9000-BLK STONY POINT PKWY",
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 18:37",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 18:37",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "600-BLK WESTOVER HILLS BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
-    "location_township": "FIRE",
-    "lat": 37.5529921,
-    "lng": -77.5653742
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5140128,
+    "lng": -77.4895724
   },
   {
     "type_general": "RPD",
@@ -391,6 +352,45 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/12/2025 18:39",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "NEWPORT DR/W LABURNUM AVE RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Newport Drive",
+    "location_township": "Precinct 4",
+    "lat": 37.5947472,
+    "lng": -77.4581244
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 18:39",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "NEWPORT DR/W LABURNUM AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Newport Drive",
+    "location_township": "Precinct 4",
+    "lat": 37.5947472,
+    "lng": -77.4581244
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 18:12",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "900-BLK SLEDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/12/2025 18:30",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -401,5 +401,70 @@
     "location_township": "Precinct 3",
     "lat": 37.553291,
     "lng": -77.477067
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 18:42",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W CHARITY ST/ST PAUL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5524286,
+    "lng": -77.4397449
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 18:41",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "900-BLK MYERS ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Myers Street",
+    "location_township": "Precinct 4",
+    "lat": 37.56341,
+    "lng": -77.469527
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/12/2025 18:26",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , ELECTRICAL FIRE",
+    "street": "9000-BLK STONY POINT PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stony Point Parkway",
+    "location_township": "FIRE",
+    "lat": 37.5529921,
+    "lng": -77.5653742
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/12/2025 18:42",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "W CHARITY ST/ST PAUL ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "FIRE",
+    "lat": 37.5524286,
+    "lng": -77.4397449
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 18:20",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2300-BLK HALIFAX AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Halifax Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5056499,
+    "lng": -77.4444906
   }
 ]
