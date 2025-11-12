@@ -209,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 14:57",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HULL STREET RD/WARWICK RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.49303,
-    "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 15:46",
     "box_no": "Precinct 1",
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
@@ -300,19 +287,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 15:36",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , PACKAGE",
-    "street": "1700-BLK N 23RD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5451719,
-    "lng": -77.4091151
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 15:44",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -362,32 +336,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5119111,
     "lng": -77.4455112
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 16:08",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1700-BLK E MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5335013,
-    "lng": -77.4282824
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 16:08",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5335013,
-    "lng": -77.4282824
   },
   {
     "type_general": "RPD",
@@ -507,32 +455,6 @@
     "lng": -77.456814
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 16:26",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALLERGIC REACTION",
-    "street": "1700-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "FIRE",
-    "lat": 37.546901,
-    "lng": -77.462883
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 16:02",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "3900-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5722247,
-    "lng": -77.4796483
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/12/2025 15:33",
     "box_no": "Precinct 2",
@@ -544,5 +466,83 @@
     "location_township": "Precinct 2",
     "lat": 37.5012106,
     "lng": -77.4784074
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 16:33",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "4900-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5997402,
+    "lng": -77.4502625
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 16:33",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "4900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5997402,
+    "lng": -77.4502625
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 16:31",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "5700-BLK THORNDALE LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Thorndale Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5206297,
+    "lng": -77.5012375
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 15:48",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2100-BLK RIVERSIDE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5241719,
+    "lng": -77.4561381
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 16:35",
+    "box_no": "Precinct 4",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "W LABURNUM AVE/MOSS SIDE AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 15:36",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PACKAGE",
+    "street": "1700-BLK N 23RD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 23rd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5451719,
+    "lng": -77.4091151
   }
 ]
