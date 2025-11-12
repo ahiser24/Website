@@ -252,7 +252,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "Precinct 3",
@@ -260,16 +260,29 @@
     "lng": -77.4895724
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 12:39",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "900-BLK MYERS ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 12:19",
+    "box_no": "Precinct 1",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "GORDONS LN/NINE MILE RD HENR",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Myers Street",
-    "location_township": "FIRE",
-    "lat": 37.56341,
-    "lng": -77.469527
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 12:44",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1300-BLK W LEIGH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "DPR",
+    "lat": 37.5556794,
+    "lng": -77.4510514
   }
 ]
