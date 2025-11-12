@@ -57,7 +57,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CAR JACKING , JUST OCCURRED / IN-PROGESS",
     "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "Precinct 3",
@@ -109,7 +109,7 @@
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "900-BLK BANK ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Bank Street",
     "location_township": "Precinct 4",
@@ -128,18 +128,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5619317,
     "lng": -77.4731515
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 06:24",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "4300-BLK SULGRAVE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sulgrave Road",
-    "location_township": "FIRE",
-    "lat": 37.5540945,
-    "lng": -77.5025882
   }
 ]
