@@ -31,7 +31,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1000-BLK E BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 2",
@@ -96,7 +96,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7700-BLK E PARHAM RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Parham Road, Henrico",
     "location_township": "Precinct 1",
@@ -122,7 +122,7 @@
     "box_no": "Precinct 3",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
     "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
@@ -141,5 +141,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4927875,
     "lng": -77.4716127
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 03:58",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "00-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 1",
+    "lat": 37.4835974,
+    "lng": -77.444674
   }
 ]
