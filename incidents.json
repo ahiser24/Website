@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 04:27",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "00-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 04:36",
     "box_no": "Precinct 2",
     "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
@@ -143,17 +130,17 @@
     "lng": -77.4939365
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 04:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3000-BLK SEMINARY AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 04:42",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "2200-BLK N 25TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Seminary Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5726794,
-    "lng": -77.4476087
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5488075,
+    "lng": -77.4037679
   },
   {
     "type_general": "RFD",
@@ -161,7 +148,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
     "street": "5400-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "FIRE",
