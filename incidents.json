@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "2200-BLK CHALFONT DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chalfont Drive, Southside",
     "location_township": "Precinct 2",
@@ -18,7 +18,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "00-BLK W CLOPTON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Clopton Street",
     "location_township": "Precinct 2",
@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 00:51",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC PURSUIT , OFFICER-INITIATED",
-    "street": "NINE MILE RD/CREIGHTON RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5414918,
-    "lng": -77.4030854
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 01:19",
     "box_no": "Precinct 3",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -102,19 +89,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5035598,
     "lng": -77.5157461
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 05:57",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "900-BLK BANK ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bank Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5386514,
-    "lng": -77.4347888
   },
   {
     "type_general": "RPD",
@@ -154,5 +128,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5501278,
     "lng": -77.4239328
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 07:02",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "300-BLK N 20TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.534543,
+    "lng": -77.423317
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 07:02",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "300-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.534543,
+    "lng": -77.423317
   }
 ]
