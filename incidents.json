@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 18:43",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1700-BLK N 23RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5451719,
-    "lng": -77.4091151
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 20:59",
     "box_no": "Precinct 4",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
@@ -148,7 +135,7 @@
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "00-BLK RICHMOND HWY",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 1",
