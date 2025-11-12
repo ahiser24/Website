@@ -66,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/11/2025 21:57",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 3",
+    "lat": 37.5482872,
+    "lng": -77.4226215
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/11/2025 22:06",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -83,7 +96,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CAR JACKING , JUST OCCURRED / IN-PROGESS",
     "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "Precinct 3",
@@ -105,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 23:39",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "100-BLK S 12TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 12th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5358402,
-    "lng": -77.4354986
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 00:01",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -128,6 +128,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5370165,
     "lng": -77.4247541
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 00:10",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:26:31.4521,37:31:27.3539): EST 125 W COMMERCE RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Commerce Road",
+    "location_township": "Precinct 1",
+    "lng": -77.44207002777779,
+    "lat": 37.52426497222222
   },
   {
     "type_general": "RPD",
@@ -148,25 +161,12 @@
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "2400-BLK BURTON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Pink Street",
     "location_township": "Precinct 1",
     "lat": 37.537979,
     "lng": -77.414427
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 00:41",
-    "box_no": "Precinct 3",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "RIVERSIDE DR/W 21ST ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5279468,
-    "lng": -77.4870276
   },
   {
     "type_general": "RPD",
@@ -193,5 +193,57 @@
     "location_township": "FIRE",
     "lat": 37.4923295,
     "lng": -77.481047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 00:50",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "3600-BLK E BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5258332,
+    "lng": -77.4084995
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 00:50",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "3600-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5258332,
+    "lng": -77.4084995
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 00:51",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC PURSUIT , OFFICER-INITIATED",
+    "street": "NINE MILE RD/CREIGHTON RD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5414918,
+    "lng": -77.4030854
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 00:52",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "100-BLK GRESHAMWOOD PL",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Greshamwood Place",
+    "location_township": "Precinct 3",
+    "lat": 37.5005134,
+    "lng": -77.5228532
   }
 ]
