@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 15:59",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "SPRING ST/S BELVIDERE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Spring Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5390233,
-    "lng": -77.4476628
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 18:20",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -107,9 +94,9 @@
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 20:08",
     "box_no": "Precinct 1",
-    "type_specific": "MAYDAY/Deputy/Officer Down , INVESTIGATE",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "2300-BLK FAIRFIELD AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Fairfield Avenue",
     "location_township": "Precinct 1",
@@ -128,6 +115,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5030935,
     "lng": -77.5178344
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 20:43",
+    "box_no": "Precinct 4",
+    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
+    "street": "1200-BLK ST JOHN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint John Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5535135,
+    "lng": -77.4360289
   },
   {
     "type_general": "RPD",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 20:43",
-    "box_no": "Precinct 4",
-    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
-    "street": "1200-BLK ST JOHN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5535135,
-    "lng": -77.4360289
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/11/2025 22:23",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -184,32 +171,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/11/2025 22:39",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2200-BLK W BROAD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5582531,
-    "lng": -77.4623243
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 22:39",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2200-BLK W BROAD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5582531,
-    "lng": -77.4623243
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/11/2025 22:39",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
     "street": "1400-BLK CHAMBERLAYNE PKWY",
@@ -258,19 +219,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4952595,
     "lng": -77.4785319
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/11/2025 22:40",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "900-BLK PARK AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Park Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5483097,
-    "lng": -77.4532708
   },
   {
     "type_general": "RPD",
@@ -284,5 +232,44 @@
     "location_township": "Precinct 3",
     "lat": 37.558491,
     "lng": -77.4691194
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 22:49",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S ROBINSON ST/W CARY ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Robinson Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5512996,
+    "lng": -77.4735805
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 22:49",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S ROBINSON ST/W CARY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Robinson Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5512996,
+    "lng": -77.4735805
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/11/2025 22:50",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1500-BLK N 21ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5460125,
+    "lng": -77.4108059
   }
 ]
