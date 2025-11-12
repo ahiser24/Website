@@ -44,7 +44,7 @@
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "1700-BLK N 23RD ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 23rd Street",
     "location_township": "Precinct 1",
@@ -183,15 +183,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 02:24",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "4000-BLK MACARTHUR AVE",
-    "status": "Arrived",
+    "dispatch_time": "11/12/2025 02:26",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3800-BLK HULL STREET RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Nottoway Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.588312,
-    "lng": -77.458284
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
   }
 ]
