@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 16:30",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "2400-BLK RUFFIN RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ruffin Road",
-    "location_township": "Precinct 2",
-    "lat": 37.479379,
-    "lng": -77.441637
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 16:41",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -232,6 +219,19 @@
     "location_township": "DPR",
     "lat": 37.5653973,
     "lng": -77.4205135
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 17:08",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "2600-BLK GROVE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5543423,
+    "lng": -77.4720912
   },
   {
     "type_general": "RFD",
@@ -284,32 +284,6 @@
     "location_township": "FIRE",
     "lat": 37.552185,
     "lng": -77.434482
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 17:25",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1500-BLK N 20TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5451789,
-    "lng": -77.4133979
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 17:08",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "2600-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5543423,
-    "lng": -77.4720912
   },
   {
     "type_general": "RPD",
@@ -367,40 +341,27 @@
     "type_general": "RPD",
     "dispatch_time": "11/12/2025 17:48",
     "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "00-BLK E HILL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Hill Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5534628,
+    "lng": -77.4331417
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 17:48",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "00-BLK E HILL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
+    "nearest_intersection": "East Hill Street",
     "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 17:46",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "THREE CHOPT RD/GROVE AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Three Chopt Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5878089,
-    "lng": -77.5319679
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 17:46",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "THREE CHOPT RD/GROVE AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Three Chopt Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5878089,
-    "lng": -77.5319679
+    "lat": 37.5534628,
+    "lng": -77.4331417
   },
   {
     "type_general": "RPD",
@@ -440,5 +401,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5573327,
     "lng": -77.4604978
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 17:48",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 17:55",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1900-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.517178,
+    "lng": -77.449562
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 17:46",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "THREE CHOPT RD/GROVE AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Three Chopt Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5878089,
+    "lng": -77.5319679
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 17:55",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "JAHNKE RD/GERMAN SCHOOL RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5192018,
+    "lng": -77.5169988
   }
 ]
