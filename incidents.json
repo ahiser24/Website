@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 13:36",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "00-BLK S COLONIAL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Colonial Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5528381,
-    "lng": -77.4771652
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 13:46",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -195,19 +182,6 @@
     "lng": -77.4430642
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 09:56",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/12/2025 14:26",
     "box_no": "Precinct 3",
@@ -221,17 +195,17 @@
     "lng": -77.4068808
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 14:37",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "2000-BLK BROOK RD",
-    "status": "Dispatched",
+    "type_general": "RFD",
+    "dispatch_time": "11/12/2025 09:56",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bath Street, Northside",
-    "location_township": "DPR",
-    "lat": 37.5608096,
-    "lng": -77.4479214
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -274,32 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 14:49",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "1700-BLK E FRANKLIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 17th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534302,
-    "lng": -77.427504
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 14:49",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "1700-BLK E FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 17th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534302,
-    "lng": -77.427504
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 14:36",
     "box_no": "Precinct 4",
     "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
@@ -310,19 +258,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5845486,
     "lng": -77.4473886
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 14:50",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "1600-BLK 4TH AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.556334,
-    "lng": -77.425946
   },
   {
     "type_general": "RPD",
@@ -351,19 +286,6 @@
     "lng": -77.444674
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 14:55",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "MIDLOTHIAN TPKE/ARCADIA ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/12/2025 13:46",
     "box_no": "FIRE",
@@ -388,5 +310,83 @@
     "location_township": "Precinct 4",
     "lng": -77.42834455555555,
     "lat": 37.5454575
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 14:57",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "5800-BLK WESTOWER DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "DPR",
+    "lat": 37.5238336,
+    "lng": -77.5039485
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 14:55",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "MIDLOTHIAN TPKE/ARCADIA ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5070429,
+    "lng": -77.4949501
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 15:04",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "2000-BLK E CARY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5309061,
+    "lng": -77.4259638
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 15:04",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "2000-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5309061,
+    "lng": -77.4259638
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 14:58",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "RICH: @EXIT - POWHITE PKWY SB (FOREST HILL AVE)",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 14:57",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "HULL STREET RD/WARWICK RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.49303,
+    "lng": -77.487645
   }
 ]
