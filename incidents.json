@@ -70,25 +70,12 @@
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
     "street": "ACORN LN/THORNDALE LN RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Acorn Lane",
     "location_township": "Precinct 3",
     "lat": 37.5201702,
     "lng": -77.5018103
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 10:30",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "4000-BLK HILL MONUMENT PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hill Monument Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.586621,
-    "lng": -77.4664399
   },
   {
     "type_general": "RPD",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.539453,
     "lng": -77.440891
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 11:24",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "00-BLK W ROANOKE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Roanoke Street",
-    "location_township": "Precinct 3",
-    "lat": 37.51077,
-    "lng": -77.4747743
   },
   {
     "type_general": "RPD",
@@ -170,6 +144,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/12/2025 12:10",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "3400-BLK TRAYLOR DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Traylor Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5418588,
+    "lng": -77.5878403
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/12/2025 12:14",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -183,29 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 12:14",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "HERMITAGE RD/ROBIN HOOD RD RICH",
-    "status": "Arrived",
+    "dispatch_time": "11/12/2025 12:16",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "5300-BLK HULL STREET RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5586945,
-    "lng": -77.4600341
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 09:56",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
   },
   {
     "type_general": "RPD",
@@ -234,30 +208,17 @@
     "lng": -77.413531
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 12:16",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "5300-BLK HULL STREET RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 12:21",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3500-BLK ELLWOOD AVE",
+    "type_general": "RFD",
+    "dispatch_time": "11/12/2025 09:56",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "400-BLK N 3RD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Ellwood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.556473,
-    "lng": -77.486031
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -284,5 +245,31 @@
     "location_township": "DPR",
     "lat": 37.499402,
     "lng": -77.504433
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 12:32",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/12/2025 12:39",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "900-BLK MYERS ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Myers Street",
+    "location_township": "FIRE",
+    "lat": 37.56341,
+    "lng": -77.469527
   }
 ]
