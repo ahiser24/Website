@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1000-BLK E BROAD ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 2",
@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 03:40",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3100-BLK ALVIS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Alvis Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.574264,
-    "lng": -77.426928
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 03:48",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -76,44 +63,5 @@
     "location_township": "DPR",
     "lat": 37.5090315,
     "lng": -77.4747941
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 03:56",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.527783,
-    "lng": -77.419068
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 04:32",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1400-BLK N 26TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5408948,
-    "lng": -77.4088515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 04:32",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1400-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5408948,
-    "lng": -77.4088515
   }
 ]
