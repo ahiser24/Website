@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 21:46",
-    "box_no": "Precinct 4",
-    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5668206,
-    "lng": -77.4448967
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 23:37",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -81,7 +68,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/13/2025 03:40",
     "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "3100-BLK ALVIS AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -128,18 +115,5 @@
     "location_township": "Precinct 1",
     "lat": 37.527783,
     "lng": -77.419068
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/13/2025 03:44",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3300-BLK LYNHAVEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lynhaven Avenue",
-    "location_township": "FIRE",
-    "lat": 37.4793034,
-    "lng": -77.4406337
   }
 ]
