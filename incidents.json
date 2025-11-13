@@ -154,5 +154,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5337736,
     "lng": -77.4268235
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 02:28",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1300-BLK COALTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 02:28",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2500-BLK MAGNOLIA RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Magnolia Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5603911,
+    "lng": -77.4132477
   }
 ]
