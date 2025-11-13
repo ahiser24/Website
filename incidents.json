@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairfield Way",
     "location_township": "Precinct 3",
@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 21:59",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "6200-BLK DEBORA DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Debora Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5242148,
-    "lng": -77.5110316
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 23:20",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -135,7 +122,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 00:07",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "800-BLK W CANAL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Canal Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5421793,
-    "lng": -77.4474595
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 00:17",
     "box_no": "Precinct 1",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
@@ -195,17 +169,17 @@
     "lng": -77.4188064
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/13/2025 00:18",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "1000-BLK HIOAKS RD",
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 00:19",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "ENSLOW AVE/BURNS ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "FIRE",
-    "lat": 37.515436,
-    "lng": -77.524786
+    "nearest_intersection": "Enslow Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5776641,
+    "lng": -77.4151219
   },
   {
     "type_general": "RPD",
@@ -235,28 +209,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 00:19",
+    "dispatch_time": "11/13/2025 00:32",
     "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "ENSLOW AVE/BURNS ST RICH",
-    "status": "Arrived",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Enslow Avenue",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
     "location_township": "Precinct 4",
-    "lat": 37.5776641,
-    "lng": -77.4151219
+    "lat": 37.5746979,
+    "lng": -77.4644653
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 00:19",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "900-BLK HAMPSTEAD AVE",
+    "dispatch_time": "11/13/2025 00:32",
+    "box_no": "Precinct 4",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hampstead Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.584012,
-    "lng": -77.51973
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
   }
 ]
