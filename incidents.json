@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 15:46",
-    "box_no": "Precinct 1",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "2200-BLK CREIGHTON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Creighton Road",
-    "location_township": "Precinct 1",
-    "lat": 37.545519,
-    "lng": -77.398135
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 16:09",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -63,19 +50,6 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 17:37",
-    "box_no": "Precinct 1",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "VENABLE ST/PINK ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5383422,
-    "lng": -77.4163815
   },
   {
     "type_general": "RPD",
@@ -131,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 23:09",
-    "box_no": "Precinct 4",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 23:20",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -187,11 +148,76 @@
     "box_no": "Precinct 1",
     "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
     "street": "2300-BLK SELDEN ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Selden Street",
     "location_township": "Precinct 1",
     "lat": 37.549784,
     "lng": -77.4058634
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 00:02",
+    "box_no": "Precinct 1",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "GORDONS LN/NINE MILE RD HENR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 00:17",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "2000-BLK ACCOMMODATION ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5484311,
+    "lng": -77.4188064
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 00:18",
+    "box_no": "Precinct 3",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 00:18",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "FIRE",
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 00:17",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
+    "street": "2000-BLK ACCOMMODATION ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "FIRE",
+    "lat": 37.5484311,
+    "lng": -77.4188064
   }
 ]
