@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 00:19",
-    "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "ENSLOW AVE/BURNS ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Enslow Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5776641,
-    "lng": -77.4151219
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 00:26",
     "box_no": "Precinct 2",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -209,28 +196,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 00:32",
+    "dispatch_time": "11/13/2025 00:43",
     "box_no": "Precinct 4",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3100-BLK N ARTHUR ASHE BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5746979,
-    "lng": -77.4644653
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 00:32",
-    "box_no": "Precinct 4",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "HERMITAGE RD/ROBIN HOOD RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "nearest_intersection": "Hermitage Road",
     "location_township": "Precinct 4",
-    "lat": 37.5746979,
-    "lng": -77.4644653
+    "lat": 37.5586945,
+    "lng": -77.4600341
   }
 ]
