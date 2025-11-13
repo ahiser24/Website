@@ -40,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 15:02",
+    "dispatch_time": "11/13/2025 17:21",
     "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "500-BLK COWARDIN AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "nearest_intersection": "Cowardin Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.5799327,
-    "lng": -77.4469305
+    "lat": 37.5204201,
+    "lng": -77.4500564
   },
   {
     "type_general": "RPD",
@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 17:21",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK COWARDIN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5204201,
-    "lng": -77.4500564
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 17:38",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -141,6 +128,19 @@
     "location_township": "Precinct 4",
     "lat": 37.594727,
     "lng": -77.461016
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:13",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RPD",
@@ -210,19 +210,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/13/2025 18:13",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 18:13",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "E 21ST ST/EDWARDS AVE RICH",
@@ -232,5 +219,83 @@
     "location_township": "Precinct 1",
     "lat": 37.5089854,
     "lng": -77.4443028
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:29",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "600-BLK W SOUTHSIDE PLAZA",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Southside Plaza, Southside",
+    "location_township": "Precinct 3",
+    "lat": 37.5012106,
+    "lng": -77.4784074
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:29",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "600-BLK W SOUTHSIDE PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Southside Plaza, Southside",
+    "location_township": "Precinct 3",
+    "lat": 37.5012106,
+    "lng": -77.4784074
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:33",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "400-BLK COWARDIN AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5204201,
+    "lng": -77.4500564
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:33",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "400-BLK COWARDIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5204201,
+    "lng": -77.4500564
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:36",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "500-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5240062,
+    "lng": -77.4383862
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:36",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "300-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5414356,
+    "lng": -77.441434
   }
 ]
