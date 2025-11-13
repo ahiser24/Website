@@ -197,71 +197,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/12/2025 22:13",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "600-BLK HOLLY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Holly Street",
-    "location_township": "Precinct 4",
-    "lat": 37.53656,
-    "lng": -77.449479
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 22:13",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "600-BLK HOLLY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Holly Street",
-    "location_township": "Precinct 4",
-    "lat": 37.53656,
-    "lng": -77.449479
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 22:18",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "7200-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "FIRE",
-    "lat": 37.537455,
-    "lng": -77.530122
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/12/2025 22:23",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "1900-BLK REDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
-    "location_township": "FIRE",
-    "lat": 37.547595,
-    "lng": -77.420888
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 22:20",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "100-BLK E 2ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 2nd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.525093,
-    "lng": -77.435078
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 22:13",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "2800-BLK DOCK ST",
@@ -310,5 +245,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5242148,
     "lng": -77.5110316
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 22:55",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 22:45",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1200-BLK SEMMES AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5246138,
+    "lng": -77.4488098
   }
 ]
