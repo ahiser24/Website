@@ -144,6 +144,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/13/2025 10:01",
+    "box_no": "Precinct 3",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/13/2025 09:45",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -196,42 +209,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 09:52",
+    "dispatch_time": "11/13/2025 09:56",
     "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "500-BLK S PINE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Pine Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5390408,
-    "lng": -77.4506611
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 09:55",
-    "box_no": "Precinct 1",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "1900-BLK WOOD ST",
+    "street": "2900-BLK W MARSHALL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Wood Street",
-    "location_township": "Precinct 1",
-    "lat": 37.552576,
-    "lng": -77.4218779
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 10:01",
-    "box_no": "Precinct 3",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.564223,
+    "lng": -77.470712
   },
   {
     "type_general": "RPD",
@@ -245,19 +232,6 @@
     "location_township": "Precinct 1",
     "lat": 37.548113,
     "lng": -77.406139
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 09:56",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "2900-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.564223,
-    "lng": -77.470712
   },
   {
     "type_general": "RPD",
@@ -284,5 +258,31 @@
     "location_township": "Precinct 3",
     "lat": 37.537392,
     "lng": -77.530621
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 10:21",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "1000-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.540296,
+    "lng": -77.432735
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 10:29",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1600-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4934886,
+    "lng": -77.4709086
   }
 ]
