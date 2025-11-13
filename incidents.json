@@ -196,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 21:56",
-    "box_no": "Precinct 3",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "4700-BLK BUTTE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Butte Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5586115,
-    "lng": -77.5478034
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 22:01",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , NUISANCE",
@@ -235,32 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 22:55",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3100-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5746979,
-    "lng": -77.4644653
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 22:45",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1200-BLK SEMMES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5246138,
-    "lng": -77.4488098
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 23:09",
     "box_no": "Precinct 4",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -274,15 +235,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 23:11",
+    "dispatch_time": "11/12/2025 23:19",
     "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "900-BLK MOSBY ST",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
+    "street": "2200-BLK JOPLIN AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Mosby Street",
+    "nearest_intersection": "Joplin Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5418142,
-    "lng": -77.4208953
+    "lat": 37.5048867,
+    "lng": -77.441803
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:21",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5290346,
+    "lng": -77.4208043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:27",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N 19TH ST/PHAUP ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 19th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5332252,
+    "lng": -77.4259138
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:20",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1400-BLK JENNIE SCHER RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5226217,
+    "lng": -77.3994575
   }
 ]
