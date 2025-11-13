@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 01:36",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3200-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5666169,
-    "lng": -77.4750226
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 01:38",
     "box_no": "Precinct 1",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -154,6 +141,32 @@
     "location_township": "Precinct 1",
     "lat": 37.556229,
     "lng": -77.414467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 01:45",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "800-BLK W CANAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Canal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5421793,
+    "lng": -77.4474595
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 01:45",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1400-BLK BROWNLEAF DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brownleaf Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.520165,
+    "lng": -77.5191
   },
   {
     "type_general": "RFD",
