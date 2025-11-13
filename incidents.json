@@ -105,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 00:53",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 01:01",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "400-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.509293,
-    "lng": -77.525136
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 01:10",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -141,6 +115,45 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 01:36",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5290346,
+    "lng": -77.4208043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 01:36",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3200-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5666169,
+    "lng": -77.4750226
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 01:38",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "2500-BLK BETHEL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bethel Street",
+    "location_township": "Precinct 1",
+    "lat": 37.556229,
+    "lng": -77.414467
   },
   {
     "type_general": "RFD",
