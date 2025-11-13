@@ -5,25 +5,12 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:06",
-    "box_no": "Precinct 2",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "3300-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.471946,
-    "lng": -77.482853
   },
   {
     "type_general": "RPD",
@@ -66,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 11:04",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2200-BLK 3RD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "3rd Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.561959,
-    "lng": -77.423031
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 11:07",
-    "box_no": "Precinct 3",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "300-BLK W ROANOKE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Roanoke Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5137506,
-    "lng": -77.4761962
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 11:20",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -102,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5462078,
     "lng": -77.4445175
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 11:04",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2200-BLK 3RD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "3rd Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.561959,
+    "lng": -77.423031
   },
   {
     "type_general": "RPD",
@@ -157,16 +131,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:08",
+    "dispatch_time": "11/13/2025 12:09",
     "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "3300-BLK LOXLEY RD",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "800-BLK W CARY ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Loxley Road",
+    "nearest_intersection": "Floyd Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.575073,
-    "lng": -77.454965
+    "lat": 37.544578,
+    "lng": -77.451753
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:13",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "1100-BLK MELROSE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Melrose Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.579774,
+    "lng": -77.448551
   },
   {
     "type_general": "RPD",
@@ -174,12 +161,25 @@
     "box_no": "Precinct 3",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
     "street": "S AUBURN AVE/W CARY ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South Auburn Avenue",
     "location_township": "Precinct 3",
     "lat": 37.5543701,
     "lng": -77.4822155
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:08",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3300-BLK LOXLEY RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Loxley Road",
+    "location_township": "Precinct 4",
+    "lat": 37.575073,
+    "lng": -77.454965
   },
   {
     "type_general": "RPD",
@@ -195,45 +195,6 @@
     "lng": -77.494178
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:09",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "800-BLK W CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.544578,
-    "lng": -77.451753
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:10",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1900-BLK N HAMILTON ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Hamilton Street",
-    "location_township": "Precinct 4",
-    "lat": 37.573268,
-    "lng": -77.476202
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:18",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1300-BLK LYNHAVEN AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "DPR",
-    "lat": 37.503388,
-    "lng": -77.442953
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/13/2025 12:13",
     "box_no": "FIRE",
@@ -245,5 +206,57 @@
     "location_township": "FIRE",
     "lat": 37.579774,
     "lng": -77.448551
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 12:31",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "1000-BLK RIDGECLIFF DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ridgecliff Drive, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4954497,
+    "lng": -77.4887387
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:18",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1300-BLK LYNHAVEN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Harwood Street",
+    "location_township": "DPR",
+    "lat": 37.503388,
+    "lng": -77.442953
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:16",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 1",
+    "lat": 37.5482872,
+    "lng": -77.4226215
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:26",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2800-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.527181,
+    "lng": -77.418761
   }
 ]
