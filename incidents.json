@@ -105,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 01:10",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3000-BLK WATER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 01:36",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5290346,
-    "lng": -77.4208043
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 01:38",
     "box_no": "Precinct 1",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -141,19 +115,6 @@
     "location_township": "Precinct 1",
     "lat": 37.556229,
     "lng": -77.414467
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 01:45",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "800-BLK W CANAL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Canal Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5421793,
-    "lng": -77.4474595
   },
   {
     "type_general": "RPD",
@@ -169,6 +130,45 @@
     "lng": -77.5191
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 01:54",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3600-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5688593,
+    "lng": -77.4775192
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 01:54",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3600-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5688593,
+    "lng": -77.4775192
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 01:59",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4700-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4624001,
+    "lng": -77.4430084
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/13/2025 00:55",
     "box_no": "FIRE",
@@ -180,5 +180,18 @@
     "location_township": "FIRE",
     "lat": 37.504021,
     "lng": -77.433146
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 01:54",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "5400-BLK HULL STREET RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "FIRE",
+    "lat": 37.4899001,
+    "lng": -77.4939365
   }
 ]
