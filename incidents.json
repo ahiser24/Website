@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 02:28",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2500-BLK MAGNOLIA RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Magnolia Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5603911,
-    "lng": -77.4132477
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 02:39",
     "box_no": "Precinct 3",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -193,5 +180,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5628689,
     "lng": -77.4918153
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 02:41",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "600-BLK PRICE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.549823,
+    "lng": -77.440305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 02:43",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2000-BLK MAURY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 1",
+    "lat": 37.5133362,
+    "lng": -77.4470727
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 02:43",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2000-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 1",
+    "lat": 37.5133362,
+    "lng": -77.4470727
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 02:49",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   }
 ]
