@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 13:28",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1600-BLK 4TH AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.556334,
-    "lng": -77.425946
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 13:19",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -195,6 +182,19 @@
     "lng": -77.5359407
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 13:34",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "N ST/CHIMBORAZO BLVD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "N Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5321185,
+    "lng": -77.4083093
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/13/2025 13:33",
     "box_no": "FIRE",
@@ -206,19 +206,6 @@
     "location_township": "FIRE",
     "lat": 37.5366168,
     "lng": -77.5359407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 13:36",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N LOMBARDY ST/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5558128,
-    "lng": -77.4545828
   },
   {
     "type_general": "RPD",
@@ -271,19 +258,6 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 14:06",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "DPR",
-    "lat": 37.57024,
-    "lng": -77.420545
   },
   {
     "type_general": "RPD",
@@ -362,5 +336,83 @@
     "location_township": "Precinct 4",
     "lat": 37.5479619,
     "lng": -77.4497989
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:23",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "1300-BLK OVERLOOK ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Overlook Street",
+    "location_township": "Precinct 2",
+    "lat": 37.503041,
+    "lng": -77.44145
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:18",
+    "box_no": "DPR",
+    "type_specific": "SUSPICIOUS , DPR/ADVICE",
+    "street": "3200-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.5666169,
+    "lng": -77.4750226
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 14:23",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "1300-BLK OVERLOOK ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Overlook Street",
+    "location_township": "FIRE",
+    "lat": 37.503041,
+    "lng": -77.44145
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 14:23",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "1300-BLK OVERLOOK ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Overlook Street",
+    "location_township": "FIRE",
+    "lat": 37.503041,
+    "lng": -77.44145
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:24",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "6300-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5215192,
+    "lng": -77.5137851
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:22",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "400-BLK HENRI RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Henri Road, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5750762,
+    "lng": -77.5240742
   }
 ]
