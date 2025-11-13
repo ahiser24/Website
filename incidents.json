@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1000-BLK E BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 2",
@@ -76,18 +76,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5408948,
     "lng": -77.4088515
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/13/2025 05:02",
-    "box_no": "FIRE",
-    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
-    "street": "RICH: @EXIT 74C - I95 NB (BROAD ST / 17TH ST)",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
   }
 ]
