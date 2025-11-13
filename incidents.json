@@ -157,6 +157,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:07",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC PURSUIT , OFFICER-INITIATED",
+    "street": "IDLEWOOD AVE/S CHERRY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.541964,
+    "lng": -77.4565646
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/13/2025 13:33",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -167,19 +180,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5366168,
     "lng": -77.5359407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 13:47",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "3500-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street, Southside",
-    "location_township": "DPR",
-    "lat": 37.5039491,
-    "lng": -77.4660265
   },
   {
     "type_general": "RPD",
@@ -206,32 +206,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5777146,
     "lng": -77.502672
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 14:22",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "400-BLK HENRI RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Henri Road, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5750762,
-    "lng": -77.5240742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 14:07",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC PURSUIT , OFFICER-INITIATED",
-    "street": "IDLEWOOD AVE/S CHERRY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Idlewood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.541964,
-    "lng": -77.4565646
   },
   {
     "type_general": "RPD",
@@ -329,13 +303,13 @@
     "dispatch_time": "11/13/2025 14:38",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1400-BLK CLARKSON RD",
+    "street": "1400-BLK CLARKSON CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
+    "nearest_intersection": "Clarkson Court, Southside",
     "location_township": "FIRE",
-    "lat": 37.4961097,
-    "lng": -77.4759645
+    "lat": 37.4956662,
+    "lng": -77.4768166
   },
   {
     "type_general": "RPD",
@@ -362,5 +336,57 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:44",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1800-BLK IDLEWOOD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.544957,
+    "lng": -77.46522
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:44",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1800-BLK IDLEWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.544957,
+    "lng": -77.46522
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:22",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "400-BLK HENRI RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Henri Road, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5750762,
+    "lng": -77.5240742
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 14:32",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 1",
+    "lat": 37.5482872,
+    "lng": -77.4226215
   }
 ]
