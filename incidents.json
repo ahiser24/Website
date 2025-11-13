@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:29",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "00-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 08:12",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/13/2025 08:34",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "2300-BLK FAIRFIELD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.548113,
+    "lng": -77.406139
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/13/2025 08:53",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4726444,
     "lng": -77.5010759
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:34",
-    "box_no": "Precinct 1",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "2300-BLK FAIRFIELD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.548113,
-    "lng": -77.406139
   },
   {
     "type_general": "RPD",
@@ -182,17 +169,17 @@
     "lng": -77.4383891
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/13/2025 09:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "2900-BLK BROOK RD",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 09:21",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "0-BLK E FEDERAL ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Brook Road, Northside",
-    "location_township": "FIRE",
-    "lat": 37.570239,
-    "lng": -77.449302
+    "nearest_intersection": "East Federal Street",
+    "location_township": "DPR",
+    "lat": 37.5520212,
+    "lng": -77.4344624
   },
   {
     "type_general": "RPD",
@@ -219,5 +206,57 @@
     "location_township": "Precinct 1",
     "lat": 37.591781,
     "lng": -77.447047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 09:44",
+    "box_no": "Precinct 4",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "132100-BLK E MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 09:44",
+    "box_no": "Precinct 4",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "132100-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 09:36",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1600-BLK ROSECREST AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Rosecrest Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.506216,
+    "lng": -77.433136
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 09:46",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "700-BLK N 25TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5353771,
+    "lng": -77.4156215
   }
 ]
