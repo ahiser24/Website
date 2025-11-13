@@ -183,16 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 21:50",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1900-BLK POWELL RD",
+    "dispatch_time": "11/12/2025 21:59",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "6200-BLK DEBORA DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Powell Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4876485,
-    "lng": -77.4880113
+    "nearest_intersection": "Debora Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5242148,
+    "lng": -77.5110316
   },
   {
     "type_general": "RPD",
@@ -209,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 21:59",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "6200-BLK DEBORA DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Debora Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5242148,
-    "lng": -77.5110316
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 23:09",
     "box_no": "Precinct 4",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -235,22 +222,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 23:19",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
-    "street": "2200-BLK JOPLIN AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Joplin Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5048867,
-    "lng": -77.441803
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 23:21",
     "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "2500-BLK E MAIN ST",
     "status": "Arrived",
     "cross_street": "",
@@ -261,16 +235,55 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 23:27",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N 19TH ST/PHAUP ST RICH",
-    "status": "Enroute",
+    "dispatch_time": "11/12/2025 23:30",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5332252,
-    "lng": -77.4259138
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:30",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:31",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "3000-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5098428,
+    "lng": -77.4611804
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:31",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "3000-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5098428,
+    "lng": -77.4611804
   },
   {
     "type_general": "RPD",
@@ -284,5 +297,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5226217,
     "lng": -77.3994575
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:19",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
+    "street": "2200-BLK JOPLIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Joplin Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5048867,
+    "lng": -77.441803
   }
 ]
