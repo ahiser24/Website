@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 03:44",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 03:48",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -105,28 +92,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 04:17",
-    "box_no": "Precinct 3",
+    "dispatch_time": "11/13/2025 04:32",
+    "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "600-BLK WESTOVER HILLS BLVD",
+    "street": "1400-BLK N 26TH ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5408948,
+    "lng": -77.4088515
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 04:17",
-    "box_no": "Precinct 3",
+    "dispatch_time": "11/13/2025 04:32",
+    "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "600-BLK WESTOVER HILLS BLVD",
+    "street": "1400-BLK N 26TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5408948,
+    "lng": -77.4088515
   }
 ]
