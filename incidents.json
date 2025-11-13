@@ -57,25 +57,12 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 00:02",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "GORDONS LN/NINE MILE RD HENR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -102,18 +89,5 @@
     "location_township": "Precinct 4",
     "lat": 37.5733568,
     "lng": -77.437571
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 03:04",
-    "box_no": "Precinct 1",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "N 20TH ST/E MARSHALL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543608,
-    "lng": -77.4145486
   }
 ]
