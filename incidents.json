@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:13",
-    "box_no": "DPR",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "4000-BLK BARTH RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bathurst Road",
-    "location_township": "DPR",
-    "lat": 37.462596,
-    "lng": -77.488737
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 08:29",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -115,32 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5725597,
     "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:33",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3400-BLK HERMITAGE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
-    "location_township": "Precinct 4",
-    "lat": 37.578376,
-    "lng": -77.461731
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:33",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3400-BLK HERMITAGE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
-    "location_township": "Precinct 4",
-    "lat": 37.578376,
-    "lng": -77.461731
   },
   {
     "type_general": "RPD",
@@ -196,16 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:32",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2800-BLK FAIRFIELD AVE",
-    "status": "Arrived",
+    "dispatch_time": "11/13/2025 08:40",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "300-BLK W BROAD ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5480463,
-    "lng": -77.4062874
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5475032,
+    "lng": -77.4444903
   },
   {
     "type_general": "RPD",
@@ -221,45 +182,6 @@
     "lng": -77.5010759
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/13/2025 08:35",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "200-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "FIRE",
-    "lat": 37.5056338,
-    "lng": -77.5252413
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:40",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "300-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5475032,
-    "lng": -77.4444903
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 08:39",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "3300-BLK EDGEWOOD AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Edgewood Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.5783969,
-    "lng": -77.4383198
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/13/2025 08:38",
     "box_no": "Precinct 3",
@@ -271,5 +193,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5170176,
     "lng": -77.5100332
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 08:48",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "300-BLK N 23RD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.532889,
+    "lng": -77.420592
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 08:52",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "1300-BLK N 25TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.540421,
+    "lng": -77.410557
   }
 ]
