@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/11/2025 21:57",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 3",
-    "lat": 37.5482872,
-    "lng": -77.4226215
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 16:09",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 01:38",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "2500-BLK BETHEL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bethel Street",
-    "location_township": "Precinct 1",
-    "lat": 37.556229,
-    "lng": -77.414467
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 01:45",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -131,45 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 02:39",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "MALVERN AVE/HANOVER AVE RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Malvern Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5628689,
-    "lng": -77.4918153
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 02:39",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "MALVERN AVE/HANOVER AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Malvern Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5628689,
-    "lng": -77.4918153
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 02:41",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "600-BLK PRICE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.549823,
-    "lng": -77.440305
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 02:49",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -180,5 +115,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5692515,
     "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 03:01",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "3100-BLK GRIFFIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Griffin Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5733568,
+    "lng": -77.437571
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 03:04",
+    "box_no": "Precinct 1",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "N 20TH ST/E MARSHALL ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543608,
+    "lng": -77.4145486
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 03:05",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "300-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5475032,
+    "lng": -77.4444903
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 03:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "FIRE",
+    "lat": 37.4770457,
+    "lng": -77.4856193
   }
 ]
