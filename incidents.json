@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/12/2025 19:03",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "HULL STREET RD/BERRYWOOD RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.49303,
-    "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/12/2025 19:49",
     "box_no": "Precinct 2",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4624001,
     "lng": -77.4430084
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 20:57",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "E LEIGH ST/MOSBY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Leigh Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5345208,
-    "lng": -77.4167605
   },
   {
     "type_general": "RPD",
@@ -187,7 +161,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
     "street": "6200-BLK DEBORA DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Debora Drive",
     "location_township": "Precinct 3",
@@ -219,45 +193,6 @@
     "location_township": "Precinct 4",
     "lat": 37.557176,
     "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 23:21",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "2500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5290346,
-    "lng": -77.4208043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 23:30",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/12/2025 23:30",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
   },
   {
     "type_general": "RPD",
@@ -310,5 +245,57 @@
     "location_township": "Precinct 1",
     "lat": 37.5048867,
     "lng": -77.441803
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:37",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:40",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "700-BLK N 2ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5484702,
+    "lng": -77.4367774
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:46",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "PARKWOOD AVE/RANDOLPH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Parkwood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.551703,
+    "lng": -77.4792407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/12/2025 23:21",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "DPR",
+    "lat": 37.5290346,
+    "lng": -77.4208043
   }
 ]
