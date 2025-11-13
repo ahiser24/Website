@@ -27,29 +27,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 10:13",
-    "box_no": "Precinct 1",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "2300-BLK FAIRFIELD AVE",
-    "status": "Arrived",
+    "dispatch_time": "11/13/2025 11:31",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "4300-BLK KENMARE CT",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.548113,
-    "lng": -77.406139
+    "nearest_intersection": "Kenmare Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4581673,
+    "lng": -77.4891414
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 11:04",
+    "dispatch_time": "11/13/2025 12:08",
     "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2200-BLK 3RD AVE",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3300-BLK LOXLEY RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue, Northside",
+    "nearest_intersection": "Loxley Road",
     "location_township": "Precinct 4",
-    "lat": 37.561959,
-    "lng": -77.423031
+    "lat": 37.575073,
+    "lng": -77.454965
   },
   {
     "type_general": "RPD",
@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 11:31",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "4300-BLK KENMARE CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Kenmare Court",
-    "location_township": "Precinct 2",
-    "lat": 37.4581673,
-    "lng": -77.4891414
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 12:09",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -102,32 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.544578,
     "lng": -77.451753
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 11:44",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "S AUBURN AVE/W CARY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Auburn Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5543701,
-    "lng": -77.4822155
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:08",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "3300-BLK LOXLEY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Loxley Road",
-    "location_township": "Precinct 4",
-    "lat": 37.575073,
-    "lng": -77.454965
   },
   {
     "type_general": "RPD",
@@ -170,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:35",
+    "box_no": "Precinct 1",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "3000-BLK MECHANICSVILLE TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.565391,
+    "lng": -77.4068934
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/13/2025 12:17",
     "box_no": "DPR",
     "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
@@ -180,6 +154,32 @@
     "location_township": "DPR",
     "lat": 37.5205537,
     "lng": -77.494178
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:41",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "3000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "DPR",
+    "lat": 37.5121802,
+    "lng": -77.4626513
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:29",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1300-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5353479,
+    "lng": -77.4336162
   },
   {
     "type_general": "RFD",
@@ -193,19 +193,6 @@
     "location_township": "FIRE",
     "lat": 37.579774,
     "lng": -77.448551
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:35",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "3000-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.565391,
-    "lng": -77.4068934
   },
   {
     "type_general": "RPD",
@@ -234,32 +221,6 @@
     "lng": -77.488118
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/13/2025 12:47",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "1000-BLK FLOYD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5475655,
-    "lng": -77.4542809
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:29",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1300-BLK E CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5353479,
-    "lng": -77.4336162
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/13/2025 12:42",
     "box_no": "Precinct 1",
@@ -273,42 +234,42 @@
     "lng": -77.417935
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:41",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3100-BLK GRIFFIN AVE",
-    "status": "Arrived",
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 12:50",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "E MARSHALL ST/N 2ND ST RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Griffin Avenue, Northside",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.5267099,
+    "lng": -77.4080946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 12:54",
+    "box_no": "Precinct 4",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "2000-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
-    "lat": 37.5733568,
-    "lng": -77.437571
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/13/2025 12:34",
+    "dispatch_time": "11/13/2025 12:54",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ABDOMINAL PAIN",
-    "street": "3700-BLK FOREST HAVEN DR",
+    "type_specific": "# BRUSH FIRE , GRASS",
+    "street": "800-BLK N 25TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Haven Drive",
+    "nearest_intersection": "North 25th Street, East End",
     "location_township": "FIRE",
-    "lat": 37.4636845,
-    "lng": -77.4870275
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 12:41",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "3000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "DPR",
-    "lat": 37.5121802,
-    "lng": -77.4626513
+    "lat": 37.5362011,
+    "lng": -77.4147129
   }
 ]
