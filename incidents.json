@@ -131,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:14",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "500-BLK S 5TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5367101,
+    "lng": -77.4433141
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/13/2025 18:13",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -157,58 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 18:07",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "2400-BLK CERSLEY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cersley Street",
-    "location_township": "Precinct 2",
-    "lat": 37.513136,
-    "lng": -77.4522639
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 18:12",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "5400-BLK BEWDLEY RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bewdley Road, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5729207,
-    "lng": -77.5124989
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 17:46",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "300-BLK COWARDIN AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "DPR",
-    "lat": 37.5204201,
-    "lng": -77.4500564
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/13/2025 18:14",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "500-BLK S 5TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5367101,
-    "lng": -77.4433141
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 18:13",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -222,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:05",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "E FRANKLIN ST/N 20TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5409621,
+    "lng": -77.4386469
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/13/2025 18:29",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -271,6 +245,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5204201,
     "lng": -77.4500564
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/13/2025 18:38",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK - RUPTURED MAIN (OUTSIDE)",
+    "street": "3200-BLK BROAD ROCK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "FIRE",
+    "lat": 37.473038,
+    "lng": -77.482542
   },
   {
     "type_general": "RPD",
@@ -278,7 +265,7 @@
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
     "street": "500-BLK HULL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street",
     "location_township": "Precinct 1",
@@ -297,5 +284,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5414356,
     "lng": -77.441434
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 18:39",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "5300-BLK CANTERBURY RIDGE CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   }
 ]
