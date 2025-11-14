@@ -40,15 +40,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 00:49",
+    "dispatch_time": "11/14/2025 06:48",
     "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "1200-BLK W MAIN ST",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1800-BLK W GRACE ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Main Street",
+    "nearest_intersection": "West Grace Street",
     "location_township": "Precinct 3",
-    "lat": 37.5462634,
-    "lng": -77.4568
+    "lat": 37.5551258,
+    "lng": -77.4593222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 06:41",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "1900-BLK W CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5479596,
+    "lng": -77.4652942
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 06:03",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2000-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5608096,
+    "lng": -77.4479214
   }
 ]
