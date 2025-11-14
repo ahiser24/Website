@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 12:21",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "S MEADOW ST/PARKWOOD AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 12:42",
     "box_no": "DPR",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/14/2025 14:32",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "400-BLK CALHOUN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Calhoun Street",
+    "location_township": "Precinct 4",
+    "lat": 37.553849,
+    "lng": -77.440305
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/14/2025 14:44",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , CITY PROPERTY",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4752744,
     "lng": -77.4444157
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 14:32",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE-EMS",
-    "street": "400-BLK CALHOUN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Calhoun Street",
-    "location_township": "Precinct 4",
-    "lat": 37.553849,
-    "lng": -77.440305
   },
   {
     "type_general": "RPD",
@@ -144,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 14:41",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "500-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "DPR",
-    "lat": 37.5240062,
-    "lng": -77.4383862
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:50",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BROAD ROCK BLVD/WELFORD AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4963453,
-    "lng": -77.4656428
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 15:39",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -196,6 +157,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/14/2025 15:59",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "6200-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5205385,
+    "lng": -77.510489
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/14/2025 15:46",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -206,19 +180,6 @@
     "location_township": "Precinct 4",
     "lat": 37.6015861,
     "lng": -77.4529869
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:11",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "0-BLK W MARSHALL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "DPR",
-    "lat": 37.5511694,
-    "lng": -77.4489338
   },
   {
     "type_general": "RPD",
@@ -235,11 +196,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/14/2025 16:02",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , CITY PROPERTY",
+    "street": "1900-BLK CLAIBORNE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Claiborne Street",
+    "location_township": "Precinct 3",
+    "lat": 37.54239,
+    "lng": -77.4681362
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/14/2025 15:50",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
     "street": "1700-BLK W LEIGH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Leigh Street",
     "location_township": "Precinct 4",
@@ -248,28 +222,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:59",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "6200-BLK JAHNKE RD",
-    "status": "Arrived",
+    "dispatch_time": "11/14/2025 16:08",
+    "box_no": "Precinct 2",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "3100-BLK VALE ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5205385,
-    "lng": -77.510489
+    "nearest_intersection": "Vale Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4805109,
+    "lng": -77.4536627
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 16:02",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , CITY PROPERTY",
-    "street": "1900-BLK CLAIBORNE ST",
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 16:09",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "E BROAD ST/N 17TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5263227,
+    "lng": -77.4100894
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 16:14",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "3500-BLK DELAWARE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Claiborne Street",
-    "location_township": "Precinct 3",
-    "lat": 37.54239,
-    "lng": -77.4681362
+    "nearest_intersection": "Delaware Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5789175,
+    "lng": -77.4189562
   }
 ]
