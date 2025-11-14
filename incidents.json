@@ -105,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 08:46",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK W 25TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.52023,
-    "lng": -77.45901
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 08:46",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK W 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.52023,
-    "lng": -77.45901
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 08:47",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -161,11 +135,37 @@
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
     "street": "FREEMAN RD/GRANT ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Freeman Road",
     "location_township": "Precinct 3",
     "lat": 37.5493037,
     "lng": -77.4885264
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:03",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "3500-BLK MISSOURI AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Missouri Avenue",
+    "location_township": "DPR",
+    "lat": 37.5799351,
+    "lng": -77.4210478
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:06",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
   }
 ]
