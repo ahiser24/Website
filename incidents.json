@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 03:07",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "00-BLK E 4TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 4th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5190007,
-    "lng": -77.4316981
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 03:13",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -102,32 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4952912,
     "lng": -77.4384581
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 03:22",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "500-BLK DECATUR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 4",
-    "lat": 37.523491,
-    "lng": -77.437717
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 03:13",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "700-BLK S HARRISON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Harrison Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5400759,
-    "lng": -77.4597867
   },
   {
     "type_general": "RPD",
@@ -154,5 +115,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5133362,
     "lng": -77.4470727
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 03:52",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1400-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5551685,
+    "lng": -77.4441833
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 03:22",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "500-BLK DECATUR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 4",
+    "lat": 37.523491,
+    "lng": -77.437717
   }
 ]
