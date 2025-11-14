@@ -117,19 +117,6 @@
     "lng": -77.41785
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 01:24",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "2800-BLK FAIRFIELD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5480463,
-    "lng": -77.4062874
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/14/2025 01:34",
     "box_no": "Precinct 3",
@@ -167,5 +154,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5462634,
     "lng": -77.4568
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 01:45",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "00-BLK E BROAD ROCK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5038637,
+    "lng": -77.4650326
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 01:48",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1200-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 01:47",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3100-BLK W CARY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5530934,
+    "lng": -77.4801689
   }
 ]
