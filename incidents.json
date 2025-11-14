@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 02:47",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2200-BLK DEFORREST ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Deforrest Street",
-    "location_township": "Precinct 1",
-    "lat": 37.555395,
-    "lng": -77.414939
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 03:13",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -89,44 +76,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4952912,
     "lng": -77.4384581
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 03:22",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "500-BLK DECATUR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 4",
-    "lat": 37.523491,
-    "lng": -77.437717
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 04:13",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "2600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5668206,
-    "lng": -77.4448967
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 04:11",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1800-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5551258,
-    "lng": -77.4593222
   }
 ]
