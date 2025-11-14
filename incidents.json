@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 22:47",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "1700-BLK WHITEHEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greenbank Road",
-    "location_township": "Precinct 2",
-    "lat": 37.484446,
-    "lng": -77.511523
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/13/2025 23:03",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -209,6 +196,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/13/2025 22:47",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "1700-BLK WHITEHEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greenbank Road",
+    "location_township": "Precinct 2",
+    "lat": 37.484446,
+    "lng": -77.511523
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/13/2025 23:28",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -219,19 +219,6 @@
     "location_township": "Precinct 1",
     "lat": 37.543765,
     "lng": -77.422946
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/13/2025 23:31",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5089813,
-    "lng": -77.478859
   },
   {
     "type_general": "RFD",
@@ -248,16 +235,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 23:27",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1100-BLK GRAND BROOK DR",
-    "status": "Arrived",
+    "dispatch_time": "11/13/2025 23:37",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1000-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Grand Brook Court",
-    "location_township": "Precinct 3",
-    "lat": 37.515248,
-    "lng": -77.520638
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5638703,
+    "lng": -77.4696823
   },
   {
     "type_general": "RFD",
@@ -271,5 +258,57 @@
     "location_township": "FIRE",
     "lat": 37.5482054,
     "lng": -77.4622273
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 23:43",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N ADAMS ST/W BROAD ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Adams Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467716,
+    "lng": -77.442284
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 23:43",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N ADAMS ST/W BROAD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Adams Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467716,
+    "lng": -77.442284
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 23:38",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2600-BLK IDLEWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5486341,
+    "lng": -77.475211
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/13/2025 23:27",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1100-BLK GRAND BROOK DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grand Brook Court",
+    "location_township": "Precinct 3",
+    "lat": 37.515248,
+    "lng": -77.520638
   }
 ]
