@@ -40,6 +40,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/14/2025 10:13",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "5100-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "DPR",
+    "lat": 37.4546632,
+    "lng": -77.4264768
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/14/2025 10:26",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -57,64 +70,12 @@
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairfield Way",
     "location_township": "Precinct 2",
     "lat": 37.5482872,
     "lng": -77.4226215
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 10:13",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "5100-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "DPR",
-    "lat": 37.4546632,
-    "lng": -77.4264768
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 11:01",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "1400-BLK GARBER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Garber Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5139233,
-    "lng": -77.399563
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 10:39",
-    "box_no": "Precinct 3",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "2500-BLK W TREMONT CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Tremont Court",
-    "location_township": "Precinct 3",
-    "lat": 37.5347397,
-    "lng": -77.53732
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 11:24",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
   },
   {
     "type_general": "RPD",
@@ -156,6 +117,19 @@
     "lng": -77.413033
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 11:35",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "300-BLK E 9TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 9th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5198861,
+    "lng": -77.4388146
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/14/2025 11:33",
     "box_no": "FIRE",
@@ -169,16 +143,29 @@
     "lng": -77.4008947
   },
   {
-    "type_general": "RFD",
+    "type_general": "RPD",
     "dispatch_time": "11/14/2025 11:24",
-    "box_no": "FIRE",
-    "type_specific": "# ELEVATOR INCIDENT",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "1700-BLK BELLEVUE AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bellevue Avenue",
-    "location_township": "FIRE",
+    "location_township": "Precinct 4",
     "lat": 37.590597,
     "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 11:40",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
+    "street": "6800-BLK EVERGLADES DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Everglades Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5034416,
+    "lng": -77.5206899
   }
 ]
