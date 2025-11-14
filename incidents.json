@@ -1,42 +1,16 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 14:19",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1900-BLK O ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": 37.5403331,
-    "lng": -77.4187897
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:36",
+    "dispatch_time": "11/14/2025 16:10",
     "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "4500-BLK W BROAD ST",
-    "status": "Arrived",
+    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
+    "street": "1300-BLK BLACKROCK DR",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "DPR",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 17:12",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1400-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": 37.5558901,
-    "lng": -77.4429043
+    "lat": 37.519988,
+    "lng": -77.517726
   },
   {
     "type_general": "RPD",
@@ -46,10 +20,23 @@
     "street": "1500-BLK BRUCE ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Bruce Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.50618,
+    "lng": -77.434587
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 17:19",
+    "box_no": "DPR",
+    "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
+    "street": "5700-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road, Southside",
+    "location_township": "DPR",
+    "lat": 37.49303,
+    "lng": -77.487645
   },
   {
     "type_general": "RPD",
@@ -59,10 +46,23 @@
     "street": "2300-BLK E CARY ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5292529,
+    "lng": -77.4235309
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 17:41",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -72,7 +72,7 @@
     "street": "3800-BLK HULL STREET RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
     "lat": 37.492271,
     "lng": -77.4888165
@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/14/2025 18:05",
-    "box_no": "FIRE",
-    "type_specific": "# ELEVATOR INCIDENT",
-    "street": "100-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "FIRE",
-    "lat": 37.5149743,
-    "lng": -77.5244606
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/14/2025 18:07",
     "box_no": "FIRE",
     "type_specific": "CRASH , HAZARD CONTROL",
@@ -183,52 +170,13 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:11",
-    "box_no": "Precinct 1",
-    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
-    "street": "100-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.526164,
-    "lng": -77.435697
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 18:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "2600-BLK NINE MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "FIRE",
-    "lat": 37.5409841,
-    "lng": -77.4081043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:17",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "BAINBRIDGE ST/W 20TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bainbridge Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5140643,
-    "lng": -77.4625446
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 18:26",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "E HILL ST/ST JAMES ST RICH",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Hill Street",
     "location_township": "Precinct 4",
     "lat": 37.5534628,
     "lng": -77.4331417
@@ -248,15 +196,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:24",
+    "dispatch_time": "11/14/2025 18:27",
     "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "S MEADOW ST/PARKWOOD AVE RICH",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "5600-BLK WILLOW CREEK LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
+    "nearest_intersection": "Willow Creek Lane",
     "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
+    "lat": 37.5274008,
+    "lng": -77.5053931
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 18:13",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1600-BLK CHESTNUT PARK LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chestnut Park Lane",
+    "location_township": "Precinct 4",
+    "lat": 37.5567509,
+    "lng": -77.4276515
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 18:34",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
+    "street": "1500-BLK YEARDLEY DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Yeardley Drive",
+    "location_township": "FIRE",
+    "lat": 37.523824,
+    "lng": -77.4997233
   }
 ]
