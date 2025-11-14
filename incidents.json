@@ -5,12 +5,12 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1900-BLK O ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5403331,
+    "lng": -77.4187897
   },
   {
     "type_general": "RPD",
@@ -20,23 +20,10 @@
     "street": "4500-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5772002,
-    "lng": -77.4878687
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:47",
-    "box_no": "Precinct 4",
-    "type_specific": "LOST PROPERTY , DPR CALL - TAKE A REPORT",
-    "street": "3600-BLK CAROLINA AVE",
-    "status": "Arrived",
-    "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": 37.5790272,
-    "lng": -77.4159466
+    "location_township": "DPR",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -46,7 +33,7 @@
     "street": "1400-BLK CHAMBERLAYNE PKWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.5558901,
     "lng": -77.4429043
@@ -59,10 +46,10 @@
     "street": "1500-BLK BRUCE ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Bruce Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.50618,
-    "lng": -77.434587
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -72,23 +59,23 @@
     "street": "2300-BLK E CARY ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5292529,
-    "lng": -77.4235309
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 17:59",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "600-BLK WESTOVER WOODS CIR",
+    "dispatch_time": "11/14/2025 17:43",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "3800-BLK HULL STREET RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westover Woods Circle",
-    "location_township": "Precinct 3",
-    "lat": 37.5130214,
-    "lng": -77.5045984
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
   },
   {
     "type_general": "RPD",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 17:43",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "3800-BLK HULL STREET RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 18:07",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -183,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:11",
-    "box_no": "Precinct 1",
-    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
-    "street": "100-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.526164,
-    "lng": -77.435697
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 18:05",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
@@ -215,9 +176,87 @@
     "street": "5000-BLK GOVERNMENT RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Government Road",
     "location_township": "DPR",
-    "lat": null,
-    "lng": null
+    "lat": 37.5157001,
+    "lng": -77.3941068
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 18:11",
+    "box_no": "Precinct 1",
+    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
+    "street": "100-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.526164,
+    "lng": -77.435697
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 18:22",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2600-BLK NINE MILE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "FIRE",
+    "lat": 37.5409841,
+    "lng": -77.4081043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 18:17",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "BAINBRIDGE ST/W 20TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5140643,
+    "lng": -77.4625446
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 18:26",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "E HILL ST/ST JAMES ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": 37.5534628,
+    "lng": -77.4331417
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 18:26",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "E HILL ST/ST JAMES ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Hill Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5534628,
+    "lng": -77.4331417
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 18:24",
+    "box_no": "Precinct 3",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "S MEADOW ST/PARKWOOD AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
   }
 ]
