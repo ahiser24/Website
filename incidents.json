@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 06:41",
-    "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "1900-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5479596,
-    "lng": -77.4652942
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 06:48",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -63,19 +50,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5551258,
     "lng": -77.4593222
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 05:51",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "200-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5077026,
-    "lng": -77.5054467
   },
   {
     "type_general": "RPD",
@@ -105,15 +79,67 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/14/2025 07:46",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W BROOKLAND PARK BLVD/CHAMBERLAYNE AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5724275,
+    "lng": -77.4487587
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/14/2025 07:37",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "0-BLK OAK LN",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Oak Lane, West End",
     "location_township": "Precinct 3",
     "lat": 37.5697689,
     "lng": -77.5080233
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 07:54",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "2200-BLK N 26TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "FIRE",
+    "lat": 37.54812,
+    "lng": -77.402046
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 07:46",
+    "box_no": "Precinct 4",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "100-BLK E CLAY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.546896,
+    "lng": -77.4391625
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 07:57",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "RICH: @MANCHESTER BRIDGE - SB",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   }
 ]
