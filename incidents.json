@@ -7,10 +7,23 @@
     "street": "1300-BLK BLACKROCK DR",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Blackrock Drive",
     "location_township": "DPR",
     "lat": 37.519988,
     "lng": -77.517726
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 17:12",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1400-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5558901,
+    "lng": -77.4429043
   },
   {
     "type_general": "RPD",
@@ -66,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 17:43",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "3800-BLK HULL STREET RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 17:48",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -115,45 +115,6 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:07",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "4100-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5015735,
-    "lng": -77.4755884
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 18:07",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "4100-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.5015735,
-    "lng": -77.4755884
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:05",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "200-BLK N 20TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53368,
-    "lng": -77.424149
   },
   {
     "type_general": "RPD",
@@ -195,32 +156,6 @@
     "lng": -77.4331417
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:27",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "5600-BLK WILLOW CREEK LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Willow Creek Lane",
-    "location_township": "Precinct 3",
-    "lat": 37.5274008,
-    "lng": -77.5053931
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:13",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1600-BLK CHESTNUT PARK LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chestnut Park Lane",
-    "location_township": "Precinct 4",
-    "lat": 37.5567509,
-    "lng": -77.4276515
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/14/2025 18:34",
     "box_no": "FIRE",
@@ -232,5 +167,31 @@
     "location_township": "FIRE",
     "lat": 37.523824,
     "lng": -77.4997233
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 17:43",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "3800-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 18:40",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "0-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5748547,
+    "lng": -77.4635584
   }
 ]
