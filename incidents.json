@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 01:08",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1500-BLK VICTOR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.566338,
-    "lng": -77.41785
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 00:49",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -144,6 +131,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/14/2025 02:02",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "N 22ND ST/E GRACE ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5340354,
+    "lng": -77.4207124
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 02:02",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "N 22ND ST/E GRACE ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5340354,
+    "lng": -77.4207124
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/14/2025 01:45",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -154,57 +167,5 @@
     "location_township": "Precinct 2",
     "lat": 37.5038637,
     "lng": -77.4650326
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 01:58",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5393687,
-    "lng": -77.4376041
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 01:55",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1800-BLK W GRACE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5551258,
-    "lng": -77.4593222
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 02:02",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "N 22ND ST/E GRACE ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5340354,
-    "lng": -77.4207124
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 02:02",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "N 22ND ST/E GRACE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5340354,
-    "lng": -77.4207124
   }
 ]
