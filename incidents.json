@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 08:16",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WARWICK RD/FERNBROOK DR RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.5056401,
-    "lng": -77.5194715
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 08:31",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 08:33",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "MAGNOLIA ST/MECHANICSVILLE TPKE RICH",
+    "dispatch_time": "11/14/2025 08:44",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "5000-BLK SNEAD RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Magnolia Street",
-    "location_township": "Precinct 4",
-    "lat": 37.558452,
-    "lng": -77.4128428
+    "nearest_intersection": "Snead Road",
+    "location_township": "DPR",
+    "lat": 37.4770457,
+    "lng": -77.4856193
   },
   {
     "type_general": "RPD",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 09:12",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3300-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4790478,
-    "lng": -77.4446827
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 09:06",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -167,32 +141,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5448002,
     "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 08:44",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "5000-BLK SNEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "DPR",
-    "lat": 37.4770457,
-    "lng": -77.4856193
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 09:16",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "3500-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5799327,
-    "lng": -77.4469305
   },
   {
     "type_general": "RPD",
@@ -209,16 +157,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 09:25",
-    "box_no": "Precinct 1",
+    "dispatch_time": "11/14/2025 09:12",
+    "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "FAIRFIELD AVE/N 20TH ST RICH",
-    "status": "Enroute",
+    "street": "3300-BLK RICHMOND HWY",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5480463,
-    "lng": -77.4062874
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4790478,
+    "lng": -77.4446827
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:16",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5799327,
+    "lng": -77.4469305
   },
   {
     "type_general": "RPD",
@@ -234,19 +195,6 @@
     "lng": -77.4548916
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 09:27",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "2800-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "FIRE",
-    "lat": 37.555355,
-    "lng": -77.4749482
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/14/2025 09:21",
     "box_no": "Precinct 1",
@@ -258,5 +206,57 @@
     "location_township": "Precinct 1",
     "lat": 37.534387,
     "lng": -77.423143
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:25",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "FAIRFIELD AVE/N 20TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5480463,
+    "lng": -77.4062874
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 09:39",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "100-BLK GOVERNOR ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bank Street",
+    "location_township": "FIRE",
+    "lat": 37.536975,
+    "lng": -77.432601
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:25",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1600-BLK 4TH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.556334,
+    "lng": -77.425946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:40",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1800-BLK EVERETT ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5151148,
+    "lng": -77.4464208
   }
 ]
