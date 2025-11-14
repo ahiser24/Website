@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 14:24",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "MOSBY ST/E LEIGH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mosby Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5371525,
-    "lng": -77.4209262
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 14:32",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE-EMS",
@@ -170,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:50",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1700-BLK W LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5580027,
-    "lng": -77.4548916
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:46",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 15:21",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -234,17 +195,43 @@
     "lng": -77.4536627
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 16:29",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "500-BLK MILTON ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 16:16",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "600-BLK N 29TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5322695,
+    "lng": -77.4127105
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 15:46",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "400-BLK WESTOVER HILLS BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Milton Street, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5790262,
-    "lng": -77.4251685
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 16:03",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "2400-BLK FORD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ford Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5501736,
+    "lng": -77.4174397
   },
   {
     "type_general": "RPD",
@@ -271,5 +258,44 @@
     "location_township": "DPR",
     "lat": 37.5240062,
     "lng": -77.4383862
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 16:35",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 16:23",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2200-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5582531,
+    "lng": -77.4623243
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 16:40",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
   }
 ]
