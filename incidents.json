@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -18,7 +18,7 @@
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "2600-BLK NORTH AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Lancaster Road, Northside",
     "location_township": "DPR",
@@ -157,15 +157,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 00:22",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "200-BLK W BROAD ST",
-    "status": "Arrived",
+    "dispatch_time": "11/14/2025 00:29",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2500-BLK SUSTEN LN",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.547,
-    "lng": -77.4435632
+    "nearest_intersection": "Susten Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4769903,
+    "lng": -77.5057151
   }
 ]
