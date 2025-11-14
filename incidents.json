@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:09",
-    "box_no": "DPR",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "E 5TH ST/DECATUR ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East 5th Street",
-    "location_township": "DPR",
-    "lat": 37.5228096,
-    "lng": -77.4368354
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 15:39",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -239,12 +226,25 @@
     "box_no": "Precinct 2",
     "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
     "street": "3100-BLK VALE ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Vale Street",
     "location_township": "Precinct 2",
     "lat": 37.4805109,
     "lng": -77.4536627
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 16:29",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "500-BLK MILTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Milton Street, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5790262,
+    "lng": -77.4251685
   },
   {
     "type_general": "RPD",
@@ -258,5 +258,18 @@
     "location_township": "Precinct 2",
     "lat": 37.5033179,
     "lng": -77.4637045
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 16:22",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "500-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "DPR",
+    "lat": 37.5240062,
+    "lng": -77.4383862
   }
 ]
