@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/13/2025 20:09",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "5100-BLK PARKER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Parker Street",
-    "location_township": "DPR",
-    "lat": 37.513436,
-    "lng": -77.3953977
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 07:34",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -63,6 +50,19 @@
     "location_township": "DPR",
     "lat": 37.4770457,
     "lng": -77.4856193
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:06",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
   },
   {
     "type_general": "RPD",
@@ -170,42 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 09:06",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 09:40",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "1800-BLK EVERETT ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Everett Street",
     "location_township": "Precinct 1",
     "lat": 37.5151148,
     "lng": -77.4464208
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 09:36",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "900-BLK MYERS ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Myers Street",
-    "location_township": "DPR",
-    "lat": 37.56341,
-    "lng": -77.469527
   },
   {
     "type_general": "RPD",
@@ -217,19 +191,6 @@
     "cross_street": "",
     "nearest_intersection": "West Main Street",
     "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 09:45",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "FIRE",
     "lat": 37.5489827,
     "lng": -77.4646467
   },
@@ -247,19 +208,6 @@
     "lng": -77.4446827
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 09:39",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "100-BLK GOVERNOR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bank Street",
-    "location_township": "FIRE",
-    "lat": 37.536975,
-    "lng": -77.432601
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/14/2025 09:42",
     "box_no": "Precinct 4",
@@ -271,5 +219,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5657968,
     "lng": -77.4686883
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:53",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "100-BLK COWARDIN AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5204201,
+    "lng": -77.4500564
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:53",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "100-BLK COWARDIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5204201,
+    "lng": -77.4500564
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:55",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "600-BLK S BELVIDERE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 09:51",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "600-BLK W LABURNUM AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
   }
 ]
