@@ -63,5 +63,70 @@
     "location_township": "Precinct 3",
     "lat": 37.5462634,
     "lng": -77.4568
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 05:46",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "7400-BLK FOREST HILL AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5372904,
+    "lng": -77.5330722
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 05:46",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "7400-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5372904,
+    "lng": -77.5330722
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 05:47",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5408948,
+    "lng": -77.4088515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 05:47",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5408948,
+    "lng": -77.4088515
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 05:48",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "1100-BLK GERMAN SCHOOL RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "FIRE",
+    "lat": 37.517118,
+    "lng": -77.513788
   }
 ]
