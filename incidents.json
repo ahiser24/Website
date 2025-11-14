@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 02:35",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3100-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5746979,
-    "lng": -77.4644653
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 02:47",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -115,18 +102,5 @@
     "location_township": "Precinct 1",
     "lat": 37.555395,
     "lng": -77.414939
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 02:43",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3900-BLK OLD BROOK CIR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Circle",
-    "location_township": "Precinct 4",
-    "lat": 37.5886258,
-    "lng": -77.4468578
   }
 ]
