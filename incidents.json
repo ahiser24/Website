@@ -40,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 10:26",
+    "dispatch_time": "11/14/2025 11:23",
     "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "700-BLK W FELLS ST",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W BACON ST/CHAMBERLAYNE PKWY RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fells Street",
+    "nearest_intersection": "West Bacon Street",
     "location_township": "Precinct 4",
-    "lat": 37.5582353,
-    "lng": -77.4394875
+    "lat": 37.5564641,
+    "lng": -77.442216
   },
   {
     "type_general": "RPD",
@@ -76,19 +76,6 @@
     "location_township": "DPR",
     "lat": 37.5060193,
     "lng": -77.4421819
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 11:23",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W BACON ST/CHAMBERLAYNE PKWY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5564641,
-    "lng": -77.442216
   },
   {
     "type_general": "RPD",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 11:40",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
-    "street": "6800-BLK EVERGLADES DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Everglades Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5034416,
-    "lng": -77.5206899
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 11:48",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -157,15 +131,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 11:52",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "1700-BLK DECATUR ST",
+    "dispatch_time": "11/14/2025 12:00",
+    "box_no": "Precinct 3",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "300-BLK NORCROFT CIR",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "Precinct 1",
-    "lat": 37.517274,
-    "lng": -77.447513
+    "nearest_intersection": "Norcroft Circle",
+    "location_township": "Precinct 3",
+    "lat": 37.5126503,
+    "lng": -77.4826702
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 11:51",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3600-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4752744,
+    "lng": -77.4444157
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 11:40",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
+    "street": "6800-BLK EVERGLADES DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everglades Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5034416,
+    "lng": -77.5206899
   }
 ]
