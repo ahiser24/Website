@@ -234,32 +234,6 @@
     "lng": -77.510489
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:07",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "800-BLK W CANAL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Canal Street",
-    "location_township": "DPR",
-    "lat": 37.5421793,
-    "lng": -77.4474595
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 15:13",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "RICH: @SOUTHSIDE PLAZA",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/14/2025 15:06",
     "box_no": "FIRE",
@@ -287,6 +261,45 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/14/2025 14:57",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "4300-BLK OLD BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5946766,
+    "lng": -77.448233
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 15:35",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "4400-BLK FLUVANNA AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Fluvanna Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4654582,
+    "lng": -77.4570303
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 15:35",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "4400-BLK FLUVANNA AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fluvanna Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4654582,
+    "lng": -77.4570303
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/14/2025 15:06",
     "box_no": "Precinct 1",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -300,15 +313,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 14:57",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "4300-BLK OLD BROOK RD",
-    "status": "Arrived",
+    "dispatch_time": "11/14/2025 15:22",
+    "box_no": "Precinct 3",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "4000-BLK CUTSHAW AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5946766,
-    "lng": -77.448233
+    "nearest_intersection": "Cutshaw Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5706339,
+    "lng": -77.4835137
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 15:40",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5514093,
+    "lng": -77.4534673
   }
 ]
