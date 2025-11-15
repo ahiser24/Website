@@ -55,7 +55,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/15/2025 00:16",
     "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "type_specific": "CRASH , PERSONAL INJURY",
     "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
     "status": "Arrived",
     "cross_street": "",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 00:43",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "6700-BLK W CARNATION ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5078326,
-    "lng": -77.5178676
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 00:59",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -128,5 +115,57 @@
     "location_township": "Precinct 4",
     "lat": 37.551566,
     "lng": -77.439165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 00:43",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "6700-BLK W CARNATION ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5078326,
+    "lng": -77.5178676
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 01:16",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 01:12",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 01:09",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "500-BLK N ADAMS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Adams Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5481447,
+    "lng": -77.4411206
   }
 ]
