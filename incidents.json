@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
     "street": "5200-BLK BROOK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Brook Road",
     "location_township": "Precinct 4",
@@ -117,45 +117,6 @@
     "lng": -77.4817978
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 00:13",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "500-BLK E FRANKLIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.541222,
-    "lng": -77.438898
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 00:16",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 00:00",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "200-BLK W BAKER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Baker Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551566,
-    "lng": -77.439165
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/15/2025 00:22",
     "box_no": "FIRE",
@@ -196,6 +157,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/15/2025 00:00",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "200-BLK W BAKER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "Precinct 4",
+    "lat": 37.551566,
+    "lng": -77.439165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 00:00",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "200-BLK W BAKER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "Precinct 4",
+    "lat": 37.551566,
+    "lng": -77.439165
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/15/2025 00:22",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -206,5 +193,44 @@
     "location_township": "Precinct 1",
     "lat": 37.520445,
     "lng": -77.40241
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 00:13",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "500-BLK E FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.541222,
+    "lng": -77.438898
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 00:16",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 00:37",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "600-BLK E SOUTHSIDE PLZ",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5043742,
+    "lng": -77.4751373
   }
 ]
