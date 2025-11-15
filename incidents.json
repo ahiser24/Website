@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/15/2025 08:04",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "5800-BLK WESTOWER DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westower Drive",
-    "location_township": "FIRE",
-    "lat": 37.5238336,
-    "lng": -77.5039485
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/15/2025 08:14",
     "box_no": "FIRE",
     "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
@@ -115,5 +102,31 @@
     "location_township": "FIRE",
     "lat": 37.5182842,
     "lng": -77.4150658
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 07:57",
+    "box_no": "Precinct 3",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "4500-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5772002,
+    "lng": -77.4878687
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 08:21",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "4300-BLK COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4664874,
+    "lng": -77.4274885
   }
 ]
