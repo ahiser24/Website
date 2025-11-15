@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:37",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "600-BLK W BACON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5565875,
-    "lng": -77.4412236
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 10:27",
     "box_no": "Precinct 2",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -102,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.548677,
     "lng": -77.439248
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 12:14",
-    "box_no": "Precinct 4",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "3200-BLK LAMB AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Lamb Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5750304,
-    "lng": -77.4303841
   },
   {
     "type_general": "RPD",
@@ -222,11 +196,37 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/15/2025 11:55",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "00-BLK S NANSEMOND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Nansemond Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5541317,
+    "lng": -77.4873713
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 12:09",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/15/2025 11:51",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "2300-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 3",
@@ -258,19 +258,6 @@
     "location_township": "FIRE",
     "lat": 37.547277,
     "lng": -77.575531
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 12:39",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "3200-BLK 5TH AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "5th Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5693399,
-    "lng": -77.4125304
   },
   {
     "type_general": "RPD",
@@ -310,19 +297,6 @@
     "location_township": "FIRE",
     "lat": 37.5534622,
     "lng": -77.5944894
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 12:49",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "1500-BLK ARMFIELD RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Armfield Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4831277,
-    "lng": -77.5163942
   },
   {
     "type_general": "RFD",
