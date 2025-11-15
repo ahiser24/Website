@@ -92,28 +92,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/15/2025 07:57",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2300-BLK FAIRFIELD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "FIRE",
-    "lat": 37.548113,
-    "lng": -77.406139
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/15/2025 08:04",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
     "street": "5800-BLK WESTOWER DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Westower Drive",
     "location_township": "FIRE",
     "lat": 37.5238336,
     "lng": -77.5039485
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 08:14",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "4500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.5182842,
+    "lng": -77.4150658
   }
 ]
