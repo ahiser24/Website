@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/15/2025 08:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "600-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "FIRE",
-    "lat": 37.533836,
-    "lng": -77.4154
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/15/2025 08:38",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
@@ -117,42 +104,42 @@
     "lng": -77.4939365
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 08:50",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "600-BLK N 26TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.533836,
+    "lng": -77.4154
+  },
+  {
     "type_general": "RFD",
-    "dispatch_time": "11/15/2025 08:43",
+    "dispatch_time": "11/15/2025 08:50",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "4000-BLK OLD BROOK RD",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "600-BLK N 26TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
+    "nearest_intersection": "North 26th Street",
     "location_township": "FIRE",
-    "lat": 37.589166,
-    "lng": -77.446522
+    "lat": 37.533836,
+    "lng": -77.4154
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 08:41",
+    "dispatch_time": "11/15/2025 08:48",
     "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "8100-BLK AMMONETT DR",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "600-BLK N BELMONT AVE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Ammonett Drive",
+    "nearest_intersection": "North Belmont Avenue",
     "location_township": "Precinct 3",
-    "lat": 37.5382398,
-    "lng": -77.5455427
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 08:41",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "8100-BLK AMMONETT DR",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Ammonett Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5382398,
-    "lng": -77.5455427
+    "lat": 37.560912,
+    "lng": -77.475718
   }
 ]
