@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 21:16",
-    "box_no": "Precinct 4",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "3700-BLK MARYLAND AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Young Street",
-    "location_township": "Precinct 4",
-    "lat": 37.580435,
-    "lng": -77.415889
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/14/2025 22:43",
     "box_no": "Precinct 4",
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
@@ -128,5 +115,31 @@
     "location_township": "Precinct 4",
     "lat": 37.568967,
     "lng": -77.4167096
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 01:37",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "200-BLK W BAKER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "Precinct 4",
+    "lat": 37.551566,
+    "lng": -77.439165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 01:44",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1500-BLK JENNIE SCHER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5231263,
+    "lng": -77.3987139
   }
 ]
