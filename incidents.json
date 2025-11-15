@@ -83,7 +83,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
     "street": "900-BLK GREEN RIDGE DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Green Ridge Drive",
     "location_township": "Precinct 2",
@@ -156,19 +156,6 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 09:32",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "1900-BLK HOPKINS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hopkins Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.491725,
-    "lng": -77.463688
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/15/2025 09:17",
     "box_no": "Precinct 4",
@@ -180,45 +167,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5567509,
     "lng": -77.4276515
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 09:38",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "3300-BLK CASTLEWOOD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Castlewood Road",
-    "location_township": "FIRE",
-    "lat": 37.4780439,
-    "lng": -77.4450334
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:48",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2900-BLK W CLAY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5649909,
-    "lng": -77.4697197
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:48",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2900-BLK W CLAY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5649909,
-    "lng": -77.4697197
   },
   {
     "type_general": "RPD",
@@ -245,5 +193,31 @@
     "location_township": "FIRE",
     "lat": 37.522016,
     "lng": -77.433606
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 09:59",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "100-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5071442,
+    "lng": -77.4853454
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 10:05",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   }
 ]
