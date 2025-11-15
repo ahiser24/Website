@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 04:59",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "132100-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 04:46",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -128,5 +115,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5170176,
     "lng": -77.5100332
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 05:28",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2900-BLK HAWTHORNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hawthorne Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5693624,
+    "lng": -77.4434077
   }
 ]
