@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 07:57",
-    "box_no": "Precinct 3",
-    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "4500-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5772002,
-    "lng": -77.4878687
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 08:21",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -91,6 +78,19 @@
     "lng": -77.4391577
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:03",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "5200-BLK WEATHERFORD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Weatherford Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4964051,
+    "lng": -77.490489
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/15/2025 07:23",
     "box_no": "FIRE",
@@ -128,19 +128,6 @@
     "location_township": "Precinct 1",
     "lat": 37.525622,
     "lng": -77.404285
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:03",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "5200-BLK WEATHERFORD RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Weatherford Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4964051,
-    "lng": -77.490489
   },
   {
     "type_general": "RPD",
@@ -183,6 +170,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:10",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "900-BLK GREEN RIDGE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Green Ridge Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4945606,
+    "lng": -77.502083
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 09:32",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
+    "street": "1900-BLK HOPKINS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hopkins Road, Southside",
+    "location_township": "FIRE",
+    "lat": 37.491725,
+    "lng": -77.463688
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/15/2025 09:17",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -196,28 +209,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/15/2025 09:32",
+    "dispatch_time": "11/15/2025 09:38",
     "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "1900-BLK HOPKINS RD",
-    "status": "Enroute",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "3300-BLK CASTLEWOOD RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hopkins Road, Southside",
+    "nearest_intersection": "Castlewood Road",
     "location_township": "FIRE",
-    "lat": 37.491725,
-    "lng": -77.463688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:10",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "900-BLK GREEN RIDGE DR",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Green Ridge Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4945606,
-    "lng": -77.502083
+    "lat": 37.4780439,
+    "lng": -77.4450334
   }
 ]
