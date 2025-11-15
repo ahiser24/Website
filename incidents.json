@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 10:27",
-    "box_no": "Precinct 2",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "3000-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 11:12",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 12:39",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "ROSENEATH RD/W LEIGH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Roseneath Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5648403,
-    "lng": -77.4793039
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 11:44",
     "box_no": "Precinct 4",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5511248,
     "lng": -77.4451238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 12:39",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "ROSENEATH RD/W LEIGH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Roseneath Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5648403,
+    "lng": -77.4793039
   },
   {
     "type_general": "RPD",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 13:46",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "1900-BLK RAVEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Raven Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549938,
-    "lng": -77.421725
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 13:36",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -183,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 13:07",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "300-BLK CALHOUN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Hill Street",
-    "location_township": "Precinct 4",
-    "lat": 37.553913,
-    "lng": -77.43816
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 13:54",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE-EMS",
@@ -206,32 +167,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5482872,
     "lng": -77.4226215
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 07:23",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "TREDEGAR ST/S 5TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tredegar Street",
-    "location_township": "FIRE",
-    "lat": 37.5340124,
-    "lng": -77.4520695
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 13:57",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "1900-BLK PRINCE GEORGE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Prince George Road",
-    "location_township": "FIRE",
-    "lat": 37.526303,
-    "lng": -77.483875
   },
   {
     "type_general": "RPD",
@@ -261,6 +196,45 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/15/2025 13:07",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "300-BLK CALHOUN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Hill Street",
+    "location_township": "Precinct 4",
+    "lat": 37.553913,
+    "lng": -77.43816
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 07:23",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "TREDEGAR ST/S 5TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tredegar Street",
+    "location_township": "FIRE",
+    "lat": 37.5340124,
+    "lng": -77.4520695
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 13:57",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
+    "street": "1900-BLK PRINCE GEORGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Prince George Road",
+    "location_township": "FIRE",
+    "lat": 37.526303,
+    "lng": -77.483875
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/15/2025 14:20",
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -284,6 +258,45 @@
     "location_township": "FIRE",
     "lat": 37.517118,
     "lng": -77.513788
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 14:34",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "1800-BLK P ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "P Street",
+    "location_township": "FIRE",
+    "lat": 37.541579,
+    "lng": -77.419166
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 14:20",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2400-BLK SHEILA LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sheila Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5363096,
+    "lng": -77.5330408
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 14:20",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2400-BLK SHEILA LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sheila Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5363096,
+    "lng": -77.5330408
   },
   {
     "type_general": "RPD",
