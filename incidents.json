@@ -143,19 +143,6 @@
     "lng": -77.4479214
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 03:32",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "N 3RD ST/E LEIGH ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 3rd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5480773,
-    "lng": -77.4352319
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/15/2025 03:32",
     "box_no": "FIRE",
@@ -170,29 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 03:28",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3100-BLK Q ST",
-    "status": "Enroute",
+    "dispatch_time": "11/15/2025 03:32",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "N 3RD ST/E LEIGH ST RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Q Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5352149,
-    "lng": -77.4065935
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 03:34",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @EXIT 74C - I95 SB (BROAD ST)",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "North 3rd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5480773,
+    "lng": -77.4352319
   },
   {
     "type_general": "RPD",
@@ -200,11 +174,37 @@
     "box_no": "Precinct 2",
     "type_specific": "RECKLESS DRIVING , INVESTIGATE",
     "street": "1100-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
     "lat": 37.5052382,
     "lng": -77.4476466
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 03:44",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "HULL STREET RD/ELKHARDT RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.49303,
+    "lng": -77.487645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 03:28",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "2500-BLK Q ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Q Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.538495,
+    "lng": -77.4120703
   }
 ]
