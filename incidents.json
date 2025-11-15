@@ -104,19 +104,6 @@
     "lng": -77.4520695
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 08:50",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "600-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "FIRE",
-    "lat": 37.533836,
-    "lng": -77.4154
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/15/2025 09:03",
     "box_no": "Precinct 2",
@@ -128,5 +115,44 @@
     "location_township": "Precinct 2",
     "lat": 37.4964051,
     "lng": -77.490489
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:17",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1600-BLK CHESTNUT PARK LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chestnut Park Lane",
+    "location_township": "Precinct 4",
+    "lat": 37.5567509,
+    "lng": -77.4276515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:17",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3900-BLK CRESTVIEW RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Crestview Road",
+    "location_township": "Precinct 1",
+    "lat": 37.525622,
+    "lng": -77.404285
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 09:23",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1900-BLK O ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "O Street",
+    "location_township": "FIRE",
+    "lat": 37.5403331,
+    "lng": -77.4187897
   }
 ]
