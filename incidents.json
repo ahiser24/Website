@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 02:09",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "LL(-77:26:38.5441,37:33:58.1795): EST 2513 CHAMBERLAYNE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lng": -77.44404002777779,
-    "lat": 37.56616097222222
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 02:14",
-    "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "W MAIN ST/S ROBINSON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.54586,
-    "lng": -77.4557678
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 02:21",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5510819,
     "lng": -77.407214
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 02:22",
+    "box_no": "Precinct 4",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "900-BLK MYERS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Myers Street",
+    "location_township": "Precinct 4",
+    "lat": 37.56341,
+    "lng": -77.469527
   },
   {
     "type_general": "RPD",
@@ -115,45 +102,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5228096,
     "lng": -77.4368354
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 02:24",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3900-BLK REBECCA RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rebecca Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464706,
-    "lng": -77.485841
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 02:50",
-    "box_no": "Precinct 1",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
-    "street": "1800-BLK P ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "P Street",
-    "location_township": "Precinct 1",
-    "lat": 37.541579,
-    "lng": -77.419166
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 02:22",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "2100-BLK N 29TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.545147,
-    "lng": -77.400271
   },
   {
     "type_general": "RFD",
@@ -208,42 +156,42 @@
     "lng": -77.487645
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 02:49",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2600-BLK CHAMBERLAYNE AVE",
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 03:10",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "2200-BLK CHALFONT DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5668206,
-    "lng": -77.4448967
+    "nearest_intersection": "Chalfont Drive, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4908816,
+    "lng": -77.4654757
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 02:49",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "dispatch_time": "11/15/2025 03:11",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "1600-BLK IDLEWOOD AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5668206,
-    "lng": -77.4448967
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.543983,
+    "lng": -77.462474
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 02:22",
-    "box_no": "Precinct 4",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "900-BLK MYERS ST",
-    "status": "Arrived",
+    "dispatch_time": "11/15/2025 03:11",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "1600-BLK IDLEWOOD AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Myers Street",
-    "location_township": "Precinct 4",
-    "lat": 37.56341,
-    "lng": -77.469527
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.543983,
+    "lng": -77.462474
   }
 ]
