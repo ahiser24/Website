@@ -33,7 +33,7 @@
     "street": "1500-BLK BRUCE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bruce Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.50618,
     "lng": -77.434587
@@ -44,25 +44,12 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 17:43",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "3800-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
   },
   {
     "type_general": "RPD",
@@ -78,32 +65,6 @@
     "lng": -77.4474367
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 18:03",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "600-BLK E GRACE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 18:03",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "600-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/14/2025 18:00",
     "box_no": "DPR",
@@ -111,10 +72,36 @@
     "street": "5000-BLK GOVERNMENT RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Government Road",
+    "nearest_intersection": "",
     "location_township": "DPR",
-    "lat": 37.5157001,
-    "lng": -77.3941068
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 18:03",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "600-BLK E GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": 37.5415708,
+    "lng": -77.4366965
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 18:03",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "600-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5415708,
+    "lng": -77.4366965
   },
   {
     "type_general": "RPD",
@@ -124,7 +111,7 @@
     "street": "E HILL ST/ST JAMES ST RICH",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Hill Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.5534628,
     "lng": -77.4331417
@@ -141,19 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5534628,
     "lng": -77.4331417
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:43",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "100-BLK W MARSHALL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.547254,
-    "lng": -77.4419569
   },
   {
     "type_general": "RFD",
@@ -163,36 +137,23 @@
     "street": "1500-BLK YEARDLEY DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Yeardley Drive",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.523824,
-    "lng": -77.4997233
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:46",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "S SHEPPARD ST/GRAYLAND AVE RICH",
-    "status": "Enroute",
+    "dispatch_time": "11/14/2025 18:43",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "100-BLK W MARSHALL ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Sheppard Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5513382,
-    "lng": -77.4794802
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/14/2025 18:49",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "10200-BLK SIOUX RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Sioux Road",
-    "location_township": "FIRE",
-    "lat": 37.5522498,
-    "lng": -77.58392
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -202,22 +163,48 @@
     "street": "1200-BLK N 30TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.536977,
     "lng": -77.4067976
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/14/2025 18:40",
+    "dispatch_time": "11/14/2025 18:46",
     "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "0-BLK N ARTHUR ASHE BLVD",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S SHEPPARD ST/GRAYLAND AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5748547,
-    "lng": -77.4635584
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/14/2025 18:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "10200-BLK SIOUX RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": 37.5522498,
+    "lng": -77.58392
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/14/2025 18:53",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1400-BLK IVYMOUNT RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ivymount Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4845566,
+    "lng": -77.5123475
   }
 ]
