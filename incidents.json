@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 08:21",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 08:48",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -83,12 +70,25 @@
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "5200-BLK WEATHERFORD RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Weatherford Road",
     "location_township": "Precinct 2",
     "lat": 37.4964051,
     "lng": -77.490489
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:10",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "900-BLK GREEN RIDGE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Green Ridge Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4945606,
+    "lng": -77.502083
   },
   {
     "type_general": "RFD",
@@ -102,19 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.5340124,
     "lng": -77.4520695
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 09:23",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1900-BLK O ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "O Street",
-    "location_township": "FIRE",
-    "lat": 37.5403331,
-    "lng": -77.4187897
   },
   {
     "type_general": "RPD",
@@ -169,19 +156,6 @@
     "lng": null
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:10",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "900-BLK GREEN RIDGE DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Green Ridge Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4945606,
-    "lng": -77.502083
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/15/2025 09:32",
     "box_no": "FIRE",
@@ -219,5 +193,44 @@
     "location_township": "FIRE",
     "lat": 37.4780439,
     "lng": -77.4450334
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:42",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "800-BLK PERRY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Perry Street",
+    "location_township": "Precinct 1",
+    "lat": 37.525285,
+    "lng": -77.443659
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:48",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2900-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5649909,
+    "lng": -77.4697197
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:48",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2900-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5649909,
+    "lng": -77.4697197
   }
 ]
