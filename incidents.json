@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 04:46",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "2700-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5620282,
-    "lng": -77.468756
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 05:30",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -79,48 +66,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 07:10",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 07:10",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 06:44",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "W LABURNUM AVE/BROOK RD RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Laburnum Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5840069,
-    "lng": -77.4708596
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 07:08",
     "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "2000-BLK FAIRFAX AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -128,5 +76,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5091269,
     "lng": -77.4429599
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 07:23",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "TREDEGAR ST/S 5TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tredegar Street",
+    "location_township": "FIRE",
+    "lat": 37.5340124,
+    "lng": -77.4520695
   }
 ]
