@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 03:44",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "HULL STREET RD/ELKHARDT RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.49303,
-    "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 06:40",
     "box_no": "Precinct 3",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -78,6 +65,32 @@
     "lng": -77.475718
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 08:58",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "100-BLK W DUVAL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Duval Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5505469,
+    "lng": -77.4391577
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 08:58",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "100-BLK W DUVAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Duval Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5505469,
+    "lng": -77.4391577
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/15/2025 07:23",
     "box_no": "FIRE",
@@ -105,54 +118,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 08:58",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "100-BLK W DUVAL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Duval Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5505469,
-    "lng": -77.4391577
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 08:58",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "100-BLK W DUVAL ST",
+    "dispatch_time": "11/15/2025 09:03",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "5200-BLK WEATHERFORD RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Duval Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5505469,
-    "lng": -77.4391577
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:00",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1700-BLK MACTAVISH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Norfolk Street",
-    "location_township": "Precinct 4",
-    "lat": 37.570433,
-    "lng": -77.471094
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 08:50",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "600-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.533836,
-    "lng": -77.4154
+    "nearest_intersection": "Weatherford Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4964051,
+    "lng": -77.490489
   }
 ]
