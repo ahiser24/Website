@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 04:56",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 05:30",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -102,5 +89,18 @@
     "location_township": "Precinct 2",
     "lat": 37.464094,
     "lng": -77.442993
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 04:56",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4961097,
+    "lng": -77.4759645
   }
 ]
