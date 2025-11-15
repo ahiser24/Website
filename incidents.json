@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 04:56",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 05:30",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -105,15 +92,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 06:36",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1400-BLK COALTER ST",
+    "dispatch_time": "11/15/2025 06:48",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "6300-BLK MIDLOTHIAN TPKE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.545688,
-    "lng": -77.419866
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5046527,
+    "lng": -77.5119423
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 06:47",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "2300-BLK SUSSEX ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sussex Street",
+    "location_township": "FIRE",
+    "lat": 37.5553932,
+    "lng": -77.4187257
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 06:40",
+    "box_no": "Precinct 3",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "2600-BLK GROVE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5543423,
+    "lng": -77.4720912
   }
 ]
