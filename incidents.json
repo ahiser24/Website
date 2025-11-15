@@ -209,58 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 14:57",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "5300-BLK BRYCE LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bryce Lane, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4844244,
-    "lng": -77.4875511
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 14:57",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "5300-BLK BRYCE LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bryce Lane, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4844244,
-    "lng": -77.4875511
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 14:57",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "5300-BLK BRYCE LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bryce Lane, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4844244,
-    "lng": -77.4875511
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 14:59",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "RICH: @EXIT - POWHITE PKWY NB (CHIPPENHAM PKWY NB)",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 15:13",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -287,32 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 15:27",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1200-BLK OAK ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Oak Street",
-    "location_township": "Precinct 4",
-    "lat": 37.556667,
-    "lng": -77.443224
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 15:27",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1200-BLK OAK ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Oak Street",
-    "location_township": "Precinct 4",
-    "lat": 37.556667,
-    "lng": -77.443224
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 15:24",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
@@ -323,19 +245,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4829472,
     "lng": -77.4998228
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 15:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , EXPOSURE TO HEAT OR COLD",
-    "street": "101-BLK W 4TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 4th Street",
-    "location_township": "FIRE",
-    "lat": 37.525998,
-    "lng": -77.438579
   },
   {
     "type_general": "RFD",
@@ -362,5 +271,31 @@
     "location_township": "FIRE",
     "lat": 37.510827,
     "lng": -77.457654
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 15:37",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "300-BLK N ADAMS ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.546364,
+    "lng": -77.442794
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 15:23",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:32:30.7321,37:33:36.3635): EST 8174 RIVERSIDE DR RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lng": -77.54187002777778,
+    "lat": 37.560100972222216
   }
 ]
