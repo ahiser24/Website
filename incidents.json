@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 10:10",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 10:15",
     "box_no": "Precinct 3",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -89,6 +76,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4835974,
     "lng": -77.444674
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 07:23",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "TREDEGAR ST/S 5TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tredegar Street",
+    "location_township": "FIRE",
+    "lat": 37.5340124,
+    "lng": -77.4520695
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 11:14",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT - EMS",
-    "street": "400-BLK W 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 25th Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5191398,
-    "lng": -77.4585623
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 11:25",
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 11:07",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "SPAINE ST/E BROAD ROCK RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Spaine Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.501856,
-    "lng": -77.470475
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 11:27",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -193,19 +167,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5781332,
     "lng": -77.4942285
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 11:34",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "N LOMBARDY ST/W LEIGH ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5558128,
-    "lng": -77.4545828
   },
   {
     "type_general": "RPD",
@@ -234,29 +195,29 @@
     "lng": -77.525109
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 07:23",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "TREDEGAR ST/S 5TH ST RICH",
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 11:14",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT - EMS",
+    "street": "400-BLK W 25TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Tredegar Street",
-    "location_township": "FIRE",
-    "lat": 37.5340124,
-    "lng": -77.4520695
+    "nearest_intersection": "West 25th Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5191398,
+    "lng": -77.4585623
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 10:58",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
-    "street": "KESWICK AVE/HARWOOD ST RICH",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 11:43",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "600-BLK ST JAMES ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Keswick Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5048849,
-    "lng": -77.4401401
+    "nearest_intersection": "Saint James Street",
+    "location_township": "Precinct 4",
+    "lat": 37.548677,
+    "lng": -77.439248
   }
 ]
