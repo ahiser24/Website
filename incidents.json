@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 04:10",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5393687,
-    "lng": -77.4376041
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 04:37",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -79,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 05:30",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "4600-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.464094,
-    "lng": -77.442993
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 04:56",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -102,5 +76,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4961097,
     "lng": -77.4759645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 05:30",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
   }
 ]
