@@ -196,11 +196,37 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:48",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2900-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5649909,
+    "lng": -77.4697197
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 09:48",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2900-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5649909,
+    "lng": -77.4697197
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/15/2025 09:42",
     "box_no": "Precinct 1",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
     "street": "800-BLK PERRY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Perry Street",
     "location_township": "Precinct 1",
@@ -208,29 +234,16 @@
     "lng": -77.443659
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:48",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2900-BLK W CLAY ST",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 09:50",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
+    "street": "200-BLK MAURY ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5649909,
-    "lng": -77.4697197
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 09:48",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2900-BLK W CLAY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5649909,
-    "lng": -77.4697197
+    "nearest_intersection": "Maury Street",
+    "location_township": "FIRE",
+    "lat": 37.522016,
+    "lng": -77.433606
   }
 ]
