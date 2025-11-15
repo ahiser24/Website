@@ -102,5 +102,18 @@
     "location_township": "Precinct 2",
     "lat": 37.476124,
     "lng": -77.4760982
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 05:50",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2200-BLK COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492149,
+    "lng": -77.433253
   }
 ]
