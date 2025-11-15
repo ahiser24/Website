@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 14:42",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "W 22ND ST/RIVERSIDE DR RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 22nd Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5189448,
-    "lng": -77.454395
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 14:22",
     "box_no": "Precinct 3",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -209,6 +196,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/15/2025 14:42",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W 22ND ST/RIVERSIDE DR RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 22nd Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5189448,
+    "lng": -77.454395
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/15/2025 14:57",
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -260,32 +260,6 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 15:16",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2200-BLK FAIRFIELD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5482346,
-    "lng": -77.4074568
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 15:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , EXPOSURE TO HEAT OR COLD",
-    "street": "101-BLK W 4TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West 4th Street",
-    "location_township": "FIRE",
-    "lat": 37.525998,
-    "lng": -77.438579
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/15/2025 15:13",
     "box_no": "Precinct 4",
@@ -310,5 +284,83 @@
     "location_township": "Precinct 4",
     "lat": 37.5398843,
     "lng": -77.4385002
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 15:27",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1200-BLK OAK ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Oak Street",
+    "location_township": "Precinct 4",
+    "lat": 37.556667,
+    "lng": -77.443224
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 15:27",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1200-BLK OAK ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Oak Street",
+    "location_township": "Precinct 4",
+    "lat": 37.556667,
+    "lng": -77.443224
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 15:24",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "5800-BLK ORCUTT LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4829472,
+    "lng": -77.4998228
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 15:22",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , EXPOSURE TO HEAT OR COLD",
+    "street": "101-BLK W 4TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 4th Street",
+    "location_township": "FIRE",
+    "lat": 37.525998,
+    "lng": -77.438579
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 15:25",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1200-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.5379459,
+    "lng": -77.408927
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 15:30",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2800-BLK DECATUR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Decatur Street, Southside",
+    "location_township": "FIRE",
+    "lat": 37.510827,
+    "lng": -77.457654
   }
 ]
