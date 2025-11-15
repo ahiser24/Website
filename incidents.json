@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 13:12",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "5300-BLK SNOWDEN LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dunbar Street, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.576863,
-    "lng": -77.507972
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 13:35",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5606822,
     "lng": -77.4227901
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 13:36",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2300-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5600535,
+    "lng": -77.463328
   },
   {
     "type_general": "RPD",
@@ -261,54 +261,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 13:36",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2300-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5600535,
-    "lng": -77.463328
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 13:46",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "300-BLK N BELVIDERE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Belvidere Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511248,
-    "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/15/2025 13:46",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "300-BLK N BELVIDERE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Belvidere Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511248,
-    "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 13:46",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "1900-BLK RAVEN ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Raven Street",
     "location_township": "Precinct 1",
     "lat": 37.549938,
     "lng": -77.421725
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 13:49",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2200-BLK CARRINGTON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Carrington Street",
+    "location_township": "Precinct 1",
+    "lat": 37.539489,
+    "lng": -77.4154184
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 13:49",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2200-BLK CARRINGTON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Carrington Street",
+    "location_township": "Precinct 1",
+    "lat": 37.539489,
+    "lng": -77.4154184
   }
 ]
