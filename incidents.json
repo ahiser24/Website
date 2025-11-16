@@ -118,42 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 05:29",
+    "dispatch_time": "11/16/2025 05:39",
     "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.5668206,
-    "lng": -77.4448967
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 05:29",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5668206,
-    "lng": -77.4448967
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 05:41",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "2100-BLK RIVERSIDE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5241719,
-    "lng": -77.4561381
+    "lat": 37.5884889,
+    "lng": -77.4485395
   },
   {
     "type_general": "RPD",
@@ -167,6 +141,19 @@
     "location_township": "Precinct 1",
     "lat": 37.543765,
     "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 06:17",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "7500-BLK ANDER CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ander Court",
+    "location_township": "Precinct 3",
+    "lat": 37.535521,
+    "lng": -77.534459
   },
   {
     "type_general": "RFD",
@@ -183,15 +170,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/16/2025 06:13",
+    "dispatch_time": "11/16/2025 06:22",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHOKING",
-    "street": "6500-BLK THREE CHOPT RD",
-    "status": "Arrived",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "3400-BLK WALMSLEY BLVD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Three Chopt Road, West End",
+    "nearest_intersection": "Angus Road",
     "location_township": "FIRE",
-    "lat": 37.581466,
-    "lng": -77.529597
+    "lat": 37.464799,
+    "lng": -77.460475
   }
 ]
