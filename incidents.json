@@ -196,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 08:48",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1300-BLK MCDONOUGH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "McDonough Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5235784,
-    "lng": -77.4484232
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 08:52",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -245,5 +232,44 @@
     "location_township": "Precinct 4",
     "lat": 37.54306,
     "lng": -77.4317716
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 08:48",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1300-BLK MCDONOUGH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "McDonough Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5235784,
+    "lng": -77.4484232
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 09:05",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3900-BLK E BROAD ROCK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5010195,
+    "lng": -77.4692833
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 09:01",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "HIOAKS RD/JAHNKE RD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5149743,
+    "lng": -77.5244606
   }
 ]
