@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 22:24",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2300-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.564063,
-    "lng": -77.4440996
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 23:13",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC PURSUIT , OFFICER-INITIATED",
@@ -89,19 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5337736,
     "lng": -77.4268235
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 00:05",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2000-BLK WILLIAMSBURG RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5167464,
-    "lng": -77.3899608
   },
   {
     "type_general": "RPD",
@@ -135,7 +109,7 @@
     "box_no": "Precinct 2",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
     "street": "2900-BLK MATISSE LN",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Matisse Lane",
     "location_township": "Precinct 2",
@@ -146,7 +120,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/16/2025 01:23",
     "box_no": "Precinct 4",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
     "street": "3300-BLK DILL AVE",
     "status": "Dispatched",
     "cross_street": "",
@@ -159,7 +133,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/16/2025 01:23",
     "box_no": "Precinct 4",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
     "street": "3300-BLK DILL AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -167,6 +141,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5719648,
     "lng": -77.4119515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 01:23",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "300-BLK S LAUREL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Laurel Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5417098,
+    "lng": -77.4518648
   },
   {
     "type_general": "RPD",
@@ -232,32 +219,6 @@
     "location_township": "FIRE",
     "lat": 37.508843,
     "lng": -77.476484
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 01:19",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
-    "street": "2900-BLK MATISSE LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Matisse Lane",
-    "location_township": "FIRE",
-    "lat": 37.4734535,
-    "lng": -77.4986449
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 01:19",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
-    "street": "2900-BLK MATISSE LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Matisse Lane",
-    "location_township": "FIRE",
-    "lat": 37.4734535,
-    "lng": -77.4986449
   },
   {
     "type_general": "RFD",
