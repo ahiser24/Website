@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 22:48",
-    "box_no": "Precinct 2",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "5600-BLK PETOSKEY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Petoskey Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4988816,
-    "lng": -77.5008037
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 22:55",
     "box_no": "Precinct 3",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -174,51 +161,12 @@
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "2000-BLK WILLIAMSBURG RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Williamsburg Road, East End",
     "location_township": "Precinct 1",
     "lat": 37.5167464,
     "lng": -77.3899608
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 00:15",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3200-BLK HANES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanes Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.574359,
-    "lng": -77.4351771
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 00:15",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3200-BLK HANES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanes Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.574359,
-    "lng": -77.4351771
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 00:15",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3200-BLK HANES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanes Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.574359,
-    "lng": -77.4351771
   },
   {
     "type_general": "RPD",
@@ -232,19 +180,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5545,
     "lng": -77.436362
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 00:22",
-    "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "3200-BLK HANES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanes Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.574359,
-    "lng": -77.4351771
   },
   {
     "type_general": "RPD",
@@ -274,16 +209,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 00:34",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "200-BLK E CARY ST",
-    "status": "Enroute",
+    "dispatch_time": "11/16/2025 00:41",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5411631,
-    "lng": -77.443185
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 00:41",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
   },
   {
     "type_general": "RFD",
@@ -349,18 +297,5 @@
     "location_township": "FIRE",
     "lat": 37.5347436,
     "lng": -77.4272969
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 00:29",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "1000-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "FIRE",
-    "lat": 37.601975,
-    "lng": -77.450736
   }
 ]
