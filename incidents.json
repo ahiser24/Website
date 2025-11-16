@@ -53,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 11:41",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2600-BLK SEMINARY AVE",
+    "dispatch_time": "11/16/2025 13:31",
+    "box_no": "Precinct 2",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "6500-BLK WORTHINGTON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Seminary Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.566608,
-    "lng": -77.4464624
+    "nearest_intersection": "Worthington Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4944343,
+    "lng": -77.5145288
   },
   {
     "type_general": "RPD",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.553667,
     "lng": -77.4220683
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 13:31",
-    "box_no": "Precinct 2",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "6500-BLK WORTHINGTON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Worthington Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4944343,
-    "lng": -77.5145288
   },
   {
     "type_general": "RPD",
@@ -141,6 +128,19 @@
     "location_township": "Precinct 1",
     "lat": 37.536381,
     "lng": -77.424125
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:09",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1700-BLK WHITEHEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greenbank Road",
+    "location_township": "Precinct 2",
+    "lat": 37.484446,
+    "lng": -77.511523
   },
   {
     "type_general": "RPD",
@@ -209,19 +209,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/16/2025 14:00",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
-    "street": "W 26TH ST/SEMMES AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 26th Street",
-    "location_township": "FIRE",
-    "lat": 37.5213174,
-    "lng": -77.4609898
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/16/2025 14:09",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
@@ -232,19 +219,6 @@
     "location_township": "FIRE",
     "lat": 37.5791153,
     "lng": -77.4602073
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:09",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1700-BLK WHITEHEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greenbank Road",
-    "location_township": "Precinct 2",
-    "lat": 37.484446,
-    "lng": -77.511523
   },
   {
     "type_general": "RFD",
@@ -284,5 +258,31 @@
     "location_township": "FIRE",
     "lat": 37.492271,
     "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:28",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "W 26TH ST/SEMMES AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 26th Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5213174,
+    "lng": -77.4609898
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 14:00",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
+    "street": "W 26TH ST/SEMMES AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 26th Street",
+    "location_township": "FIRE",
+    "lat": 37.5213174,
+    "lng": -77.4609898
   }
 ]
