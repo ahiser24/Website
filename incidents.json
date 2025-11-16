@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 11:33",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4300-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4669702,
-    "lng": -77.4434064
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 11:41",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -208,6 +195,19 @@
     "lng": -77.4853454
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 11:47",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "WESTOWER DR/OAKHURST LN RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5235476,
+    "lng": -77.5052403
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/16/2025 11:37",
     "box_no": "FIRE",
@@ -222,67 +222,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 11:47",
+    "dispatch_time": "11/16/2025 12:02",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "WESTOWER DR/OAKHURST LN RICH",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "OLD ORCHARD RD/W HILLCREST AVE RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westower Drive",
+    "nearest_intersection": "Old Orchard Road, West End",
     "location_township": "Precinct 3",
-    "lat": 37.5235476,
-    "lng": -77.5052403
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 11:47",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "WESTOWER DR/OAKHURST LN RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westower Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5235476,
-    "lng": -77.5052403
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 11:52",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S BELVIDERE ST RICH:EST LL(-77.4508,37.5298)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 11:52",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S BELVIDERE ST RICH:EST LL(-77.4508,37.5298)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 11:54",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "200-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.547,
-    "lng": -77.4435632
+    "lat": 37.5643544,
+    "lng": -77.5117986
   }
 ]
