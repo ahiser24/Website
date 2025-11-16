@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:37",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "6200-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 14:56",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -180,19 +167,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5292009,
     "lng": -77.4245052
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:34",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "6100-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5048824,
-    "lng": -77.5083884
   },
   {
     "type_general": "RPD",
@@ -221,6 +195,32 @@
     "lng": -77.4193382
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:37",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6200-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:34",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "6100-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5048824,
+    "lng": -77.5083884
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/16/2025 13:31",
     "box_no": "FIRE",
@@ -245,19 +245,6 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 15:00",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , WIRES ARCING",
-    "street": "2300-BLK OAKLAND PL",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Oakland Place",
-    "location_township": "FIRE",
-    "lat": 37.4977281,
-    "lng": -77.4406685
   },
   {
     "type_general": "RPD",
@@ -300,19 +287,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 15:32",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "N 28TH ST/NINE MILE RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5407104,
-    "lng": -77.4058116
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 15:29",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -336,19 +310,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5442113,
     "lng": -77.4388734
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 15:32",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
   },
   {
     "type_general": "RPD",
@@ -429,32 +390,6 @@
     "lng": -77.4660856
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 16:01",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3400-BLK W CLAY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5694404,
-    "lng": -77.4748981
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 15:47",
-    "box_no": "Precinct 3",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5035598,
-    "lng": -77.5157461
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/16/2025 15:49",
     "box_no": "FIRE",
@@ -468,16 +403,81 @@
     "lng": -77.444674
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 16:01",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "W 30TH ST/BAINBRIDGE ST RICH",
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 15:32",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "N 28TH ST/NINE MILE RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West 30th Street",
+    "nearest_intersection": "North 28th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5407104,
+    "lng": -77.4058116
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 15:32",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5070429,
+    "lng": -77.4949501
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 16:12",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1700-BLK N 20TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5465473,
+    "lng": -77.4123402
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 16:08",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "COVENTRY RD/BERKSHIRE RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coventry Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5603109,
+    "lng": -77.5024888
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 16:07",
+    "box_no": "FIRE",
+    "type_specific": "# OTHER , SINGLE COMPANY",
+    "street": "200-BLK HOSPITAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hospital Street",
     "location_township": "FIRE",
-    "lat": 37.5203529,
-    "lng": -77.4660856
+    "lat": 37.5533597,
+    "lng": -77.4314478
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 16:11",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1300-BLK CARLISLE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carlisle Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5170038,
+    "lng": -77.401284
   }
 ]
