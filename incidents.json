@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 01:23",
-    "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "3300-BLK DILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dill Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5719648,
-    "lng": -77.4119515
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 01:54",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -213,7 +200,7 @@
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "3000-BLK LAURELBROOK DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Laurelbrook Drive, Southside",
     "location_township": "Precinct 2",
@@ -245,18 +232,5 @@
     "location_township": "FIRE",
     "lat": 37.508843,
     "lng": -77.476484
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 03:25",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "1400-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.5542325,
-    "lng": -77.4534865
   }
 ]
