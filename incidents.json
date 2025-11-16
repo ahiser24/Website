@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 07:16",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3600-BLK NOBLE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Noble Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5816371,
-    "lng": -77.4431702
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 07:48",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 4",
     "lat": 37.542185,
     "lng": -77.450505
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 07:19",
+    "box_no": "Precinct 2",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "RICHMOND HWY/COURTLAND ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4835974,
+    "lng": -77.444674
   },
   {
     "type_general": "RPD",
@@ -195,16 +195,29 @@
     "lng": -77.4397922
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 07:56",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "4300-BLK CRUTCHFIELD ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 08:14",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Norcroft Drive",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 08:20",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "2500-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
     "location_township": "FIRE",
-    "lat": 37.5107675,
-    "lng": -77.4859506
+    "lat": 37.5618681,
+    "lng": -77.4650329
   }
 ]
