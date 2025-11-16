@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:07",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "6100-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:07",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "6100-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 13:19",
     "box_no": "DPR",
     "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
@@ -89,6 +63,45 @@
     "location_township": "DPR",
     "lat": 37.5522621,
     "lng": -77.4544894
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 10:31",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "5000-BLK E SEMINARY AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Seminary Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5995994,
+    "lng": -77.4515421
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:07",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6100-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:07",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6100-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
   },
   {
     "type_general": "RPD",
@@ -193,19 +206,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5048824,
     "lng": -77.5083884
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 15:13",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "300-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5442113,
-    "lng": -77.4388734
   },
   {
     "type_general": "RPD",
@@ -326,6 +326,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/16/2025 15:13",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "300-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5442113,
+    "lng": -77.4388734
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/16/2025 15:32",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -364,17 +377,30 @@
     "lng": -77.5157461
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 15:49",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SPRINKLER/WATERFLOW",
-    "street": "1300-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 15:52",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3100-BLK WOODROW AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "FIRE",
-    "lat": 37.4835974,
-    "lng": -77.444674
+    "nearest_intersection": "Woodrow Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5729346,
+    "lng": -77.4293933
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 15:52",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3100-BLK WOODROW AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Woodrow Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5729346,
+    "lng": -77.4293933
   },
   {
     "type_general": "RPD",
@@ -388,5 +414,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5563785,
     "lng": -77.4391955
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 15:49",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SPRINKLER/WATERFLOW",
+    "street": "1300-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "FIRE",
+    "lat": 37.4835974,
+    "lng": -77.444674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 15:38",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "3500-BLK FOREST HILL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.515447,
+    "lng": -77.470866
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 15:20",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "SUMMIT AVE/W CLAY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Summit Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.566969,
+    "lng": -77.4714596
   }
 ]
