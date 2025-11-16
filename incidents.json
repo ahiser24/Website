@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 12:20",
-    "box_no": "Precinct 4",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "600-BLK E LABURNUM AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Rural Drive",
-    "location_township": "Precinct 4",
-    "lat": 37.5922778,
-    "lng": -77.4193382
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 11:34",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -221,6 +208,19 @@
     "lng": -77.5115386
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 12:20",
+    "box_no": "Precinct 4",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "600-BLK E LABURNUM AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rural Drive",
+    "location_township": "Precinct 4",
+    "lat": 37.5922778,
+    "lng": -77.4193382
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/16/2025 12:30",
     "box_no": "FIRE",
@@ -234,17 +234,17 @@
     "lng": -77.5921092
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 12:48",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "5600-BLK CHARLEVOIX CT",
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 12:58",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "300-BLK VIRGINIA ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Charlevoix Court",
-    "location_township": "FIRE",
-    "lat": 37.4999424,
-    "lng": -77.5010213
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5474173,
+    "lng": -77.4444972
   },
   {
     "type_general": "RPD",
@@ -252,7 +252,7 @@
     "box_no": "Precinct 3",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
     "street": "7500-BLK CARNABY CT",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Carnaby Court",
     "location_township": "Precinct 3",
@@ -261,15 +261,54 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/16/2025 13:06",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3700-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5580018,
+    "lng": -77.4624337
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 13:07",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "200-BLK HOSPITAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hospital Street",
+    "location_township": "FIRE",
+    "lat": 37.5533597,
+    "lng": -77.4314478
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/16/2025 12:40",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "W CARY ST/S BELVIDERE ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Cary Street",
     "location_township": "Precinct 4",
     "lat": 37.5540735,
     "lng": -77.4832405
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 13:02",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "3700-BLK CUSTIS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Custis Road",
+    "location_township": "FIRE",
+    "lat": 37.5473521,
+    "lng": -77.537273
   }
 ]
