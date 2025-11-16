@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 17:32",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "BROOKLAND PKWY/CHATHAM RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brookland Parkway, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.572576,
-    "lng": -77.4517843
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 17:59",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -128,32 +115,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5287094,
     "lng": -77.5063627
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 18:16",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "2300-BLK PHAUP ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Phaup Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5502725,
-    "lng": -77.4044818
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 17:15",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "700-BLK HOLLY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Pine Street",
-    "location_township": "Precinct 4",
-    "lat": 37.536571,
-    "lng": -77.450663
   },
   {
     "type_general": "RPD",
@@ -183,16 +144,55 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 18:27",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1000-BLK WESTWOOD AVE",
+    "dispatch_time": "11/16/2025 18:16",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "2300-BLK PHAUP ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Brook Road, Northside",
+    "nearest_intersection": "Phaup Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5502725,
+    "lng": -77.4044818
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 17:15",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "700-BLK HOLLY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Pine Street",
     "location_township": "Precinct 4",
-    "lat": 37.57822,
-    "lng": -77.446449
+    "lat": 37.536571,
+    "lng": -77.450663
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 17:32",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "BROOKLAND PKWY/CHATHAM RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Brookland Parkway, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.572576,
+    "lng": -77.4517843
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 18:44",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2000-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5573327,
+    "lng": -77.4604978
   },
   {
     "type_general": "RFD",
@@ -232,5 +232,31 @@
     "location_township": "FIRE",
     "lat": 37.5529551,
     "lng": -77.457496
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 18:46",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "5300-BLK BLUE RIDGE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Blue Ridge Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.511306,
+    "lng": -77.394329
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 18:46",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "5300-BLK BLUE RIDGE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Blue Ridge Avenue",
+    "location_township": "FIRE",
+    "lat": 37.511306,
+    "lng": -77.394329
   }
 ]
