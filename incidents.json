@@ -14,6 +14,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/15/2025 17:45",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3600-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Walton Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.581665,
+    "lng": -77.446998
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/15/2025 20:52",
     "box_no": "Precinct 1",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
@@ -24,6 +37,19 @@
     "location_township": "Precinct 1",
     "lat": 37.545028,
     "lng": -77.415759
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 21:19",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "E LABURNUM AVE/PEMBERTON AVE HENR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
   },
   {
     "type_general": "RPD",
@@ -135,7 +161,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "OVERBY BEND RD/RICHMOND HENRICO TPKE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
@@ -248,42 +274,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 02:33",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 18TH ST/E MAIN ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337736,
-    "lng": -77.4268235
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 02:33",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 18TH ST/E MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337736,
-    "lng": -77.4268235
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 02:37",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 02:56",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "100-BLK VIRGINIA ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Virginia Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5346376,
+    "lng": -77.433185
   },
   {
     "type_general": "RFD",
@@ -310,57 +323,5 @@
     "location_township": "FIRE",
     "lat": 37.508843,
     "lng": -77.476484
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 02:28",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , PERSON TRAPPED",
-    "street": "N 4TH ST/E MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 4th Street",
-    "location_township": "FIRE",
-    "lat": 37.5421812,
-    "lng": -77.4395927
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 02:42",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "100-BLK VIRGINIA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Virginia Street",
-    "location_township": "FIRE",
-    "lat": 37.5346376,
-    "lng": -77.433185
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 02:49",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2800-BLK FAIRFIELD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5480463,
-    "lng": -77.4062874
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 02:53",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "3500-BLK HANOVER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5599516,
-    "lng": -77.4840751
   }
 ]
