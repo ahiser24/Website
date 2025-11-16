@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 23:52",
-    "box_no": "Precinct 1",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "N 18TH ST/E MAIN ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337736,
-    "lng": -77.4268235
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 02:28",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -76,6 +63,32 @@
     "location_township": "Precinct 4",
     "lat": 37.5421812,
     "lng": -77.4395927
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/15/2025 23:52",
+    "box_no": "Precinct 1",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "N 18TH ST/E MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5337736,
+    "lng": -77.4268235
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/15/2025 18:00",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "0-BLK N LAUREL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "FIRE",
+    "lat": 37.5465072,
+    "lng": -77.4515552
   },
   {
     "type_general": "RPD",
@@ -117,29 +130,16 @@
     "lng": -77.534459
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 18:00",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "0-BLK N LAUREL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "FIRE",
-    "lat": 37.5465072,
-    "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 06:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "3400-BLK WALMSLEY BLVD",
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 06:39",
+    "box_no": "Precinct 1",
+    "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
+    "street": "2100-BLK HALIFAX AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "FIRE",
-    "lat": 37.464799,
-    "lng": -77.460475
+    "nearest_intersection": "Halifax Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5069366,
+    "lng": -77.4424454
   }
 ]
