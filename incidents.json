@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/15/2025 20:52",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "1400-BLK ROGERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rogers Street",
-    "location_township": "Precinct 1",
-    "lat": 37.545028,
-    "lng": -77.415759
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 21:46",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -37,6 +24,32 @@
     "location_township": "Precinct 2",
     "lat": 37.508843,
     "lng": -77.476484
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 06:44",
+    "box_no": "Precinct 4",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "3400-BLK MOORE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Moore Street",
+    "location_township": "Precinct 4",
+    "lat": 37.570572,
+    "lng": -77.473047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 06:44",
+    "box_no": "Precinct 4",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "3400-BLK MOORE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Moore Street",
+    "location_township": "Precinct 4",
+    "lat": 37.570572,
+    "lng": -77.473047
   },
   {
     "type_general": "RPD",
@@ -76,32 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5063039,
     "lng": -77.4434776
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 06:44",
-    "box_no": "Precinct 4",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "3400-BLK MOORE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Moore Street",
-    "location_township": "Precinct 4",
-    "lat": 37.570572,
-    "lng": -77.473047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 06:44",
-    "box_no": "Precinct 4",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "3400-BLK MOORE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Moore Street",
-    "location_township": "Precinct 4",
-    "lat": 37.570572,
-    "lng": -77.473047
   },
   {
     "type_general": "RPD",
@@ -157,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 07:19",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "4000-BLK CASTLEWOOD RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Castlewood Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4708067,
-    "lng": -77.4457113
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 08:37",
     "box_no": "Precinct 2",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -180,19 +154,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5410235,
     "lng": -77.4292888
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 08:14",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1100-BLK W GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5522621,
-    "lng": -77.4544894
   },
   {
     "type_general": "RPD",
@@ -209,6 +170,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/16/2025 07:19",
+    "box_no": "Precinct 2",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "4000-BLK CASTLEWOOD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Castlewood Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4708067,
+    "lng": -77.4457113
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 08:14",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1100-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5522621,
+    "lng": -77.4544894
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/16/2025 08:48",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -219,5 +206,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5235784,
     "lng": -77.4484232
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 08:52",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "POWHITE/FOREST HILL AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5391298,
+    "lng": -77.4961526
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 08:52",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , PERSON TRAPPED",
+    "street": "POWHITE/FOREST HILL AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "FIRE",
+    "lat": 37.5391298,
+    "lng": -77.4961526
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 08:52",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "N 9TH ST/E LEIGH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 9th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.54306,
+    "lng": -77.4317716
   }
 ]
