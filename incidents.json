@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 01:48",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2500-BLK BRADY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brady Street",
-    "location_township": "Precinct 2",
-    "lat": 37.4904019,
-    "lng": -77.4438339
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 01:54",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -131,29 +118,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 04:08",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "700-BLK W BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5724275,
-    "lng": -77.4487587
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 04:15",
     "box_no": "Precinct 2",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
     "street": "2500-BLK BRADY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Brady Street",
     "location_township": "Precinct 2",
     "lat": 37.4904019,
     "lng": -77.4438339
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 04:28",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "3700-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5813866,
+    "lng": -77.4340996
   },
   {
     "type_general": "RFD",
@@ -180,31 +167,5 @@
     "location_township": "FIRE",
     "lat": 37.508843,
     "lng": -77.476484
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 04:15",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "4700-BLK KING WILLIAM RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "King William Road",
-    "location_township": "FIRE",
-    "lat": 37.523011,
-    "lng": -77.4851162
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 04:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "200-BLK GREEN COVE DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Green Cove Drive",
-    "location_township": "FIRE",
-    "lat": 37.5049548,
-    "lng": -77.5154213
   }
 ]
