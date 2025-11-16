@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:02",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "5500-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5727185,
-    "lng": -77.5141309
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 14:07",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -89,6 +76,19 @@
     "location_township": "Precinct 2",
     "lat": 37.492271,
     "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:08",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "3100-BLK WOODROW AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Woodrow Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5729346,
+    "lng": -77.4293933
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:42",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3500-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5799327,
-    "lng": -77.4469305
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 14:18",
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -170,29 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:08",
-    "box_no": "Precinct 4",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "3100-BLK WOODROW AVE",
+    "dispatch_time": "11/16/2025 14:48",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1300-BLK COALTER ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Woodrow Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5729346,
-    "lng": -77.4293933
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:36",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "6200-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.535111,
-    "lng": -77.509142
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
   },
   {
     "type_general": "RPD",
@@ -206,6 +180,32 @@
     "location_township": "Precinct 2",
     "lat": 37.492271,
     "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:42",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5799327,
+    "lng": -77.4469305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 14:54",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4900-BLK OLD BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5998898,
+    "lng": -77.4490619
   },
   {
     "type_general": "RFD",
@@ -291,7 +291,7 @@
     "box_no": "FIRE",
     "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
     "street": "LL(-77:28:29.9281,37:31:52.7339): EST 2089 KANSAS AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Bank Trail",
     "location_township": "FIRE",
@@ -299,16 +299,29 @@
     "lat": 37.53131497222222
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 14:53",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "5800-BLK WESTOWER DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "FIRE",
+    "lat": 37.5238336,
+    "lng": -77.5039485
+  },
+  {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:48",
-    "box_no": "Precinct 1",
+    "dispatch_time": "11/16/2025 14:56",
+    "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1300-BLK COALTER ST",
+    "street": "4800-BLK OLD WARWICK RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
+    "nearest_intersection": "Old Warwick Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4828765,
+    "lng": -77.4796861
   }
 ]
