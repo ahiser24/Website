@@ -157,16 +157,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:37",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "DOCK ST/S 14TH ST RICH",
+    "dispatch_time": "11/16/2025 15:19",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3100-BLK ENSLOW AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Dock Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5292009,
-    "lng": -77.4245052
+    "nearest_intersection": "Enslow Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5726059,
+    "lng": -77.4193608
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 15:13",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "300-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5442113,
+    "lng": -77.4388734
   },
   {
     "type_general": "RPD",
@@ -193,19 +206,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5922778,
     "lng": -77.4193382
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 14:37",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "6200-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
   },
   {
     "type_general": "RPD",
@@ -248,32 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 15:19",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "3100-BLK ENSLOW AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Enslow Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5726059,
-    "lng": -77.4193608
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 15:16",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "N NANSEMOND ST/STUART AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Nansemond Street",
-    "location_township": "Precinct 3",
-    "lat": 37.563113,
-    "lng": -77.4820921
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 15:21",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -297,19 +271,6 @@
     "location_township": "Precinct 4",
     "lat": 37.542073,
     "lng": -77.438086
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 15:13",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "300-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5442113,
-    "lng": -77.4388734
   },
   {
     "type_general": "RPD",
@@ -339,19 +300,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 15:46",
-    "box_no": "Precinct 4",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "500-BLK W BACON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5563785,
-    "lng": -77.4391955
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 15:38",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
@@ -375,19 +323,6 @@
     "location_township": "Precinct 4",
     "lat": 37.566969,
     "lng": -77.4714596
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 16:01",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W 30TH ST/BAINBRIDGE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West 30th Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5203529,
-    "lng": -77.4660856
   },
   {
     "type_general": "RFD",
@@ -416,6 +351,19 @@
     "lng": -77.4058116
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 16:11",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "1300-BLK CARLISLE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carlisle Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5170038,
+    "lng": -77.401284
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/16/2025 15:32",
     "box_no": "Precinct 3",
@@ -427,19 +375,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5070429,
     "lng": -77.4949501
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 16:12",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1700-BLK N 20TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5465473,
-    "lng": -77.4123402
   },
   {
     "type_general": "RPD",
@@ -455,29 +390,81 @@
     "lng": -77.5024888
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 16:07",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "200-BLK HOSPITAL ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 16:01",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W 30TH ST/BAINBRIDGE ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hospital Street",
-    "location_township": "FIRE",
-    "lat": 37.5533597,
-    "lng": -77.4314478
+    "nearest_intersection": "West 30th Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5203529,
+    "lng": -77.4660856
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/16/2025 16:11",
+    "dispatch_time": "11/16/2025 16:20",
     "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1300-BLK CARLISLE AVE",
+    "type_specific": "# BRUSH FIRE , MULCH",
+    "street": "N 3RD ST/E BROAD ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Carlisle Avenue",
+    "nearest_intersection": "North 3rd Street",
     "location_township": "FIRE",
-    "lat": 37.5170038,
-    "lng": -77.401284
+    "lat": 37.5480773,
+    "lng": -77.4352319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 16:12",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1700-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5465473,
+    "lng": -77.4123402
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 16:12",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1700-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5465473,
+    "lng": -77.4123402
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 16:22",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , NON-EMERGENCY",
+    "street": "3000-BLK STONY POINT RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stony Point Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5387389,
+    "lng": -77.5642407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 16:24",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "800-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5515918,
+    "lng": -77.4469798
   }
 ]
