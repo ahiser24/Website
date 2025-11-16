@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "11/14/2025 12:44",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "1900-BLK WHITCOMB ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Whitcomb Street",
+    "location_township": "DPR",
+    "lat": 37.553667,
+    "lng": -77.4220683
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/15/2025 06:40",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -24,19 +37,6 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 10:31",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "5000-BLK E SEMINARY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Seminary Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5995994,
-    "lng": -77.4515421
   },
   {
     "type_general": "RPD",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 12:20",
-    "box_no": "Precinct 4",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "600-BLK E LABURNUM AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Rural Drive",
-    "location_township": "Precinct 4",
-    "lat": 37.5922778,
-    "lng": -77.4193382
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 13:36",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -187,7 +174,7 @@
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
     "street": "0-BLK E MARSHALL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -195,16 +182,42 @@
     "lng": -77.4080946
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 12:20",
+    "box_no": "Precinct 4",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "600-BLK E LABURNUM AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rural Drive",
+    "location_township": "Precinct 4",
+    "lat": 37.5922778,
+    "lng": -77.4193382
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/16/2025 13:51",
     "box_no": "FIRE",
-    "type_specific": "",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
     "street": "2100-BLK RIDGEMONT RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Ridgemont Road",
     "location_township": "FIRE",
     "lat": 37.4934824,
     "lng": -77.4357828
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 14:00",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
+    "street": "W 26TH ST/SEMMES AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 26th Street",
+    "location_township": "FIRE",
+    "lat": 37.5213174,
+    "lng": -77.4609898
   }
 ]
