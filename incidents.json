@@ -156,6 +156,19 @@
     "lng": -77.4030988
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 05:41",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2100-BLK RIVERSIDE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5241719,
+    "lng": -77.4561381
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/15/2025 18:00",
     "box_no": "FIRE",
@@ -167,18 +180,5 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/16/2025 05:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4952595,
-    "lng": -77.4785319
   }
 ]
