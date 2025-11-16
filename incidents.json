@@ -57,7 +57,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
     "street": "N 18TH ST/E MAIN ST RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 18th Street",
     "location_township": "Precinct 1",
@@ -148,7 +148,7 @@
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "1200-BLK NELSON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Nelson Street",
     "location_township": "Precinct 1",
@@ -161,12 +161,25 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2100-BLK RIVERSIDE DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Riverside Drive",
     "location_township": "Precinct 3",
     "lat": 37.5241719,
     "lng": -77.4561381
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 05:47",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1300-BLK COALTER ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
   },
   {
     "type_general": "RFD",
@@ -180,5 +193,18 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 05:48",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2600-BLK GROVE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5543423,
+    "lng": -77.4720912
   }
 ]
