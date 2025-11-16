@@ -117,6 +117,32 @@
     "lng": -77.473047
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 06:57",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "200-BLK HIOAKS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "FIRE",
+    "lat": 37.5056338,
+    "lng": -77.5252413
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 06:39",
+    "box_no": "Precinct 1",
+    "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
+    "street": "2100-BLK HALIFAX AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Halifax Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5069366,
+    "lng": -77.4424454
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/16/2025 06:39",
     "box_no": "Precinct 1",
