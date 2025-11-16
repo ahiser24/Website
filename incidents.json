@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 01:10",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1100-BLK ST JOHN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5531273,
-    "lng": -77.4363957
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 01:16",
     "box_no": "Precinct 2",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
@@ -144,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 01:23",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "300-BLK S LAUREL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Laurel Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5417098,
-    "lng": -77.4518648
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 01:29",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "WARWICK RD/CARNATION ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5056401,
-    "lng": -77.5194715
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 01:34",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -193,6 +154,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5505316,
     "lng": -77.4621462
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 01:54",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:26:36.1145,37:33:48.6436): OVERBY/RICHMOND HENR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lng": -77.4433651388889,
+    "lat": 37.56351211111111
   },
   {
     "type_general": "RFD",
