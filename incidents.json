@@ -144,16 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 04:45",
+    "dispatch_time": "11/16/2025 04:53",
     "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1000-BLK MOSBY ST",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "2400-BLK VENABLE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
+    "nearest_intersection": "Venable Street",
     "location_township": "Precinct 1",
-    "lat": 37.5427329,
-    "lng": -77.4194034
+    "lat": 37.5385327,
+    "lng": -77.4144114
   },
   {
     "type_general": "RFD",
@@ -180,5 +180,18 @@
     "location_township": "FIRE",
     "lat": 37.508843,
     "lng": -77.476484
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 04:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ABDOMINAL PAIN",
+    "street": "1500-BLK N 23RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 23rd Street",
+    "location_township": "FIRE",
+    "lat": 37.5433964,
+    "lng": -77.4107615
   }
 ]
