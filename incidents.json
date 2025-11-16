@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 02:37",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/15/2025 23:52",
     "box_no": "Precinct 1",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -78,17 +65,17 @@
     "lng": -77.4650326
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/15/2025 18:00",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "0-BLK N LAUREL ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 02:37",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "FIRE",
-    "lat": 37.5465072,
-    "lng": -77.4515552
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -121,26 +108,26 @@
     "dispatch_time": "11/16/2025 06:39",
     "box_no": "Precinct 1",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
-    "street": "2100-BLK HALIFAX AVE",
+    "street": "2200-BLK HALIFAX AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Halifax Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5069366,
-    "lng": -77.4424454
+    "lat": 37.5063039,
+    "lng": -77.4434776
   },
   {
     "type_general": "RPD",
     "dispatch_time": "11/16/2025 06:39",
     "box_no": "Precinct 1",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
-    "street": "2100-BLK HALIFAX AVE",
+    "street": "2200-BLK HALIFAX AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Halifax Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5069366,
-    "lng": -77.4424454
+    "lat": 37.5063039,
+    "lng": -77.4434776
   },
   {
     "type_general": "RFD",
@@ -157,45 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 06:41",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2000-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5539874,
-    "lng": -77.4116705
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 07:08",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2700-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5620282,
-    "lng": -77.468756
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 07:08",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2700-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5620282,
-    "lng": -77.468756
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 07:04",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -206,5 +154,70 @@
     "location_township": "Precinct 4",
     "lat": 37.5709253,
     "lng": -77.423789
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 06:41",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2000-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5539874,
+    "lng": -77.4116705
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 07:16",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3600-BLK NOBLE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Noble Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5816371,
+    "lng": -77.4431702
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 07:08",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2700-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5620282,
+    "lng": -77.468756
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 07:19",
+    "box_no": "Precinct 2",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "RICHMOND HWY/COURTLAND ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4835974,
+    "lng": -77.444674
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/16/2025 07:11",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "1100-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "FIRE",
+    "lat": 37.517118,
+    "lng": -77.513788
   }
 ]
