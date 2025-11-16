@@ -44,7 +44,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "E BROAD ROCK RD/MCGUIRE DR RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Broad Rock Road, Southside",
     "location_township": "Precinct 2",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 03:11",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 03:13",
     "box_no": "Precinct 3",
     "type_specific": "PERSON DOWN , INVESTIGATE",
@@ -193,19 +180,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5554686,
     "lng": -77.471392
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 03:27",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3000-BLK LAURELBROOK DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Laurelbrook Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4977334,
-    "lng": -77.4553186
   },
   {
     "type_general": "RFD",
