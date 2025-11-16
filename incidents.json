@@ -79,6 +79,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/16/2025 01:01",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "3800-BLK TERMINAL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Terminal Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4825184,
+    "lng": -77.4653863
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/16/2025 01:16",
     "box_no": "Precinct 2",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
@@ -122,25 +135,12 @@
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "00-BLK W PILKINGTON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Pilkington Street",
     "location_township": "Precinct 2",
     "lat": 37.5168832,
     "lng": -77.4533286
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 01:48",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2500-BLK BRADY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brady Street",
-    "location_township": "Precinct 2",
-    "lat": 37.4904019,
-    "lng": -77.4438339
   },
   {
     "type_general": "RPD",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 01:56",
-    "box_no": "Precinct 3",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 02:07",
     "box_no": "Precinct 4",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -183,24 +170,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 02:07",
-    "box_no": "Precinct 2",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "CLEARFIELD ST/WALMSLEY BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clearfield Street",
-    "location_township": "Precinct 2",
-    "lat": 37.4764797,
-    "lng": -77.4985822
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 02:09",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "100-BLK W BAKER ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Baker Street",
     "location_township": "Precinct 4",
@@ -209,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 02:11",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "0-BLK S 5TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5367101,
-    "lng": -77.4433141
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 02:26",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -245,32 +206,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5332252,
     "lng": -77.4259138
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 02:27",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2000-BLK WILLIAMSBURG RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5167464,
-    "lng": -77.3899608
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 02:27",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2000-BLK WILLIAMSBURG RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5167464,
-    "lng": -77.3899608
   },
   {
     "type_general": "RPD",
@@ -297,6 +232,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5713571,
     "lng": -77.4133911
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 02:32",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "500-BLK STOCKTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5224135,
+    "lng": -77.436784
   },
   {
     "type_general": "RPD",
@@ -356,7 +304,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -417,15 +365,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/16/2025 02:33",
+    "dispatch_time": "11/16/2025 02:42",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "4600-BLK OLD WARWICK RD",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "100-BLK VIRGINIA ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Warwick Road, Southside",
+    "nearest_intersection": "Virginia Street",
     "location_township": "FIRE",
-    "lat": 37.4819698,
-    "lng": -77.4778585
+    "lat": 37.5346376,
+    "lng": -77.433185
   }
 ]
