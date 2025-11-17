@@ -92,15 +92,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 02:44",
-    "box_no": "Precinct 3",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
-    "street": "7300-BLK FOREST HILL AVE",
+    "dispatch_time": "11/17/2025 03:36",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1900-BLK WHITCOMB ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
+    "nearest_intersection": "Whitcomb Street",
+    "location_township": "Precinct 1",
+    "lat": 37.553667,
+    "lng": -77.4220683
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 03:32",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3000-BLK STONY POINT RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stony Point Road",
     "location_township": "Precinct 3",
-    "lat": 37.537392,
-    "lng": -77.530621
+    "lat": 37.5387389,
+    "lng": -77.5642407
   }
 ]
