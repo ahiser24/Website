@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 22:05",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "6200-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5205385,
-    "lng": -77.510489
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 07:03",
     "box_no": "Precinct 1",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 1",
     "lat": 37.534543,
     "lng": -77.423317
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 06:53",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "1700-BLK JOPLIN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lenmore Street",
-    "location_township": "Precinct 1",
-    "lat": 37.507524,
-    "lng": -77.437799
   },
   {
     "type_general": "RPD",
@@ -79,16 +53,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 07:18",
+    "dispatch_time": "11/17/2025 07:45",
     "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3900-BLK OLD BROOK CIR",
-    "status": "Enroute",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2300-BLK BARTON AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Circle",
+    "nearest_intersection": "Barton Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.5886258,
-    "lng": -77.4468578
+    "lat": 37.5634556,
+    "lng": -77.4322731
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 07:39",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2800-BLK MONUMENT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.560918,
+    "lng": -77.471449
   },
   {
     "type_general": "RFD",
@@ -102,58 +89,6 @@
     "location_township": "FIRE",
     "lat": 37.5665583,
     "lng": -77.418161
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 07:39",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2800-BLK MONUMENT AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.560918,
-    "lng": -77.471449
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 07:42",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1100-BLK FLOYD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5473709,
-    "lng": -77.4554263
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 07:24",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "2700-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5620282,
-    "lng": -77.468756
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 07:45",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2300-BLK BARTON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Barton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5634556,
-    "lng": -77.4322731
   },
   {
     "type_general": "RPD",
@@ -193,5 +128,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5448002,
     "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 08:01",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E MAIN ST/N 26TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5361073,
+    "lng": -77.4327798
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 08:12",
+    "box_no": "Precinct 2",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
   }
 ]
