@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 23:26",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3100-BLK MAXIE LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maxie Lane",
-    "location_township": "Precinct 1",
-    "lat": 37.5405767,
-    "lng": -77.4009075
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 00:19",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -167,5 +154,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 02:29",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1800-BLK E BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5356036,
+    "lng": -77.4247666
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/17/2025 02:28",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "3500-BLK GROVE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5589949,
+    "lng": -77.4848348
   }
 ]
