@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 05:55",
-    "box_no": "Precinct 3",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 22:09",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -70,7 +57,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "WINCHELL ST/PARKER ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Winchell Street",
     "location_township": "Precinct 1",
@@ -79,15 +66,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 06:15",
+    "dispatch_time": "11/17/2025 06:51",
     "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "6400-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
+    "nearest_intersection": "West Grace Street",
     "location_township": "Precinct 3",
-    "lat": 37.5036311,
-    "lng": -77.5151182
+    "lat": 37.5514093,
+    "lng": -77.4534673
   }
 ]
