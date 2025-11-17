@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 08:25",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "300-BLK W 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 26th Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5178707,
-    "lng": -77.4591174
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 09:12",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -134,13 +121,13 @@
     "dispatch_time": "11/17/2025 09:14",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1900-BLK VENABLE ST",
+    "street": "700-BLK MOSBY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Venable Street",
+    "nearest_intersection": "Mosby Street",
     "location_township": "Precinct 1",
-    "lat": 37.538391,
-    "lng": -77.4216319
+    "lat": 37.5387652,
+    "lng": -77.4207419
   },
   {
     "type_general": "RPD",
@@ -157,16 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 08:45",
+    "dispatch_time": "11/17/2025 09:20",
     "box_no": "Precinct 4",
-    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
-    "street": "0-BLK W BROAD ST",
+    "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
+    "street": "4200-BLK OLD BROOK RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
+    "lat": 37.591781,
+    "lng": -77.447047
   },
   {
     "type_general": "RPD",
@@ -195,6 +182,19 @@
     "lng": -77.4547276
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 08:45",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "0-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5667607,
+    "lng": -77.475537
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/17/2025 09:15",
     "box_no": "FIRE",
@@ -208,43 +208,17 @@
     "lng": -77.4602618
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/17/2025 09:20",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
-    "street": "4200-BLK OLD BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "FIRE",
-    "lat": 37.591781,
-    "lng": -77.447047
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/17/2025 09:20",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
-    "street": "4200-BLK OLD BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "FIRE",
-    "lat": 37.591781,
-    "lng": -77.447047
-  },
-  {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 09:20",
-    "box_no": "Precinct 4",
-    "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
-    "street": "4200-BLK OLD BROOK RD",
+    "dispatch_time": "11/17/2025 09:30",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "10200-BLK SIOUX RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.591781,
-    "lng": -77.447047
+    "nearest_intersection": "Sioux Road",
+    "location_township": "DPR",
+    "lat": 37.5522498,
+    "lng": -77.58392
   },
   {
     "type_general": "RFD",
