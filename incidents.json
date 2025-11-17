@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 13:41",
-    "box_no": "Precinct 3",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "2700-BLK W GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5607265,
-    "lng": -77.4688272
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 13:54",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , DPR Call - Advice Only",
@@ -174,12 +161,25 @@
     "box_no": "Precinct 4",
     "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
     "street": "1700-BLK MAPLE SHADE LN",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Maple Shade Lane",
     "location_township": "Precinct 4",
     "lat": 37.582024,
     "lng": -77.462364
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 13:41",
+    "box_no": "Precinct 3",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "2700-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5607265,
+    "lng": -77.4688272
   },
   {
     "type_general": "RPD",
@@ -228,10 +228,10 @@
     "street": "N MONROE ST/W BROAD ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North Monroe Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5464107,
+    "lng": -77.4466689
   },
   {
     "type_general": "RPD",
@@ -274,45 +274,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 14:17",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "00-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 14:31",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "800-BLK N 24TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Cedar Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.536673,
-    "lng": -77.41554
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 14:31",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "800-BLK N 24TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cedar Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.536673,
-    "lng": -77.41554
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 14:25",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -326,19 +287,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 14:29",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1800-BLK BATH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bath Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.561318,
-    "lng": -77.453129
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 14:28",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -349,19 +297,6 @@
     "location_township": "Precinct 1",
     "lat": 37.533377,
     "lng": -77.403632
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 14:30",
-    "box_no": "Precinct 3",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "4000-BLK MONUMENT AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5690972,
-    "lng": -77.4849322
   },
   {
     "type_general": "RFD",
@@ -408,11 +343,63 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "700-BLK STOCKTON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Stockton Street",
     "location_township": "Precinct 1",
     "lat": 37.5214521,
     "lng": -77.4386556
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 14:37",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "4000-BLK GOVERNMENT RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Government Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5242231,
+    "lng": -77.4043881
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 14:30",
+    "box_no": "Precinct 3",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "4000-BLK MONUMENT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5690972,
+    "lng": -77.4849322
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/17/2025 14:41",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "600-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Leigh Street",
+    "location_township": "FIRE",
+    "lat": 37.547032,
+    "lng": -77.436525
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/17/2025 14:43",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "2500-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5618681,
+    "lng": -77.4650329
   }
 ]
