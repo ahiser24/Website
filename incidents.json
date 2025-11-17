@@ -83,7 +83,7 @@
     "box_no": "Precinct 1",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "1200-BLK NELSON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Nelson Street",
     "location_township": "Precinct 1",
@@ -104,19 +104,6 @@
     "lng": -77.4923187
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/17/2025 05:45",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "3900-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5722247,
-    "lng": -77.4796483
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/17/2025 05:30",
     "box_no": "Precinct 1",
@@ -131,29 +118,29 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/17/2025 05:48",
+    "dispatch_time": "11/17/2025 05:45",
     "box_no": "FIRE",
-    "type_specific": "# ASSIST POLICE , FORCIBLE ENTRY",
-    "street": "4600-BLK W GRACE ST",
-    "status": "Enroute",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "3900-BLK W BROAD ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
+    "nearest_intersection": "West Broad Street",
     "location_township": "FIRE",
-    "lat": 37.5746666,
-    "lng": -77.4923187
+    "lat": 37.5722247,
+    "lng": -77.4796483
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/17/2025 05:48",
+    "dispatch_time": "11/17/2025 05:51",
     "box_no": "FIRE",
-    "type_specific": "# ASSIST POLICE , FORCIBLE ENTRY",
-    "street": "4600-BLK W GRACE ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "600-BLK N 25TH ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
+    "nearest_intersection": "North 25th Street",
     "location_township": "FIRE",
-    "lat": 37.5746666,
-    "lng": -77.4923187
+    "lat": 37.5344285,
+    "lng": -77.4163649
   },
   {
     "type_general": "RPD",
@@ -161,11 +148,37 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "900-BLK ST PAUL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Saint Paul Street",
     "location_township": "Precinct 4",
     "lat": 37.5516719,
     "lng": -77.43914
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 05:48",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "900-BLK ST PAUL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint Paul Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5516719,
+    "lng": -77.43914
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/17/2025 05:48",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST POLICE , FORCIBLE ENTRY",
+    "street": "4600-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5746666,
+    "lng": -77.4923187
   }
 ]
