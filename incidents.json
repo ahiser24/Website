@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 00:19",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "E MAIN ST/S 4TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5361073,
-    "lng": -77.4327798
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 22:09",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -50,32 +37,6 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 23:17",
-    "box_no": "Precinct 1",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "1400-BLK BRANDER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brander Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5187868,
-    "lng": -77.4220671
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 22:05",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "6200-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5205385,
-    "lng": -77.510489
   },
   {
     "type_general": "RPD",
@@ -104,6 +65,32 @@
     "lng": -77.442284
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 23:17",
+    "box_no": "Precinct 1",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "1400-BLK BRANDER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brander Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5187868,
+    "lng": -77.4220671
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 22:05",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "6200-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5205385,
+    "lng": -77.510489
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/17/2025 04:37",
     "box_no": "FIRE",
@@ -115,5 +102,18 @@
     "location_township": "FIRE",
     "lat": 37.5520175,
     "lng": -77.4334273
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 05:07",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "282800-BLK COFER RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   }
 ]
