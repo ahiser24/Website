@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 22:05",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "6200-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5205385,
-    "lng": -77.510489
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 22:09",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5187868,
     "lng": -77.4220671
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 22:05",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "6200-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5205385,
+    "lng": -77.510489
   },
   {
     "type_general": "RPD",
