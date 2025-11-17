@@ -141,5 +141,44 @@
     "location_township": "Precinct 2",
     "lat": 37.5017438,
     "lng": -77.4401391
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 00:59",
+    "box_no": "Precinct 2",
+    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
+    "street": "ROSEMONT RD/JARVIS RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rosemont Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4991434,
+    "lng": -77.4937827
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 00:59",
+    "box_no": "Precinct 2",
+    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
+    "street": "ROSEMONT RD/JARVIS RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rosemont Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4991434,
+    "lng": -77.4937827
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 00:59",
+    "box_no": "Precinct 2",
+    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
+    "street": "ROSEMONT RD/JARVIS RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rosemont Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4991434,
+    "lng": -77.4937827
   }
 ]
