@@ -78,6 +78,32 @@
     "lng": -77.4220671
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/17/2025 04:32",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "1900-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "FIRE",
+    "lat": 37.51385,
+    "lng": -77.446465
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 04:16",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1100-BLK W GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5522621,
+    "lng": -77.4544894
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/17/2025 04:16",
     "box_no": "Precinct 3",
@@ -92,41 +118,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/17/2025 04:32",
+    "dispatch_time": "11/17/2025 04:37",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "1900-BLK MAURY ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "1100-BLK N 2ND ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
+    "nearest_intersection": "North 2nd Street",
     "location_township": "FIRE",
-    "lat": 37.51385,
-    "lng": -77.446465
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/17/2025 04:29",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "2500-BLK WHITCOMB ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Whitcomb Street",
-    "location_township": "FIRE",
-    "lat": 37.554242,
-    "lng": -77.416264
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 04:24",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1300-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5532765,
-    "lng": -77.4542788
+    "lat": 37.5520175,
+    "lng": -77.4334273
   }
 ]
