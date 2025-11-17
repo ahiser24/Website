@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 01:56",
-    "box_no": "Precinct 3",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 02:24",
     "box_no": "Precinct 4",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -128,5 +115,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 02:44",
+    "box_no": "Precinct 3",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
+    "street": "7300-BLK FOREST HILL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.537392,
+    "lng": -77.530621
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/17/2025 02:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "FIRE",
+    "lat": 37.58494,
+    "lng": -77.4478043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 02:50",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5514093,
+    "lng": -77.4534673
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 02:48",
+    "box_no": "Precinct 1",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "900-BLK MOSBY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mosby Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5418142,
+    "lng": -77.4208953
   }
 ]
