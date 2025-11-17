@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 05:41",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WINCHELL ST/PARKER ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Winchell Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5114154,
-    "lng": -77.3967467
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 05:55",
     "box_no": "Precinct 3",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5205385,
     "lng": -77.510489
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 05:41",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "WINCHELL ST/PARKER ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Winchell Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5114154,
+    "lng": -77.3967467
   },
   {
     "type_general": "RPD",
