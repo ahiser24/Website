@@ -18,64 +18,12 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 22:09",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "5800-BLK BREMO RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 05:30",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "NELSON ST/SCOTT ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5130784,
-    "lng": -77.4044849
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 05:05",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1200-BLK NELSON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5131526,
-    "lng": -77.4030988
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/16/2025 22:05",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "6200-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5205385,
-    "lng": -77.510489
   },
   {
     "type_general": "RPD",
@@ -104,17 +52,30 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/17/2025 06:18",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
-    "street": "6400-BLK MIDLOTHIAN TPKE",
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 22:09",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "5800-BLK BREMO RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/16/2025 22:05",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "6200-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5036311,
-    "lng": -77.5151182
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5205385,
+    "lng": -77.510489
   },
   {
     "type_general": "RPD",
@@ -128,5 +89,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5036311,
     "lng": -77.5151182
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/17/2025 06:31",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "3400-BLK KEIGHLY RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Keighly Road",
+    "location_township": "FIRE",
+    "lat": 37.4785136,
+    "lng": -77.436944
   }
 ]
