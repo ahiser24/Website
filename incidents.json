@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 03:36",
-    "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "1900-BLK WHITCOMB ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Whitcomb Street",
-    "location_township": "Precinct 1",
-    "lat": 37.553667,
-    "lng": -77.4220683
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 03:32",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -115,5 +102,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5387389,
     "lng": -77.5642407
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/17/2025 03:47",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "2200-BLK CHALFONT DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chalfont Drive, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4908816,
+    "lng": -77.4654757
   }
 ]
