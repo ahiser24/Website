@@ -104,19 +104,6 @@
     "lng": -77.4327798
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/17/2025 01:57",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "FIRE",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/17/2025 01:56",
     "box_no": "Precinct 3",
@@ -131,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 02:13",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 02:13",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 02:15",
     "box_no": "Precinct 3",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -183,54 +144,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 02:12",
+    "dispatch_time": "11/17/2025 02:24",
     "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3900-BLK OLD BROOK CIR",
-    "status": "Arrived",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Circle",
+    "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
-    "lat": 37.5886258,
-    "lng": -77.4468578
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 02:12",
+    "dispatch_time": "11/17/2025 02:24",
     "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3900-BLK OLD BROOK CIR",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Circle",
+    "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
-    "lat": 37.5886258,
-    "lng": -77.4468578
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 02:12",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3900-BLK OLD BROOK CIR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Circle",
-    "location_township": "Precinct 4",
-    "lat": 37.5886258,
-    "lng": -77.4468578
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 02:12",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3900-BLK OLD BROOK CIR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Circle",
-    "location_township": "Precinct 4",
-    "lat": 37.5886258,
-    "lng": -77.4468578
+    "lat": 37.5514017,
+    "lng": -77.4407689
   }
 ]
