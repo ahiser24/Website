@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "5800-BLK BREMO RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -27,16 +27,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 22:34",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "E 20TH ST/DINWIDDIE AVE RICH",
+    "dispatch_time": "11/17/2025 00:19",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "E MAIN ST/S 4TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5119111,
-    "lng": -77.4455112
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5361073,
+    "lng": -77.4327798
   },
   {
     "type_general": "RPD",
@@ -76,44 +76,5 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 00:19",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "E MAIN ST/S 4TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5361073,
-    "lng": -77.4327798
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 03:32",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3000-BLK STONY POINT RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stony Point Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5387389,
-    "lng": -77.5642407
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/17/2025 03:47",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "2200-BLK CHALFONT DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4908816,
-    "lng": -77.4654757
   }
 ]
