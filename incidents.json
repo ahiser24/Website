@@ -247,19 +247,6 @@
     "lng": -77.4785319
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 00:34",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2100-BLK PHAUP ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Phaup Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5510819,
-    "lng": -77.407214
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/17/2025 00:41",
     "box_no": "FIRE",
@@ -284,5 +271,18 @@
     "location_township": "Precinct 1",
     "lng": -77.43438002777778,
     "lat": 37.502665972222225
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 00:50",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "DPR",
+    "lat": 37.543765,
+    "lng": -77.422946
   }
 ]
