@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 22:39",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "600-BLK S ALLEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Allen Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5431015,
-    "lng": -77.4662479
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 00:02",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE-EMS",
@@ -170,6 +157,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/17/2025 00:19",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "E MAIN ST/S 4TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5361073,
+    "lng": -77.4327798
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/17/2025 00:12",
     "box_no": "Precinct 3",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -196,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 23:17",
-    "box_no": "Precinct 1",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "1400-BLK BRANDER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Brander Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5187868,
-    "lng": -77.4220671
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 23:23",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -222,16 +209,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 00:19",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "E MAIN ST/S 4TH ST RICH",
+    "dispatch_time": "11/16/2025 23:17",
+    "box_no": "Precinct 1",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "1400-BLK BRANDER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5361073,
-    "lng": -77.4327798
+    "nearest_intersection": "Brander Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5187868,
+    "lng": -77.4220671
   },
   {
     "type_general": "RPD",
@@ -261,29 +248,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 00:21",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2300-BLK HERBERT HAMLET ALY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Herbert Hamlet Alley",
-    "location_township": "Precinct 3",
-    "lat": 37.5501863,
-    "lng": -77.4704844
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 00:24",
+    "dispatch_time": "11/17/2025 00:34",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "LL(-77:26:03.7681,37:30:09.5975): EST 2277 BELT BLVD RICH",
-    "status": "Enroute",
+    "street": "2100-BLK PHAUP ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Southlawn Avenue",
+    "nearest_intersection": "Phaup Street",
     "location_township": "Precinct 1",
-    "lng": -77.43438002777778,
-    "lat": 37.502665972222225
+    "lat": 37.5510819,
+    "lng": -77.407214
   },
   {
     "type_general": "RFD",
@@ -291,7 +265,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
     "street": "1400-BLK NOTTOWAY AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fauquier Avenue, Northside",
     "location_township": "FIRE",
@@ -300,15 +274,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 00:34",
+    "dispatch_time": "11/17/2025 00:24",
     "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "2100-BLK PHAUP ST",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:26:03.7681,37:30:09.5975): EST 2277 BELT BLVD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Phaup Street",
+    "nearest_intersection": "Southlawn Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5510819,
-    "lng": -77.407214
+    "lng": -77.43438002777778,
+    "lat": 37.502665972222225
   }
 ]
