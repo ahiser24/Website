@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/16/2025 23:17",
-    "box_no": "Precinct 1",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "1400-BLK BRANDER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brander Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5187868,
-    "lng": -77.4220671
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/16/2025 22:05",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -89,5 +76,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5205385,
     "lng": -77.510489
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 05:05",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1200-BLK NELSON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 05:26",
+    "box_no": "Precinct 3",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "4600-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5746666,
+    "lng": -77.4923187
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 05:27",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "200-BLK NOTTINGHAM RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nottingham Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5590044,
+    "lng": -77.5055327
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/17/2025 05:30",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "NELSON ST/SCOTT ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5130784,
+    "lng": -77.4044849
   }
 ]
