@@ -63,5 +63,57 @@
     "location_township": "Precinct 1",
     "lat": 37.5418142,
     "lng": -77.4208953
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 05:27",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4000-BLK NORTH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5840735,
+    "lng": -77.4381519
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 05:29",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2700-BLK BELT BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4830271,
+    "lng": -77.4641628
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 05:32",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "10000-BLK HOBBY HILL RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hobby Hill Road",
+    "location_township": "Precinct 3",
+    "lat": 37.542197,
+    "lng": -77.579743
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 05:34",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "3000-BLK W MARSHALL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5652469,
+    "lng": -77.4719101
   }
 ]
