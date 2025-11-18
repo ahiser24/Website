@@ -79,41 +79,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 00:54",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1300-BLK WHITEHEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Whitehead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4888707,
-    "lng": -77.5097912
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 01:55",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "CLYDEWOOD AVE/WALMSLEY BLVD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Clydewood Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4765553,
-    "lng": -77.4703024
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 02:00",
+    "dispatch_time": "11/18/2025 02:15",
     "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "GROVE AVE/N THOMPSON ST RICH",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1600-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.547576,
+    "lng": -77.461027
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 02:15",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1600-BLK W MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Grove Avenue, West End",
+    "nearest_intersection": "West Main Street",
     "location_township": "Precinct 3",
-    "lat": 37.5730388,
-    "lng": -77.5167053
+    "lat": 37.547576,
+    "lng": -77.461027
   }
 ]
