@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "5800-BLK BREMO RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -63,18 +63,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5516435,
     "lng": -77.4157146
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 06:27",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "700-BLK E JACKSON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Jackson Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5455809,
-    "lng": -77.4314299
   }
 ]
