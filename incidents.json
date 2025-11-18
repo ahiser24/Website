@@ -57,7 +57,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "4000-BLK NORTH AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North Avenue, Northside",
     "location_township": "Precinct 4",
@@ -89,5 +89,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5228096,
     "lng": -77.4368354
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 03:35",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "4200-BLK LYNHAVEN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Flint Street",
+    "location_township": "Precinct 2",
+    "lat": 37.468647,
+    "lng": -77.440575
   }
 ]
