@@ -7,21 +7,8 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 08:42",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 2",
     "lat": 37.516009,
     "lng": -77.525109
   },
@@ -44,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FRONT ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
@@ -85,10 +72,10 @@
     "street": "00-BLK E BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Broad Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5386168,
+    "lng": -77.4303197
   },
   {
     "type_general": "RPD",
@@ -111,10 +98,10 @@
     "street": "3100-BLK ZION ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Zion Street",
     "location_township": "DPR",
-    "lat": null,
-    "lng": null
+    "lat": 37.4804831,
+    "lng": -77.4555826
   },
   {
     "type_general": "RPD",
@@ -122,7 +109,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
     "street": "2500-BLK BETHEL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Bethel Street",
     "location_township": "Precinct 1",
@@ -174,7 +161,7 @@
     "box_no": "Precinct 2",
     "type_specific": "SEX OFFENSE , INVESTIGATE - EMS",
     "street": "5600-BLK PETOSKEY AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
@@ -204,8 +191,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.548457,
-    "lng": -77.463492
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -215,7 +202,7 @@
     "street": "3800-BLK MOSS SIDE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Moss Side Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.5849981,
     "lng": -77.4424976
@@ -265,9 +252,9 @@
     "box_no": "Precinct 3",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
     "street": "KENT RD/CUTSHAW AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Kent Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.5676455,
     "lng": -77.4836358
@@ -293,7 +280,7 @@
     "street": "400-BLK PORTER ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Porter Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.5257854,
     "lng": -77.4408697
@@ -306,10 +293,10 @@
     "street": "400-BLK PORTER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Porter Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5257854,
-    "lng": -77.4408697
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -330,11 +317,37 @@
     "box_no": "FIRE",
     "type_specific": "# OTHER , SINGLE COMPANY",
     "street": "5600-BLK PETOSKEY AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Petoskey Avenue",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.4988816,
-    "lng": -77.5008037
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 14:41",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "2200-BLK E FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "FIRE",
+    "lat": 37.53155,
+    "lng": -77.422988
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 14:42",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
+    "street": "CREIGHTON RD/WALCOTT PL RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
