@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 22:07",
-    "box_no": "Precinct 4",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "1200-BLK HICKORY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hickory Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5535876,
-    "lng": -77.4402475
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 22:12",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE - EMS",
@@ -79,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 23:35",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2700-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.512972,
-    "lng": -77.458451
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 23:45",
     "box_no": "Precinct 2",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -109,7 +83,7 @@
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "2900-BLK N ARTHUR ASHE BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Arthur Ashe Boulevard",
     "location_township": "Precinct 4",
@@ -144,6 +118,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/18/2025 00:15",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "9300-BLK CARROLL LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/18/2025 00:16",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -169,16 +156,68 @@
     "lng": -77.4818545
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 00:45",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 00:45",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/18/2025 00:45",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
     "street": "5000-BLK SNEAD RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Snead Road",
     "location_township": "FIRE",
     "lat": 37.4770457,
     "lng": -77.4856193
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 00:50",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "500-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "FIRE",
+    "lat": 37.5224135,
+    "lng": -77.436784
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 00:51",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "5800-BLK ORCUTT LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "FIRE",
+    "lat": 37.4829472,
+    "lng": -77.4998228
   }
 ]
