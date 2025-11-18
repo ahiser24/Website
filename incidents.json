@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 09:05",
-    "box_no": "Precinct 3",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "5700-BLK WESTOWER DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westower Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5239038,
-    "lng": -77.5014972
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 09:10",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -89,32 +76,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5056401,
     "lng": -77.5194715
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 09:10",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "700-BLK E JACKSON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Jackson Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5455809,
-    "lng": -77.4314299
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 09:22",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2000-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5309061,
-    "lng": -77.4259638
   },
   {
     "type_general": "RPD",
@@ -170,29 +131,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 09:33",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK S BELVIDERE ST",
-    "status": "Dispatched",
+    "dispatch_time": "11/18/2025 09:37",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "2800-BLK E MAIN ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.527181,
+    "lng": -77.418761
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 09:33",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK S BELVIDERE ST",
+    "dispatch_time": "11/18/2025 09:42",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5200-BLK PARKER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
+    "nearest_intersection": "Parker Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5128291,
+    "lng": -77.3954327
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 09:42",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2400-BLK SHEILA LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sheila Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5363096,
+    "lng": -77.5330408
   },
   {
     "type_general": "RFD",
@@ -209,15 +183,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/18/2025 09:32",
+    "dispatch_time": "11/18/2025 09:41",
     "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "3800-BLK GRANDEL DR",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "2600-BLK TERMINAL AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Grandel Drive",
+    "nearest_intersection": "Terminal Avenue",
     "location_township": "FIRE",
-    "lat": 37.4781541,
-    "lng": -77.465117
+    "lat": 37.483167,
+    "lng": -77.441767
   }
 ]
