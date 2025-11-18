@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 23:45",
-    "box_no": "Precinct 2",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "600-BLK TILTON CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Shallow Way",
-    "location_township": "Precinct 2",
-    "lat": 37.499402,
-    "lng": -77.504433
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 00:15",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -92,15 +79,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 02:23",
+    "dispatch_time": "11/18/2025 02:51",
     "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "00-BLK E BROOKLAND PARK BLVD",
-    "status": "Dispatched",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "700-BLK W FELLS ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
+    "nearest_intersection": "Fells Street",
     "location_township": "Precinct 4",
-    "lat": 37.568967,
-    "lng": -77.4167096
+    "lat": 37.5582353,
+    "lng": -77.4394875
   }
 ]
