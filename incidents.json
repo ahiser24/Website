@@ -154,5 +154,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5666169,
     "lng": -77.4750226
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 05:59",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2500-BLK NINE MILE RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5407854,
+    "lng": -77.4098934
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 05:59",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2500-BLK NINE MILE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5407854,
+    "lng": -77.4098934
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 06:00",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "100-BLK S 21ST AVE HPW",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 06:00",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "100-BLK S 21ST AVE HPW",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   }
 ]
