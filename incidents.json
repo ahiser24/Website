@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 20:59",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "200-BLK BRANDON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brandon Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5050517,
-    "lng": -77.4841045
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 22:07",
     "box_no": "Precinct 4",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -105,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 22:51",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "5200-BLK CHAMBERLAYNE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Road",
-    "location_township": "Precinct 4",
-    "lat": 37.602536,
-    "lng": -77.450554
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 22:51",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "5200-BLK CHAMBERLAYNE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Road",
-    "location_township": "Precinct 4",
-    "lat": 37.602536,
-    "lng": -77.450554
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 22:57",
     "box_no": "Precinct 2",
     "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
@@ -183,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 23:11",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1200-BLK NELSON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5131526,
-    "lng": -77.4030988
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 23:15",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -209,28 +157,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 23:17",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2500-BLK KENSINGTON AVE",
-    "status": "Arrived",
+    "dispatch_time": "11/17/2025 23:32",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3600-BLK W BROAD ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Kensington Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5571519,
-    "lng": -77.468911
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5688593,
+    "lng": -77.4775192
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 23:22",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "900-BLK COMMERCE RD",
+    "dispatch_time": "11/17/2025 23:35",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2700-BLK MIDLOTHIAN TPKE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5221785,
-    "lng": -77.4403053
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.512972,
+    "lng": -77.458451
   }
 ]
