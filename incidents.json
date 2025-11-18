@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 4",
@@ -115,5 +115,31 @@
     "location_township": "Precinct 1",
     "lat": 37.54083,
     "lng": -77.408699
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 03:58",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1200-BLK NELSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 04:07",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "6200-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.504361,
+    "lng": -77.509856
   }
 ]
