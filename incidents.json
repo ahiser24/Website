@@ -53,45 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 02:53",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2400-BLK BURTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Pink Street",
-    "location_township": "Precinct 1",
-    "lat": 37.537979,
-    "lng": -77.414427
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 02:59",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4200-BLK COMMERCE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road Access Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468084,
-    "lng": -77.428152
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 02:59",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4200-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road Access Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468084,
-    "lng": -77.428152
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 03:04",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -102,5 +63,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5840735,
     "lng": -77.4381519
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 03:15",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1900-BLK WESTWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westwood Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.578313,
+    "lng": -77.466066
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 03:34",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "E 5TH ST/DECATUR ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 5th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5228096,
+    "lng": -77.4368354
   }
 ]
