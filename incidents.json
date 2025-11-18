@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 23:39",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "RICH: @MAURY ST ONTO I95 NB",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/17/2025 23:40",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "2700-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5620282,
-    "lng": -77.468756
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 23:45",
     "box_no": "Precinct 2",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -135,7 +109,7 @@
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "2900-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North Arthur Ashe Boulevard",
     "location_township": "Precinct 4",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 00:14",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1900-BLK RAVEN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Raven Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549938,
-    "lng": -77.421725
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 00:16",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -209,15 +170,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/18/2025 00:30",
+    "dispatch_time": "11/18/2025 00:45",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1900-BLK Q ST",
-    "status": "Arrived",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Q Street",
+    "nearest_intersection": "Snead Road",
     "location_township": "FIRE",
-    "lat": 37.5421232,
-    "lng": -77.4170719
+    "lat": 37.4770457,
+    "lng": -77.4856193
   }
 ]
