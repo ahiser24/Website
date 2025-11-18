@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 15:51",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W BROAD ST/N LOMBARDY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 16:05",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5468144,
     "lng": -77.447785
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 16:10",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 25TH ST/E MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5417844,
-    "lng": -77.4091509
   },
   {
     "type_general": "RPD",
@@ -260,6 +234,32 @@
     "lng": -77.5360979
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 17:38",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "300-BLK E 10TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 10th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.519396,
+    "lng": -77.439755
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 17:39",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "500-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "DPR",
+    "lat": 37.5240062,
+    "lng": -77.4383862
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/18/2025 16:18",
     "box_no": "FIRE",
@@ -274,28 +274,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/18/2025 17:32",
+    "dispatch_time": "11/18/2025 17:46",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3400-BLK CAROLINA AVE",
+    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
+    "street": "E LEIGH ST/N 3RD ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Carolina Avenue",
+    "nearest_intersection": "East Leigh Street",
     "location_township": "FIRE",
-    "lat": 37.5766638,
-    "lng": -77.4177667
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/18/2025 17:39",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHOKING",
-    "street": "3400-BLK CHAPEL DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chapel Drive, Southside",
-    "location_township": "FIRE",
-    "lat": 37.5000553,
-    "lng": -77.4609708
+    "lat": 37.5345208,
+    "lng": -77.4167605
   }
 ]
