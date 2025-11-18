@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 10:34",
-    "box_no": "Precinct 2",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 11:16",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -85,10 +72,10 @@
     "street": "3000-BLK COFER RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Cofer Road, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4930579,
+    "lng": -77.4564358
   },
   {
     "type_general": "RPD",
@@ -137,10 +124,10 @@
     "street": "2500-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5657632,
+    "lng": -77.4446172
   },
   {
     "type_general": "RPD",
@@ -189,10 +176,10 @@
     "street": "4300-BLK OLD BROOK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5946766,
+    "lng": -77.448233
   },
   {
     "type_general": "RPD",
@@ -209,16 +196,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 12:16",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2100-BLK RIVERSIDE DR",
+    "dispatch_time": "11/18/2025 12:19",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1300-BLK SPRUANCE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "DPR",
-    "lat": 37.5241719,
-    "lng": -77.4561381
+    "nearest_intersection": "Spruance Road",
+    "location_township": "Precinct 3",
+    "lat": 37.520671,
+    "lng": -77.50597
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 12:21",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "2400-BLK ROSEWOOD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Rosewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.546991,
+    "lng": -77.4731666
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 12:21",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "2400-BLK ROSEWOOD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Rosewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.546991,
+    "lng": -77.4731666
   },
   {
     "type_general": "RPD",
@@ -261,15 +274,80 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/18/2025 12:41",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2300-BLK MONUMENT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5575583,
+    "lng": -77.4655353
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/18/2025 12:45",
     "box_no": "Precinct 4",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
     "street": "3600-BLK CHAMBERLAYNE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Walton Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.581665,
+    "lng": -77.446998
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 12:53",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "6800-BLK EVERGLADES DR",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Everglades Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5034416,
+    "lng": -77.5206899
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 12:53",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "6800-BLK EVERGLADES DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everglades Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5034416,
+    "lng": -77.5206899
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 12:50",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "00-BLK S BELMONT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Belmont Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5520493,
+    "lng": -77.4809159
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 12:52",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4961097,
+    "lng": -77.4759645
   }
 ]
