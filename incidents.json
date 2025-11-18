@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 4",
@@ -57,7 +57,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "4000-BLK NORTH AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Avenue, Northside",
     "location_township": "Precinct 4",
@@ -70,25 +70,12 @@
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "1900-BLK WESTWOOD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Westwood Avenue",
     "location_township": "Precinct 4",
     "lat": 37.578313,
     "lng": -77.466066
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 03:34",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "E 5TH ST/DECATUR ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 5th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5228096,
-    "lng": -77.4368354
   },
   {
     "type_general": "RPD",
@@ -102,5 +89,31 @@
     "location_township": "Precinct 2",
     "lat": 37.468647,
     "lng": -77.440575
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 03:49",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54083,
+    "lng": -77.408699
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 03:49",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54083,
+    "lng": -77.408699
   }
 ]
