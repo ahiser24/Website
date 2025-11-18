@@ -14,6 +14,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/18/2025 08:42",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 2",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 08:42",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 2",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/18/2025 11:17",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -24,32 +50,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5682213,
     "lng": -77.4128175
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 14:47",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "1100-BLK W LEIGH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5539958,
-    "lng": -77.4477219
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 15:41",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "BELT/HOPKINS RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4792718,
-    "lng": -77.4606259
   },
   {
     "type_general": "RPD",
@@ -122,7 +122,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "2200-BLK GROVE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
@@ -154,32 +154,6 @@
     "location_township": "Precinct 4",
     "lat": 37.589734,
     "lng": -77.4449701
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 17:32",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 17:35",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "CHIPPENHAM PKWY RICH: @CHIPPENHAM NB BETWEEN CITY LIMIT AND FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Tremont Court",
-    "location_township": "Precinct 3",
-    "lat": 37.5337582,
-    "lng": -77.5360979
   },
   {
     "type_general": "RPD",
@@ -219,6 +193,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5488772,
     "lng": -77.4777879
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 17:50",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RICH: @RR CROSSING - HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -274,28 +261,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 18:04",
+    "dispatch_time": "11/18/2025 18:06",
     "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "THREE CHOPT RD/PATTERSON AVE RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
+    "nearest_intersection": "Three Chopt Road",
     "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
+    "lat": 37.5878089,
+    "lng": -77.5319679
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/18/2025 17:46",
+    "dispatch_time": "11/18/2025 18:09",
     "box_no": "FIRE",
-    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
-    "street": "E LEIGH ST/N 3RD ST RICH",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "0-BLK N LAUREL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "FIRE",
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 18:09",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "0-BLK N LAUREL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Leigh Street",
+    "nearest_intersection": "North Laurel Street",
     "location_township": "FIRE",
-    "lat": 37.5345208,
-    "lng": -77.4167605
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 18:13",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1200-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.5379459,
+    "lng": -77.408927
   }
 ]
