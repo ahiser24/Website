@@ -7,7 +7,7 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.516009,
     "lng": -77.525109
@@ -46,10 +46,10 @@
     "street": "1400-BLK CLARKSON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -118,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 11:56",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2400-BLK VENABLE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5385327,
-    "lng": -77.4144114
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 11:56",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2400-BLK VENABLE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5385327,
-    "lng": -77.4144114
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 11:57",
     "box_no": "Precinct 4",
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
@@ -176,10 +150,10 @@
     "street": "W FRANKLIN ST/COMMONWEALTH AVE RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5630515,
-    "lng": -77.4777521
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -193,32 +167,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5140128,
     "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 12:02",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1700-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "DPR",
-    "lat": 37.4923295,
-    "lng": -77.481047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 12:03",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1000-BLK N 2ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 2nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551351,
-    "lng": -77.433847
   },
   {
     "type_general": "RPD",
@@ -265,7 +213,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "4300-BLK OLD BROOK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -330,7 +278,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "W BROAD ST/HIGHPOINT AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
@@ -341,9 +289,22 @@
     "type_general": "RPD",
     "dispatch_time": "11/18/2025 12:27",
     "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3100-BLK WOODROW AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Woodrow Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5729346,
+    "lng": -77.4293933
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 12:37",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
     "street": "W BROAD ST/N ADAMS ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
@@ -352,15 +313,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/18/2025 12:14",
+    "dispatch_time": "11/18/2025 12:33",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "200-BLK NORCROFT TER",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "1400-BLK CLARKSON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Norcroft Terrace",
+    "nearest_intersection": "Clarkson Road, Southside",
     "location_township": "FIRE",
-    "lat": 37.5120177,
-    "lng": -77.4825916
+    "lat": 37.4961097,
+    "lng": -77.4759645
   }
 ]
