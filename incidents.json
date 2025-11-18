@@ -7,7 +7,7 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 4",
     "lat": 37.516009,
     "lng": -77.525109
@@ -46,10 +46,10 @@
     "street": "1400-BLK CLARKSON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Clarkson Road, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4961097,
+    "lng": -77.4759645
   },
   {
     "type_general": "RPD",
@@ -85,10 +85,10 @@
     "street": "3000-BLK COFER RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Cofer Road, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4930579,
-    "lng": -77.4564358
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -137,10 +137,10 @@
     "street": "2500-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5657632,
-    "lng": -77.4446172
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -150,10 +150,10 @@
     "street": "W FRANKLIN ST/COMMONWEALTH AVE RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Franklin Street",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5630515,
+    "lng": -77.4777521
   },
   {
     "type_general": "RPD",
@@ -174,38 +174,12 @@
     "box_no": "Precinct 4",
     "type_specific": "PERSON DOWN , INVESTIGATE",
     "street": "500-BLK N 11TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Clay Street",
     "location_township": "Precinct 4",
     "lat": 37.54161,
     "lng": -77.430449
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 12:07",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "5900-BLK LAMESA DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lamesa Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.506712,
-    "lng": -77.506402
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 12:11",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "3400-BLK 3RD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "3rd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5745646,
-    "lng": -77.413352
   },
   {
     "type_general": "RPD",
@@ -215,10 +189,10 @@
     "street": "4300-BLK OLD BROOK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5946766,
-    "lng": -77.448233
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -239,7 +213,7 @@
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
     "street": "2100-BLK RIVERSIDE DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Riverside Drive",
     "location_township": "DPR",
@@ -274,35 +248,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 12:26",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "W BROAD ST/HIGHPOINT AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 12:27",
     "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "3100-BLK WOODROW AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Woodrow Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5729346,
-    "lng": -77.4293933
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 12:37",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "W BROAD ST/N ADAMS ST RICH",
     "status": "Arrived",
     "cross_street": "",
@@ -312,16 +260,16 @@
     "lng": -77.475537
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/18/2025 12:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 12:45",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "3600-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4961097,
-    "lng": -77.4759645
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   }
 ]
