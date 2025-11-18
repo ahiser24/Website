@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 03:15",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1900-BLK WESTWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westwood Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.578313,
-    "lng": -77.466066
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 03:35",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
