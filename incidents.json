@@ -59,23 +59,10 @@
     "street": "7200-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 13:29",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "3100-BLK ZION ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Zion Street",
-    "location_township": "DPR",
-    "lat": 37.4804831,
-    "lng": -77.4555826
+    "lat": 37.5160765,
+    "lng": -77.5258248
   },
   {
     "type_general": "RPD",
@@ -89,19 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.556229,
     "lng": -77.414467
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 13:37",
-    "box_no": "DPR",
-    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
-    "street": "1900-BLK WHITCOMB ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Whitcomb Street",
-    "location_township": "DPR",
-    "lat": 37.553667,
-    "lng": -77.4220683
   },
   {
     "type_general": "RPD",
@@ -163,23 +137,10 @@
     "street": "1800-BLK W MAIN ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Main Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.548457,
-    "lng": -77.463492
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 14:18",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "3800-BLK MOSS SIDE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Moss Side Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5849981,
-    "lng": -77.4424976
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -239,7 +200,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "2100-BLK ROSEWOOD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Rosewood Avenue",
     "location_township": "Precinct 3",
@@ -261,24 +222,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 14:37",
-    "box_no": "Precinct 1",
-    "type_specific": "OVERDOSE/POISONING , ALS Unconscious",
-    "street": "CREIGHTON RD/WALCOTT PL RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Creighton Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5442329,
-    "lng": -77.3994076
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 14:47",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
     "street": "1100-BLK W LEIGH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Leigh Street",
     "location_township": "Precinct 4",
@@ -295,8 +243,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.522207,
+    "lng": -77.435396
   },
   {
     "type_general": "RPD",
@@ -310,6 +258,45 @@
     "location_township": "Precinct 1",
     "lat": 37.522207,
     "lng": -77.435396
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 14:53",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "1400-BLK BRYAN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bryan Street",
+    "location_township": "Precinct 1",
+    "lat": 37.545241,
+    "lng": -77.418982
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 14:54",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "4200-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.468287,
+    "lng": -77.4436513
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 14:34",
+    "box_no": "FIRE",
+    "type_specific": "# OTHER , SINGLE COMPANY",
+    "street": "5600-BLK PETOSKEY AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Petoskey Avenue",
+    "location_township": "FIRE",
+    "lat": 37.4988816,
+    "lng": -77.5008037
   },
   {
     "type_general": "RFD",
@@ -336,19 +323,6 @@
     "location_township": "FIRE",
     "lat": 37.53155,
     "lng": -77.422988
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/18/2025 14:42",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
-    "street": "CREIGHTON RD/WALCOTT PL RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RFD",
