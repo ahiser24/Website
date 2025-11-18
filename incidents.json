@@ -14,32 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 06:09",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "NINE MILE RD/GORDONS LN HENR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5414918,
-    "lng": -77.4030854
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 06:59",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 5TH ST/HOSPITAL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5497878,
-    "lng": -77.4309047
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 07:22",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -79,58 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 08:11",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W MARSHALL ST/SMITH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Harrison Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5523768,
-    "lng": -77.4515312
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 08:28",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1400-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5195165,
-    "lng": -77.4456731
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 08:30",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "200-BLK DECATUR ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5249174,
-    "lng": -77.4353734
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 08:30",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "200-BLK DECATUR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5249174,
-    "lng": -77.4353734
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 08:39",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -141,6 +63,32 @@
     "location_township": "Precinct 2",
     "lat": 37.5196704,
     "lng": -77.4613917
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 08:42",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 2",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 08:49",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2500-BLK Q ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Q Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.538495,
+    "lng": -77.4120703
   },
   {
     "type_general": "RPD",
@@ -156,16 +104,16 @@
     "lng": -77.4169799
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/18/2025 08:44",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "3800-BLK MASTIN LN",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 08:58",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "LL(-77:24:44.1361,37:32:38.5043): EST 1523 N 21ST ST RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.571676,
-    "lng": -77.481157
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lng": -77.41226002777778,
+    "lat": 37.54402897222222
   }
 ]
