@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/17/2025 22:23",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "BRANDER ST/MAURY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brander Street",
-    "location_township": "Precinct 1",
-    "lat": 37.52495,
-    "lng": -77.4285357
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/17/2025 23:15",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -37,19 +24,6 @@
     "location_township": "Precinct 4",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 03:04",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "4000-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5840735,
-    "lng": -77.4381519
   },
   {
     "type_general": "RPD",
@@ -76,19 +50,6 @@
     "location_township": "Precinct 4",
     "lat": 37.58681,
     "lng": -77.442902
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 05:27",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4000-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5840735,
-    "lng": -77.4381519
   },
   {
     "type_general": "RPD",
@@ -183,6 +144,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/18/2025 06:09",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "2500-BLK REDWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Redwood Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5516435,
+    "lng": -77.4157146
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/18/2025 06:12",
     "box_no": "Precinct 3",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -206,5 +180,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5473397,
     "lng": -77.4624683
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 06:24",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "0-BLK S 18TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5323493,
+    "lng": -77.4281956
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 06:20",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "700-BLK DINWIDDIE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dinwiddie Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5170381,
+    "lng": -77.4342407
   }
 ]
