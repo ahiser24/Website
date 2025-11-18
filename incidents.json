@@ -83,7 +83,7 @@
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "2700-BLK BELT BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Belt Boulevard, Southside",
     "location_township": "Precinct 2",
@@ -115,5 +115,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5652469,
     "lng": -77.4719101
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 05:39",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 05:45",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3200-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5666169,
+    "lng": -77.4750226
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 05:38",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "3500-BLK HANOVER AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5599516,
+    "lng": -77.4840751
   }
 ]
