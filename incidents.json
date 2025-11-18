@@ -50,18 +50,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5414918,
     "lng": -77.4030854
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 06:09",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "2500-BLK REDWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Redwood Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5516435,
-    "lng": -77.4157146
   }
 ]
