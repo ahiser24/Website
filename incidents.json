@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE - EMS",
     "street": "6700-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 00:53",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "500-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Henry Street",
-    "location_township": "Precinct 4",
-    "lat": 37.547507,
-    "lng": -77.447148
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 00:54",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -115,5 +102,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4888707,
     "lng": -77.5097912
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 01:38",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4200-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.591125,
+    "lng": -77.452618
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 01:48",
+    "box_no": "FIRE",
+    "type_specific": "# TRASH FIRE , DEBRIS",
+    "street": "W CARY ST/S THOMPSON ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "FIRE",
+    "lat": 37.5540735,
+    "lng": -77.4832405
   }
 ]
