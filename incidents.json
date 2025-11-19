@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/19/2025 15:48",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2200-BLK CHATEAU DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chateau Drive",
+    "location_township": "DPR",
+    "lat": 37.4823284,
+    "lng": -77.5001855
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/19/2025 16:18",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -79,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 16:39",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "900-BLK N 29TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5348834,
-    "lng": -77.4102459
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 16:49",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "S 7TH ST/E BYRD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 7th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5364177,
-    "lng": -77.4409091
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 16:54",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5843631,
     "lng": -77.4719838
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:21",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
   },
   {
     "type_general": "RPD",
@@ -154,32 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.58426,
     "lng": -77.463528
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:29",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:56",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "N 23RD ST/PETER PAUL BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5477356,
-    "lng": -77.4063082
   },
   {
     "type_general": "RPD",
@@ -248,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:05",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "500-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5468144,
-    "lng": -77.447785
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 18:02",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -271,6 +206,71 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:21",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:50",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "200-BLK E BROOKLAND PARK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5715522,
+    "lng": -77.4302614
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 16:49",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "S 7TH ST/E BYRD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 7th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5364177,
+    "lng": -77.4409091
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:29",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 16:39",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "900-BLK N 29TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5348834,
+    "lng": -77.4102459
   },
   {
     "type_general": "RFD",
@@ -352,16 +352,16 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/19/2025 18:08",
+    "dispatch_time": "11/19/2025 18:29",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "3300-BLK DILL AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
+    "nearest_intersection": "Dill Avenue",
     "location_township": "FIRE",
-    "lat": 37.5140128,
-    "lng": -77.4895724
+    "lat": 37.5719648,
+    "lng": -77.4119515
   },
   {
     "type_general": "RPD",
@@ -369,11 +369,24 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2400-BLK CARMINE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Carmine Street",
     "location_township": "Precinct 1",
     "lat": 37.5562698,
     "lng": -77.4167992
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:23",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W BROOKLAND PARK BLVD/FENDALL AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5724275,
+    "lng": -77.4487587
   }
 ]
