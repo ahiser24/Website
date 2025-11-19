@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 21:21",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "2600-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5543423,
-    "lng": -77.4720912
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 21:24",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "800-BLK N 24TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cedar Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.536673,
-    "lng": -77.41554
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 21:51",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -76,32 +50,6 @@
     "location_township": "Precinct 3",
     "lat": 37.519466,
     "lng": -77.4818158
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/18/2025 18:09",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "0-BLK N LAUREL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "FIRE",
-    "lat": 37.5465072,
-    "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/18/2025 18:09",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "0-BLK N LAUREL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "FIRE",
-    "lat": 37.5465072,
-    "lng": -77.4515552
   },
   {
     "type_general": "RPD",
@@ -143,6 +91,32 @@
     "lat": 37.535651666666666
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 18:09",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "0-BLK N LAUREL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "FIRE",
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 18:09",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "0-BLK N LAUREL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "FIRE",
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/18/2025 23:43",
     "box_no": "Precinct 2",
@@ -169,58 +143,6 @@
     "lng": -77.4462032
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 23:53",
-    "box_no": "Precinct 4",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "100-BLK E GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 1st Street",
-    "location_township": "Precinct 4",
-    "lat": 37.54423,
-    "lng": -77.441673
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 00:01",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "HULL STREET RD/WARWICK RD RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.49303,
-    "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 00:01",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "HULL STREET RD/WARWICK RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.49303,
-    "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 00:00",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "200-BLK N 20TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53368,
-    "lng": -77.424149
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 00:00",
     "box_no": "FIRE",
@@ -245,5 +167,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5658211,
     "lng": -77.4807515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 00:00",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "200-BLK N 20TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53368,
+    "lng": -77.424149
   }
 ]
