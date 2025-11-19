@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:05",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1900-BLK E MARSHALL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "DPR",
-    "lat": 37.535815,
-    "lng": -77.423219
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 08:17",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 09:22",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "400-BLK CLEVELAND ST",
+    "dispatch_time": "11/19/2025 08:51",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "132100-BLK E MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stuart Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.559174,
-    "lng": -77.478351
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5030935,
     "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:51",
-    "box_no": "Precinct 1",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "132100-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -172,14 +146,27 @@
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 09:45",
     "box_no": "FIRE",
-    "type_specific": "# SMOKE INVESTIGATION",
-    "street": "MELBOURNE ST/BRAME ST RICH",
+    "type_specific": "# TRASH FIRE , BURN VIOLATION",
+    "street": "1800-BLK BRAME ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Melbourne Street",
     "location_township": "FIRE",
-    "lat": 37.5521297,
-    "lng": -77.4143935
+    "lat": 37.552392,
+    "lng": -77.415053
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 09:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "800-BLK WOODHAVEN DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Woodhaven Drive, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4993741,
+    "lng": -77.4871538
   },
   {
     "type_general": "RPD",
@@ -195,17 +182,30 @@
     "lng": -77.449046
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 09:51",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "800-BLK WOODHAVEN DR",
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 09:28",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "BROOK RD/SHERWOOD AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5534081,
+    "lng": -77.4419452
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 09:59",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "1900-BLK IDLEWOOD AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Woodhaven Drive, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4993741,
-    "lng": -77.4871538
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5455176,
+    "lng": -77.4665007
   },
   {
     "type_general": "RPD",
@@ -213,7 +213,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
     "street": "W LABURNUM AVE/HERMITAGE RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Laburnum Avenue",
     "location_township": "Precinct 4",
@@ -222,15 +222,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 09:47",
-    "box_no": "Precinct 2",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "600-BLK DIXON DR",
+    "dispatch_time": "11/19/2025 09:44",
+    "box_no": "Precinct 4",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "900-BLK N LOMBARDY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Dixon Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5017467,
-    "lng": -77.4846057
+    "nearest_intersection": "North Lombardy Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5563334,
+    "lng": -77.454402
   }
 ]
