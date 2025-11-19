@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 10:52",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "9200-BLK STONY POINT PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5503586,
-    "lng": -77.5718286
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 10:54",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 2",
     "lat": 37.5012678,
     "lng": -77.4568047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 11:31",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "1200-BLK GREYSTONE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greystone Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4978215,
+    "lng": -77.4725608
   },
   {
     "type_general": "RPD",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 11:31",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "1200-BLK GREYSTONE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greystone Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4978215,
-    "lng": -77.4725608
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 12:07",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -180,19 +167,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5034416,
     "lng": -77.5206899
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 11:48",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1700-BLK W MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Vine Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5482054,
-    "lng": -77.4622273
   },
   {
     "type_general": "RPD",
@@ -235,6 +209,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/19/2025 12:22",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "E CARY ST/S 26TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.529859,
+    "lng": -77.4248587
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/19/2025 12:07",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -248,6 +235,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/19/2025 11:48",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1700-BLK W MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Vine Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5482054,
+    "lng": -77.4622273
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/19/2025 12:26",
     "box_no": "DPR",
     "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
@@ -258,32 +258,6 @@
     "location_township": "DPR",
     "lat": 37.5005134,
     "lng": -77.5228532
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 12:26",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "COALTER ST/LITTLEPAGE ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5437458,
-    "lng": -77.4217291
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 12:26",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "COALTER ST/LITTLEPAGE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5437458,
-    "lng": -77.4217291
   },
   {
     "type_general": "RFD",
@@ -339,16 +313,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 12:22",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "E CARY ST/S 26TH ST RICH",
-    "status": "Enroute",
+    "dispatch_time": "11/19/2025 12:39",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "100-BLK E DUVAL ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.529859,
-    "lng": -77.4248587
+    "nearest_intersection": "East Duval Street",
+    "location_township": "Precinct 4",
+    "lat": 37.549858,
+    "lng": -77.436382
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 12:39",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "100-BLK E DUVAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Duval Street",
+    "location_township": "Precinct 4",
+    "lat": 37.549858,
+    "lng": -77.436382
   },
   {
     "type_general": "RPD",
@@ -362,5 +349,44 @@
     "location_township": "Precinct 3",
     "lat": 37.509293,
     "lng": -77.525136
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 12:39",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "S BELVIDERE ST/W CARY ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 12:39",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "2200-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "FIRE",
+    "lat": 37.514084,
+    "lng": -77.450314
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 12:42",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "100-BLK W FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "FIRE",
+    "lat": 37.544751,
+    "lng": -77.4444328
   }
 ]
