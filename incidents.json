@@ -128,5 +128,57 @@
     "location_township": "Precinct 4",
     "lat": 37.547507,
     "lng": -77.447148
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 23:39",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "LL(-77:24:55.6790,37:32:08.3460)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lng": -77.41546638888889,
+    "lat": 37.535651666666666
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 23:39",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "LL(-77:24:55.6790,37:32:08.3460)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lng": -77.41546638888889,
+    "lat": 37.535651666666666
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 23:43",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2700-BLK SOUTHGATE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Southgate Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4615814,
+    "lng": -77.4447633
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 23:44",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "3200-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5754748,
+    "lng": -77.4462032
   }
 ]
