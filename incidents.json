@@ -66,58 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:18",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "0-BLK S 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5323493,
-    "lng": -77.4281956
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:29",
-    "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2400-BLK E MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5293872,
-    "lng": -77.4214565
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:29",
-    "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2400-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5293872,
-    "lng": -77.4214565
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:28",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1700-BLK W MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Vine Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5482054,
-    "lng": -77.4622273
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 08:26",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -131,16 +79,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:35",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2800-BLK FLOYD AVE",
-    "status": "Enroute",
+    "dispatch_time": "11/19/2025 08:29",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2400-BLK E MAIN ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.554102,
-    "lng": -77.47555
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5293872,
+    "lng": -77.4214565
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 08:29",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2400-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5293872,
+    "lng": -77.4214565
   },
   {
     "type_general": "RPD",
@@ -180,5 +141,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5840069,
     "lng": -77.4708596
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 08:39",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "RICH: @EXIT 2B - DOWNTOWN EXPY EB (BYRD ST / 2ND ST)",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   }
 ]
