@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 01:02",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "1400-BLK N 23RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5425217,
-    "lng": -77.4115803
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 01:03",
-    "box_no": "Precinct 4",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
-    "street": "1100-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.6015861,
-    "lng": -77.4529869
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 01:10",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -89,58 +63,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5630515,
     "lng": -77.4777521
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 02:07",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "700-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5353771,
-    "lng": -77.4156215
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 02:07",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "700-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5353771,
-    "lng": -77.4156215
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 03:01",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "700-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 03:01",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "700-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
   },
   {
     "type_general": "RPD",
@@ -169,16 +91,42 @@
     "lng": -77.4451238
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 03:00",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1200-BLK BRUCE ST",
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 03:12",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "300-BLK STOCKTON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bruce Street",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "FIRE",
+    "lat": 37.5231141,
+    "lng": -77.4348124
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 03:17",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "3800-BLK N ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 38th Street",
     "location_township": "Precinct 1",
-    "lat": 37.5061009,
-    "lng": -77.4323822
+    "lat": 37.5288,
+    "lng": -77.402706
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 03:17",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "3800-BLK N ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 38th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5288,
+    "lng": -77.402706
   }
 ]
