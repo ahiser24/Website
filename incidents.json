@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 22:53",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1800-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "DPR",
-    "lat": 37.5466404,
-    "lng": -77.4092602
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 22:59",
     "box_no": "Precinct 4",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
@@ -157,11 +144,37 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/18/2025 23:44",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "3200-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5754748,
+    "lng": -77.4462032
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/18/2025 23:52",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STABBING",
+    "street": "00-BLK N THOMPSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Thompson Street",
+    "location_township": "FIRE",
+    "lat": 37.5658211,
+    "lng": -77.4807515
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/18/2025 23:43",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "2700-BLK SOUTHGATE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Southgate Street",
     "location_township": "Precinct 2",
@@ -170,15 +183,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 23:44",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3200-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
+    "dispatch_time": "11/18/2025 23:47",
+    "box_no": "Precinct 3",
+    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
+    "street": "00-BLK N THOMPSON ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5754748,
-    "lng": -77.4462032
+    "nearest_intersection": "North Thompson Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5658211,
+    "lng": -77.4807515
   }
 ]
