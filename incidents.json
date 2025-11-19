@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 03:00",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "N BELVIDERE ST/W FRANKLIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Belvidere Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511248,
-    "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 03:17",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -96,7 +83,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
     "street": "2100-BLK GREENWOOD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Greenwood Avenue, Northside",
     "location_township": "FIRE",
