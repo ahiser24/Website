@@ -14,6 +14,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/19/2025 10:51",
+    "box_no": "DPR",
+    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
+    "street": "00-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.5667607,
+    "lng": -77.475537
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/19/2025 11:31",
     "box_no": "Precinct 2",
     "type_specific": "WELFARE CHECK , EMS RESPONSE",
@@ -66,29 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 15:48",
+    "dispatch_time": "11/19/2025 16:18",
     "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "100-BLK W MARSHALL ST",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "900-BLK SLEDD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
+    "nearest_intersection": "Sledd Street, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.547254,
-    "lng": -77.4419569
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 16:01",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1600-BLK N 19TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "DPR",
-    "lat": 37.5488354,
-    "lng": -77.4123329
+    "lat": 37.557176,
+    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -144,45 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 16:18",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:17",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2100-BLK HULL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5227355,
-    "lng": -77.4412676
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:17",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2100-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5227355,
-    "lng": -77.4412676
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 17:14",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -219,6 +180,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5400826,
     "lng": -77.4617077
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:28",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N MEADOW ST/W MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.551702,
+    "lng": -77.4644711
   },
   {
     "type_general": "RPD",
@@ -260,17 +234,17 @@
     "lng": -77.4128747
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 17:11",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "NICHOLSON ST/E MAIN ST RICH",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:05",
+    "box_no": "Precinct 4",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "500-BLK W FRANKLIN ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Nicholson Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.5205173,
-    "lng": -77.4128747
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5468144,
+    "lng": -77.447785
   },
   {
     "type_general": "RFD",
@@ -284,45 +258,6 @@
     "location_township": "FIRE",
     "lat": 37.5546,
     "lng": -77.418318
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:29",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:28",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N MEADOW ST/W MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.551702,
-    "lng": -77.4644711
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:32",
-    "box_no": "Precinct 1",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
   },
   {
     "type_general": "RFD",
@@ -349,5 +284,57 @@
     "location_township": "Precinct 1",
     "lat": 37.519795,
     "lng": -77.4039153
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:41",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:41",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:32",
+    "box_no": "Precinct 1",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "1900-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5528738,
+    "lng": -77.4124488
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 17:29",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
   }
 ]
