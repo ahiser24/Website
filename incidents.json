@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:40",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "6400-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "DPR",
-    "lat": 37.5204082,
-    "lng": -77.5140908
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 08:43",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.505531,
     "lng": -77.511641
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 08:51",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "132100-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -89,45 +89,6 @@
     "location_township": "FIRE",
     "lat": 37.5669238,
     "lng": -77.4595868
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:49",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "ROSE AVE/W ROBERTS ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rose Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5609318,
-    "lng": -77.434341
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:57",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "RHOADMILLER ST/HERMITAGE RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rhoadmiller Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5669238,
-    "lng": -77.4595868
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 09:13",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
-    "street": "2300-BLK SELDEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549784,
-    "lng": -77.4058634
   },
   {
     "type_general": "RPD",
@@ -170,15 +131,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 08:51",
-    "box_no": "Precinct 1",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "132100-BLK E MAIN ST",
+    "dispatch_time": "11/19/2025 08:57",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "RHOADMILLER ST/HERMITAGE RD RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Rhoadmiller Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5669238,
+    "lng": -77.4595868
   }
 ]
