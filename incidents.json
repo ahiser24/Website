@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 04:06",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "2500-BLK HARWOOD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5031522,
-    "lng": -77.4456383
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 04:06",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "2500-BLK HARWOOD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5031522,
-    "lng": -77.4456383
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 05:27",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 2",
     "lat": 37.472385,
     "lng": -77.453612
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 05:41",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
   },
   {
     "type_general": "RFD",
@@ -104,19 +91,6 @@
     "lng": -77.417883
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 05:41",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 05:41",
     "box_no": "FIRE",
@@ -128,5 +102,18 @@
     "location_township": "FIRE",
     "lat": 37.590597,
     "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 05:46",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   }
 ]
