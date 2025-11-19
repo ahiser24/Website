@@ -31,7 +31,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
     "street": "3200-BLK SNEAD CT",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Snead Court",
     "location_township": "Precinct 2",
@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 03:17",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3800-BLK N ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 38th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5288,
-    "lng": -77.402706
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 04:00",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -131,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 04:20",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2200-BLK BROAD ROCK BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.486856,
-    "lng": -77.475883
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 04:20",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2200-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.486856,
-    "lng": -77.475883
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 04:37",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -206,5 +167,31 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 04:43",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "HANOVER AVE/MALVERN AVE RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5587725,
+    "lng": -77.4813626
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 04:43",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "HANOVER AVE/MALVERN AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5587725,
+    "lng": -77.4813626
   }
 ]
