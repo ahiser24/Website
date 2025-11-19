@@ -40,37 +40,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 23:47",
-    "box_no": "Precinct 3",
-    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
-    "street": "00-BLK N THOMPSON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Thompson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5658211,
-    "lng": -77.4807515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 01:10",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "W FRANKLIN ST/RYLAND ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5630515,
-    "lng": -77.4777521
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 01:44",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
     "street": "3200-BLK SNEAD CT",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Snead Court",
     "location_township": "Precinct 2",
@@ -89,19 +63,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5511248,
     "lng": -77.4451238
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 03:12",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "300-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "FIRE",
-    "lat": 37.5231141,
-    "lng": -77.4348124
   },
   {
     "type_general": "RPD",
@@ -128,5 +89,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5288,
     "lng": -77.402706
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 03:12",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "300-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "FIRE",
+    "lat": 37.5231141,
+    "lng": -77.4348124
   }
 ]
