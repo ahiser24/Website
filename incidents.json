@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FRONT ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
@@ -24,6 +24,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4978215,
     "lng": -77.4725608
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 12:26",
+    "box_no": "DPR",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "100-BLK GRESHAMWOOD PL",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greshamwood Place",
+    "location_township": "DPR",
+    "lat": 37.5005134,
+    "lng": -77.5228532
   },
   {
     "type_general": "RPD",
@@ -79,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 13:52",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "7100-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5378286,
-    "lng": -77.5260018
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 13:55",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -131,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/19/2025 13:52",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "7100-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5378286,
+    "lng": -77.5260018
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/19/2025 14:23",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
@@ -141,19 +154,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5401333,
     "lng": -77.4023324
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 14:42",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "E 14TH ST/HULL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 14th Street",
-    "location_township": "FIRE",
-    "lat": 37.5110278,
-    "lng": -77.4364195
   },
   {
     "type_general": "RPD",
@@ -196,58 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 14:52",
-    "box_no": "Precinct 2",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "3100-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 14:52",
-    "box_no": "Precinct 2",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "3100-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 14:42",
-    "box_no": "Precinct 1",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "E 14TH ST/HULL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5110278,
-    "lng": -77.4364195
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 14:55",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "S ALLEN AVE/AMELIA ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Allen Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5441291,
-    "lng": -77.4655118
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 14:44",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -273,16 +221,42 @@
     "lng": -77.40059
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 14:42",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "800-BLK AZALEA AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 14:57",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "3200-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5754748,
+    "lng": -77.4462032
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 14:48",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2600-BLK HULL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "FIRE",
-    "lat": 37.6015861,
-    "lng": -77.4529869
+    "nearest_intersection": "Hull Street",
+    "location_township": "DPR",
+    "lat": 37.5131919,
+    "lng": -77.4558898
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 14:40",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "700-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 1",
+    "lat": 37.4835974,
+    "lng": -77.444674
   }
 ]
