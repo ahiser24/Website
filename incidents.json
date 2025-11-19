@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 15:48",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "2200-BLK CHATEAU DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chateau Drive",
-    "location_township": "DPR",
-    "lat": 37.4823284,
-    "lng": -77.5001855
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 16:18",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -89,6 +76,19 @@
     "location_township": "DPR",
     "lat": 37.5240062,
     "lng": -77.4383862
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 16:39",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "900-BLK N 29TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5348834,
+    "lng": -77.4102459
   },
   {
     "type_general": "RPD",
@@ -131,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:08",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "6000-BLK LAVETA DR",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Laveta Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5095497,
-    "lng": -77.5073781
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:08",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "6000-BLK LAVETA DR",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Laveta Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5095497,
-    "lng": -77.5073781
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 18:09",
     "box_no": "Precinct 1",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -180,6 +154,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:16",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "3400-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5030567,
+    "lng": -77.4626598
   },
   {
     "type_general": "RPD",
@@ -248,16 +235,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 16:39",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "900-BLK N 29TH ST",
-    "status": "Enroute",
+    "dispatch_time": "11/19/2025 18:08",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "6000-BLK LAVETA DR",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 29th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5348834,
-    "lng": -77.4102459
+    "nearest_intersection": "Laveta Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5095497,
+    "lng": -77.5073781
   },
   {
     "type_general": "RPD",
@@ -265,7 +252,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "KENSINGTON AVE/CLEVELAND ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Kensington Avenue, West End",
     "location_township": "Precinct 3",
@@ -299,19 +286,6 @@
     "lng": -77.4515552
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "3400-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 18:29",
     "box_no": "FIRE",
@@ -323,45 +297,6 @@
     "location_township": "FIRE",
     "lat": 37.5719648,
     "lng": -77.4119515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:36",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "5200-BLK HULL STREET RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492722,
-    "lng": -77.4891674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:36",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "5200-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492722,
-    "lng": -77.4891674
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 18:38",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "1900-BLK KANSAS AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Kansas Avenue",
-    "location_township": "FIRE",
-    "lat": 37.531676,
-    "lng": -77.4740006
   },
   {
     "type_general": "RFD",
@@ -388,5 +323,83 @@
     "location_township": "Precinct 4",
     "lat": 37.5724275,
     "lng": -77.4487587
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:42",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:42",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:39",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "2800-BLK EDGEWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Edgewood Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5689144,
+    "lng": -77.4390438
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 18:38",
+    "box_no": "FIRE",
+    "type_specific": "# OTHER , SINGLE COMPANY",
+    "street": "1900-BLK KANSAS AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Kansas Avenue",
+    "location_township": "FIRE",
+    "lat": 37.531676,
+    "lng": -77.4740006
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 18:42",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SICK PERSON",
+    "street": "2100-BLK JOPLIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Joplin Avenue",
+    "location_township": "FIRE",
+    "lat": 37.505493,
+    "lng": -77.441006
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:42",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "2100-BLK JOPLIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Joplin Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.505493,
+    "lng": -77.441006
   }
 ]
