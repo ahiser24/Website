@@ -82,13 +82,13 @@
     "dispatch_time": "11/19/2025 13:55",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "CHIPPENHAM PKWY/STONY POINT RICH",
+    "street": "CHIPPENHAM/STONY POINT PKWY RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chippenham Parkway",
+    "nearest_intersection": "East Tremont Court",
     "location_township": "Precinct 3",
-    "lat": 37.5434723,
-    "lng": -77.540296
+    "lat": 37.5337582,
+    "lng": -77.5360979
   },
   {
     "type_general": "RPD",
@@ -128,6 +128,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5401333,
     "lng": -77.4023324
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 14:36",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2100-BLK NEWBOURNE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Newbourne Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549394,
+    "lng": -77.408293
   },
   {
     "type_general": "RPD",
@@ -183,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 15:23",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "U ST/N 21ST ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "U Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5394198,
-    "lng": -77.4048831
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 15:17",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -235,19 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 15:21",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "DECATUR ST/E 6TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5086873,
-    "lng": -77.4611509
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 15:36",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -261,29 +248,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 15:37",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "100-BLK W FEDERAL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Federal Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5528651,
-    "lng": -77.4366559
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 15:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "00-BLK E BROAD ST",
+    "dispatch_time": "11/19/2025 15:23",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "U ST/N 21ST ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5386168,
-    "lng": -77.4303197
+    "nearest_intersection": "U Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5394198,
+    "lng": -77.4048831
   },
   {
     "type_general": "RFD",
@@ -291,11 +265,24 @@
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
     "street": "1400-BLK ENFIELD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Enfield Avenue",
     "location_township": "FIRE",
     "lat": 37.5014329,
     "lng": -77.4438084
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 15:41",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "1100-BLK ST JAMES ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint James Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5526663,
+    "lng": -77.4355476
   }
 ]
