@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/18/2025 22:26",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "4400-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.519466,
-    "lng": -77.4818158
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/18/2025 22:59",
     "box_no": "Precinct 4",
     "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5754748,
     "lng": -77.4462032
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/18/2025 23:47",
+    "box_no": "Precinct 3",
+    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
+    "street": "00-BLK N THOMPSON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Thompson Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5658211,
+    "lng": -77.4807515
   },
   {
     "type_general": "RFD",
@@ -102,19 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/18/2025 23:47",
-    "box_no": "Precinct 3",
-    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
-    "street": "00-BLK N THOMPSON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Thompson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5658211,
-    "lng": -77.4807515
   },
   {
     "type_general": "RPD",
@@ -170,15 +157,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 00:27",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "3200-BLK BROOK RD",
+    "dispatch_time": "11/19/2025 00:39",
+    "box_no": "Precinct 2",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "CLARKSON RD/WARWICK RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Brook Road, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.575027,
-    "lng": -77.449672
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4938603,
+    "lng": -77.4757783
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 00:44",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3700-BLK E BROAD ROCK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5019398,
+    "lng": -77.4680657
   }
 ]
