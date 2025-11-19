@@ -44,7 +44,20 @@
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
     "street": "3800-BLK N ST",
-    "status": "Dispatched",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 38th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5288,
+    "lng": -77.402706
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 03:17",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "3800-BLK N ST",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 38th Street",
     "location_township": "Precinct 1",
@@ -78,6 +91,32 @@
     "lng": -77.4469305
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 04:00",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2100-BLK E GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.532717,
+    "lng": -77.42266
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 04:00",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2100-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.532717,
+    "lng": -77.42266
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 03:42",
     "box_no": "FIRE",
@@ -89,5 +128,44 @@
     "location_township": "FIRE",
     "lat": 37.5621539,
     "lng": -77.4366019
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 04:06",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "2500-BLK HARWOOD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Harwood Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5031522,
+    "lng": -77.4456383
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 04:06",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "3500-BLK HANOVER AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5599516,
+    "lng": -77.4840751
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 04:06",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "2500-BLK HARWOOD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Harwood Street",
+    "location_township": "FIRE",
+    "lat": 37.5031522,
+    "lng": -77.4456383
   }
 ]
