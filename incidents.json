@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:46",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "LL(-77:29:00.9962,37:33:52.6175): EST I-195 RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Beltline Expressway",
-    "location_township": "Precinct 3",
-    "lng": -77.48361005555556,
-    "lat": 37.56461597222222
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 18:09",
     "box_no": "Precinct 1",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -146,7 +133,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/19/2025 18:02",
     "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
     "street": "2200-BLK CHAMBERLAYNE PKWY",
     "status": "Arrived",
     "cross_street": "",
@@ -154,19 +141,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "3400-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
   },
   {
     "type_general": "RPD",
@@ -183,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:50",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "200-BLK E BROOKLAND PARK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5715522,
-    "lng": -77.4302614
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 16:49",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -209,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 17:29",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 18:14",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -232,6 +180,32 @@
     "location_township": "Precinct 1",
     "lat": 37.5562698,
     "lng": -77.4167992
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:42",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:42",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
   },
   {
     "type_general": "RPD",
@@ -258,6 +232,45 @@
     "location_township": "Precinct 3",
     "lat": 37.5866256,
     "lng": -77.5272048
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:39",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "2800-BLK EDGEWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Edgewood Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5689144,
+    "lng": -77.4390438
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:42",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "2100-BLK JOPLIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Joplin Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.505493,
+    "lng": -77.441006
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:23",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W BROOKLAND PARK BLVD/FENDALL AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5724275,
+    "lng": -77.4487587
   },
   {
     "type_general": "RFD",
@@ -312,71 +325,6 @@
     "lng": -77.416771
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:23",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W BROOKLAND PARK BLVD/FENDALL AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5724275,
-    "lng": -77.4487587
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:42",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "6500-BLK HULL STREET RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4804874,
-    "lng": -77.5121816
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:42",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "6500-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4804874,
-    "lng": -77.5121816
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:39",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
-    "street": "2800-BLK EDGEWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Edgewood Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5689144,
-    "lng": -77.4390438
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 18:38",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "1900-BLK KANSAS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Kansas Avenue",
-    "location_township": "FIRE",
-    "lat": 37.531676,
-    "lng": -77.4740006
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 18:42",
     "box_no": "FIRE",
@@ -391,15 +339,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:42",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "2100-BLK JOPLIN AVE",
+    "dispatch_time": "11/19/2025 18:50",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2600-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5131919,
+    "lng": -77.4558898
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:50",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2600-BLK HULL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Joplin Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.505493,
-    "lng": -77.441006
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5131919,
+    "lng": -77.4558898
   }
 ]
