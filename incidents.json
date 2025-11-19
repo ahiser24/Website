@@ -180,5 +180,18 @@
     "location_township": "FIRE",
     "lat": 37.53124,
     "lng": -77.417883
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 05:13",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "700-BLK N 2ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5484702,
+    "lng": -77.4367774
   }
 ]
