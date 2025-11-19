@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 03:37",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3500-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5799327,
-    "lng": -77.4469305
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 04:00",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -117,25 +104,12 @@
     "lng": -77.42266
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 03:42",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2100-BLK GREENWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greenwood Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5621539,
-    "lng": -77.4366019
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/19/2025 04:06",
     "box_no": "Precinct 2",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
     "street": "2500-BLK HARWOOD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Harwood Street",
     "location_township": "Precinct 2",
@@ -143,17 +117,17 @@
     "lng": -77.4456383
   },
   {
-    "type_general": "RFD",
+    "type_general": "RPD",
     "dispatch_time": "11/19/2025 04:06",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "3500-BLK HANOVER AVE",
-    "status": "Enroute",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "2500-BLK HARWOOD ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5599516,
-    "lng": -77.4840751
+    "nearest_intersection": "Harwood Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5031522,
+    "lng": -77.4456383
   },
   {
     "type_general": "RFD",
@@ -167,5 +141,18 @@
     "location_township": "FIRE",
     "lat": 37.5031522,
     "lng": -77.4456383
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 04:13",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4900-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5820472,
+    "lng": -77.4934603
   }
 ]
