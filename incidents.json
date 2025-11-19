@@ -40,6 +40,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/19/2025 12:41",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1600-BLK N 21ST ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "DPR",
+    "lat": 37.54527,
+    "lng": -77.411623
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/19/2025 12:53",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -105,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 13:40",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "0-BLK N 23RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5477356,
-    "lng": -77.4063082
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 14:07",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -157,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 13:40",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "500-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "DPR",
-    "lat": 37.5240062,
-    "lng": -77.4383862
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 14:12",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "1900-BLK GROVE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "DPR",
-    "lat": 37.5512607,
-    "lng": -77.463378
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 14:02",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -219,5 +193,57 @@
     "location_township": "Precinct 1",
     "lat": 37.5401333,
     "lng": -77.4023324
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 14:38",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1300-BLK JENNIE SCHER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road",
+    "location_township": "Precinct 1",
+    "lat": 37.521475,
+    "lng": -77.40059
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 14:14",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1600-BLK WESTBROOK AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westbrook Avenue",
+    "location_township": "DPR",
+    "lat": 37.5972138,
+    "lng": -77.4623626
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 14:42",
+    "box_no": "Precinct 1",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "E 14TH ST/HULL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5110278,
+    "lng": -77.4364195
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 14:42",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "E 14TH ST/HULL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 14th Street",
+    "location_township": "FIRE",
+    "lat": 37.5110278,
+    "lng": -77.4364195
   }
 ]
