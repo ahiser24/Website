@@ -92,45 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 17:21",
-    "box_no": "Precinct 1",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 17:23",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "RICH: @EXIT 3A/B - DOWNTOWN EXPY EB (I95 NB & I95 SB)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 17:14",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "OVERBROOK RD/NORTH AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Overbrook Road, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.565677,
-    "lng": -77.4441142
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 16:32",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -144,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 17:52",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E BYRD ST/S 10TH ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Byrd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5401544,
-    "lng": -77.4461994
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 18:07",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -206,6 +154,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5246138,
     "lng": -77.4488098
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 18:18",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "900-BLK SLEDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -222,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/20/2025 17:52",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E BYRD ST/S 10TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Byrd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5401544,
+    "lng": -77.4461994
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/20/2025 18:08",
     "box_no": "Precinct 1",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -235,16 +209,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 18:23",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "RICH: @DOWNTOWN EXPY WB BETWEEN 7TH ST & BELVIDERE ST",
+    "dispatch_time": "11/20/2025 18:17",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "1100-BLK WILLIAMSBURG RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Williamsburg Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5148267,
+    "lng": -77.4037056
   },
   {
     "type_general": "RPD",
@@ -252,37 +226,11 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "RICH: @DOWNTOWN EXPY WB BETWEEN 7TH ST & BELVIDERE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 18:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1100-BLK DECATUR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "FIRE",
-    "lat": 37.520471,
-    "lng": -77.442472
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 18:18",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
   }
 ]
