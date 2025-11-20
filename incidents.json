@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FRONT ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
@@ -37,19 +37,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5301228,
     "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 00:57",
-    "box_no": "Precinct 1",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "1300-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5362219,
-    "lng": -77.4321747
   },
   {
     "type_general": "RPD",
@@ -105,16 +92,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 03:33",
+    "dispatch_time": "11/20/2025 03:31",
     "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "COALTER ST/LITTLEPAGE ST RICH",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2600-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": 37.5437458,
-    "lng": -77.4217291
+    "lat": 37.5276214,
+    "lng": -77.4208531
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 04:02",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "N 8TH ST/E MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 8th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5436749,
+    "lng": -77.4325329
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 04:04",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "600-BLK BANCROFT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bancroft Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5760134,
+    "lng": -77.4239419
   },
   {
     "type_general": "RFD",
@@ -154,5 +167,18 @@
     "location_township": "FIRE",
     "lat": 37.5624297,
     "lng": -77.4262896
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 04:02",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "N 8TH ST/E MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 8th Street",
+    "location_township": "FIRE",
+    "lat": 37.5436749,
+    "lng": -77.4325329
   }
 ]
