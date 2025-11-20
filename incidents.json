@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FRONT ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 01:01",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "3500-BLK BRIEL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 35th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.533429,
-    "lng": -77.397248
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 01:15",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5005134,
     "lng": -77.5228532
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 01:40",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2500-BLK CRUMPTON DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Crumpton Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4801767,
+    "lng": -77.4949339
   },
   {
     "type_general": "RFD",
@@ -102,32 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 01:40",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2500-BLK CRUMPTON DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Crumpton Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4801767,
-    "lng": -77.4949339
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 02:26",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2600-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5580018,
-    "lng": -77.4624337
   },
   {
     "type_general": "RPD",
