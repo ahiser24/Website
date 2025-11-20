@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 12:00",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 11:44",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 11:57",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 11:34",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -195,17 +169,43 @@
     "lng": -77.565286
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 12:04",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "900-BLK SLEDD ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 11:24",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "1700-BLK GORDON AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "FIRE",
-    "lat": 37.557176,
-    "lng": -77.446604
+    "nearest_intersection": "Gordon Avenue",
+    "location_township": "DPR",
+    "lat": 37.5097829,
+    "lng": -77.4400063
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 11:55",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3000-BLK 1ST AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "1st Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5713619,
+    "lng": -77.4189002
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 12:00",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
   },
   {
     "type_general": "RPD",
@@ -248,6 +248,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/20/2025 11:57",
+    "box_no": "Precinct 2",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "3400-BLK WALMSLEY BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Angus Road",
+    "location_township": "Precinct 2",
+    "lat": 37.464799,
+    "lng": -77.460475
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/20/2025 12:19",
     "box_no": "Precinct 3",
     "type_specific": "ABDUCTION , INVESTIGATE",
@@ -287,19 +300,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 12:34",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1600-BLK BOLTON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bolton Road",
-    "location_township": "DPR",
-    "lat": 37.487004,
-    "lng": -77.5080968
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 12:08",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -336,5 +336,57 @@
     "location_township": "Precinct 1",
     "lat": 37.5340124,
     "lng": -77.4520695
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 12:52",
+    "box_no": "Precinct 3",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "2700-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5620282,
+    "lng": -77.468756
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 12:48",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "LL(-77:27:59.6665,37:35:25.7387): EST 1778 BELLEVUE AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lng": -77.46657402777778,
+    "lat": 37.590482972222226
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 12:52",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "2700-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5620282,
+    "lng": -77.468756
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 12:53",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "500-BLK HIOAKS RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.510091,
+    "lng": -77.5262722
   }
 ]
