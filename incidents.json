@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 16:14",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "300-BLK VIRGINIA ST",
+    "dispatch_time": "11/20/2025 16:32",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1600-BLK MONTEIRO ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5474173,
-    "lng": -77.4444972
+    "nearest_intersection": "Monteiro Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.556582,
+    "lng": -77.430535
   },
   {
     "type_general": "RPD",
@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 16:32",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1600-BLK MONTEIRO ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Monteiro Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.556582,
-    "lng": -77.430535
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 18:07",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -154,19 +141,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5246138,
     "lng": -77.4488098
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 18:18",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -209,16 +183,55 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/20/2025 17:57",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1600-BLK CHESTNUT PARK LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chestnut Park Lane",
+    "location_township": "Precinct 4",
+    "lat": 37.5567509,
+    "lng": -77.4276515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 16:41",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "5500-BLK ALMOND AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Almond Avenue",
+    "location_township": "DPR",
+    "lat": 37.5093712,
+    "lng": -77.3999587
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/20/2025 18:17",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "1100-BLK WILLIAMSBURG RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Williamsburg Road",
     "location_township": "Precinct 1",
     "lat": 37.5148267,
     "lng": -77.4037056
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 18:18",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "900-BLK SLEDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -232,5 +245,57 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 18:42",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "1800-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5551258,
+    "lng": -77.4593222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 18:42",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "N 23RD ST/SELDEN ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 23rd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5477356,
+    "lng": -77.4063082
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 18:35",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E MAIN ST/N 23RD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5384946,
+    "lng": -77.4367589
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 18:42",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "1800-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5551258,
+    "lng": -77.4593222
   }
 ]
