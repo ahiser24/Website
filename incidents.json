@@ -102,18 +102,5 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 05:37",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1900-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "FIRE",
-    "lat": 37.5602471,
-    "lng": -77.4431479
   }
 ]
