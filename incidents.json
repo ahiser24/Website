@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 07:49",
-    "box_no": "DPR",
-    "type_specific": "DOMESTIC TROUBLE , DPR Call - Advice Only",
-    "street": "1100-BLK ST JOHN ST",
-    "status": "Dispatched",
+    "dispatch_time": "11/20/2025 08:03",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1000-BLK E BROAD ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "DPR",
-    "lat": 37.5531273,
-    "lng": -77.4363957
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.540296,
+    "lng": -77.432735
   },
   {
     "type_general": "RPD",
@@ -118,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:39",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1500-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5224042,
-    "lng": -77.5172648
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:39",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1500-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5224042,
-    "lng": -77.5172648
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 08:40",
     "box_no": "Precinct 4",
     "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
@@ -183,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:03",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1000-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.540296,
-    "lng": -77.432735
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 08:15",
     "box_no": "Precinct 4",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -206,6 +167,32 @@
     "location_township": "Precinct 4",
     "lat": 37.590597,
     "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 09:02",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "500-BLK BAINBRIDGE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5249709,
+    "lng": -77.4395966
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 08:54",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1200-BLK N ARTHUR ASHE BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "DPR",
+    "lat": 37.5657968,
+    "lng": -77.4686883
   },
   {
     "type_general": "RFD",
@@ -221,42 +208,16 @@
     "lng": -77.499911
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:57",
-    "box_no": "Precinct 3",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "0-BLK S STAFFORD AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Stafford Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5496456,
-    "lng": -77.47153
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:58",
-    "box_no": "Precinct 1",
-    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "2100-BLK N 29TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.545147,
-    "lng": -77.400271
-  },
-  {
     "type_general": "RFD",
-    "dispatch_time": "11/20/2025 09:00",
+    "dispatch_time": "11/20/2025 09:10",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "600-BLK E BROAD ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "5800-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "FIRE",
-    "lat": 37.5424721,
-    "lng": -77.4359122
+    "lat": 37.5054923,
+    "lng": -77.5034488
   }
 ]
