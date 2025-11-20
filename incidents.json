@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 12:53",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "500-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.510091,
-    "lng": -77.5262722
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 13:00",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -183,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 13:30",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "2300-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5600535,
-    "lng": -77.463328
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 13:32",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -206,32 +180,6 @@
     "location_township": "Precinct 2",
     "lat": 37.49303,
     "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 13:49",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N BELVIDERE ST RICH:EST LL(-77.4444,37.5522)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 13:49",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N BELVIDERE ST RICH:EST LL(-77.4444,37.5522)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -248,32 +196,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:45",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "100-BLK N 20TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "FIRE",
-    "lat": 37.532815,
-    "lng": -77.424983
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:40",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "2000-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5334414,
-    "lng": -77.4236892
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/20/2025 13:46",
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , GENERAL",
@@ -284,19 +206,6 @@
     "location_township": "FIRE",
     "lat": 37.5381245,
     "lng": -77.4354657
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 13:45",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "4500-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
   },
   {
     "type_general": "RPD",
@@ -312,29 +221,55 @@
     "lng": -77.5032536
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:41",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1700-BLK E MAIN ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 13:45",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "4500-BLK RICHMOND HWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "FIRE",
-    "lat": 37.5335013,
-    "lng": -77.4282824
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4835974,
+    "lng": -77.444674
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:44",
+    "dispatch_time": "11/20/2025 13:58",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1200-BLK E CARY ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALLERGIC REACTION",
+    "street": "6300-BLK HULL STREET RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
+    "nearest_intersection": "Hull Street Road",
     "location_township": "FIRE",
-    "lat": 37.5359119,
-    "lng": -77.4342744
+    "lat": 37.4814369,
+    "lng": -77.5098148
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 14:05",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "6300-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5046527,
+    "lng": -77.5119423
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 13:51",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "1100-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5650069,
+    "lng": -77.4691853
   }
 ]
