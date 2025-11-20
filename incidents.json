@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 12:19",
-    "box_no": "Precinct 3",
-    "type_specific": "ABDUCTION , INVESTIGATE",
-    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.508019,
-    "lng": -77.4897113
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 11:55",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -195,32 +182,6 @@
     "lng": -77.521867
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
-    "street": "1700-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5565043,
-    "lng": -77.4586383
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
-    "street": "1700-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5565043,
-    "lng": -77.4586383
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/20/2025 13:30",
     "box_no": "Precinct 4",
@@ -247,45 +208,6 @@
     "lng": -77.487645
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:37",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "700-BLK W FELLS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fells Street",
-    "location_township": "FIRE",
-    "lat": 37.5582353,
-    "lng": -77.4394875
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:41",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1700-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "FIRE",
-    "lat": 37.5335013,
-    "lng": -77.4282824
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:40",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "2000-BLK E GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5334414,
-    "lng": -77.4236892
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/20/2025 13:49",
     "box_no": "Precinct 4",
@@ -310,58 +232,6 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:41",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "100-BLK SHOCKOE SLIP",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Shockoe Slip",
-    "location_township": "FIRE",
-    "lat": 37.5351676,
-    "lng": -77.4340584
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:43",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "2400-BLK E FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "FIRE",
-    "lat": 37.530459,
-    "lng": -77.421197
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:45",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "100-BLK N 20TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "FIRE",
-    "lat": 37.532815,
-    "lng": -77.424983
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:46",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "900-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "FIRE",
-    "lat": 37.5381245,
-    "lng": -77.4354657
   },
   {
     "type_general": "RPD",
@@ -377,12 +247,51 @@
     "lng": -77.4286204
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 13:45",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "100-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "FIRE",
+    "lat": 37.532815,
+    "lng": -77.424983
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 13:40",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2000-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5334414,
+    "lng": -77.4236892
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 13:46",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "900-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "FIRE",
+    "lat": 37.5381245,
+    "lng": -77.4354657
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/20/2025 13:45",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "4500-BLK RICHMOND HWY",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
@@ -390,17 +299,30 @@
     "lng": -77.444674
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 13:55",
+    "box_no": "Precinct 2",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "HEY RD/FAWNBROOK BLVD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hey Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4763202,
+    "lng": -77.5032536
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/20/2025 13:41",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SPRINKLER/WATERFLOW",
-    "street": "1900-BLK E CARY ST",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1700-BLK E MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
+    "nearest_intersection": "East Main Street",
     "location_township": "FIRE",
-    "lat": 37.5313943,
-    "lng": -77.4270617
+    "lat": 37.5335013,
+    "lng": -77.4282824
   },
   {
     "type_general": "RFD",
@@ -408,24 +330,11 @@
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , GENERAL",
     "street": "1200-BLK E CARY ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Cary Street",
     "location_township": "FIRE",
     "lat": 37.5359119,
     "lng": -77.4342744
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 13:48",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1500-BLK N 21ST ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 21st Street",
-    "location_township": "FIRE",
-    "lat": 37.5460125,
-    "lng": -77.4108059
   }
 ]
