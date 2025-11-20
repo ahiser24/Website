@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 02:33",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "300-BLK S ALLEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Allen Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5455498,
-    "lng": -77.4649233
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 02:56",
     "box_no": "Precinct 4",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
@@ -131,15 +118,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/20/2025 04:02",
+    "dispatch_time": "11/20/2025 04:54",
     "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "N 8TH ST/E MAIN ST RICH",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "3200-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 8th Street",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "FIRE",
-    "lat": 37.5436749,
-    "lng": -77.4325329
+    "lat": 37.5754748,
+    "lng": -77.4462032
   }
 ]
