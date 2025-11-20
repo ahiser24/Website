@@ -118,11 +118,50 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/20/2025 02:31",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3800-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4725725,
+    "lng": -77.4434741
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 02:31",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3800-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4725725,
+    "lng": -77.4434741
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 02:31",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "300-BLK GOSHEN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.550365,
+    "lng": -77.449461
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/20/2025 01:38",
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "100-BLK GRESHAMWOOD PL",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Greshamwood Place",
     "location_township": "Precinct 3",
@@ -130,16 +169,16 @@
     "lng": -77.5228532
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 02:16",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "0-BLK RIO VISTA LN",
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 02:26",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2600-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rio Vista Lane, West End",
-    "location_township": "FIRE",
-    "lat": 37.5669839,
-    "lng": -77.5234985
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5580018,
+    "lng": -77.4624337
   }
 ]
