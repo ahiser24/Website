@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 00:29",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "800-BLK HOLLY SPRING AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Holly Spring Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.503842,
-    "lng": -77.461416
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 00:30",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -154,5 +141,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5362219,
     "lng": -77.4321747
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 01:01",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "3500-BLK BRIEL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 35th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.533429,
+    "lng": -77.397248
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 01:21",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1200-BLK RENNIE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rennie Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.574992,
+    "lng": -77.449714
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 01:21",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1200-BLK RENNIE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rennie Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.574992,
+    "lng": -77.449714
   }
 ]
