@@ -209,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 14:47",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "1300-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5532765,
-    "lng": -77.4542788
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 14:35",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -232,19 +219,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5056338,
     "lng": -77.5252413
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 14:30",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.54503,
-    "lng": -77.438422
   },
   {
     "type_general": "RFD",
@@ -261,19 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 14:27",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "N ROBINSON ST/W GRACE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Robinson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.558491,
-    "lng": -77.4691194
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 14:29",
     "box_no": "Precinct 2",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -287,28 +248,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 14:47",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "6400-BLK HULL STREET RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4802785,
-    "lng": -77.5112055
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 14:33",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "BROOK RD/SCHOOL ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Brook Road",
     "location_township": "Precinct 4",
     "lat": 37.5534081,
     "lng": -77.4419452
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 14:53",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "3200-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5754748,
+    "lng": -77.4462032
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 14:54",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "2000-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5573327,
+    "lng": -77.4604978
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 14:47",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "6400-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4802785,
+    "lng": -77.5112055
   }
 ]
