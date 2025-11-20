@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 09:17",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "3000-BLK EDGEWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Edgewood Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.571897,
-    "lng": -77.438693
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 08:42",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -182,32 +169,6 @@
     "lng": -77.4395966
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 08:47",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "4900-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street, West End",
-    "location_township": "FIRE",
-    "lat": 37.5738683,
-    "lng": -77.499911
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 09:36",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "2400-BLK SHEILA LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Sheila Lane",
-    "location_township": "DPR",
-    "lat": 37.5363096,
-    "lng": -77.5330408
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/20/2025 09:33",
     "box_no": "Precinct 4",
@@ -221,30 +182,30 @@
     "lng": -77.4412236
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 09:48",
-    "box_no": "FIRE",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2100-BLK PHAUP ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 09:53",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2900-BLK N ARTHUR ASHE BLVD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Phaup Street",
-    "location_township": "FIRE",
-    "lat": 37.5510819,
-    "lng": -77.407214
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.56968,
+    "lng": -77.466448
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 09:48",
+    "dispatch_time": "11/20/2025 09:51",
     "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2100-BLK PHAUP ST",
-    "status": "Enroute",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "1500-BLK N 21ST ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Phaup Street",
+    "nearest_intersection": "North 21st Street",
     "location_township": "Precinct 1",
-    "lat": 37.5510819,
-    "lng": -77.407214
+    "lat": 37.5460125,
+    "lng": -77.4108059
   },
   {
     "type_general": "RFD",
@@ -258,5 +219,31 @@
     "location_township": "FIRE",
     "lat": 37.5460125,
     "lng": -77.4108059
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 09:58",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4100-BLK PATTERSON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5663325,
+    "lng": -77.4894566
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 09:59",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1600-BLK BOLTON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bolton Road",
+    "location_township": "Precinct 2",
+    "lat": 37.487004,
+    "lng": -77.5080968
   }
 ]
