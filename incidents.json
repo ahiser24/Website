@@ -66,16 +66,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 05:12",
+    "dispatch_time": "11/20/2025 06:18",
     "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1500-BLK N 28TH ST",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "6200-BLK MIDLOTHIAN TPKE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.504361,
+    "lng": -77.509856
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 06:18",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "6200-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
+    "lat": 37.504361,
+    "lng": -77.509856
   },
   {
     "type_general": "RFD",
@@ -102,5 +115,18 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 06:19",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2200-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "FIRE",
+    "lat": 37.514084,
+    "lng": -77.450314
   }
 ]
