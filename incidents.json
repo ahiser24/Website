@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 18:14",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2400-BLK CARMINE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Carmine Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5562698,
-    "lng": -77.4167992
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 22:25",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
