@@ -14,6 +14,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/19/2025 18:14",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2400-BLK CARMINE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Carmine Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5562698,
+    "lng": -77.4167992
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/19/2025 22:25",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -65,19 +78,6 @@
     "lng": -77.5228532
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 02:33",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "300-BLK S ALLEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Allen Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5455498,
-    "lng": -77.4649233
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 17:55",
     "box_no": "FIRE",
@@ -105,24 +105,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 03:03",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 02:56",
     "box_no": "Precinct 4",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
     "street": "1000-BLK AZALEA AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Azalea Avenue",
     "location_township": "Precinct 4",
@@ -130,16 +117,55 @@
     "lng": -77.450736
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 03:00",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , WATER RELATED",
-    "street": "1200-BLK ST PETER ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 02:33",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "300-BLK S ALLEN AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Saint Peter Street",
+    "nearest_intersection": "South Allen Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5455498,
+    "lng": -77.4649233
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 03:18",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "FIRE",
-    "lat": 37.553149,
-    "lng": -77.4388333
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 03:13",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST POLICE , STANDBY",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "FIRE",
+    "lat": 37.5301228,
+    "lng": -77.3889896
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 03:18",
+    "box_no": "Precinct 3",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.515436,
+    "lng": -77.524786
   }
 ]
