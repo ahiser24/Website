@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 19:56",
-    "box_no": "Precinct 4",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "3300-BLK DILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dill Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5719648,
-    "lng": -77.4119515
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 22:25",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -76,6 +63,32 @@
     "location_township": "Precinct 1",
     "lat": 37.533429,
     "lng": -77.397248
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 01:15",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 01:15",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RFD",
@@ -131,45 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 01:41",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2000-BLK N 28TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5459695,
-    "lng": -77.4014688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 01:57",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1600-BLK BRAMWELL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bramwell Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4867785,
-    "lng": -77.5068481
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 01:15",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 01:38",
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -180,5 +154,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5005134,
     "lng": -77.5228532
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 01:57",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1600-BLK BRAMWELL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bramwell Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4867785,
+    "lng": -77.5068481
   }
 ]
