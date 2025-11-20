@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 22:28",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "1700-BLK YALE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Yale Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4944702,
-    "lng": -77.458129
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 22:42",
     "box_no": "Precinct 1",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 22:25",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 22:57",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -169,29 +143,55 @@
     "lng": -77.525705
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 23:04",
-    "box_no": "Precinct 2",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "6300-BLK DERWENT RD",
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 23:17",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "200-BLK RICHMOND WAY",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Derwent Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4864819,
-    "lng": -77.5090655
+    "nearest_intersection": "Westhampton Way",
+    "location_township": "FIRE",
+    "lat": 37.5756919,
+    "lng": -77.5376562
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 23:07",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "5000-BLK BROOK RD",
+    "dispatch_time": "11/19/2025 23:16",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1200-BLK GREYSTONE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Greystone Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4978215,
+    "lng": -77.4725608
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/19/2025 23:17",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1000-BLK HIOAKS RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.6002259,
-    "lng": -77.4542662
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "FIRE",
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 22:25",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5301228,
+    "lng": -77.3889896
   }
 ]
