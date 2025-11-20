@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:26",
-    "box_no": "Precinct 2",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "2200-BLK PERRY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West 22nd Street",
-    "location_township": "Precinct 2",
-    "lat": 37.519241,
-    "lng": -77.454756
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 08:39",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -154,6 +141,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5224042,
     "lng": -77.5172648
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 08:40",
+    "box_no": "Precinct 4",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "1400-BLK AVONDALE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Avondale Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5854866,
+    "lng": -77.4559567
   },
   {
     "type_general": "RPD",
@@ -200,51 +200,12 @@
     "box_no": "Precinct 4",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
     "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bellevue Avenue",
     "location_township": "Precinct 4",
     "lat": 37.590597,
     "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:39",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "1000-BLK JUDSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Swanson Road",
-    "location_township": "DPR",
-    "lat": 37.491968,
-    "lng": -77.502235
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:40",
-    "box_no": "Precinct 4",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "1400-BLK AVONDALE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Avondale Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5854866,
-    "lng": -77.4559567
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:47",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "4900-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5738683,
-    "lng": -77.499911
   },
   {
     "type_general": "RFD",
@@ -258,5 +219,44 @@
     "location_township": "FIRE",
     "lat": 37.5738683,
     "lng": -77.499911
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 08:57",
+    "box_no": "Precinct 3",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "0-BLK S STAFFORD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Stafford Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5496456,
+    "lng": -77.47153
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 08:58",
+    "box_no": "Precinct 1",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "2100-BLK N 29TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.545147,
+    "lng": -77.400271
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 09:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "600-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5424721,
+    "lng": -77.4359122
   }
 ]
