@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FRONT ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
@@ -24,19 +24,6 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 04:02",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "N 8TH ST/E MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 8th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5436749,
-    "lng": -77.4325329
   },
   {
     "type_general": "RPD",
@@ -66,45 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 06:53",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "1600-BLK SEWELL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sewell Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5564363,
-    "lng": -77.4296568
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 17:55",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "0-BLK N LAUREL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "FIRE",
-    "lat": 37.5465072,
-    "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/19/2025 17:55",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "0-BLK N LAUREL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "FIRE",
-    "lat": 37.5465072,
-    "lng": -77.4515552
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 07:09",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -128,5 +76,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5515918,
     "lng": -77.4469798
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 07:13",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "1200-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5528754,
+    "lng": -77.4528272
   }
 ]
