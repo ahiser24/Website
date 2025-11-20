@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 07:02",
-    "box_no": "Precinct 4",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "800-BLK W CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5515918,
-    "lng": -77.4469798
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 07:37",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.540296,
     "lng": -77.432735
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 08:15",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
   },
   {
     "type_general": "RPD",
@@ -144,6 +144,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/20/2025 09:08",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "S 26TH ST/E CARY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5280593,
+    "lng": -77.4207844
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/20/2025 08:42",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -170,29 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 09:06",
+    "dispatch_time": "11/20/2025 09:17",
     "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "700-BLK W CLAY ST",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3000-BLK EDGEWOOD AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Clay Street",
+    "nearest_intersection": "Edgewood Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.5508811,
-    "lng": -77.4459232
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:15",
-    "box_no": "Precinct 4",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
+    "lat": 37.571897,
+    "lng": -77.438693
   },
   {
     "type_general": "RFD",
@@ -208,68 +208,29 @@
     "lng": -77.499911
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 09:15",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "2500-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5618681,
-    "lng": -77.4650329
-  },
-  {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 09:08",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "S 26TH ST/E CARY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5280593,
-    "lng": -77.4207844
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 09:24",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "00-BLK W CLOPTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clopton Street",
-    "location_township": "FIRE",
-    "lat": 37.5171859,
-    "lng": -77.4580794
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 09:26",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1400-BLK HULL ST",
+    "dispatch_time": "11/20/2025 09:36",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2400-BLK SHEILA LN",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5195165,
-    "lng": -77.4456731
+    "nearest_intersection": "Sheila Lane",
+    "location_township": "DPR",
+    "lat": 37.5363096,
+    "lng": -77.5330408
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 09:23",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "400-BLK HIOAKS RD",
-    "status": "Enroute",
+    "dispatch_time": "11/20/2025 09:33",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "600-BLK W BACON ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.509293,
-    "lng": -77.525136
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5565875,
+    "lng": -77.4412236
   }
 ]
