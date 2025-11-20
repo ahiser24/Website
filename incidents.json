@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 07:37",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "RICHMOND HWY/ROYALL AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 08:24",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -63,6 +50,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5840069,
     "lng": -77.4708596
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 08:40",
+    "box_no": "Precinct 4",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "1400-BLK AVONDALE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Avondale Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5854866,
+    "lng": -77.4559567
   },
   {
     "type_general": "RPD",
@@ -102,6 +102,19 @@
     "location_township": "Precinct 4",
     "lat": 37.56968,
     "lng": -77.466448
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 10:33",
+    "box_no": "Precinct 3",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
   },
   {
     "type_general": "RPD",
@@ -170,32 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:40",
-    "box_no": "Precinct 4",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "1400-BLK AVONDALE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Avondale Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5854866,
-    "lng": -77.4559567
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 10:33",
-    "box_no": "Precinct 3",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 10:34",
     "box_no": "Precinct 2",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
@@ -260,29 +247,42 @@
     "lng": -77.4558898
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 10:39",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "1700-BLK SOUTHLAWN AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 10:50",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5700-BLK WARWICK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Harwood Street",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4972912,
+    "lng": -77.5005953
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 10:55",
+    "box_no": "FIRE",
+    "type_specific": "# BRUSH FIRE , GRASS",
+    "street": "1200-BLK SOUTHWOOD PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Southwood Parkway, Southside",
     "location_township": "FIRE",
-    "lat": 37.503888,
-    "lng": -77.434918
+    "lat": 37.4937634,
+    "lng": -77.4828589
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 10:45",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "600-BLK N 32ND ST",
-    "status": "Enroute",
+    "dispatch_time": "11/20/2025 10:55",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "1200-BLK SOUTHWOOD PKWY",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "North 32nd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5305992,
-    "lng": -77.4100539
+    "nearest_intersection": "Southwood Parkway, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4937634,
+    "lng": -77.4828589
   }
 ]
