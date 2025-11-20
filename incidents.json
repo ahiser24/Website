@@ -78,6 +78,45 @@
     "lng": -77.4649233
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 02:56",
+    "box_no": "Precinct 4",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "1000-BLK AZALEA AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.601975,
+    "lng": -77.450736
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 03:22",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "MAURY ST/4TH RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street",
+    "location_township": "Precinct 1",
+    "lat": 37.517452,
+    "lng": -77.4409583
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 03:33",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "COALTER ST/LITTLEPAGE ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5437458,
+    "lng": -77.4217291
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 17:55",
     "box_no": "FIRE",
@@ -104,55 +143,16 @@
     "lng": -77.4515552
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 03:22",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "MAURY ST/4TH RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street",
-    "location_township": "Precinct 1",
-    "lat": 37.517452,
-    "lng": -77.4409583
-  },
-  {
     "type_general": "RFD",
-    "dispatch_time": "11/20/2025 03:13",
+    "dispatch_time": "11/20/2025 03:55",
     "box_no": "FIRE",
-    "type_specific": "# ASSIST POLICE , STANDBY",
-    "street": "3500-BLK EAST RICHMOND RD",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "1100-BLK CYPRESS ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
+    "nearest_intersection": "Cypress Street, Northside",
     "location_township": "FIRE",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 02:56",
-    "box_no": "Precinct 4",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "1000-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.601975,
-    "lng": -77.450736
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 03:47",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "2100-BLK PHAUP ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Phaup Street",
-    "location_township": "FIRE",
-    "lat": 37.5510819,
-    "lng": -77.407214
+    "lat": 37.5624297,
+    "lng": -77.4262896
   }
 ]
