@@ -31,7 +31,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Richmond Road",
     "location_township": "Precinct 1",
@@ -70,7 +70,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "1000-BLK CARLISLE AVE",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Carlisle Avenue",
     "location_township": "Precinct 1",
@@ -102,19 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 23:23",
-    "box_no": "Precinct 3",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "9200-BLK STONY POINT PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5503586,
-    "lng": -77.5718286
   },
   {
     "type_general": "RPD",
@@ -219,5 +206,57 @@
     "location_township": "Precinct 2",
     "lat": 37.4952595,
     "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 00:29",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "800-BLK HOLLY SPRING AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Holly Spring Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.503842,
+    "lng": -77.461416
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 00:29",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "800-BLK HOLLY SPRING AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Holly Spring Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.503842,
+    "lng": -77.461416
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 00:24",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3100-BLK MONUMENT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5631357,
+    "lng": -77.4749273
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 00:25",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "9200-BLK STONY POINT PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stony Point Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5503586,
+    "lng": -77.5718286
   }
 ]
