@@ -31,7 +31,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Richmond Road",
     "location_township": "Precinct 1",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5436749,
     "lng": -77.4325329
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 04:04",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "600-BLK BANCROFT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bancroft Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5760134,
-    "lng": -77.4239419
   },
   {
     "type_general": "RPD",
