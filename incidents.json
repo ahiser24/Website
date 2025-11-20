@@ -78,19 +78,6 @@
     "lng": -77.4068808
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 05:33",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "2300-BLK AMBROSE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Ambrose Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5546,
-    "lng": -77.418318
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 17:55",
     "box_no": "FIRE",
@@ -115,5 +102,18 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 05:37",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "FIRE",
+    "lat": 37.5602471,
+    "lng": -77.4431479
   }
 ]
