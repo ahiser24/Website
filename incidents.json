@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FRONT ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
@@ -143,16 +143,16 @@
     "lng": -77.450736
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 03:28",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3800-BLK HULL STREET RD",
-    "status": "Arrived",
+    "type_general": "RFD",
+    "dispatch_time": "11/20/2025 03:47",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "2100-BLK PHAUP ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492271,
-    "lng": -77.4888165
+    "nearest_intersection": "Phaup Street",
+    "location_township": "FIRE",
+    "lat": 37.5510819,
+    "lng": -77.407214
   }
 ]
