@@ -105,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 00:40",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3800-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4725725,
-    "lng": -77.4434741
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 00:40",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3800-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4725725,
-    "lng": -77.4434741
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 00:29",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -154,45 +128,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5514093,
     "lng": -77.4534673
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 00:48",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 00:48",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 00:20",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2200-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5488075,
-    "lng": -77.4037679
   },
   {
     "type_general": "RPD",
@@ -232,5 +167,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5627366,
     "lng": -77.47234
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 00:55",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "1500-BLK N 35TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 35th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5335812,
+    "lng": -77.3981557
   }
 ]
