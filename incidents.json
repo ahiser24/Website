@@ -105,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 11:41",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 11:41",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 11:35",
     "box_no": "DPR",
     "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
@@ -170,16 +144,42 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/20/2025 10:31",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "S 1ST ST/E CARY ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South 1st Street",
+    "location_township": "DPR",
+    "lat": 37.5416581,
+    "lng": -77.4443067
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/20/2025 11:34",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "9200-BLK FOREST HILL AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Stony Point Road",
     "location_township": "Precinct 3",
     "lat": 37.540885,
     "lng": -77.565286
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 11:41",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   },
   {
     "type_general": "RPD",
@@ -193,19 +193,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5103215,
     "lng": -77.4304566
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 10:31",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "S 1ST ST/E CARY ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South 1st Street",
-    "location_township": "DPR",
-    "lat": 37.5416581,
-    "lng": -77.4443067
   },
   {
     "type_general": "RPD",
@@ -247,19 +234,6 @@
     "lng": -77.565286
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 11:50",
-    "box_no": "Precinct 1",
-    "type_specific": "FOUND PROPERTY , FIRE ARM",
-    "street": "1700-BLK N 28TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5422553,
-    "lng": -77.4046343
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/20/2025 11:47",
     "box_no": "FIRE",
@@ -274,32 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 11:42",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1700-BLK ARLINGTON RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Arlington Road",
-    "location_township": "Precinct 4",
-    "lat": 37.575571,
-    "lng": -77.463337
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/20/2025 11:53",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "PHAUP ST/ROSETTA ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Phaup Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5509968,
-    "lng": -77.407871
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 12:00",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -310,19 +258,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5845486,
     "lng": -77.4473886
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 12:04",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "900-BLK SLEDD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "FIRE",
-    "lat": 37.557176,
-    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -352,15 +287,80 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/20/2025 12:05",
+    "dispatch_time": "11/20/2025 12:04",
     "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1600-BLK CHICAGO AVE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "900-BLK SLEDD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 16th Street",
+    "nearest_intersection": "Sledd Street, Northside",
     "location_township": "FIRE",
-    "lat": 37.513301,
-    "lng": -77.44232
+    "lat": 37.557176,
+    "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 12:17",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK N BELVIDERE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 12:17",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK N BELVIDERE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 11:42",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1700-BLK ARLINGTON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Arlington Road",
+    "location_township": "Precinct 4",
+    "lat": 37.575571,
+    "lng": -77.463337
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 12:08",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1600-BLK OLD ARMSTRONG WAY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Armstrong Way",
+    "location_township": "Precinct 1",
+    "lat": 37.5393818,
+    "lng": -77.4003696
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 11:50",
+    "box_no": "Precinct 1",
+    "type_specific": "FOUND PROPERTY , FIRE ARM",
+    "street": "1700-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5422553,
+    "lng": -77.4046343
   }
 ]
