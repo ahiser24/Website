@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 21:49",
-    "box_no": "Precinct 1",
-    "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
-    "street": "1000-BLK OAKWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.533105,
-    "lng": -77.405118
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/19/2025 22:25",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5301228,
     "lng": -77.3889896
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 22:42",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "RICH: @RR CROSSING - S 14TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -102,19 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 22:42",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "RICH: @RR CROSSING - S 14TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -169,19 +156,6 @@
     "lng": -77.442993
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/19/2025 23:16",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1200-BLK GREYSTONE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greystone Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4978215,
-    "lng": -77.4725608
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/19/2025 23:30",
     "box_no": "FIRE",
@@ -193,6 +167,19 @@
     "location_township": "FIRE",
     "lat": 37.4954497,
     "lng": -77.4887387
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 23:25",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1400-BLK BARRIEDALE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Barriedale Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4845875,
+    "lng": -77.5133507
   },
   {
     "type_general": "RPD",
@@ -209,16 +196,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/19/2025 23:25",
+    "dispatch_time": "11/19/2025 23:16",
     "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1400-BLK BARRIEDALE RD",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1200-BLK GREYSTONE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Barriedale Road",
+    "nearest_intersection": "Greystone Avenue, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.4845875,
-    "lng": -77.5133507
+    "lat": 37.4978215,
+    "lng": -77.4725608
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 23:16",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1200-BLK GREYSTONE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greystone Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4978215,
+    "lng": -77.4725608
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/19/2025 23:41",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2400-BLK LAMB AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Lamb Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.56421,
+    "lng": -77.4311261
   },
   {
     "type_general": "RPD",
