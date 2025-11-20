@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:20",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "SEMMES AVE/COWARDIN RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5205143,
-    "lng": -77.4576868
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 08:24",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -157,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:15",
-    "box_no": "Precinct 4",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 08:42",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -183,16 +157,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 08:35",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1000-BLK AZALEA AVE",
+    "dispatch_time": "11/20/2025 09:02",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "500-BLK BAINBRIDGE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5249709,
+    "lng": -77.4395966
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 09:06",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "700-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
     "location_township": "Precinct 4",
-    "lat": 37.601975,
-    "lng": -77.450736
+    "lat": 37.5508811,
+    "lng": -77.4459232
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 08:15",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
   },
   {
     "type_general": "RFD",
@@ -261,15 +261,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 09:02",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "500-BLK BAINBRIDGE ST",
-    "status": "Arrived",
+    "dispatch_time": "11/20/2025 09:23",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "400-BLK HIOAKS RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Bainbridge Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5249709,
-    "lng": -77.4395966
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.509293,
+    "lng": -77.525136
   }
 ]
