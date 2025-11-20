@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 02:56",
-    "box_no": "Precinct 4",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "1000-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.601975,
-    "lng": -77.450736
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 03:31",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -89,6 +76,32 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 05:12",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 05:17",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "300-BLK ALBEMARLE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Albemarle Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5696252,
+    "lng": -77.5068339
   },
   {
     "type_general": "RFD",
