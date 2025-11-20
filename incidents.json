@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 03:22",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "MAURY ST/4TH RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street",
-    "location_township": "Precinct 1",
-    "lat": 37.517452,
-    "lng": -77.4409583
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 03:31",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -120,7 +107,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/20/2025 04:04",
     "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "600-BLK BANCROFT AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -128,6 +115,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5760134,
     "lng": -77.4239419
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 04:12",
+    "box_no": "Precinct 3",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RFD",
