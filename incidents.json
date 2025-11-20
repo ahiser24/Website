@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/20/2025 15:54",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "DPR",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 17:20",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -183,6 +170,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/20/2025 16:09",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "COMMERCE RD/MAURY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "DPR",
+    "lat": 37.5221785,
+    "lng": -77.4403053
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/20/2025 17:36",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -206,5 +206,57 @@
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 17:48",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "400-BLK W LEIGH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.551051,
+    "lng": -77.443293
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 17:48",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "400-BLK W LEIGH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.551051,
+    "lng": -77.443293
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 17:46",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2200-BLK CHATEAU DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chateau Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4823284,
+    "lng": -77.5001855
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/20/2025 17:52",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E BYRD ST/S 10TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Byrd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5401544,
+    "lng": -77.4461994
   }
 ]
