@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK FRONT ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
@@ -154,19 +154,6 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/20/2025 03:55",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1100-BLK CYPRESS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cypress Street, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5624297,
-    "lng": -77.4262896
   },
   {
     "type_general": "RFD",
