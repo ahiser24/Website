@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 01:28",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "5000-BLK SNEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770457,
-    "lng": -77.4856193
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 01:26",
     "box_no": "DPR",
     "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
@@ -170,45 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 01:56",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "W 22ND ST/RIVERSIDE DR RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West 22nd Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5189448,
-    "lng": -77.454395
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 01:56",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "W 22ND ST/RIVERSIDE DR RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 22nd Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5189448,
-    "lng": -77.454395
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 01:49",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "3400-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 02:04",
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -222,15 +170,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 02:15",
+    "dispatch_time": "11/21/2025 02:21",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1500-BLK MILTON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Milton Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5739235,
+    "lng": -77.4121144
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 02:21",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1500-BLK MILTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Milton Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5739235,
+    "lng": -77.4121144
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 02:22",
     "box_no": "Precinct 1",
-    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
-    "street": "E BYRD ST/VIRGINIA ST RICH",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4900-BLK GODDIN CIR",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Byrd Street",
+    "nearest_intersection": "Goddin Circle",
     "location_township": "Precinct 1",
-    "lat": 37.5401544,
-    "lng": -77.4461994
+    "lat": 37.516205,
+    "lng": -77.4070558
   }
 ]
