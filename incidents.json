@@ -145,19 +145,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/21/2025 10:12",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1600-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.554602,
-    "lng": -77.4561674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 10:12",
     "box_no": "Precinct 4",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
     "street": "4100-BLK NORTH AVE",
@@ -183,29 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 10:20",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1000-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.5061733,
-    "lng": -77.4476278
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 10:20",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1000-BLK RICHMOND HWY",
+    "dispatch_time": "11/21/2025 10:12",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1600-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.5061733,
-    "lng": -77.4476278
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.554602,
+    "lng": -77.4561674
   },
   {
     "type_general": "RFD",
@@ -222,32 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 10:27",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "300-BLK COWARDIN AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5204201,
-    "lng": -77.4500564
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 10:27",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "300-BLK COWARDIN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5204201,
-    "lng": -77.4500564
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 10:28",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -258,5 +206,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5350335,
     "lng": -77.4711384
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 10:30",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 10:38",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3400-BLK DECATUR ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Decatur Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5053165,
+    "lng": -77.4660404
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 10:38",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3400-BLK DECATUR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Decatur Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5053165,
+    "lng": -77.4660404
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 10:38",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "600-BLK W BACON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5565875,
+    "lng": -77.4412236
   }
 ]
