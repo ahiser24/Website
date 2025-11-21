@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 06:40",
-    "box_no": "Precinct 2",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "1700-BLK TIFTON CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tifton Court, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.496207,
-    "lng": -77.4817978
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 06:52",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -63,5 +50,44 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 07:01",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1200-BLK NELSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 07:06",
+    "box_no": "Precinct 4",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5799327,
+    "lng": -77.4469305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 06:57",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3600-BLK DEEPWATER TERMINAL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Deepwater Terminal Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4753338,
+    "lng": -77.428595
   }
 ]
