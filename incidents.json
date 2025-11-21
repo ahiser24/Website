@@ -18,7 +18,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 2",
@@ -70,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
     "street": "3500-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
@@ -78,16 +78,16 @@
     "lng": -77.4469305
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 06:57",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3600-BLK DEEPWATER TERMINAL RD",
+    "type_general": "RFD",
+    "dispatch_time": "11/21/2025 07:25",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1000-BLK ST JAMES ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Deepwater Terminal Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4753338,
-    "lng": -77.428595
+    "nearest_intersection": "Saint James Street",
+    "location_township": "FIRE",
+    "lat": 37.551762,
+    "lng": -77.436219
   }
 ]
