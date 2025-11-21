@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 04:48",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "500-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5224135,
-    "lng": -77.436784
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 05:04",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -79,6 +66,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/21/2025 05:27",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2700-BLK BROAD ROCK BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4807712,
+    "lng": -77.4800812
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 05:27",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2700-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4807712,
+    "lng": -77.4800812
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/21/2025 05:14",
     "box_no": "Precinct 3",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -89,18 +102,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5229408,
     "lng": -77.4608962
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/21/2025 05:20",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "400-BLK WESTHAMPTON WAY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westhampton Way",
-    "location_township": "FIRE",
-    "lat": 37.574707,
-    "lng": -77.54174
   }
 ]
