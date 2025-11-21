@@ -102,5 +102,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5229408,
     "lng": -77.4608962
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 05:42",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 05:42",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 05:36",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "2100-BLK HOPKINS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4875763,
+    "lng": -77.4655562
   }
 ]
