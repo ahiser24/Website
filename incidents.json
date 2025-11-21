@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 00:05",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/20/2025 23:47",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -79,6 +66,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/21/2025 00:05",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5301228,
+    "lng": -77.3889896
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/21/2025 00:24",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "5100-BLK BEMISS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bemiss Road",
+    "location_township": "FIRE",
+    "lat": 37.463966,
+    "lng": -77.491184
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/21/2025 00:24",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -89,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.54306,
     "lng": -77.4317716
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 00:38",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
   },
   {
     "type_general": "RPD",
@@ -183,29 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 01:25",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "1900-BLK W MAIN ST",
+    "dispatch_time": "11/21/2025 01:28",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "5000-BLK SNEAD RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/21/2025 00:24",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "5100-BLK BEMISS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bemiss Road",
-    "location_township": "FIRE",
-    "lat": 37.463966,
-    "lng": -77.491184
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4770457,
+    "lng": -77.4856193
   },
   {
     "type_general": "RFD",
