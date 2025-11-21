@@ -24,5 +24,18 @@
     "location_township": "Precinct 2",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 06:40",
+    "box_no": "Precinct 2",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1700-BLK TIFTON CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tifton Court, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.496207,
+    "lng": -77.4817978
   }
 ]
