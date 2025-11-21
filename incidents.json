@@ -70,7 +70,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "5800-BLK ORCUTT LN",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Orcutt Lane",
     "location_township": "Precinct 2",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.492656,
     "lng": -77.510886
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 13:18",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3100-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5530934,
-    "lng": -77.4801689
   },
   {
     "type_general": "RPD",
@@ -196,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/21/2025 12:37",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "500-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "DPR",
+    "lat": 37.5240062,
+    "lng": -77.4383862
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/21/2025 13:40",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -235,19 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 13:45",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "3800-BLK GLENWOOD AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Glenwood Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.526235,
-    "lng": -77.4054165
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 13:46",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -284,5 +271,83 @@
     "location_township": "Precinct 2",
     "lat": 37.465187,
     "lng": -77.441486
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 13:47",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2300-BLK BETHEL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Sussex Street",
+    "location_township": "Precinct 1",
+    "lat": 37.555212,
+    "lng": -77.418447
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 13:47",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2300-BLK BETHEL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sussex Street",
+    "location_township": "Precinct 1",
+    "lat": 37.555212,
+    "lng": -77.418447
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 13:51",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "5100-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 13:51",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "5100-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 13:45",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "3800-BLK GLENWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Glenwood Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.526235,
+    "lng": -77.4054165
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/21/2025 13:50",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
+    "street": "4800-BLK RIVERSIDE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "FIRE",
+    "lat": 37.5270242,
+    "lng": -77.4837861
   }
 ]
