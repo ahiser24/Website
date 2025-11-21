@@ -53,16 +53,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 05:14",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "2500-BLK RIVERSIDE DR",
+    "dispatch_time": "11/21/2025 06:13",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "W BACON ST/CHAMBERLAYNE PKWY RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5564641,
+    "lng": -77.442216
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 06:13",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "W BACON ST/CHAMBERLAYNE PKWY RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5229408,
-    "lng": -77.4608962
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5564641,
+    "lng": -77.442216
   },
   {
     "type_general": "RPD",
@@ -70,7 +83,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "2000-BLK HOPKINS RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hopkins Road, Southside",
     "location_township": "Precinct 2",
@@ -79,28 +92,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 06:00",
-    "box_no": "Precinct 4",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "800-BLK FOREST LAWN DR",
+    "dispatch_time": "11/21/2025 06:05",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1000-BLK GERMAN SCHOOL RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Lawn Drive",
-    "location_township": "Precinct 4",
-    "lat": 37.5953885,
-    "lng": -77.4421952
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/21/2025 06:00",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "800-BLK FOREST LAWN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Lawn Drive",
-    "location_township": "FIRE",
-    "lat": 37.5953885,
-    "lng": -77.4421952
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516032,
+    "lng": -77.512119
   }
 ]
