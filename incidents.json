@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 13:55",
-    "box_no": "Precinct 3",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 14:03",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -96,7 +83,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1700-BLK OLIVER HILL WAY",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Oliver Hill Way",
     "location_township": "Precinct 1",
@@ -105,16 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 14:38",
+    "dispatch_time": "11/21/2025 14:41",
     "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "6800-BLK FOREST HILL AVE",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2100-BLK W CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
+    "nearest_intersection": "West Cary Street",
     "location_township": "DPR",
-    "lat": 37.538209,
-    "lng": -77.520181
+    "lat": 37.548663,
+    "lng": -77.467812
   },
   {
     "type_general": "RPD",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 1",
     "lat": 37.519756,
     "lng": -77.394075
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 14:56",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "W CLAY ST/KINNEY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5529593,
-    "lng": -77.449671
   },
   {
     "type_general": "RPD",
@@ -235,6 +209,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/21/2025 15:39",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2800-BLK W CARY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.551889,
+    "lng": -77.476864
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/21/2025 15:46",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -313,45 +300,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 16:04",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 16:04",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 16:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "1700-BLK WHITEHEAD RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Greenbank Road",
-    "location_township": "Precinct 2",
-    "lat": 37.484446,
-    "lng": -77.511523
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 16:17",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -365,11 +313,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/21/2025 16:18",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/21/2025 16:22",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "1900-BLK HOPKINS RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hopkins Road, Southside",
     "location_township": "Precinct 2",
@@ -417,24 +378,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 16:30",
-    "box_no": "Precinct 2",
-    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
-    "street": "5600-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.496747,
-    "lng": -77.4969317
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 16:36",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , PERSON",
     "street": "500-BLK W 33RD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Semmes Avenue",
     "location_township": "Precinct 3",
@@ -455,6 +403,32 @@
     "lng": -77.4557678
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 16:44",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 16:46",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "3100-BLK SNEAD CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4752966,
+    "lng": -77.4838448
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/21/2025 16:16",
     "box_no": "FIRE",
@@ -466,5 +440,18 @@
     "location_township": "FIRE",
     "lat": 37.510827,
     "lng": -77.457654
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/21/2025 16:42",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "400-BLK OLIVER HILL WAY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Oliver Hill Way",
+    "location_township": "FIRE",
+    "lat": 37.5501278,
+    "lng": -77.4239328
   }
 ]
