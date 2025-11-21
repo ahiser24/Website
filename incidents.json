@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 02:52",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "W CARNATION ST/HIOAKS RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5033964,
-    "lng": -77.5173984
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 02:47",
     "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -79,29 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 03:20",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
+    "dispatch_time": "11/21/2025 02:52",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W CARNATION ST/HIOAKS RD RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 03:20",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
+    "nearest_intersection": "West Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5033964,
+    "lng": -77.5173984
   },
   {
     "type_general": "RPD",
@@ -141,5 +115,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5998898,
     "lng": -77.4490619
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 03:42",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1200-BLK NELSON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 03:42",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1200-BLK NELSON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nelson Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5131526,
+    "lng": -77.4030988
   }
 ]
