@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 09:06",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "00-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 08:47",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -195,17 +182,17 @@
     "lng": -77.4829011
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/21/2025 08:48",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "PATTERSON AVE/N HAMILTON ST RICH",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 09:21",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "600-BLK S LAUREL ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Patterson Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5634214,
-    "lng": -77.4843201
+    "nearest_intersection": "China Street",
+    "location_township": "DPR",
+    "lat": 37.537707,
+    "lng": -77.451826
   },
   {
     "type_general": "RPD",
@@ -223,32 +210,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/21/2025 09:43",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "4500-BLK GLASGOW ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Dale Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.465187,
-    "lng": -77.441486
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 09:43",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "4500-BLK GLASGOW ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dale Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.465187,
-    "lng": -77.441486
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 09:43",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
     "street": "SUSSEX ST/BETHEL ST RICH",
@@ -271,5 +232,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5542042,
     "lng": -77.418396
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 09:48",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1000-BLK N 36TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 36th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53173,
+    "lng": -77.402885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 09:48",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1000-BLK N 36TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 36th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53173,
+    "lng": -77.402885
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/21/2025 09:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "00-BLK W CLOPTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clopton Street",
+    "location_township": "FIRE",
+    "lat": 37.5171859,
+    "lng": -77.4580794
   }
 ]
