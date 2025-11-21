@@ -70,7 +70,33 @@
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "5300-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 04:29",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "5300-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 04:29",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "5300-BLK HULL STREET RD",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
@@ -89,5 +115,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5843631,
     "lng": -77.4719838
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 04:48",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "500-BLK STOCKTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5224135,
+    "lng": -77.436784
   }
 ]
