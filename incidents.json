@@ -312,6 +312,32 @@
     "lng": -77.476971
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 15:52",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5070429,
+    "lng": -77.4949501
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 15:53",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "N BELVIDERE ST/W LEIGH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/21/2025 15:45",
     "box_no": "FIRE",
@@ -330,11 +356,24 @@
     "box_no": "FIRE",
     "type_specific": "# UTILITY INCIDENT , WIRES DOWN (NO FIRE)",
     "street": "0-BLK S DOOLEY AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South Dooley Avenue",
     "location_township": "FIRE",
     "lat": 37.5544942,
     "lng": -77.4837024
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/21/2025 15:53",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "N BELVIDERE ST/W LEIGH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "FIRE",
+    "lat": 37.5511248,
+    "lng": -77.4451238
   }
 ]
