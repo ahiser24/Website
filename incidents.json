@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 11:17",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "HULL STREET RD/BELT BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.49303,
-    "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 11:25",
     "box_no": "Precinct 4",
     "type_specific": "PERSON DOWN , INVESTIGATE",
@@ -144,6 +131,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/21/2025 11:44",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5546,
+    "lng": -77.418318
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 11:44",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5546,
+    "lng": -77.418318
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/21/2025 11:29",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -154,5 +167,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5692515,
     "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 11:22",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "3400-BLK SEMMES AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5157329,
+    "lng": -77.469222
   }
 ]
