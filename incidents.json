@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 14:41",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , INVESTIGATE-EMS",
-    "street": "5400-BLK BLUE RIDGE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Blue Ridge Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5097963,
-    "lng": -77.3944757
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 14:49",
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -171,15 +158,15 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/21/2025 15:05",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "3000-BLK EDGEWOOD AVE",
-    "status": "Enroute",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "2400-BLK E MAIN ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Edgewood Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.571897,
-    "lng": -77.438693
+    "nearest_intersection": "East Main Street",
+    "location_township": "DPR",
+    "lat": 37.5293872,
+    "lng": -77.4214565
   },
   {
     "type_general": "RPD",
@@ -261,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 15:34",
-    "box_no": "Precinct 2",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 15:35",
     "box_no": "Precinct 2",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -284,6 +258,19 @@
     "location_township": "Precinct 2",
     "lat": 37.479065,
     "lng": -77.476971
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 15:51",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
   },
   {
     "type_general": "RPD",
@@ -364,29 +351,42 @@
     "lng": -77.444674
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/21/2025 15:53",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "N BELVIDERE ST/W LEIGH ST RICH",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 16:16",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "2800-BLK DECATUR ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North Belvidere Street",
-    "location_township": "FIRE",
-    "lat": 37.5511248,
-    "lng": -77.4451238
+    "nearest_intersection": "Decatur Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.510827,
+    "lng": -77.457654
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/21/2025 16:06",
+    "dispatch_time": "11/21/2025 16:16",
     "box_no": "FIRE",
-    "type_specific": "",
-    "street": "4900-BLK BRYCE LN",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2800-BLK DECATUR ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bryce Lane, Southside",
+    "nearest_intersection": "Decatur Street, Southside",
     "location_township": "FIRE",
-    "lat": 37.4818028,
-    "lng": -77.4813809
+    "lat": 37.510827,
+    "lng": -77.457654
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/21/2025 16:17",
+    "box_no": "FIRE",
+    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
+    "street": "1800-BLK COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond-Petersburg Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.4985705,
+    "lng": -77.4320371
   }
 ]
