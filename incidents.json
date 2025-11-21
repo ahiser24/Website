@@ -170,42 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 17:33",
+    "dispatch_time": "11/21/2025 17:40",
     "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1600-BLK SEWELL ST",
-    "status": "Arrived",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "2700-BLK 5TH AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Sewell Street",
+    "nearest_intersection": "Pulaski Street",
     "location_township": "Precinct 4",
-    "lat": 37.5564363,
-    "lng": -77.4296568
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 17:33",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1600-BLK SEWELL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sewell Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5564363,
-    "lng": -77.4296568
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 17:36",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1000-BLK ST JAMES ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551762,
-    "lng": -77.436219
+    "lat": 37.565116,
+    "lng": -77.417643
   },
   {
     "type_general": "RPD",
@@ -213,9 +187,9 @@
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
     "street": "3900-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
     "lat": 37.5037621,
     "lng": -77.4732556
@@ -313,19 +287,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 18:14",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HARWOOD ST/RICHMOND HWY RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5035232,
-    "lng": -77.4427633
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 18:21",
     "box_no": "Precinct 3",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -336,6 +297,32 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 18:29",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "N LOMBARDY ST/ADMIRAL ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Lombardy Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5558128,
+    "lng": -77.4545828
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 18:33",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RICHMOND HWY/LAMBERTS AVE RICH: alias JEFFERSON DAVIS HWY/LAMBERTS AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4835974,
+    "lng": -77.444674
   },
   {
     "type_general": "RFD",
@@ -352,15 +339,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/21/2025 18:17",
+    "dispatch_time": "11/21/2025 18:29",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "300-BLK W FRANKLIN ST",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "N LOMBARDY ST/ADMIRAL ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
+    "nearest_intersection": "North Lombardy Street",
     "location_township": "FIRE",
-    "lat": 37.5460104,
-    "lng": -77.446368
+    "lat": 37.5558128,
+    "lng": -77.4545828
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/21/2025 18:30",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "600-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5415708,
+    "lng": -77.4366965
   }
 ]
