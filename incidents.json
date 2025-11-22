@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 03:14",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "W MARSHALL ST/N HENRY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Harrison Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5523768,
-    "lng": -77.4515312
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 03:26",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "2600-BLK BAINBRIDGE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bainbridge Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5157336,
-    "lng": -77.4573691
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 03:32",
     "box_no": "Precinct 3",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -115,6 +89,19 @@
     "location_township": "Precinct 3",
     "lat": 37.547576,
     "lng": -77.461027
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 03:38",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1300-BLK COALTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
   },
   {
     "type_general": "RFD",
