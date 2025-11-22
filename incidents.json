@@ -109,7 +109,7 @@
     "box_no": "Precinct 1",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
     "street": "2000-BLK BOSTON AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Boston Avenue",
     "location_township": "Precinct 1",
@@ -183,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/21/2025 22:42",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2800-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5114959,
+    "lng": -77.4583224
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/21/2025 22:44",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -208,29 +221,29 @@
     "lng": -77.5063557
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/21/2025 18:30",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "600-BLK E GRACE ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 22:55",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "200-BLK GREEN COVE DR",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
+    "nearest_intersection": "Green Cove Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5049548,
+    "lng": -77.5154213
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/21/2025 22:38",
+    "dispatch_time": "11/21/2025 22:56",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "9200-BLK STONY POINT PKWY",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1300-BLK COALTER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
+    "nearest_intersection": "Coalter Street",
     "location_township": "FIRE",
-    "lat": 37.5503586,
-    "lng": -77.5718286
+    "lat": 37.543765,
+    "lng": -77.422946
   }
 ]
