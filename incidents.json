@@ -40,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 14:08",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1900-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4835974,
-    "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 14:24",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "GROVE AVE/N ARTHUR ASHE BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5653911,
-    "lng": -77.4995034
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 14:49",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -76,32 +50,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4916915,
     "lng": -77.5007971
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 15:37",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "4900-BLK BRYCE LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bryce Lane, Southside",
-    "location_township": "DPR",
-    "lat": 37.4818028,
-    "lng": -77.4813809
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 15:43",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "N 8TH ST/E BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 8th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5436749,
-    "lng": -77.4325329
   },
   {
     "type_general": "RPD",
@@ -154,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.533484,
     "lng": -77.5341636
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 16:08",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1300-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5532765,
-    "lng": -77.4542788
   },
   {
     "type_general": "RPD",
@@ -235,6 +170,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/22/2025 16:21",
+    "box_no": "Precinct 1",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "1700-BLK N 21ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5463083,
+    "lng": -77.4107884
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/22/2025 16:22",
     "box_no": "Precinct 4",
     "type_specific": "INTOXICATED PERSON , INVESTIGATE",
@@ -278,7 +226,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "E FRANKLIN ST/N 2ND ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Franklin Street",
     "location_township": "Precinct 4",
@@ -351,6 +299,32 @@
     "lng": -77.5169988
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 16:36",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 16:36",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/22/2025 07:56",
     "box_no": "FIRE",
@@ -369,11 +343,24 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
     "street": "JAHNKE RD/FOREST HILL AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "FIRE",
     "lat": 37.5192018,
     "lng": -77.5169988
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 16:36",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1100-BLK ST PETER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint Peter Street",
+    "location_township": "FIRE",
+    "lat": 37.5527677,
+    "lng": -77.4391603
   }
 ]
