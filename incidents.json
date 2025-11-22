@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 23:19",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1300-BLK W LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5556794,
-    "lng": -77.4510514
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 23:36",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -53,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 00:33",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "3000-BLK P ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5350473,
-    "lng": -77.4082125
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 00:37",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , NUISANCE",
@@ -76,5 +50,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5729346,
     "lng": -77.4293933
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 00:45",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1700-BLK E FRANKLIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 17th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.534302,
+    "lng": -77.427504
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 00:51",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E BROAD ROCK RD/SWANSBORO LN RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5038637,
+    "lng": -77.4650326
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 00:52",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "4300-BLK COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4664874,
+    "lng": -77.4274885
   }
 ]
