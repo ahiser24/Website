@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 00:13",
-    "box_no": "DPR",
-    "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
-    "street": "1300-BLK OVERBROOK RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Overbrook Road, Northside",
-    "location_township": "DPR",
-    "lat": 37.5655565,
-    "lng": -77.4521869
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 00:37",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE - EMS",
@@ -83,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "600-BLK W LABURNUM AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Laburnum Avenue",
     "location_township": "Precinct 4",
@@ -92,16 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 01:08",
-    "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "1ST AVE/BURNS ST RICH",
-    "status": "Enroute",
+    "dispatch_time": "11/22/2025 01:02",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "900-BLK MYERS ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "1st Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5632645,
-    "lng": -77.4246149
+    "nearest_intersection": "Myers Street",
+    "location_township": "DPR",
+    "lat": 37.56341,
+    "lng": -77.469527
   },
   {
     "type_general": "RPD",
@@ -118,29 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 01:16",
+    "dispatch_time": "11/22/2025 01:27",
     "box_no": "Precinct 1",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "N 17TH ST/E GRACE ST RICH",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1300-BLK COALTER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 17th Street",
+    "nearest_intersection": "Coalter Street",
     "location_township": "Precinct 1",
-    "lat": 37.5347436,
-    "lng": -77.4272969
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 01:19",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3300-BLK CASTLEWOOD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Castlewood Road",
-    "location_township": "FIRE",
-    "lat": 37.4780439,
-    "lng": -77.4450334
+    "lat": 37.543765,
+    "lng": -77.422946
   },
   {
     "type_general": "RFD",
@@ -154,5 +128,18 @@
     "location_township": "FIRE",
     "lat": 37.5523546,
     "lng": -77.4384047
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 01:31",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "300-BLK W FRANKLIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "FIRE",
+    "lat": 37.5460104,
+    "lng": -77.446368
   }
 ]
