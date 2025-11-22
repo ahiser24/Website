@@ -57,24 +57,11 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2300-BLK FENDALL AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Fendall Avenue, Northside",
     "location_township": "Precinct 4",
     "lat": 37.5638659,
     "lng": -77.4375061
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 05:39",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "1200-BLK WHITBY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Whitby Road, Northside",
-    "location_township": "FIRE",
-    "lat": 37.573973,
-    "lng": -77.4497528
   }
 ]
