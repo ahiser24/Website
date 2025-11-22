@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:31",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "2200-BLK KESWICK AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Keswick Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5041351,
-    "lng": -77.441146
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 02:42",
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -50,5 +37,57 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 03:07",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "100-BLK S 13TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.535298,
+    "lng": -77.433964
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 03:07",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "100-BLK W FEDERAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Federal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5528651,
+    "lng": -77.4366559
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 03:10",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 03:14",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "W MARSHALL ST/N HENRY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Harrison Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5523768,
+    "lng": -77.4515312
   }
 ]
