@@ -63,5 +63,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5638659,
     "lng": -77.4375061
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 05:55",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3000-BLK STONY POINT RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stony Point Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5387389,
+    "lng": -77.5642407
   }
 ]
