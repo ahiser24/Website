@@ -53,15 +53,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 06:08",
+    "dispatch_time": "11/22/2025 06:19",
     "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1700-BLK ROSECREST AVE",
-    "status": "Arrived",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "700-BLK ALBANY AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Rosecrest Avenue",
+    "nearest_intersection": "Albany Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5038492,
-    "lng": -77.4325932
+    "lat": 37.51911,
+    "lng": -77.4358438
   }
 ]
