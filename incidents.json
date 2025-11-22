@@ -66,28 +66,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 03:38",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1300-BLK COALTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 03:44",
+    "dispatch_time": "11/22/2025 03:56",
     "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "MIDLOTHIAN TPKE/CARNATION ST RICH",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "200-BLK ERICH RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
+    "nearest_intersection": "Erich Road",
     "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
+    "lat": 37.50836,
+    "lng": -77.500036
   }
 ]
