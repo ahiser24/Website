@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 10:31",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "0-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511694,
-    "lng": -77.4489338
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 11:22",
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -63,19 +50,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4923295,
     "lng": -77.481047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 13:02",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "600-BLK W SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
   },
   {
     "type_general": "RPD",
@@ -187,7 +161,7 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
@@ -265,12 +239,25 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "SWANSON RD/HULL STREET RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Swanson Road",
     "location_township": "Precinct 2",
     "lat": 37.4916915,
     "lng": -77.5007971
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 14:57",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "900-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5504418,
+    "lng": -77.4493985
   },
   {
     "type_general": "RFD",
@@ -300,16 +287,16 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/22/2025 14:49",
+    "dispatch_time": "11/22/2025 14:51",
     "box_no": "FIRE",
     "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "SWANSON RD/HULL STREET RD RICH",
-    "status": "Enroute",
+    "street": "HULL STREET RD/CHESTERFIELD DR RICH",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Swanson Road",
+    "nearest_intersection": "Hull Street Road, Southside",
     "location_township": "FIRE",
-    "lat": 37.4916915,
-    "lng": -77.5007971
+    "lat": 37.49303,
+    "lng": -77.487645
   },
   {
     "type_general": "RFD",
@@ -330,11 +317,37 @@
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , GENERAL",
     "street": "2100-BLK ROYALL AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Royall Avenue",
     "location_township": "FIRE",
     "lat": 37.4954543,
     "lng": -77.435748
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 14:57",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1000-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.540296,
+    "lng": -77.432735
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 14:57",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "900-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5504418,
+    "lng": -77.4493985
   }
 ]
