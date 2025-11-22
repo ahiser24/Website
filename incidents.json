@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 04:27",
-    "box_no": "Precinct 2",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "1200-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Deloak Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.498706,
-    "lng": -77.470527
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 05:24",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -37,19 +24,6 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 06:27",
-    "box_no": "Precinct 4",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "00-BLK E DUVAL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Duval Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5496748,
-    "lng": -77.4360435
   },
   {
     "type_general": "RPD",
