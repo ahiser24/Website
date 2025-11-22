@@ -15,13 +15,13 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/22/2025 12:04",
-    "box_no": "DPR",
+    "box_no": "Precinct 2",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
     "street": "5200-BLK HULL STREET RD",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
-    "location_township": "DPR",
+    "location_township": "Precinct 2",
     "lat": 37.492722,
     "lng": -77.4891674
   },
@@ -63,19 +63,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4835974,
     "lng": -77.444674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 14:23",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "BROOK RD/AZALEA AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5534081,
-    "lng": -77.4419452
   },
   {
     "type_general": "RPD",
@@ -122,7 +109,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "SWANSON RD/HULL STREET RD RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Swanson Road",
     "location_township": "Precinct 2",
@@ -157,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 15:22",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "5200-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492722,
-    "lng": -77.4891674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 15:25",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -180,19 +154,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5335,
     "lng": -77.402973
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 15:26",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "MOSBY ST/CARRINGTON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mosby Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5371525,
-    "lng": -77.4209262
   },
   {
     "type_general": "RPD",
@@ -232,19 +193,6 @@
     "location_township": "FIRE",
     "lat": 37.5364911,
     "lng": -77.4129541
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 15:20",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1800-BLK GORDON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Gordon Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5090748,
-    "lng": -77.4411054
   },
   {
     "type_general": "RFD",
