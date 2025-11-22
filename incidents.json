@@ -187,7 +187,7 @@
     "box_no": "Precinct 4",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
     "street": "4000-BLK PINEY RD",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Piney Road",
     "location_township": "Precinct 4",
@@ -232,19 +232,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5946094,
     "lng": -77.4494236
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 18:13",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "N 8TH ST/E CLAY ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 8th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5436749,
-    "lng": -77.4325329
   },
   {
     "type_general": "RPD",
@@ -312,6 +299,58 @@
     "lng": -77.4717485
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 18:48",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "5400-BLK DITCHLEY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ditchley Road, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5750333,
+    "lng": -77.5109201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 18:48",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1200-BLK SOUTHWOOD PKWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Southwood Parkway, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4937634,
+    "lng": -77.4828589
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 18:48",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1200-BLK SOUTHWOOD PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Southwood Parkway, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4937634,
+    "lng": -77.4828589
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 18:52",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "OAKWOOD AVE/Q ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Oakwood Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5330774,
+    "lng": -77.404868
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/21/2025 17:21",
     "box_no": "FIRE",
@@ -349,31 +388,5 @@
     "location_township": "FIRE",
     "lat": 37.5501278,
     "lng": -77.4239328
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/21/2025 18:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "W BROAD ST/ROSENEATH RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5667607,
-    "lng": -77.475537
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/21/2025 18:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "2300-BLK CARMINE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carmine Street",
-    "location_township": "FIRE",
-    "lat": 37.555794,
-    "lng": -77.418531
   }
 ]
