@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:23",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W CARY ST/S LAUREL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5540735,
-    "lng": -77.4832405
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 02:31",
     "box_no": "Precinct 1",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
@@ -57,50 +44,11 @@
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:44",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "HANOVER AVE/MALVERN AVE RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5587725,
-    "lng": -77.4813626
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:44",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "HANOVER AVE/MALVERN AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5587725,
-    "lng": -77.4813626
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:50",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "2200-BLK CHATEAU DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chateau Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4823284,
-    "lng": -77.5001855
   }
 ]
