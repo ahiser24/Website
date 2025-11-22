@@ -40,28 +40,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 06:01",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2400-BLK WEBBER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lynhaven Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.496102,
-    "lng": -77.442403
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 06:19",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "700-BLK ALBANY AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Albany Avenue",
     "location_township": "Precinct 1",
     "lat": 37.51911,
     "lng": -77.4358438
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 06:27",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "00-BLK E DUVAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Duval Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5496748,
+    "lng": -77.4360435
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 06:27",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "700-BLK COWARDIN AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5204201,
+    "lng": -77.4500564
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 06:27",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "00-BLK E DUVAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Duval Street",
+    "location_township": "FIRE",
+    "lat": 37.5496748,
+    "lng": -77.4360435
   }
 ]
