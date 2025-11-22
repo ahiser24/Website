@@ -78,6 +78,19 @@
     "lat": 37.49641397222222
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 04:32",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "100-BLK TUCKAHOE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tuckahoe Boulevard, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5697128,
+    "lng": -77.513909
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/22/2025 04:27",
     "box_no": "FIRE",
@@ -89,5 +102,18 @@
     "location_township": "FIRE",
     "lng": -77.47024005555556,
     "lat": 37.49641397222222
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 04:33",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "100-BLK S 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "FIRE",
+    "lat": 37.540525,
+    "lng": -77.442684
   }
 ]
