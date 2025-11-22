@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/21/2025 19:06",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/21/2025 19:06",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/21/2025 21:26",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -248,11 +222,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/21/2025 23:32",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "2700-BLK TATE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tate Street",
+    "location_township": "Precinct 1",
+    "lat": 37.545216,
+    "lng": -77.402743
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/21/2025 23:36",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "1700-BLK KINGSWOOD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Kingswood Street, Southside",
     "location_township": "Precinct 2",
@@ -265,7 +252,7 @@
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "500-BLK MAURY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Maury Street",
     "location_township": "Precinct 1",
@@ -284,5 +271,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5465274,
     "lng": -77.4453903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/21/2025 23:48",
+    "box_no": "DPR",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "2800-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "DPR",
+    "lat": 37.5114959,
+    "lng": -77.4583224
   }
 ]
