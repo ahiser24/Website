@@ -14,32 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 04:59",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "3100-BLK WATER ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 04:59",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "3100-BLK WATER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 05:24",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -79,54 +53,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 06:02",
-    "box_no": "Precinct 3",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "00-BLK S LOMBARDY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Lombardy Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5427779,
-    "lng": -77.4631131
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 06:02",
-    "box_no": "Precinct 3",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "00-BLK S LOMBARDY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Lombardy Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5427779,
-    "lng": -77.4631131
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 06:02",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "1400-BLK SPOTSYLVANIA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Spotsylvania Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5449789,
-    "lng": -77.4182247
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 06:08",
     "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "N 22ND ST/W ST RICH",
-    "status": "Enroute",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1700-BLK ROSECREST AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
+    "nearest_intersection": "Rosecrest Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5361097,
-    "lng": -77.4186829
+    "lat": 37.5038492,
+    "lng": -77.4325932
   }
 ]
