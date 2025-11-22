@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:42",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 03:07",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -37,19 +24,6 @@
     "location_township": "Precinct 1",
     "lat": 37.535298,
     "lng": -77.433964
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 03:10",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
   },
   {
     "type_general": "RPD",
@@ -91,17 +65,17 @@
     "lng": -77.513909
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 04:27",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "LL(-77:28:12.8642,37:29:47.0903): EST 1266 BROAD ROCK BLVD RICH",
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 04:40",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "6600-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "FIRE",
-    "lng": -77.47024005555556,
-    "lat": 37.49641397222222
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5030935,
+    "lng": -77.5178344
   },
   {
     "type_general": "RFD",
