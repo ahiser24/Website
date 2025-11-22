@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2300-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 2",
     "lat": 37.464094,
     "lng": -77.442993
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 09:53",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "2400-BLK RICHDALE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richdale Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.482461,
-    "lng": -77.485049
   },
   {
     "type_general": "RPD",
@@ -184,19 +171,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/22/2025 11:47",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "E GRACE ST/N 3RD ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "DPR",
-    "lat": 37.5375801,
-    "lng": -77.4313482
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 11:47",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , NUISANCE",
     "street": "1600-BLK COMMERCE RD",
@@ -219,6 +193,19 @@
     "location_township": "Precinct 4",
     "lat": 37.553849,
     "lng": -77.440305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 11:50",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2100-BLK W CARY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "DPR",
+    "lat": 37.548663,
+    "lng": -77.467812
   },
   {
     "type_general": "RPD",
@@ -252,7 +239,7 @@
     "box_no": "Precinct 4",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
     "street": "2700-BLK 4TH AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "4th Avenue, Northside",
     "location_township": "Precinct 4",
@@ -286,6 +273,19 @@
     "lng": -77.4489075
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 12:27",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "5900-BLK RIVER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "River Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5683371,
+    "lng": -77.5273976
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/22/2025 07:56",
     "box_no": "FIRE",
@@ -297,18 +297,5 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 12:05",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "900-BLK GODDIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Goddin Street",
-    "location_township": "FIRE",
-    "lat": 37.5161305,
-    "lng": -77.4054849
   }
 ]
