@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 06:25",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "8200-BLK ATLEE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 08:21",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -92,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 09:47",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "4000-BLK OLD BROOK RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "DPR",
-    "lat": 37.589166,
-    "lng": -77.446522
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 09:53",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -122,7 +96,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "4900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
@@ -135,7 +109,7 @@
     "box_no": "Precinct 2",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
     "street": "5600-BLK WARWICK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Warwick Road",
     "location_township": "Precinct 2",
@@ -208,6 +182,71 @@
     "lng": -77.396434
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 10:17",
+    "box_no": "DPR",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "900-BLK NORTON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Norton Street",
+    "location_township": "DPR",
+    "lat": 37.554898,
+    "lng": -77.451161
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 10:20",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "2700-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5620282,
+    "lng": -77.468756
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 10:23",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "RIDGECLIFF DR/HULL STREET RD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Ridgecliff Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4953295,
+    "lng": -77.4882862
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 10:23",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "RIDGECLIFF DR/HULL STREET RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ridgecliff Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4953295,
+    "lng": -77.4882862
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 10:23",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2300-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5600535,
+    "lng": -77.463328
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/22/2025 07:56",
     "box_no": "FIRE",
@@ -232,18 +271,5 @@
     "location_township": "FIRE",
     "lat": 37.51462,
     "lng": -77.396434
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 10:15",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1200-BLK E MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.5404297,
-    "lng": -77.4303132
   }
 ]
