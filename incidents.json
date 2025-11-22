@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 09:54",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "4900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5997402,
-    "lng": -77.4502625
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 11:22",
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -174,12 +161,51 @@
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , PERSON",
     "street": "5200-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
     "lat": 37.492722,
     "lng": -77.4891674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 15:25",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "1200-BLK OAKWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Oakwood Avenue, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5335,
+    "lng": -77.402973
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 15:26",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "MOSBY ST/CARRINGTON ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mosby Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5371525,
+    "lng": -77.4209262
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 15:28",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "CHATHAM RD/PALMYRA AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chatham Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5793311,
+    "lng": -77.4590591
   },
   {
     "type_general": "RFD",
@@ -193,19 +219,6 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 14:51",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "HULL STREET RD/CHESTERFIELD DR RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.49303,
-    "lng": -77.487645
   },
   {
     "type_general": "RFD",
@@ -232,5 +245,18 @@
     "location_township": "FIRE",
     "lat": 37.5090748,
     "lng": -77.4411054
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 15:29",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "5100-BLK ALBERENE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Alberene Road, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4954416,
+    "lng": -77.4894408
   }
 ]
