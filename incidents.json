@@ -31,7 +31,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "BROAD ROCK BLVD/WARWICK RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Broad Rock Boulevard, Southside",
     "location_township": "Precinct 2",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5998898,
     "lng": -77.4490619
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 17:35",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1900-BLK REDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
-    "location_township": "Precinct 1",
-    "lat": 37.547595,
-    "lng": -77.420888
   },
   {
     "type_general": "RPD",
@@ -89,19 +76,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5431916,
     "lng": -77.4365125
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 17:55",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "2800-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5630621,
-    "lng": -77.4702604
   },
   {
     "type_general": "RPD",
@@ -135,7 +109,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "100-BLK N BELVIDERE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Belvidere Street",
     "location_township": "Precinct 1",
@@ -187,7 +161,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "4000-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
@@ -206,6 +180,32 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 18:39",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "1500-BLK MECHANICSVILLE TPKE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5469679,
+    "lng": -77.416023
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 18:39",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "1500-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5469679,
+    "lng": -77.416023
   },
   {
     "type_general": "RFD",
@@ -232,5 +232,18 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 18:38",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "FIRE",
+    "lat": 37.515436,
+    "lng": -77.524786
   }
 ]
