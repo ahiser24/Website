@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 01:44",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "800-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.508793,
-    "lng": -77.4480183
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 02:01",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -37,19 +24,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5746979,
     "lng": -77.4644653
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:03",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1100-BLK HAMMOND AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hammond Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.56894,
-    "lng": -77.446724
   },
   {
     "type_general": "RPD",
@@ -122,7 +96,7 @@
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "1700-BLK CLARKSON RD",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Clarkson Road, Southside",
     "location_township": "Precinct 2",
@@ -130,29 +104,42 @@
     "lng": -77.481047
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 02:13",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "CHIPPENHAM PKWY/FOREST HILL RICH",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 02:42",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chippenham Parkway",
-    "location_township": "FIRE",
-    "lat": 37.5434723,
-    "lng": -77.540296
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 02:24",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1000-BLK E BROAD ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 02:44",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "HANOVER AVE/MALVERN AVE RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5587725,
+    "lng": -77.4813626
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 02:44",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "HANOVER AVE/MALVERN AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.540296,
-    "lng": -77.432735
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5587725,
+    "lng": -77.4813626
   }
 ]
