@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:24",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1000-BLK E BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.540296,
-    "lng": -77.432735
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 02:31",
     "box_no": "Precinct 1",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
@@ -132,28 +119,15 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/22/2025 02:32",
-    "box_no": "Precinct 1",
-    "type_specific": "SILENT E911 CALL , LANDLINE Call",
-    "street": "1200-BLK N 28TH ST",
-    "status": "Arrived",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1700-BLK CLARKSON RD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5379459,
-    "lng": -77.408927
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 02:32",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1900-BLK ACCOMMODATION ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5478392,
-    "lng": -77.4217136
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4923295,
+    "lng": -77.481047
   },
   {
     "type_general": "RFD",
