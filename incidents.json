@@ -57,7 +57,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "3100-BLK N ARTHUR ASHE BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Arthur Ashe Boulevard",
     "location_township": "Precinct 4",
@@ -82,13 +82,13 @@
     "dispatch_time": "11/22/2025 02:13",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "LL(-77:31:44.7638,37:32:16.9079): EST CHIPPENHAM PKWY RICH",
-    "status": "Enroute",
+    "street": "CHIPPENHAM PKWY/FOREST HILL RICH",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chippenham Parkway",
     "location_township": "Precinct 3",
-    "lng": -77.52910105555556,
-    "lat": 37.53802997222222
+    "lat": 37.5434723,
+    "lng": -77.540296
   },
   {
     "type_general": "RPD",
@@ -117,29 +117,68 @@
     "lng": -77.4470727
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 02:20",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "4500-BLK COOKS RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Cooks Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.487044,
+    "lng": -77.475753
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 02:20",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "4500-BLK COOKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Cooks Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.487044,
+    "lng": -77.475753
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 02:23",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W CARY ST/S LAUREL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5540735,
+    "lng": -77.4832405
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/22/2025 02:13",
     "box_no": "FIRE",
     "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "LL(-77:31:44.7638,37:32:16.9079): EST CHIPPENHAM PKWY RICH",
-    "status": "Enroute",
+    "street": "CHIPPENHAM PKWY/FOREST HILL RICH",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chippenham Parkway",
     "location_township": "FIRE",
-    "lng": -77.52910105555556,
-    "lat": 37.53802997222222
+    "lat": 37.5434723,
+    "lng": -77.540296
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/22/2025 02:14",
+    "dispatch_time": "11/22/2025 02:24",
     "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "1000-BLK GERMAN SCHOOL RD",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1000-BLK E BROAD ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "German School Road",
+    "nearest_intersection": "East Marshall Street",
     "location_township": "FIRE",
-    "lat": 37.516032,
-    "lng": -77.512119
+    "lat": 37.540296,
+    "lng": -77.432735
   }
 ]
