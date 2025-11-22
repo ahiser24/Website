@@ -156,6 +156,19 @@
     "lng": null
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 09:40",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2000-BLK N 20TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5507513,
+    "lng": -77.4097858
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/22/2025 07:56",
     "box_no": "FIRE",
