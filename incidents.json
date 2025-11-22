@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 06:45",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 07:28",
     "box_no": "Precinct 3",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required) - EMS",
@@ -106,19 +93,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/22/2025 08:21",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 08:21",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2300-BLK CHAMBERLAYNE AVE",
@@ -128,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.564063,
     "lng": -77.4440996
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 08:36",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "3900-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.583555,
-    "lng": -77.437263
   },
   {
     "type_general": "RPD",
@@ -157,42 +118,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 08:49",
+    "dispatch_time": "11/22/2025 08:43",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:30:26.9640,37:30:51.9803): EST 645 GERMAN SCHOOL RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lng": -77.50749,
+    "lat": 37.51443897222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 09:03",
     "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "E GRACE ST/AMBLER ST RICH",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "2000-BLK E CARY ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Grace Street",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": 37.5375801,
-    "lng": -77.4313482
+    "lat": 37.5309061,
+    "lng": -77.4259638
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 08:49",
+    "dispatch_time": "11/22/2025 09:03",
     "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "E GRACE ST/AMBLER ST RICH",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "2000-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Grace Street",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": 37.5375801,
-    "lng": -77.4313482
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 08:53",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1700-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5361461,
-    "lng": -77.4257319
+    "lat": 37.5309061,
+    "lng": -77.4259638
   },
   {
     "type_general": "RFD",
