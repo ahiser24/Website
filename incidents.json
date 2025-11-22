@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 09:00",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "2200-BLK INGRAM AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ingram Avenue",
-    "location_township": "DPR",
-    "lat": 37.5060193,
-    "lng": -77.4421819
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 09:09",
     "box_no": "Precinct 4",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -118,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 10:40",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "2000-BLK CHICAGO AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chicago Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.511444,
-    "lng": -77.445244
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 10:41",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -141,19 +115,6 @@
     "location_township": "Precinct 4",
     "lat": 37.554898,
     "lng": -77.451161
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 10:43",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "100-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
   },
   {
     "type_general": "RPD",
@@ -222,11 +183,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/22/2025 11:22",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4100-BLK NORBORNE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Lauradale Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.479888,
+    "lng": -77.471037
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/22/2025 11:24",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "N LOMBARDY ST/BROOK RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Lombardy Street",
     "location_township": "Precinct 4",
@@ -291,7 +265,7 @@
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "400-BLK CALHOUN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Calhoun Street",
     "location_township": "Precinct 4",
@@ -312,6 +286,58 @@
     "lng": -77.5178676
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 12:01",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W 14TH ST/SEMMES AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5246823,
+    "lng": -77.4504873
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 12:04",
+    "box_no": "Precinct 3",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "4600-BLK GROVE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5657214,
+    "lng": -77.4994603
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 12:10",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "5100-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 12:10",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "5100-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/22/2025 07:56",
     "box_no": "FIRE",
@@ -323,19 +349,6 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 10:07",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
-    "street": "1600-BLK WILLIAMSBURG RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road",
-    "location_township": "FIRE",
-    "lat": 37.51462,
-    "lng": -77.396434
   },
   {
     "type_general": "RFD",
@@ -352,15 +365,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/22/2025 11:59",
+    "dispatch_time": "11/22/2025 12:05",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "3400-BLK W BROAD ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "900-BLK GODDIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "Goddin Street",
     "location_township": "FIRE",
-    "lat": 37.5706604,
-    "lng": -77.4801788
+    "lat": 37.5161305,
+    "lng": -77.4054849
   }
 ]
