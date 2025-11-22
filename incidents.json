@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 16:56",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2400-BLK FLOYD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5523131,
-    "lng": -77.4701766
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 16:58",
     "box_no": "Precinct 3",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5070429,
     "lng": -77.4949501
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 17:06",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "900-BLK HARLAN CIR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Harlan Circle, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5727183,
-    "lng": -77.5064238
   },
   {
     "type_general": "RPD",
@@ -89,19 +63,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5439199,
     "lng": -77.443574
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 17:14",
-    "box_no": "Precinct 4",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3100-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5746979,
-    "lng": -77.4644653
   },
   {
     "type_general": "RPD",
@@ -148,7 +109,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "BROAD ROCK BLVD/WARWICK RD RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Broad Rock Boulevard, Southside",
     "location_township": "Precinct 2",
@@ -159,7 +120,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/22/2025 17:26",
     "box_no": "Precinct 4",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "4900-BLK OLD BROOK RD",
     "status": "Arrived",
     "cross_street": "",
@@ -174,12 +135,25 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "HULL STREET RD/WARWICK RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road, Southside",
     "location_township": "Precinct 2",
     "lat": 37.49303,
     "lng": -77.487645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 17:35",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1900-BLK REDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "Precinct 1",
+    "lat": 37.547595,
+    "lng": -77.420888
   },
   {
     "type_general": "RFD",
@@ -245,5 +219,44 @@
     "location_township": "FIRE",
     "lat": 37.5998898,
     "lng": -77.4490619
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 17:35",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "FIRE",
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 17:35",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "600-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5415708,
+    "lng": -77.4366965
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/22/2025 17:38",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @EXIT 78 - I95 NB (BOULEVARD)",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
