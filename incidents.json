@@ -105,24 +105,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 09:17",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "2300-BLK HALIFAX AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Halifax Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5056499,
-    "lng": -77.4444906
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 09:18",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "1300-BLK N 25TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 25th Street",
     "location_township": "Precinct 1",
@@ -148,12 +135,25 @@
     "box_no": "Precinct 2",
     "type_specific": "OVERDOSE/POISONING , ALS Changing Color",
     "street": "4600-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
     "lat": 37.464094,
     "lng": -77.442993
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 09:33",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "CHIPPENHAM PKWY RICH:EST LL(-77.5656,37.5496)",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -170,28 +170,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/22/2025 09:20",
+    "dispatch_time": "11/22/2025 09:28",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1300-BLK JENNIE SCHER RD",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
+    "street": "4600-BLK RICHMOND HWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road",
+    "nearest_intersection": "Richmond Highway",
     "location_township": "FIRE",
-    "lat": 37.521475,
-    "lng": -77.40059
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/22/2025 09:25",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "2600-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5543423,
-    "lng": -77.4720912
+    "lat": 37.464094,
+    "lng": -77.442993
   }
 ]
