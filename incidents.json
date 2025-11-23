@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 21:55",
-    "box_no": "Precinct 3",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "1500-BLK TEXAS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Texas Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5355748,
-    "lng": -77.468894
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 22:45",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5487683,
     "lng": -77.468316
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 22:59",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 19TH ST/E MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5332252,
-    "lng": -77.4259138
   },
   {
     "type_general": "RPD",
@@ -92,29 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 23:14",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3100-BLK BROAD ROCK BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4740153,
-    "lng": -77.4822441
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/22/2025 23:14",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3100-BLK BROAD ROCK BLVD",
+    "dispatch_time": "11/22/2025 23:26",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "5600-BLK GROVE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4740153,
-    "lng": -77.4822441
+    "nearest_intersection": "Grove Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5734429,
+    "lng": -77.5157178
   },
   {
     "type_general": "RFD",
@@ -128,5 +89,18 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 23:26",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1700-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4923295,
+    "lng": -77.481047
   }
 ]
