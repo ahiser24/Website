@@ -14,16 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 11:40",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "MECHANICSVILLE TPKE/FORD AVE RICH",
+    "dispatch_time": "11/23/2025 12:23",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
+    "street": "3600-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5514699,
-    "lng": -77.4128847
+    "nearest_intersection": "Walton Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.581665,
+    "lng": -77.446998
   },
   {
     "type_general": "RPD",
@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 12:23",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
-    "street": "3600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.581665,
-    "lng": -77.446998
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 12:25",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "N 22ND ST/E FRANKLIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street, East End",
-    "location_township": "DPR",
-    "lat": 37.5407315,
-    "lng": -77.4144303
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 13:37",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -89,6 +63,32 @@
     "location_township": "Precinct 2",
     "lat": 37.508793,
     "lng": -77.4480183
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:22",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "5200-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5082834,
+    "lng": -77.4935915
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:12",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2600-BLK E MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "DPR",
+    "lat": 37.5283754,
+    "lng": -77.4194866
   },
   {
     "type_general": "RPD",
@@ -105,16 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:22",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "5200-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "dispatch_time": "11/23/2025 14:11",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "900-BLK W BROAD ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5082834,
-    "lng": -77.4935915
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5504418,
+    "lng": -77.4493985
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:08",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2900-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.56968,
-    "lng": -77.466448
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 13:43",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 1",
     "lat": 37.565391,
     "lng": -77.4068934
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:08",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2900-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.56968,
+    "lng": -77.466448
   },
   {
     "type_general": "RFD",
@@ -209,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:12",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2600-BLK E MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "DPR",
-    "lat": 37.5283754,
-    "lng": -77.4194866
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:17",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -247,19 +234,6 @@
     "lng": -77.50524
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:11",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "900-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5504418,
-    "lng": -77.4493985
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/23/2025 14:34",
     "box_no": "FIRE",
@@ -287,19 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:33",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3200-BLK TUXEDO BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tuxedo Boulevard",
-    "location_township": "Precinct 1",
-    "lat": 37.5413858,
-    "lng": -77.3944095
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:19",
     "box_no": "Precinct 4",
     "type_specific": "PERSON DOWN , INVESTIGATE",
@@ -310,32 +271,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5476996,
     "lng": -77.4428649
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:39",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "STUART AVE/PARK AVE RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Stuart Avenue, West End",
-    "location_township": "DPR",
-    "lat": 37.567557,
-    "lng": -77.499347
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:45",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "7500-BLK CARNABY CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Carnaby Court",
-    "location_township": "Precinct 3",
-    "lat": 37.534815,
-    "lng": -77.534626
   },
   {
     "type_general": "RPD",
@@ -356,11 +291,89 @@
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Richmond Road",
     "location_township": "Precinct 1",
     "lat": 37.5301228,
     "lng": -77.3889896
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:45",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "7500-BLK CARNABY CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carnaby Court",
+    "location_township": "Precinct 3",
+    "lat": 37.534815,
+    "lng": -77.534626
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 14:58",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
+    "street": "4000-BLK OLD WARWICK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Warwick Road",
+    "location_township": "FIRE",
+    "lat": 37.4773295,
+    "lng": -77.4700905
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 15:01",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2400-BLK THE TERRACE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fendall Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.564859,
+    "lng": -77.43694
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:58",
+    "box_no": "Precinct 2",
+    "type_specific": "OVERDOSE/POISONING , ALS Abnormal Breathing",
+    "street": "4000-BLK OLD WARWICK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4773295,
+    "lng": -77.4700905
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 15:01",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1100-BLK W MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.5522656,
+    "lng": -77.4504559
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:58",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1300-BLK DINNEEN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Dinneen Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5611428,
+    "lng": -77.455738
   }
 ]
