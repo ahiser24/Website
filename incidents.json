@@ -41,19 +41,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/23/2025 08:06",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "700-BLK W FELLS ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fells Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5582353,
-    "lng": -77.4394875
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:06",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
     "street": "1100-BLK W GRACE ST",
@@ -63,6 +50,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5522621,
     "lng": -77.4544894
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 08:19",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2500-BLK ALEXANDER AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Alexander Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.475311,
+    "lng": -77.440793
   },
   {
     "type_general": "RPD",
@@ -91,19 +91,6 @@
     "lng": -77.438422
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:19",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2500-BLK ALEXANDER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Alexander Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.475311,
-    "lng": -77.440793
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/23/2025 08:06",
     "box_no": "FIRE",
@@ -115,58 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.5582353,
     "lng": -77.4394875
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:22",
-    "box_no": "Precinct 4",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "4800-BLK OLD BROOK RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5976948,
-    "lng": -77.448636
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:31",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "00-BLK CHIPPENHAM PKWY CHES",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:31",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "00-BLK CHIPPENHAM PKWY CHES",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:30",
-    "box_no": "Precinct 1",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "1200-BLK E BYRD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Byrd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5338657,
-    "lng": -77.4357005
   },
   {
     "type_general": "RPD",
@@ -193,5 +128,70 @@
     "location_township": "Precinct 1",
     "lat": 37.5409621,
     "lng": -77.4386469
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 08:22",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "4800-BLK OLD BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5976948,
+    "lng": -77.448636
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 08:22",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "4800-BLK OLD BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5976948,
+    "lng": -77.448636
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 08:38",
+    "box_no": "Precinct 3",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "6200-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.504361,
+    "lng": -77.509856
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 08:30",
+    "box_no": "Precinct 1",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "1200-BLK E BYRD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Byrd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5338657,
+    "lng": -77.4357005
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 08:35",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3900-BLK PINEY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Piney Road",
+    "location_township": "Precinct 4",
+    "lat": 37.58825,
+    "lng": -77.444879
   }
 ]
