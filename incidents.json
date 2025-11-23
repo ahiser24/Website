@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 04:06",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3500-BLK ELLWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ellwood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.556473,
-    "lng": -77.486031
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 03:31",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -53,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 04:13",
+    "dispatch_time": "11/23/2025 04:43",
     "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2500-BLK RICHDALE RD",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "3100-BLK SNEAD CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richdale Road, Southside",
+    "nearest_intersection": "Snead Court",
     "location_township": "Precinct 2",
-    "lat": 37.481095,
-    "lng": -77.485517
+    "lat": 37.4752966,
+    "lng": -77.4838448
   },
   {
     "type_general": "RPD",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 04:29",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "700-BLK STOCKTON ST",
+    "dispatch_time": "11/23/2025 04:44",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "WARWICK RD/BARLEN DR RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5214521,
-    "lng": -77.4386556
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4930304,
+    "lng": -77.4887357
   },
   {
     "type_general": "RPD",
@@ -118,28 +105,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 04:48",
+    "dispatch_time": "11/23/2025 04:51",
     "box_no": "Precinct 4",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "1400-BLK OVERBROOK RD",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1300-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Overbrook Road, Northside",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5656174,
-    "lng": -77.4549037
+    "lat": 37.5532765,
+    "lng": -77.4542788
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 04:43",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "3100-BLK SNEAD CT",
+    "dispatch_time": "11/23/2025 04:56",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "3200-BLK ROCKBRIDGE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Snead Court",
+    "nearest_intersection": "Rockbridge Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5707104,
+    "lng": -77.4695626
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 04:56",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "4100-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
-    "lat": 37.4752966,
-    "lng": -77.4838448
+    "lat": 37.4697327,
+    "lng": -77.4438269
   }
 ]
