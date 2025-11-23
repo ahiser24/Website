@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 09:36",
+    "dispatch_time": "11/23/2025 09:48",
     "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "700-BLK N 1ST ST",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "4100-BLK KENSINGTON AVE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Jackson Street",
+    "nearest_intersection": "Kensington Avenue",
     "location_township": "DPR",
-    "lat": 37.548957,
-    "lng": -77.437527
+    "lat": 37.565171,
+    "lng": -77.490214
   },
   {
     "type_general": "RFD",
@@ -118,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 10:02",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "0-BLK CHIPPENHAM PKWY CHES",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 10:02",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "0-BLK CHIPPENHAM PKWY CHES",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 10:07",
     "box_no": "Precinct 1",
     "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
@@ -154,5 +128,44 @@
     "location_township": "Precinct 1",
     "lat": 37.536232,
     "lng": -77.422238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 10:16",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1300-BLK N 25TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.540421,
+    "lng": -77.410557
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 10:16",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1300-BLK N 25TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.540421,
+    "lng": -77.410557
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 10:22",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "400-BLK W 6TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 6th Street",
+    "location_township": "FIRE",
+    "lat": 37.5272039,
+    "lng": -77.4432366
   }
 ]
