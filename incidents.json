@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "100-BLK HIOAKS RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hioaks Road",
     "location_township": "Precinct 3",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:19",
-    "box_no": "Precinct 4",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "200-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5476996,
-    "lng": -77.4428649
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:45",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -157,16 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:11",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "500-BLK N 18TH ST",
+    "dispatch_time": "11/23/2025 15:11",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "BLAND ST/FOREST HILL AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "DPR",
-    "lat": 37.537407,
-    "lng": -77.423497
+    "nearest_intersection": "Bland Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5147832,
+    "lng": -77.4720193
   },
   {
     "type_general": "RPD",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5760916,
     "lng": -77.4985378
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:05",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1200-BLK E BROOKLAND PARK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.57024,
+    "lng": -77.420545
   },
   {
     "type_general": "RFD",
@@ -232,45 +232,6 @@
     "location_township": "FIRE",
     "lat": 37.515436,
     "lng": -77.524786
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 15:07",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1000-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "FIRE",
-    "lat": 37.515436,
-    "lng": -77.524786
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:01",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1100-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5522656,
-    "lng": -77.4504559
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:11",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BLAND ST/FOREST HILL AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bland Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5147832,
-    "lng": -77.4720193
   },
   {
     "type_general": "RPD",
@@ -377,19 +338,6 @@
     "lng": -77.4473239
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:31",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "900-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5381245,
-    "lng": -77.4354657
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/23/2025 15:32",
     "box_no": "FIRE",
@@ -404,11 +352,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:31",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "900-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5381245,
+    "lng": -77.4354657
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 15:36",
     "box_no": "Precinct 3",
     "type_specific": "D.O.A. , INVESTIGATE",
     "street": "1000-BLK HIOAKS RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
