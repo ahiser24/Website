@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 03:33",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "500-BLK TREDEGAR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tredegar Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53517,
-    "lng": -77.445236
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 04:43",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
@@ -76,18 +63,5 @@
     "location_township": "Precinct 4",
     "lat": 37.5719648,
     "lng": -77.4119515
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 06:37",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "2200-BLK ROYALL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Royall Avenue",
-    "location_township": "FIRE",
-    "lat": 37.4952912,
-    "lng": -77.4384581
   }
 ]
