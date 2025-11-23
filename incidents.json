@@ -39,19 +39,6 @@
     "lng": -77.4838448
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 06:05",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "3300-BLK DILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dill Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5719648,
-    "lng": -77.4119515
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/23/2025 05:41",
     "box_no": "Precinct 3",
@@ -76,5 +63,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5379459,
     "lng": -77.408927
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 06:38",
+    "box_no": "Precinct 4",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "3300-BLK DILL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Dill Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5719648,
+    "lng": -77.4119515
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 06:37",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "2200-BLK ROYALL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Royall Avenue",
+    "location_township": "FIRE",
+    "lat": 37.4952912,
+    "lng": -77.4384581
   }
 ]
