@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 06:16",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1600-BLK W MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.547576,
-    "lng": -77.461027
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 06:16",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1600-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.547576,
-    "lng": -77.461027
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 05:41",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -89,5 +63,18 @@
     "location_township": "Precinct 3",
     "lat": 37.536255,
     "lng": -77.521177
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 06:16",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1200-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5379459,
+    "lng": -77.408927
   }
 ]
