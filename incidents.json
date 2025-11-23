@@ -40,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:30",
+    "dispatch_time": "11/23/2025 08:34",
     "box_no": "Precinct 1",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "1200-BLK E BYRD ST",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "DOCK ST/S 21ST ST RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Byrd Street",
+    "nearest_intersection": "Dock Street",
     "location_township": "Precinct 1",
-    "lat": 37.5338657,
-    "lng": -77.4357005
+    "lat": 37.5292009,
+    "lng": -77.4245052
   },
   {
     "type_general": "RPD",
@@ -57,7 +57,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
     "street": "4300-BLK OLD BROOK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 07:25",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "100-BLK GRESHAMWOOD PL",
-    "status": "Dispatched",
+    "dispatch_time": "11/23/2025 08:30",
+    "box_no": "Precinct 1",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "1200-BLK E BYRD ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Greshamwood Place",
-    "location_township": "DPR",
-    "lat": 37.5005134,
-    "lng": -77.5228532
+    "nearest_intersection": "East Byrd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5338657,
+    "lng": -77.4357005
   },
   {
     "type_general": "RFD",
@@ -89,32 +89,6 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:42",
-    "box_no": "Precinct 4",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "200-BLK W MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Jefferson Street",
-    "location_township": "Precinct 4",
-    "lat": 37.544248,
-    "lng": -77.446204
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:42",
-    "box_no": "Precinct 4",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "200-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Jefferson Street",
-    "location_township": "Precinct 4",
-    "lat": 37.544248,
-    "lng": -77.446204
   },
   {
     "type_general": "RPD",
@@ -156,32 +130,6 @@
     "lng": -77.540296
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 08:52",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "FIRE",
-    "lat": 37.57024,
-    "lng": -77.420545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:34",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "DOCK ST/S 21ST ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Dock Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5292009,
-    "lng": -77.4245052
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/23/2025 08:49",
     "box_no": "Precinct 4",
@@ -193,5 +141,44 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 09:12",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "600-BLK N 32ND ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 32nd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5305992,
+    "lng": -77.4100539
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 09:12",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "600-BLK N 32ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 32nd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5305992,
+    "lng": -77.4100539
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 09:09",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "4200-BLK OLD BROOK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "DPR",
+    "lat": 37.591781,
+    "lng": -77.447047
   }
 ]
