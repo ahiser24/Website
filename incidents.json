@@ -117,16 +117,42 @@
     "lng": -77.540296
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 09:09",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "4200-BLK OLD BROOK RD",
-    "status": "Dispatched",
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 09:36",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , WIRES DOWN (NO FIRE)",
+    "street": "600-BLK E GLADSTONE AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "DPR",
-    "lat": 37.591781,
-    "lng": -77.447047
+    "nearest_intersection": "East Gladstone Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5751861,
+    "lng": -77.4241089
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 09:35",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3100-BLK W CARY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5530934,
+    "lng": -77.4801689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 09:35",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1100-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5212499,
+    "lng": -77.4431859
   }
 ]
