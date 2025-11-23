@@ -14,29 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 11:13",
-    "box_no": "Precinct 4",
+    "dispatch_time": "11/23/2025 11:39",
+    "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "4000-BLK OLD BROOK RD",
+    "street": "100-BLK HIOAKS RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.589166,
-    "lng": -77.446522
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 11:40",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "MECHANICSVILLE TPKE/FORD AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5514699,
-    "lng": -77.4128847
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5149743,
+    "lng": -77.5244606
   },
   {
     "type_general": "RPD",
@@ -66,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 11:39",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "100-BLK HIOAKS RD",
+    "dispatch_time": "11/23/2025 12:30",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1900-BLK ACCOMMODATION ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5149743,
-    "lng": -77.5244606
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5478392,
+    "lng": -77.4217136
   },
   {
     "type_general": "RPD",
@@ -83,12 +70,25 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
     "street": "3600-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Walton Avenue, Northside",
     "location_township": "Precinct 4",
     "lat": 37.581665,
     "lng": -77.446998
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:40",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "MECHANICSVILLE TPKE/FORD AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5514699,
+    "lng": -77.4128847
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:14",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "4600-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.464094,
-    "lng": -77.442993
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 12:32",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -170,16 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 12:30",
+    "dispatch_time": "11/23/2025 13:21",
     "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1900-BLK ACCOMMODATION ST",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "100-BLK N 17TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
+    "nearest_intersection": "East Grace Street",
     "location_township": "Precinct 1",
-    "lat": 37.5478392,
-    "lng": -77.4217136
+    "lat": 37.534461,
+    "lng": -77.427683
   },
   {
     "type_general": "RPD",
@@ -206,6 +193,19 @@
     "location_township": "DPR",
     "lat": 37.5235351,
     "lng": -77.5184305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:22",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "5200-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5082834,
+    "lng": -77.4935915
   },
   {
     "type_general": "RFD",
@@ -248,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:21",
-    "box_no": "Precinct 1",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
-    "street": "100-BLK N 17TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534461,
-    "lng": -77.427683
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 13:30",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -273,17 +260,56 @@
     "lng": -77.4853454
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 13:32",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3500-BLK EAST RICHMOND RD",
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:46",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "900-BLK RUSSELL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Venable Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.538049,
+    "lng": -77.413531
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:46",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "900-BLK RUSSELL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
+    "nearest_intersection": "Venable Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.538049,
+    "lng": -77.413531
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 13:45",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "FIRE",
-    "lat": 37.5301228,
-    "lng": -77.3889896
+    "lat": 37.5884889,
+    "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:45",
+    "box_no": "Precinct 1",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "3000-BLK MECHANICSVILLE TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.565391,
+    "lng": -77.4068934
   },
   {
     "type_general": "RPD",
@@ -291,24 +317,11 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
     "street": "2200-BLK CHATEAU DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chateau Drive",
     "location_township": "Precinct 2",
     "lat": 37.4823284,
     "lng": -77.5001855
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:22",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "5200-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5082834,
-    "lng": -77.4935915
   }
 ]
