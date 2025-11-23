@@ -14,16 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 10:33",
+    "dispatch_time": "11/23/2025 10:39",
     "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2100-BLK CARRINGTON ST",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E GRACE ST/N 19TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Carrington Street",
+    "nearest_intersection": "East Grace Street",
     "location_township": "Precinct 1",
-    "lat": 37.5394511,
-    "lng": -77.4180765
+    "lat": 37.5375801,
+    "lng": -77.4313482
   },
   {
     "type_general": "RPD",
@@ -37,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4748411,
     "lng": -77.483701
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 10:39",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E GRACE ST/N 19TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5375801,
-    "lng": -77.4313482
   },
   {
     "type_general": "RPD",
@@ -83,25 +70,12 @@
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "1400-BLK DREWRY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Drewry Street",
     "location_township": "Precinct 2",
     "lat": 37.5017349,
     "lng": -77.4368822
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 11:13",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "4000-BLK OLD BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.589166,
-    "lng": -77.446522
   },
   {
     "type_general": "RPD",
@@ -115,32 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.49303,
     "lng": -77.487645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 11:36",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "2600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.513339,
-    "lng": -77.456128
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 11:29",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "0-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511694,
-    "lng": -77.4489338
   },
   {
     "type_general": "RPD",
@@ -182,6 +130,58 @@
     "lng": -77.407214
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:36",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2600-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.513339,
+    "lng": -77.456128
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:29",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "0-BLK W MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511694,
+    "lng": -77.4489338
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:13",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "4000-BLK OLD BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.589166,
+    "lng": -77.446522
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:25",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1800-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "Precinct 1",
+    "lat": 37.534629,
+    "lng": -77.425788
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/23/2025 08:10",
     "box_no": "FIRE",
@@ -219,5 +219,70 @@
     "location_township": "Precinct 3",
     "lat": 37.5149743,
     "lng": -77.5244606
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:47",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "7100-BLK CHIPPENHAM PKWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chippenham Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5434723,
+    "lng": -77.540296
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:47",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "7100-BLK CHIPPENHAM PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chippenham Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5434723,
+    "lng": -77.540296
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:47",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "BELT/HULL STREET RD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4792718,
+    "lng": -77.4606259
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:47",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "BELT/HULL STREET RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4792718,
+    "lng": -77.4606259
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 11:40",
+    "box_no": "Precinct 1",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "300-BLK VIRGINIA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5474173,
+    "lng": -77.4444972
   }
 ]
