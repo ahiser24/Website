@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 01:44",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3200-BLK SNEAD CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Snead Court",
-    "location_township": "Precinct 2",
-    "lat": 37.4748411,
-    "lng": -77.483701
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 01:49",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 01:51",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1600-BLK MECHANICSVILLE TPKE",
+    "dispatch_time": "11/23/2025 01:44",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3200-BLK SNEAD CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5493398,
-    "lng": -77.4147445
+    "nearest_intersection": "Snead Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4748411,
+    "lng": -77.483701
   },
   {
     "type_general": "RPD",
@@ -118,29 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:22",
+    "dispatch_time": "11/23/2025 02:29",
     "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2000-BLK MAURY ST",
-    "status": "Dispatched",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "N 18TH ST/E FRANKLIN ST RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
+    "nearest_intersection": "North 18th Street",
     "location_township": "Precinct 1",
-    "lat": 37.5133362,
-    "lng": -77.4470727
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:22",
-    "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2000-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5133362,
-    "lng": -77.4470727
+    "lat": 37.5337736,
+    "lng": -77.4268235
   },
   {
     "type_general": "RPD",
@@ -154,6 +128,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4833411,
     "lng": -77.4859716
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 02:32",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "3400-BLK CARLTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carlton Street",
+    "location_township": "Precinct 4",
+    "lat": 37.572618,
+    "lng": -77.470345
   },
   {
     "type_general": "RPD",
@@ -196,45 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:29",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "N 18TH ST/E FRANKLIN ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337736,
-    "lng": -77.4268235
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:32",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "3400-BLK CARLTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carlton Street",
-    "location_township": "Precinct 4",
-    "lat": 37.572618,
-    "lng": -77.470345
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:29",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "6300-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.535699,
-    "lng": -77.511167
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 02:50",
     "box_no": "Precinct 1",
     "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
@@ -247,42 +195,29 @@
     "lng": -77.427504
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 02:50",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "00-BLK W BROAD ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 02:54",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "400-BLK N 18TH ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5706604,
-    "lng": -77.4801788
+    "nearest_intersection": "North 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.536538,
+    "lng": -77.424302
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:47",
+    "dispatch_time": "11/23/2025 02:54",
     "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1200-BLK W 45TH ST",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West 45th Street",
+    "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "Precinct 3",
-    "lat": 37.5185222,
-    "lng": -77.4841599
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:47",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1200-BLK W 45TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 45th Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5185222,
-    "lng": -77.4841599
+    "lat": 37.5140128,
+    "lng": -77.4895724
   }
 ]
