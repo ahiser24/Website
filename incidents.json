@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
     "street": "MATOAKA RD/GROVE AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Matoaka Road, West End",
     "location_township": "Precinct 3",
@@ -24,19 +24,6 @@
     "location_township": "Precinct 3",
     "lat": 37.542091,
     "lng": -77.460455
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 04:43",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "3100-BLK SNEAD CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Court",
-    "location_township": "Precinct 2",
-    "lat": 37.4752966,
-    "lng": -77.4838448
   },
   {
     "type_general": "RPD",
@@ -76,5 +63,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4930304,
     "lng": -77.4887357
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 04:43",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "3100-BLK SNEAD CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Snead Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4752966,
+    "lng": -77.4838448
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 05:41",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2600-BLK GRANITE HILL CIR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Granite Hill Circle",
+    "location_township": "Precinct 3",
+    "lat": 37.536255,
+    "lng": -77.521177
   }
 ]
