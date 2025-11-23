@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:19",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1200-BLK E CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5410235,
-    "lng": -77.4292888
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 01:58",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.516444,
     "lng": -77.508298
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 02:19",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1200-BLK E CLAY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5410235,
+    "lng": -77.4292888
   },
   {
     "type_general": "RPD",
@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 03:22",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "MECHANICSVILLE TPKE/WOOD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5514699,
-    "lng": -77.4128847
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 03:25",
     "box_no": "Precinct 1",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -157,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:52",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "3200-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5757133,
-    "lng": -77.4633313
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 03:11",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -180,58 +154,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5466447,
     "lng": -77.573088
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 03:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "RICH: @EXIT 69 - I95 SB (BELLS RD)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 03:29",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
-    "street": "300-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "FIRE",
-    "lat": 37.543895,
-    "lng": -77.447879
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 03:32",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "1900-BLK N 19TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5517901,
-    "lng": -77.4104407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 03:33",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "0-BLK BELLE ISLE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Robert E. Lee Memorial Bridge",
-    "location_township": "Precinct 1",
-    "lat": 37.532685,
-    "lng": -77.4495938
   },
   {
     "type_general": "RPD",
@@ -245,5 +167,31 @@
     "location_township": "Precinct 3",
     "lat": 37.542091,
     "lng": -77.460455
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 03:18",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "5300-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492271,
+    "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 03:33",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "500-BLK TREDEGAR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tredegar Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53517,
+    "lng": -77.445236
   }
 ]
