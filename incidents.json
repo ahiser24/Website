@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 23:45",
-    "box_no": "DPR",
-    "type_specific": "MISSING PERSON , DPR Call - Take a Report Normal (NOT Juvenile or Elderly)",
-    "street": "N 7TH ST/E BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 7th Street",
-    "location_township": "DPR",
-    "lat": 37.5461226,
-    "lng": -77.4316081
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/22/2025 23:26",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/22/2025 23:50",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "700-BLK N HARRISON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Harrison Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5531377,
-    "lng": -77.4512671
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 00:16",
     "box_no": "DPR",
     "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
@@ -89,6 +63,19 @@
     "location_township": "DPR",
     "lat": 37.5112953,
     "lng": -77.3962734
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/22/2025 23:34",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "N 4TH ST/E BROAD ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 4th Street",
+    "location_township": "DPR",
+    "lat": 37.5507508,
+    "lng": -77.4313014
   },
   {
     "type_general": "RFD",
@@ -102,32 +89,6 @@
     "location_township": "FIRE",
     "lat": 37.5192919,
     "lng": -77.4082877
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 00:16",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "4700-BLK CRONIN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cronin Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4640881,
-    "lng": -77.4484063
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 00:25",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "100-BLK POE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Barton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.560184,
-    "lng": -77.432175
   },
   {
     "type_general": "RFD",
@@ -157,16 +118,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 00:29",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3700-BLK WALMSLEY BLVD",
+    "dispatch_time": "11/23/2025 00:25",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "100-BLK POE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
+    "nearest_intersection": "Barton Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.560184,
+    "lng": -77.432175
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 00:42",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1000-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5638703,
+    "lng": -77.4696823
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 00:16",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "4700-BLK CRONIN DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Cronin Drive",
     "location_township": "Precinct 2",
-    "lat": 37.4667965,
-    "lng": -77.4646468
+    "lat": 37.4640881,
+    "lng": -77.4484063
   },
   {
     "type_general": "RPD",
@@ -180,57 +167,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4667965,
     "lng": -77.4646468
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 00:29",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3700-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4667965,
-    "lng": -77.4646468
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 00:29",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3700-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4667965,
-    "lng": -77.4646468
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 00:29",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3700-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4667965,
-    "lng": -77.4646468
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 00:34",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "2300-BLK MARION MASHORE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
   }
 ]
