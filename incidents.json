@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 03:33",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "500-BLK TREDEGAR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Tredegar Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53517,
-    "lng": -77.445236
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 04:13",
     "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 2",
     "lat": 37.481095,
     "lng": -77.485517
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 03:33",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "500-BLK TREDEGAR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tredegar Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53517,
+    "lng": -77.445236
   },
   {
     "type_general": "RPD",
@@ -91,16 +91,16 @@
     "lng": -77.4386556
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 04:36",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "4100-BLK RICHMOND HWY",
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 04:43",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "3100-BLK SNEAD CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "FIRE",
-    "lat": 37.4697327,
-    "lng": -77.4438269
+    "nearest_intersection": "Snead Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4752966,
+    "lng": -77.4838448
   }
 ]
