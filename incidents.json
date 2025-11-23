@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 06:04",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1500-BLK W CARY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Plum Street",
-    "location_township": "Precinct 3",
-    "lat": 37.546019,
-    "lng": -77.460424
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 06:04",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1500-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Plum Street",
-    "location_township": "Precinct 3",
-    "lat": 37.546019,
-    "lng": -77.460424
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 05:41",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -91,17 +65,30 @@
     "lng": -77.521177
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 05:58",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
-    "street": "900-BLK OLD DENNY ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 06:16",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1600-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.547576,
+    "lng": -77.461027
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 06:16",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1600-BLK W MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Denny Street",
-    "location_township": "FIRE",
-    "lat": 37.5199813,
-    "lng": -77.405883
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.547576,
+    "lng": -77.461027
   },
   {
     "type_general": "RFD",
