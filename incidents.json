@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:45",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "3000-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.565391,
-    "lng": -77.4068934
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:45",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "7500-BLK CARNABY CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carnaby Court",
-    "location_township": "Precinct 3",
-    "lat": 37.534815,
-    "lng": -77.534626
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:37",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -63,19 +37,6 @@
     "location_township": "Precinct 1",
     "lat": 37.514765,
     "lng": -77.404477
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:25",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4700-BLK CALDWELL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Caldwell Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4634356,
-    "lng": -77.4473239
   },
   {
     "type_general": "RPD",
@@ -92,6 +53,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:25",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4700-BLK CALDWELL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Caldwell Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4634356,
+    "lng": -77.4473239
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:35",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3800-BLK MONZA DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 15:36",
     "box_no": "Precinct 3",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -102,6 +89,19 @@
     "location_township": "Precinct 3",
     "lat": 37.515436,
     "lng": -77.524786
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 16:17",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "300-BLK COWARDIN AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5204201,
+    "lng": -77.4500564
   },
   {
     "type_general": "RPD",
@@ -119,6 +119,19 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/23/2025 16:14",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "0-BLK W FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5630515,
+    "lng": -77.4777521
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 16:14",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "BELLEMEADE RD/ROYALL AVE RICH",
@@ -128,19 +141,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4917619,
     "lng": -77.4371151
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:35",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "3800-BLK MONZA DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -170,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:55",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "4000-BLK PARK AVE",
-    "status": "Dispatched",
+    "dispatch_time": "11/23/2025 16:44",
+    "box_no": "Precinct 1",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "700-BLK RICHMOND HWY",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Park Avenue, West End",
-    "location_township": "DPR",
-    "lat": 37.5664674,
-    "lng": -77.4874224
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 1",
+    "lat": 37.4947924,
+    "lng": -77.4460269
   },
   {
     "type_general": "RFD",
@@ -219,31 +219,5 @@
     "location_township": "FIRE",
     "lat": 37.5415671,
     "lng": -77.4119407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 16:17",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "300-BLK COWARDIN AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5204201,
-    "lng": -77.4500564
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 16:11",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "3800-BLK CUTSHAW AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cutshaw Avenue",
-    "location_township": "FIRE",
-    "lat": 37.568939,
-    "lng": -77.480932
   }
 ]
