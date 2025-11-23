@@ -27,42 +27,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 08:34",
+    "dispatch_time": "11/23/2025 10:07",
     "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "DOCK ST/S 21ST ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Dock Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5292009,
-    "lng": -77.4245052
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 09:35",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1100-BLK HULL ST",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "1900-BLK PRINCESS ANNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street",
+    "nearest_intersection": "Princess Anne Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5212499,
-    "lng": -77.4431859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 09:47",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "LL(-77:30:57.1681,37:29:03.7103): EST 1464 CARGREEN RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cargreen Road",
-    "location_township": "Precinct 2",
-    "lng": -77.51588002777778,
-    "lat": 37.484363972222226
+    "lat": 37.536232,
+    "lng": -77.422238
   },
   {
     "type_general": "RPD",
@@ -78,6 +52,32 @@
     "lng": -77.490214
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 10:25",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 08:34",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "DOCK ST/S 21ST ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dock Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5292009,
+    "lng": -77.4245052
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/23/2025 08:10",
     "box_no": "FIRE",
@@ -89,45 +89,6 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 09:53",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "1100-BLK HULL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5212499,
-    "lng": -77.4431859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 09:53",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "1100-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5212499,
-    "lng": -77.4431859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 10:07",
-    "box_no": "Precinct 1",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "1900-BLK PRINCESS ANNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Princess Anne Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.536232,
-    "lng": -77.422238
   },
   {
     "type_general": "RFD",
@@ -144,54 +105,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 10:29",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "CHIPPENHAM PKWY RICH:EST LL(-77.5704,37.5575)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 10:29",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "CHIPPENHAM PKWY RICH:EST LL(-77.5704,37.5575)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/23/2025 10:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "MALVERN AVE/GROVE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Malvern Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5628689,
-    "lng": -77.4918153
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 10:25",
     "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "1300-BLK COALTER ST",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "2200-BLK INGRAM AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
+    "nearest_intersection": "Ingram Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
+    "lat": 37.5060193,
+    "lng": -77.4421819
   }
 ]
