@@ -131,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:22",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "5200-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5082834,
-    "lng": -77.4935915
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:36",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
-    "street": "2200-BLK CHATEAU DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chateau Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4823284,
-    "lng": -77.5001855
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 13:23",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:36",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "E 29TH ST/W 29TH ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 29th Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5088971,
-    "lng": -77.4587036
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 12:58",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -193,6 +154,45 @@
     "location_township": "Precinct 4",
     "lat": 37.6015861,
     "lng": -77.4529869
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:37",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "800-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.508793,
+    "lng": -77.4480183
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:45",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:22",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "5200-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5082834,
+    "lng": -77.4935915
   },
   {
     "type_general": "RFD",
@@ -235,32 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:45",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "3000-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.565391,
-    "lng": -77.4068934
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 13:48",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "5400-BLK HULL STREET RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "FIRE",
-    "lat": 37.4899001,
-    "lng": -77.4939365
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 13:50",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -287,19 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:45",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "ELLEN RD/N ARTHUR ASHE BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ellen Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5743413,
-    "lng": -77.4672723
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 13:48",
     "box_no": "Precinct 2",
     "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
@@ -323,5 +284,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5502725,
     "lng": -77.4044818
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:45",
+    "box_no": "Precinct 1",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "3000-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.565391,
+    "lng": -77.4068934
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:54",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "1000-BLK W GRAHAM RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.564886,
+    "lng": -77.444207
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:03",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "4800-BLK OLD WARWICK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Warwick Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4828765,
+    "lng": -77.4796861
   }
 ]
