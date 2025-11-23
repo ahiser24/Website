@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
     "street": "MATOAKA RD/GROVE AVE RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Matoaka Road, West End",
     "location_township": "Precinct 3",
@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 04:48",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 04:48",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 04:51",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
@@ -131,6 +105,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 05:07",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN - EMS",
+    "street": "WARWICK RD/WARWICK VILLAGE DR RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4930304,
+    "lng": -77.4887357
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 05:07",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN - EMS",
+    "street": "WARWICK RD/WARWICK VILLAGE DR RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4930304,
+    "lng": -77.4887357
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 04:56",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , AGGRESSIVE",
@@ -141,5 +141,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4697327,
     "lng": -77.4438269
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 05:09",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "WARWICK RD/WARWICK VILLAGE DR RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "FIRE",
+    "lat": 37.4930304,
+    "lng": -77.4887357
   }
 ]
