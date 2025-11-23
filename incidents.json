@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 01:28",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "TRIGG ST/4TH AVE RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Trigg Street",
-    "location_township": "Precinct 4",
-    "lat": 37.556951,
-    "lng": -77.4250612
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 01:28",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "TRIGG ST/4TH AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Trigg Street",
-    "location_township": "Precinct 4",
-    "lat": 37.556951,
-    "lng": -77.4250612
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 00:29",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -144,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 01:45",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WARWICK RD/E GERMAN SCHOOL RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4930304,
-    "lng": -77.4887357
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 02:00",
     "box_no": "Precinct 2",
     "type_specific": "MAYDAY/Deputy/Officer Down , Officer-Initiated",
@@ -167,6 +128,19 @@
     "location_township": "Precinct 2",
     "lat": 37.464094,
     "lng": -77.442993
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 02:00",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "E 14TH ST/DECATUR ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5110278,
+    "lng": -77.4364195
   },
   {
     "type_general": "RPD",
@@ -196,29 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:00",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "E 14TH ST/DECATUR ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5110278,
-    "lng": -77.4364195
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:09",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "700-BLK BLANDY AVE",
+    "dispatch_time": "11/23/2025 01:45",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "WARWICK RD/E GERMAN SCHOOL RD RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Glenway Court",
-    "location_township": "Precinct 3",
-    "lat": 37.516444,
-    "lng": -77.508298
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4930304,
+    "lng": -77.4887357
   },
   {
     "type_general": "RFD",
@@ -278,7 +239,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , PERSON",
     "street": "3400-BLK CARLTON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Carlton Street",
     "location_township": "Precinct 4",
@@ -287,29 +248,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:34",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "6500-BLK HULL STREET RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4804874,
-    "lng": -77.5121816
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:34",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "6500-BLK HULL STREET RD",
+    "dispatch_time": "11/23/2025 02:29",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "6300-BLK FOREST HILL AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4804874,
-    "lng": -77.5121816
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.535699,
+    "lng": -77.511167
   },
   {
     "type_general": "RPD",
@@ -326,15 +274,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:29",
+    "dispatch_time": "11/23/2025 02:09",
     "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "6300-BLK FOREST HILL AVE",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "700-BLK BLANDY AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
+    "nearest_intersection": "Glenway Court",
     "location_township": "Precinct 3",
-    "lat": 37.535699,
-    "lng": -77.511167
+    "lat": 37.516444,
+    "lng": -77.508298
   }
 ]
