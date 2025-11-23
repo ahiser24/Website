@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:07",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5035598,
-    "lng": -77.5157461
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 13:54",
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4828765,
     "lng": -77.4796861
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:43",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7700-BLK E PARHAM RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Parham Road, Henrico",
+    "location_township": "Precinct 4",
+    "lat": 37.6312963,
+    "lng": -77.5251363
   },
   {
     "type_general": "RFD",
@@ -274,58 +274,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:08",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2900-BLK N ARTHUR ASHE BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.56968,
-    "lng": -77.466448
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 14:34",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "STAPLES MILL RD/W BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Staples Mill Road, West End",
-    "location_township": "FIRE",
-    "lat": 37.5760916,
-    "lng": -77.4985378
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:35",
-    "box_no": "Precinct 1",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "REDD ST/MECHANICSVILLE TPKE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Redd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5458631,
-    "lng": -77.4179022
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 14:36",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
-    "street": "3200-BLK TUXEDO BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Tuxedo Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5413858,
-    "lng": -77.3944095
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:11",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -338,17 +286,30 @@
     "lng": -77.4493985
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:33",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "3200-BLK TUXEDO BLVD",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 14:34",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "STAPLES MILL RD/W BROAD ST RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Tuxedo Boulevard",
-    "location_township": "Precinct 1",
-    "lat": 37.5413858,
-    "lng": -77.3944095
+    "nearest_intersection": "Staples Mill Road, West End",
+    "location_township": "FIRE",
+    "lat": 37.5760916,
+    "lng": -77.4985378
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:07",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "6500-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5035598,
+    "lng": -77.5157461
   },
   {
     "type_general": "RPD",
@@ -356,11 +317,37 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "STAPLES MILL RD/W BROAD ST RICH",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Staples Mill Road, West End",
     "location_township": "Precinct 3",
     "lat": 37.5760916,
     "lng": -77.4985378
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:08",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2900-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.56968,
+    "lng": -77.466448
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:33",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "3200-BLK TUXEDO BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tuxedo Boulevard",
+    "location_township": "Precinct 1",
+    "lat": 37.5413858,
+    "lng": -77.3944095
   }
 ]
