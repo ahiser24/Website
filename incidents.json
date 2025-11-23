@@ -40,6 +40,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:07",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "200-BLK COWARDIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.5204201,
+    "lng": -77.4500564
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 12:23",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
@@ -53,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 12:58",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "AZALEA AVE/CHAMBERLAYNE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.6015861,
-    "lng": -77.4529869
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 12:25",
     "box_no": "DPR",
     "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
@@ -76,19 +76,6 @@
     "location_township": "DPR",
     "lat": 37.5407315,
     "lng": -77.4144303
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:07",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "200-BLK COWARDIN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.5204201,
-    "lng": -77.4500564
   },
   {
     "type_general": "RPD",
@@ -131,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:45",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "3000-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.565391,
-    "lng": -77.4068934
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 13:54",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "N 4TH ST/E BROAD ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 4th Street",
-    "location_township": "DPR",
-    "lat": 37.5507508,
-    "lng": -77.4313014
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:03",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -170,6 +131,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:07",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "6500-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5035598,
+    "lng": -77.5157461
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:08",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2900-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.56968,
+    "lng": -77.466448
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 13:43",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 4",
     "lat": 37.6312963,
     "lng": -77.5251363
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:45",
+    "box_no": "Precinct 1",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "3000-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.565391,
+    "lng": -77.4068934
   },
   {
     "type_general": "RFD",
@@ -234,32 +234,6 @@
     "lng": -77.4419777
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:19",
-    "box_no": "Precinct 4",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "200-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5476996,
-    "lng": -77.4428649
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 14:24",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "200-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.5476996,
-    "lng": -77.4428649
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/23/2025 14:27",
     "box_no": "FIRE",
@@ -300,19 +274,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:07",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5035598,
-    "lng": -77.5157461
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:34",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -326,22 +287,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:08",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2900-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.56968,
-    "lng": -77.466448
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:33",
     "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "3200-BLK TUXEDO BLVD",
     "status": "Arrived",
     "cross_street": "",
@@ -349,5 +297,70 @@
     "location_township": "Precinct 1",
     "lat": 37.5413858,
     "lng": -77.3944095
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:19",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "200-BLK W MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5476996,
+    "lng": -77.4428649
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:39",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "STUART AVE/PARK AVE RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Stuart Avenue, West End",
+    "location_township": "DPR",
+    "lat": 37.567557,
+    "lng": -77.499347
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:45",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "7500-BLK CARNABY CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Carnaby Court",
+    "location_township": "Precinct 3",
+    "lat": 37.534815,
+    "lng": -77.534626
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:43",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "3600-BLK CAROLINA AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Carolina Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5790272,
+    "lng": -77.4159466
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:51",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5301228,
+    "lng": -77.3889896
   }
 ]
