@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:12",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2600-BLK E MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "DPR",
-    "lat": 37.5283754,
-    "lng": -77.4194866
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:17",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.534815,
     "lng": -77.534626
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 14:11",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "900-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5504418,
-    "lng": -77.4493985
   },
   {
     "type_general": "RPD",
@@ -157,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:15",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "E 21ST ST/INGRAM AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5089854,
+    "lng": -77.4443028
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 14:34",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 4",
     "lat": 37.57024,
     "lng": -77.420545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 14:12",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2600-BLK E MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "DPR",
+    "lat": 37.5283754,
+    "lng": -77.4194866
   },
   {
     "type_general": "RFD",
@@ -221,45 +221,6 @@
     "lng": -77.50524
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 15:09",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "1000-BLK HIOAKS RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "FIRE",
-    "lat": 37.515436,
-    "lng": -77.524786
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:15",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "E 21ST ST/INGRAM AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 21st Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5089854,
-    "lng": -77.4443028
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:24",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "7500-BLK ANDER CT",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Ander Court",
-    "location_township": "DPR",
-    "lat": 37.535521,
-    "lng": -77.534459
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/23/2025 15:31",
     "box_no": "Precinct 1",
@@ -284,32 +245,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5429313,
     "lng": -77.4001808
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:32",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2400-BLK VENABLE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5385327,
-    "lng": -77.4144114
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 15:32",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2400-BLK VENABLE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5385327,
-    "lng": -77.4144114
   },
   {
     "type_general": "RPD",
@@ -375,5 +310,83 @@
     "location_township": "Precinct 3",
     "lat": 37.515436,
     "lng": -77.524786
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:47",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "LL(-77:28:10.7972,37:28:24.2950)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hopkins Road",
+    "location_township": "Precinct 2",
+    "lng": -77.4696658888889,
+    "lat": 37.47341527777778
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:47",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "LL(-77:28:10.7972,37:28:24.2950)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hopkins Road",
+    "location_township": "Precinct 2",
+    "lng": -77.4696658888889,
+    "lat": 37.47341527777778
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:32",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2400-BLK VENABLE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Venable Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5385327,
+    "lng": -77.4144114
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 15:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "500-BLK FOURQUREAN LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fourqurean Lane, Northside",
+    "location_township": "FIRE",
+    "lat": 37.56901,
+    "lng": -77.42767
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:48",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "N 8TH ST/E MAIN ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 8th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5436749,
+    "lng": -77.4325329
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 15:18",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "3100-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.5656688,
+    "lng": -77.4738416
   }
 ]
