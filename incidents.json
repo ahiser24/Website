@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 05:07",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN - EMS",
-    "street": "WARWICK RD/WARWICK VILLAGE DR RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4930304,
-    "lng": -77.4887357
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 04:43",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
@@ -52,17 +39,17 @@
     "lng": -77.4838448
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 05:41",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "2600-BLK GRANITE HILL CIR",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 06:05",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "3300-BLK DILL AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Granite Hill Circle",
-    "location_township": "Precinct 3",
-    "lat": 37.536255,
-    "lng": -77.521177
+    "nearest_intersection": "Dill Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5719648,
+    "lng": -77.4119515
   },
   {
     "type_general": "RPD",
@@ -91,16 +78,16 @@
     "lng": -77.461027
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 06:05",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "3300-BLK DILL AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 05:41",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2600-BLK GRANITE HILL CIR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Dill Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5719648,
-    "lng": -77.4119515
+    "nearest_intersection": "Granite Hill Circle",
+    "location_township": "Precinct 3",
+    "lat": 37.536255,
+    "lng": -77.521177
   }
 ]
