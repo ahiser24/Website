@@ -53,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 02:09",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "700-BLK BLANDY AVE",
-    "status": "Enroute",
+    "dispatch_time": "11/23/2025 03:10",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "0-BLK E 35TH ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Glenway Court",
-    "location_township": "Precinct 3",
-    "lat": 37.516444,
-    "lng": -77.508298
+    "nearest_intersection": "East 35th Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5080691,
+    "lng": -77.4700277
   },
   {
     "type_general": "RPD",
@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 03:06",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3700-BLK BONMARK DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bonmark Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4695574,
-    "lng": -77.4633153
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 03:15",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -102,32 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5505469,
     "lng": -77.4391577
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 03:10",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , INVESTIGATE-EMS",
-    "street": "0-BLK E 35TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 35th Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5080691,
-    "lng": -77.4700277
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 03:25",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "PORTER ST/W COMMERCE RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5257854,
-    "lng": -77.4408697
   },
   {
     "type_general": "RPD",
@@ -180,6 +141,19 @@
     "location_township": "Precinct 2",
     "lat": 37.492271,
     "lng": -77.4888165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 03:25",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "PORTER ST/W COMMERCE RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5257854,
+    "lng": -77.4408697
   },
   {
     "type_general": "RPD",
