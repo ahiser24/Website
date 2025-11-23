@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 01:44",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3200-BLK SNEAD CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Snead Court",
-    "location_township": "Precinct 2",
-    "lat": 37.4748411,
-    "lng": -77.483701
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 01:38",
     "box_no": "Precinct 2",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -157,11 +144,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 01:57",
+    "box_no": "DPR",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "2900-BLK FENDALL AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Fendall Avenue, Northside",
+    "location_township": "DPR",
+    "lat": 37.5702913,
+    "lng": -77.4366393
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 01:49",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
     "street": "MATOAKA RD/GROVE AVE RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Matoaka Road, West End",
     "location_township": "Precinct 3",
@@ -170,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 01:45",
+    "dispatch_time": "11/23/2025 01:44",
     "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WARWICK RD/E GERMAN SCHOOL RD RICH",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3200-BLK SNEAD CT",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Warwick Road",
+    "nearest_intersection": "Snead Court",
     "location_township": "Precinct 2",
-    "lat": 37.4930304,
-    "lng": -77.4887357
+    "lat": 37.4748411,
+    "lng": -77.483701
   },
   {
     "type_general": "RFD",
@@ -284,5 +284,44 @@
     "location_township": "Precinct 3",
     "lat": 37.516444,
     "lng": -77.508298
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 02:44",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 02:44",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/23/2025 02:47",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1200-BLK W 45TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 45th Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5185222,
+    "lng": -77.4841599
   }
 ]
