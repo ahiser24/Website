@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1400-BLK JOHNSTON WILLIS DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -70,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
@@ -78,71 +78,6 @@
     "lng": -77.4451986
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 08:10",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 23:37",
-    "box_no": "FIRE",
-    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
-    "street": "800-BLK N 21ST ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 21st Street",
-    "location_township": "FIRE",
-    "lat": 37.5384118,
-    "lng": -77.419301
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:10",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:10",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:04",
-    "box_no": "Precinct 4",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "3900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5884889,
-    "lng": -77.4485395
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/24/2025 00:20",
     "box_no": "Precinct 3",
@@ -167,6 +102,32 @@
     "location_township": "Precinct 3",
     "lat": 37.5110515,
     "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 00:32",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "5600-BLK CHARLEVOIX CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Charlevoix Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4999424,
+    "lng": -77.5010213
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 00:18",
+    "box_no": "Precinct 2",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "5600-BLK PETOSKEY AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Petoskey Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4988816,
+    "lng": -77.5008037
   },
   {
     "type_general": "RPD",
@@ -180,18 +141,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4828765,
     "lng": -77.4796861
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:18",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "5600-BLK PETOSKEY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Petoskey Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4988816,
-    "lng": -77.5008037
   }
 ]
