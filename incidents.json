@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 07:52",
-    "box_no": "Precinct 3",
-    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
-    "street": "600-BLK ELGIN TER",
-    "status": "Arrived",
+    "dispatch_time": "11/24/2025 05:55",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "2200-BLK E CARY ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Elgin Terrace",
-    "location_township": "Precinct 3",
-    "lat": 37.5122621,
-    "lng": -77.5188585
+    "nearest_intersection": "East Cary Street",
+    "location_township": "DPR",
+    "lat": 37.5297586,
+    "lng": -77.4244833
   },
   {
     "type_general": "RPD",
@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 08:12",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "7500-BLK ANDER CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ander Court",
-    "location_township": "Precinct 3",
-    "lat": 37.535521,
-    "lng": -77.534459
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 08:20",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4933355,
     "lng": -77.4578457
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 08:05",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "700-BLK E BYRD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Byrd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5401544,
-    "lng": -77.4461994
   },
   {
     "type_general": "RPD",
@@ -157,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/24/2025 07:52",
+    "box_no": "Precinct 3",
+    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
+    "street": "600-BLK ELGIN TER",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Elgin Terrace",
+    "location_township": "Precinct 3",
+    "lat": 37.5122621,
+    "lng": -77.5188585
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/24/2025 08:26",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 4",
     "lat": 37.563296,
     "lng": -77.460563
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 08:35",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
   },
   {
     "type_general": "RFD",
@@ -221,32 +221,6 @@
     "lng": -77.4573613
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 08:40",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "0-BLK S GRANBY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Granby Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5472451,
-    "lng": -77.4654067
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 09:19",
-    "box_no": "Precinct 3",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "600-BLK W 34TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West 34th Street",
-    "location_township": "Precinct 3",
-    "lat": 37.517128,
-    "lng": -77.469845
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/24/2025 09:19",
     "box_no": "FIRE",
@@ -274,15 +248,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 08:35",
+    "dispatch_time": "11/24/2025 09:17",
     "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "600-BLK WESTOVER HILLS BLVD",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "W 46TH ST/BASSETT AVE RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
+    "nearest_intersection": "West 46th Street",
     "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
+    "lat": 37.5175812,
+    "lng": -77.4854338
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 09:43",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "10100-BLK EPSILON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Epsilon Road",
+    "location_township": "FIRE",
+    "lat": 37.537404,
+    "lng": -77.580857
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 09:43",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "10100-BLK EPSILON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Epsilon Road",
+    "location_township": "Precinct 3",
+    "lat": 37.537404,
+    "lng": -77.580857
   }
 ]
