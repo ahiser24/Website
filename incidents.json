@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 11:33",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "0-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5511694,
-    "lng": -77.4489338
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 02:47",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/24/2025 08:07",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "2200-BLK 5TH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "5th Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5609666,
+    "lng": -77.4210457
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/24/2025 13:59",
     "box_no": "Precinct 3",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5608401,
     "lng": -77.4685651
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:47",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "LL(-77:32:27.8521,37:31:53.1587): EST UNNAMED RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Burrundie Drive",
-    "location_township": "Precinct 3",
-    "lng": -77.54107002777778,
-    "lat": 37.53143297222222
   },
   {
     "type_general": "RPD",
@@ -170,16 +157,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:22",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2400-BLK E CARY ST",
+    "dispatch_time": "11/24/2025 15:19",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "2100-BLK E MARSHALL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "DPR",
-    "lat": 37.5287098,
-    "lng": -77.4220145
+    "nearest_intersection": "Jefferson Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.534698,
+    "lng": -77.4214
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 15:25",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1200-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Deloak Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.498706,
+    "lng": -77.470527
   },
   {
     "type_general": "RFD",
@@ -196,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 15:40",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "3000-BLK BARTON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Barton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.571549,
-    "lng": -77.431666
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 15:41",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , CITY PROPERTY",
@@ -219,32 +206,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5071442,
     "lng": -77.4853454
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 15:28",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 4",
-    "lat": 37.5482872,
-    "lng": -77.4226215
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 15:26",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "100-BLK N 5TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "DPR",
-    "lat": 37.5415055,
-    "lng": -77.4390503
   },
   {
     "type_general": "RPD",
@@ -261,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 15:44",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BELT/HULL STREET RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4792718,
-    "lng": -77.4606259
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 15:41",
     "box_no": "Precinct 1",
     "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
@@ -284,19 +232,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5295151,
     "lng": -77.4149076
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 15:51",
-    "box_no": "Precinct 1",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "1000-BLK MOSBY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mosby Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5427329,
-    "lng": -77.4194034
   },
   {
     "type_general": "RPD",
@@ -326,28 +261,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 15:25",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1200-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Deloak Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.498706,
-    "lng": -77.470527
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 15:53",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "0-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
     "lat": 37.5706604,
     "lng": -77.4801788
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 16:07",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "900-BLK N LOMBARDY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Lombardy Street",
+    "location_township": "FIRE",
+    "lat": 37.5563334,
+    "lng": -77.454402
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 16:11",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "500-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.558563,
+    "lng": -77.4727865
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 15:44",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "BELT/HULL STREET RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4792718,
+    "lng": -77.4606259
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 16:11",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "500-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "FIRE",
+    "lat": 37.558563,
+    "lng": -77.4727865
   }
 ]
