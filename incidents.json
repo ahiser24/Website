@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 13:43",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7700-BLK E PARHAM RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Parham Road, Henrico",
+    "location_township": "Precinct 4",
+    "lat": 37.6312963,
+    "lng": -77.5251363
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 18:19",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -40,55 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 22:56",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2600-BLK NINE MILE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5409841,
-    "lng": -77.4081043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 22:56",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2600-BLK NINE MILE RD",
+    "dispatch_time": "11/23/2025 23:11",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "900-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5409841,
-    "lng": -77.4081043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 23:02",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "5700-BLK ORCUTT LN",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4820786,
-    "lng": -77.4963262
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 23:02",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "5700-BLK ORCUTT LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4820786,
-    "lng": -77.4963262
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5504418,
+    "lng": -77.4493985
   },
   {
     "type_general": "RPD",
@@ -96,7 +70,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2100-BLK CEDAR ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 21st Street",
     "location_township": "Precinct 1",
@@ -131,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 23:11",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "900-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5504418,
-    "lng": -77.4493985
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 23:12",
     "box_no": "Precinct 4",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -167,6 +128,19 @@
     "location_township": "Precinct 4",
     "lat": 37.541603,
     "lng": -77.444485
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/23/2025 23:37",
+    "box_no": "FIRE",
+    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
+    "street": "800-BLK N 21ST ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "FIRE",
+    "lat": 37.5384118,
+    "lng": -77.419301
   },
   {
     "type_general": "RPD",
@@ -200,24 +174,11 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "500-BLK E CANAL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South 5th Street",
     "location_township": "Precinct 4",
     "lat": 37.538635,
     "lng": -77.441345
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/23/2025 23:37",
-    "box_no": "FIRE",
-    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
-    "street": "800-BLK N 21ST ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 21st Street",
-    "location_township": "FIRE",
-    "lat": 37.5384118,
-    "lng": -77.419301
   }
 ]
