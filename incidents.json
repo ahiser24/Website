@@ -79,41 +79,41 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/24/2025 03:37",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "N 29TH ST/TATE ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5443386,
+    "lng": -77.4009177
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 03:37",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "N 29TH ST/TATE ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5443386,
+    "lng": -77.4009177
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/24/2025 03:31",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "300-BLK W GRACE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Grace Street",
     "location_township": "Precinct 4",
     "lat": 37.5465274,
     "lng": -77.4453903
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 03:37",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "N 29TH ST/TATE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5443386,
-    "lng": -77.4009177
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 03:37",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "N 29TH ST/TATE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5443386,
-    "lng": -77.4009177
   }
 ]
