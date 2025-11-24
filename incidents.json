@@ -78,58 +78,6 @@
     "lng": -77.4801788
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 05:09",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1400-BLK N 26TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.54083,
-    "lng": -77.408699
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 05:09",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1400-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.54083,
-    "lng": -77.408699
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 05:13",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2500-BLK M ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "M Street",
-    "location_township": "Precinct 1",
-    "lat": 37.535101,
-    "lng": -77.41529
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 05:13",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2500-BLK M ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "M Street",
-    "location_township": "Precinct 1",
-    "lat": 37.535101,
-    "lng": -77.41529
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/24/2025 05:30",
     "box_no": "FIRE",
@@ -156,16 +104,55 @@
     "lng": -77.4441142
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/24/2025 05:36",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:45",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "NINE MILE RD/N 31ST ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5414918,
+    "lng": -77.4030854
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:50",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5035598,
-    "lng": -77.5157461
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:50",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:47",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2600-BLK GROVE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5543423,
+    "lng": -77.4720912
   }
 ]
