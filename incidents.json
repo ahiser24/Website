@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:42",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "4800-BLK HERMITAGE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5586945,
-    "lng": -77.4600341
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 00:03",
     "box_no": "Precinct 2",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5706604,
     "lng": -77.4801788
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 00:42",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "4800-BLK HERMITAGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5586945,
+    "lng": -77.4600341
   },
   {
     "type_general": "RFD",
@@ -154,5 +154,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5543423,
     "lng": -77.4720912
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:55",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2800-BLK COFER RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Cofer Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.494099,
+    "lng": -77.4511111
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:55",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2800-BLK COFER RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Cofer Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.494099,
+    "lng": -77.4511111
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:53",
+    "box_no": "Precinct 4",
+    "type_specific": "OVERDOSE/POISONING , ALS Not Alert",
+    "street": "2300-BLK LAMB AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Lamb Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5634022,
+    "lng": -77.4311727
   }
 ]
