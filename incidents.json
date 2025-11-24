@@ -105,41 +105,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 02:51",
+    "dispatch_time": "11/24/2025 03:30",
     "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "2900-BLK 3RD AVE",
-    "status": "Arrived",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "00-BLK W BROAD ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue, Northside",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5683155,
-    "lng": -77.41837
+    "lat": 37.5706604,
+    "lng": -77.4801788
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 02:50",
-    "box_no": "Precinct 2",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
-    "street": "1500-BLK OVERLOOK ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Overlook Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5002154,
-    "lng": -77.4412323
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/24/2025 03:12",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
-    "street": "1100-BLK GERMAN SCHOOL RD",
+    "dispatch_time": "11/24/2025 03:30",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "00-BLK W BROAD ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "FIRE",
-    "lat": 37.517118,
-    "lng": -77.513788
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5706604,
+    "lng": -77.4801788
   }
 ]
