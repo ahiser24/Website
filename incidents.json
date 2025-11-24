@@ -27,6 +27,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/24/2025 00:32",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "5600-BLK CHARLEVOIX CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Charlevoix Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4999424,
+    "lng": -77.5010213
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 23:44",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -37,32 +50,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5692515,
     "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:14",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "900-BLK MCDONOUGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "McDonough Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5255372,
-    "lng": -77.4449088
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:03",
-    "box_no": "Precinct 2",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "4800-BLK OLD WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Warwick Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4828765,
-    "lng": -77.4796861
   },
   {
     "type_general": "RPD",
@@ -79,42 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:32",
+    "dispatch_time": "11/24/2025 00:03",
     "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "5600-BLK CHARLEVOIX CT",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "4800-BLK OLD WARWICK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Charlevoix Court",
+    "nearest_intersection": "Old Warwick Road, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.4999424,
-    "lng": -77.5010213
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:37",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1600-BLK N 19TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 19th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5488354,
-    "lng": -77.4123329
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:44",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "600-BLK S 2ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 2nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5363511,
-    "lng": -77.4481027
+    "lat": 37.4828765,
+    "lng": -77.4796861
   },
   {
     "type_general": "RPD",
@@ -128,5 +89,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5586945,
     "lng": -77.4600341
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 01:19",
+    "box_no": "Precinct 3",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 01:15",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5602471,
+    "lng": -77.4431479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 00:52",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5546,
+    "lng": -77.418318
   }
 ]
