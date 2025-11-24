@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:32",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "5600-BLK CHARLEVOIX CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Charlevoix Court",
-    "location_township": "Precinct 2",
-    "lat": 37.4999424,
-    "lng": -77.5010213
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/23/2025 23:44",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/23/2025 22:55",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -79,6 +53,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/23/2025 23:44",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 00:42",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "4800-BLK HERMITAGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5586945,
+    "lng": -77.4600341
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/24/2025 01:24",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.495355,
     "lng": -77.4758563
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 00:42",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "4800-BLK HERMITAGE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5586945,
-    "lng": -77.4600341
   },
   {
     "type_general": "RPD",
@@ -141,5 +128,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4985789,
     "lng": -77.4377129
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 01:53",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "5600-BLK CHARLEVOIX CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Charlevoix Court",
+    "location_township": "Precinct 2",
+    "lat": 37.4999424,
+    "lng": -77.5010213
   }
 ]
