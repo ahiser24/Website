@@ -235,32 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:11",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK W 22ND ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West 22nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.521553,
-    "lng": -77.45565
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:11",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK W 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 22nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.521553,
-    "lng": -77.45565
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 14:07",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -271,19 +245,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5497209,
     "lng": -77.4021327
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:10",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "600-BLK BYSWICK LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Byswick Lane",
-    "location_township": "Precinct 3",
-    "lat": 37.5129058,
-    "lng": -77.4973704
   },
   {
     "type_general": "RPD",
@@ -378,32 +339,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:29",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1100-BLK MITCHELL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Mitchell Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5554065,
-    "lng": -77.4414963
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:29",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1100-BLK MITCHELL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mitchell Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5554065,
-    "lng": -77.4414963
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 14:07",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -417,16 +352,68 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 13:44",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1300-BLK GREENMOSS DR",
+    "dispatch_time": "11/24/2025 14:29",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "CEDAR ST/E MARSHALL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cedar Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5366518,
+    "lng": -77.4228041
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:10",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "600-BLK BYSWICK LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Greenmoss Drive",
+    "nearest_intersection": "Byswick Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5129058,
+    "lng": -77.4973704
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:34",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:34",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 13:48",
+    "box_no": "DPR",
+    "type_specific": "TRESPASSING , DPR/ADVICE",
+    "street": "5800-BLK WESTOWER DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
     "location_township": "DPR",
-    "lat": 37.519751,
-    "lng": -77.51884
+    "lat": 37.5238336,
+    "lng": -77.5039485
   },
   {
     "type_general": "RFD",
@@ -440,18 +427,5 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/24/2025 14:23",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "3500-BLK FENDALL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fendall Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5799059,
-    "lng": -77.4361874
   }
 ]
