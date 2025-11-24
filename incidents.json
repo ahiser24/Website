@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/24/2025 02:41",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/24/2025 04:31",
     "box_no": "Precinct 3",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
@@ -76,5 +89,44 @@
     "location_township": "FIRE",
     "lat": 37.5450741,
     "lng": -77.4489075
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 04:57",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1300-BLK N 35TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 35th Street",
+    "location_township": "FIRE",
+    "lat": 37.5334015,
+    "lng": -77.3991791
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:01",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1600-BLK WHITEHEAD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Whitehead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.485582,
+    "lng": -77.511093
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:01",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1600-BLK WHITEHEAD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Whitehead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.485582,
+    "lng": -77.511093
   }
 ]
