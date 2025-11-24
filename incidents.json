@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1400-BLK JOHNSTON WILLIS DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -70,7 +70,7 @@
     "box_no": "Precinct 2",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
     "street": "4800-BLK OLD WARWICK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Old Warwick Road, Southside",
     "location_township": "Precinct 2",
@@ -91,19 +91,6 @@
     "lng": -77.4758563
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/24/2025 01:47",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "900-BLK E 4TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 4th Street",
-    "location_township": "FIRE",
-    "lat": 37.5173725,
-    "lng": -77.4290583
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/24/2025 00:42",
     "box_no": "Precinct 4",
@@ -115,6 +102,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5586945,
     "lng": -77.4600341
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 01:42",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
+    "street": "0-BLK W HILL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Hill Street",
+    "location_township": "Precinct 4",
+    "lat": 37.55431,
+    "lng": -77.4361624
   },
   {
     "type_general": "RPD",
@@ -131,15 +131,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 01:42",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "0-BLK W HILL ST",
+    "dispatch_time": "11/24/2025 01:49",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1600-BLK MINEFEE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Hill Street",
-    "location_township": "Precinct 4",
-    "lat": 37.55431,
-    "lng": -77.4361624
+    "nearest_intersection": "Minefee Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4985789,
+    "lng": -77.4377129
   }
 ]
