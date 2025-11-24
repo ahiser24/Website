@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 03:31",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "300-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5465274,
-    "lng": -77.4453903
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 04:31",
     "box_no": "Precinct 3",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
@@ -76,5 +63,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5706604,
     "lng": -77.4801788
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 04:46",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "100-BLK S BELVIDERE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5450741,
+    "lng": -77.4489075
   }
 ]
