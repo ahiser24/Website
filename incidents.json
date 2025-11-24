@@ -131,41 +131,41 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/24/2025 05:12",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "2500-BLK BETHEL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bethel Street",
-    "location_township": "FIRE",
-    "lat": 37.556229,
-    "lng": -77.414467
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/24/2025 05:25",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "900-BLK N 37TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 37th Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.5304882,
-    "lng": -77.4030137
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/24/2025 05:30",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
     "street": "800-BLK W 31ST ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West 31st Street",
     "location_township": "FIRE",
     "lat": 37.5201723,
     "lng": -77.4676795
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 05:32",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "OVERBROOK RD/LANGSTON AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Overbrook Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.565677,
+    "lng": -77.4441142
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 05:36",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "6500-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5035598,
+    "lng": -77.5157461
   }
 ]
