@@ -33,10 +33,10 @@
     "street": "1300-BLK E MARSHALL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5396586,
-    "lng": -77.4286204
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -196,32 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 13:58",
-    "box_no": "Precinct 4",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5725597,
-    "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 13:58",
-    "box_no": "Precinct 4",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5725597,
-    "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 13:54",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -297,32 +271,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5205385,
     "lng": -77.510489
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:10",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:18",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "100-BLK BELT BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
   },
   {
     "type_general": "RPD",
@@ -404,16 +352,55 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 13:48",
+    "dispatch_time": "11/24/2025 14:37",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "STONY POINT RD/EVANSWAY LN RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stony Point Road",
+    "location_township": "Precinct 3",
+    "lat": 37.542537,
+    "lng": -77.5673036
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:29",
     "box_no": "DPR",
-    "type_specific": "TRESPASSING , DPR/ADVICE",
-    "street": "5800-BLK WESTOWER DR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2200-BLK E TREMONT CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westower Drive",
+    "nearest_intersection": "East Tremont Court",
     "location_township": "DPR",
-    "lat": 37.5238336,
-    "lng": -77.5039485
+    "lat": 37.5317987,
+    "lng": -77.5364099
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:18",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "100-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5071442,
+    "lng": -77.4853454
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:28",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "2100-BLK CEDAR ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53737,
+    "lng": -77.419345
   },
   {
     "type_general": "RFD",
@@ -427,5 +414,70 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:40",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "500-BLK W 21ST ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West 21st Street",
+    "location_township": "Precinct 4",
+    "lat": 37.521932,
+    "lng": -77.454684
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:40",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "500-BLK W 21ST ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 21st Street",
+    "location_township": "Precinct 4",
+    "lat": 37.521932,
+    "lng": -77.454684
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "BROOK RICH:EST LL(-77.4432,37.5521)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "BROOK RICH:EST LL(-77.4432,37.5521)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:41",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5301228,
+    "lng": -77.3889896
   }
 ]
