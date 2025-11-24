@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 08:35",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 09:10",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -182,6 +169,19 @@
     "lng": -77.4391577
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 08:35",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/24/2025 07:13",
     "box_no": "FIRE",
@@ -193,32 +193,6 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 09:33",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2800-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.527181,
-    "lng": -77.418761
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 09:17",
-    "box_no": "Precinct 3",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "W 46TH ST/BASSETT AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 46th Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5175812,
-    "lng": -77.4854338
   },
   {
     "type_general": "RPD",
@@ -234,29 +208,55 @@
     "lng": -77.4412236
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/24/2025 09:58",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1400-BLK MELTON AVE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 10:09",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Melton Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5347209,
-    "lng": -77.4012441
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 09:50",
+    "dispatch_time": "11/24/2025 10:09",
     "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "500-BLK LIBBIE AVE",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Libbie Avenue, West End",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
-    "lat": 37.5761031,
-    "lng": -77.5179129
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 10:17",
+    "box_no": "FIRE",
+    "type_specific": "# CHEMICAL MATERIALS , FUEL SPILL (SMALL)",
+    "street": "300-BLK LEXINGTON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Lexington Road, West End",
+    "location_township": "FIRE",
+    "lat": 37.568966,
+    "lng": -77.506506
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 10:13",
+    "box_no": "Precinct 2",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "3400-BLK WALMSLEY BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Angus Road",
+    "location_township": "Precinct 2",
+    "lat": 37.464799,
+    "lng": -77.460475
   }
 ]
