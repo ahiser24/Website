@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 04:31",
-    "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "W BROAD ST/STAPLES MILL RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5706604,
-    "lng": -77.4801788
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 00:03",
     "box_no": "Precinct 2",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/24/2025 04:31",
+    "box_no": "Precinct 3",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "W BROAD ST/STAPLES MILL RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5706604,
+    "lng": -77.4801788
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/24/2025 05:09",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -128,32 +128,6 @@
     "location_township": "Precinct 1",
     "lat": 37.535101,
     "lng": -77.41529
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 05:01",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1600-BLK WHITEHEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Whitehead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.485582,
-    "lng": -77.511093
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 05:01",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1600-BLK WHITEHEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Whitehead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.485582,
-    "lng": -77.511093
   },
   {
     "type_general": "RFD",
@@ -161,11 +135,37 @@
     "box_no": "FIRE",
     "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
     "street": "2500-BLK BETHEL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bethel Street",
     "location_township": "FIRE",
     "lat": 37.556229,
     "lng": -77.414467
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 05:25",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "900-BLK N 37TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 37th Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.5304882,
+    "lng": -77.4030137
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/24/2025 05:30",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "800-BLK W 31ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 31st Street",
+    "location_township": "FIRE",
+    "lat": 37.5201723,
+    "lng": -77.4676795
   }
 ]
