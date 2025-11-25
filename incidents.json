@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 03:34",
-    "box_no": "DPR",
-    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
-    "street": "900-BLK SLEDD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "DPR",
-    "lat": 37.557176,
-    "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 04:16",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -78,29 +65,29 @@
     "lng": -77.470918
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 04:50",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "W 10TH ST/MCDONOUGH ST RICH",
-    "status": "Dispatched",
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 05:15",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "400-BLK OLD CARNATION ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West 10th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5234681,
-    "lng": -77.4439561
+    "nearest_intersection": "Old Carnation Street",
+    "location_township": "FIRE",
+    "lat": 37.4990143,
+    "lng": -77.5163025
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 04:50",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "W 10TH ST/MCDONOUGH ST RICH",
-    "status": "Arrived",
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 05:16",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "3900-BLK W BROAD ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West 10th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5234681,
-    "lng": -77.4439561
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5722247,
+    "lng": -77.4796483
   }
 ]
