@@ -18,7 +18,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -27,24 +27,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 20:11",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , CITY PROPERTY",
-    "street": "6800-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.538209,
-    "lng": -77.520181
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 22:43",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "1100-BLK W MAIN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Main Street",
     "location_township": "Precinct 3",
@@ -115,5 +102,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5556224,
     "lng": -77.451142
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 03:09",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1300-BLK HOPKINS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hopkins Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.499485,
+    "lng": -77.458519
   }
 ]
