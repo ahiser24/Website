@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "11/18/2025 11:11",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "5200-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "DPR",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/23/2025 18:19",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -50,19 +63,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5378286,
     "lng": -77.5260018
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 12:10",
-    "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "1800-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
   },
   {
     "type_general": "RPD",
@@ -118,16 +118,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 15:12",
+    "dispatch_time": "11/25/2025 15:15",
     "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1100-BLK N 2ND ST",
-    "status": "Arrived",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "2900-BLK W BROAD ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 2nd Street",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5520175,
-    "lng": -77.4334273
+    "lat": 37.563653,
+    "lng": -77.4715221
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 15:54",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "5200-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
   },
   {
     "type_general": "RPD",
@@ -170,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 15:15",
-    "box_no": "Precinct 4",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "2900-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.563653,
-    "lng": -77.4715221
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 15:32",
     "box_no": "Precinct 3",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -208,45 +208,6 @@
     "lng": -77.4312269
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/25/2025 15:41",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "N 9TH ST/E MARSHALL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 9th Street",
-    "location_township": "FIRE",
-    "lat": 37.5436134,
-    "lng": -77.4312269
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 15:47",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "W 48TH ST/WESTOVER HILLS BLVD RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West 48th Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5194106,
-    "lng": -77.487569
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 15:47",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "W 48TH ST/WESTOVER HILLS BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 48th Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5194106,
-    "lng": -77.487569
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/25/2025 15:46",
     "box_no": "Precinct 2",
@@ -258,5 +219,57 @@
     "location_township": "Precinct 2",
     "lat": 37.4794055,
     "lng": -77.5126339
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 15:55",
+    "box_no": "Precinct 4",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "2200-BLK 4TH AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5614963,
+    "lng": -77.4220987
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 15:55",
+    "box_no": "Precinct 4",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "2200-BLK 4TH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5614963,
+    "lng": -77.4220987
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 15:52",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "600-BLK E GLADSTONE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Gladstone Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5751861,
+    "lng": -77.4241089
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 15:38",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "4000-BLK FOREST HILL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.51637,
+    "lng": -77.47431
   }
 ]
