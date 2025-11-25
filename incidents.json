@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 22:15",
-    "box_no": "Precinct 4",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "1100-BLK N 2ND ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 2nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5520175,
-    "lng": -77.4334273
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 22:43",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -102,32 +89,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5460193,
     "lng": -77.4554581
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 23:39",
-    "box_no": "Precinct 4",
-    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
-    "street": "1600-BLK MONTEIRO ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Monteiro Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.556582,
-    "lng": -77.430535
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 23:59",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
   },
   {
     "type_general": "RPD",
@@ -144,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 00:25",
-    "box_no": "Precinct 3",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "400-BLK GREEN ACRES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Green Acres Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5023832,
-    "lng": -77.4903142
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 00:17",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
@@ -170,6 +118,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/25/2025 00:25",
+    "box_no": "Precinct 3",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "400-BLK GREEN ACRES AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Green Acres Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5023832,
+    "lng": -77.4903142
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/25/2025 00:37",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -180,5 +141,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5036311,
     "lng": -77.5151182
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 00:47",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "4000-BLK MACARTHUR AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nottoway Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.588312,
+    "lng": -77.458284
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 00:40",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "2300-BLK SELDEN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Selden Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549784,
+    "lng": -77.4058634
   }
 ]
