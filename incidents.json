@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 02:28",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "0-BLK W LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5556224,
-    "lng": -77.451142
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 03:34",
     "box_no": "DPR",
     "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
@@ -66,29 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 04:04",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "4900-BLK OLD BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5998898,
-    "lng": -77.4490619
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 04:12",
+    "dispatch_time": "11/25/2025 04:16",
     "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "1200-BLK W 45TH ST",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West 45th Street",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
-    "lat": 37.5185222,
-    "lng": -77.4841599
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -102,5 +76,18 @@
     "location_township": "Precinct 2",
     "lat": 37.5118161,
     "lng": -77.470918
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 04:33",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "2500-BLK Q ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Q Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.538495,
+    "lng": -77.4120703
   }
 ]
