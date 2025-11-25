@@ -76,5 +76,44 @@
     "location_township": "Precinct 2",
     "lat": 37.5118161,
     "lng": -77.470918
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 04:50",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "W 10TH ST/MCDONOUGH ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West 10th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5234681,
+    "lng": -77.4439561
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 04:50",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "W 10TH ST/MCDONOUGH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 10th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5234681,
+    "lng": -77.4439561
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 04:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "200-BLK PEMBER LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Pember Lane",
+    "location_township": "FIRE",
+    "lat": 37.5032346,
+    "lng": -77.4952987
   }
 ]
