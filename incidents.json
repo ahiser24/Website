@@ -44,7 +44,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "MCDONOUGH ST/W 11TH ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "McDonough Street",
     "location_township": "Precinct 1",
@@ -63,18 +63,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4952595,
     "lng": -77.4785319
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/25/2025 06:34",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "300-BLK N LOMBARDY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "FIRE",
-    "lat": 37.5510286,
-    "lng": -77.4592437
   }
 ]
