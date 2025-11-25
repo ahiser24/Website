@@ -31,7 +31,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
     "street": "3700-BLK CRESTVIEW RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Crestview Road",
     "location_township": "Precinct 1",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4923295,
     "lng": -77.481047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 19:01",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "00-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.568967,
-    "lng": -77.4167096
   },
   {
     "type_general": "RPD",
@@ -157,16 +144,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 22:42",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "800-BLK RICHMOND HWY",
+    "dispatch_time": "11/24/2025 23:05",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "500-BLK E 9TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.508793,
-    "lng": -77.4480183
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.517968,
+    "lng": -77.437781
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 23:06",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3100-BLK W CARY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5530934,
+    "lng": -77.4801689
   },
   {
     "type_general": "RPD",
@@ -174,24 +174,11 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "1100-BLK W MAIN ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Main Street",
     "location_township": "Precinct 3",
     "lat": 37.5460193,
     "lng": -77.4554581
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 22:40",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "5600-BLK PETOSKEY AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Petoskey Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4988816,
-    "lng": -77.5008037
   }
 ]
