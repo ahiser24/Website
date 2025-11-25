@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "MONTROSE AVE/NORTH AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Montrose Avenue, Northside",
     "location_township": "Precinct 4",
@@ -63,5 +63,18 @@
     "location_township": "FIRE",
     "lat": 37.5663539,
     "lng": -77.4391334
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 06:34",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "300-BLK N LOMBARDY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Lombardy Street",
+    "location_township": "FIRE",
+    "lat": 37.5510286,
+    "lng": -77.4592437
   }
 ]
