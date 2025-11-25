@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1400-BLK JOHNSTON WILLIS DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -63,18 +63,5 @@
     "location_township": "FIRE",
     "lat": 37.5722247,
     "lng": -77.4796483
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/25/2025 05:48",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , WIRES ARCING",
-    "street": "0-BLK E 36TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "36th Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.532119,
-    "lng": -77.3955995
   }
 ]
