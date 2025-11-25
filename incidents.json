@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 12:12",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "2500-BLK Q ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Q Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.538495,
-    "lng": -77.4120703
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 12:10",
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
@@ -206,19 +193,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5553993,
     "lng": -77.4866491
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 12:19",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "3000-BLK MONTECREST AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Montecrest Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4813928,
-    "lng": -77.4524387
   },
   {
     "type_general": "RPD",
@@ -313,42 +287,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 12:26",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1800-BLK W CARY ST",
+    "dispatch_time": "11/25/2025 12:12",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2500-BLK Q ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Allen Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.547341,
-    "lng": -77.464112
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 12:47",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , NON-EMERGENCY",
-    "street": "2400-BLK W TREMONT CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Tremont Court",
-    "location_township": "Precinct 3",
-    "lat": 37.5337733,
-    "lng": -77.5372064
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 12:37",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
+    "nearest_intersection": "Q Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.538495,
+    "lng": -77.4120703
   },
   {
     "type_general": "RPD",
@@ -364,16 +312,55 @@
     "lng": -77.4445175
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/25/2025 12:47",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
-    "street": "2400-BLK W TREMONT CT",
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 12:19",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "3000-BLK MONTECREST AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Montecrest Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4813928,
+    "lng": -77.4524387
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 12:19",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "3000-BLK MONTECREST AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Montecrest Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4813928,
+    "lng": -77.4524387
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 12:37",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "6600-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Tremont Court",
-    "location_township": "FIRE",
-    "lat": 37.5337733,
-    "lng": -77.5372064
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5030935,
+    "lng": -77.5178344
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 12:49",
+    "box_no": "Precinct 3",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "2300-BLK IDLEWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5473324,
+    "lng": -77.4715415
   }
 ]
