@@ -102,18 +102,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5234681,
     "lng": -77.4439561
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/25/2025 04:49",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "200-BLK PEMBER LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Pember Lane",
-    "location_township": "FIRE",
-    "lat": 37.5032346,
-    "lng": -77.4952987
   }
 ]
