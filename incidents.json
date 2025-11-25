@@ -118,29 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 00:42",
+    "dispatch_time": "11/25/2025 01:02",
     "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1700-BLK WINDER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Winder Street",
-    "location_township": "Precinct 3",
-    "lat": 37.539719,
-    "lng": -77.466079
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 00:58",
-    "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK AFTON AVE",
-    "status": "Arrived",
+    "street": "5400-BLK NUTMEG CT",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Afton Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4923187,
-    "lng": -77.4405374
+    "nearest_intersection": "Nutmeg Court",
+    "location_township": "Precinct 3",
+    "lat": 37.510316,
+    "lng": -77.499085
   },
   {
     "type_general": "RPD",
@@ -167,18 +154,5 @@
     "location_township": "Precinct 2",
     "lat": 37.50748,
     "lng": -77.485979
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 01:02",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5400-BLK NUTMEG CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nutmeg Court",
-    "location_township": "Precinct 3",
-    "lat": 37.510316,
-    "lng": -77.499085
   }
 ]
