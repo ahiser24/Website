@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 02:08",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2500-BLK Q ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Q Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.538495,
-    "lng": -77.4120703
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 04:20",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -53,15 +40,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/25/2025 05:16",
+    "dispatch_time": "11/25/2025 06:05",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "3900-BLK W BROAD ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "1700-BLK HALIFAX AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "Halifax Avenue",
     "location_township": "FIRE",
-    "lat": 37.5722247,
-    "lng": -77.4796483
+    "lat": 37.5090095,
+    "lng": -77.4392326
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 06:12",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "400-BLK WESTHAMPTON WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westhampton Way",
+    "location_township": "FIRE",
+    "lat": 37.574707,
+    "lng": -77.54174
   }
 ]
