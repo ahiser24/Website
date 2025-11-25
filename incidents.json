@@ -57,7 +57,7 @@
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
     "street": "P ST/N 22ND ST RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "P Street, East End",
     "location_township": "Precinct 1",
@@ -115,44 +115,5 @@
     "location_township": "Precinct 4",
     "lat": 37.5556224,
     "lng": -77.451142
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 02:42",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 02:49",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1400-BLK N 26TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.54083,
-    "lng": -77.408699
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 02:49",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1400-BLK N 26TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 26th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.54083,
-    "lng": -77.408699
   }
 ]
