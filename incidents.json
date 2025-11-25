@@ -109,7 +109,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
     "street": "2200-BLK DEFORREST ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Deforrest Street",
     "location_township": "Precinct 1",
@@ -144,28 +144,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 00:47",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "4000-BLK MACARTHUR AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nottoway Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.588312,
-    "lng": -77.458284
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 00:40",
     "box_no": "Precinct 1",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
     "street": "2300-BLK SELDEN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Selden Street",
     "location_township": "Precinct 1",
     "lat": 37.549784,
     "lng": -77.4058634
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 00:49",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3000-BLK NINE MILE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.542062,
+    "lng": -77.399754
   }
 ]
