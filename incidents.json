@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 22:29",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "900-BLK W BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5724275,
-    "lng": -77.4487587
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 22:43",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -131,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 23:26",
-    "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 23:26",
-    "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 23:33",
     "box_no": "Precinct 4",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
@@ -180,19 +141,6 @@
     "location_township": "Precinct 4",
     "lat": 37.546364,
     "lng": -77.442794
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/24/2025 23:37",
-    "box_no": "Precinct 1",
-    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "BOWLING GREEN RD/OLIVER HILL WAY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bowling Green Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5513768,
-    "lng": -77.4224763
   },
   {
     "type_general": "RPD",
@@ -219,5 +167,44 @@
     "location_township": "Precinct 4",
     "lat": 37.556582,
     "lng": -77.430535
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 23:51",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 23:51",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/24/2025 23:37",
+    "box_no": "Precinct 1",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "BOWLING GREEN RD/OLIVER HILL WAY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bowling Green Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5513768,
+    "lng": -77.4224763
   }
 ]
