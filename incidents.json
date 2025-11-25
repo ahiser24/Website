@@ -144,15 +144,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 01:12",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "100-BLK BRANDON RD",
-    "status": "Enroute",
+    "dispatch_time": "11/25/2025 01:55",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Brandon Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.50748,
-    "lng": -77.485979
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54083,
+    "lng": -77.408699
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 01:55",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54083,
+    "lng": -77.408699
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 02:00",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "3000-BLK MOSS SIDE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Moss Side Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5720367,
+    "lng": -77.4412979
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 02:00",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "3000-BLK MOSS SIDE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Moss Side Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5720367,
+    "lng": -77.4412979
   }
 ]
