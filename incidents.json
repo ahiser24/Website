@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 04:16",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 04:20",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -76,5 +63,18 @@
     "location_township": "FIRE",
     "lat": 37.5722247,
     "lng": -77.4796483
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 05:48",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , WIRES ARCING",
+    "street": "0-BLK E 36TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "36th Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.532119,
+    "lng": -77.3955995
   }
 ]
