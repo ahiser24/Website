@@ -33,10 +33,10 @@
     "street": "2200-BLK DEFORREST ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Deforrest Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.555395,
-    "lng": -77.414939
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -79,29 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 10:06",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "800-BLK N 21ST ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 21st Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5384118,
-    "lng": -77.419301
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 10:10",
     "box_no": "Precinct 3",
     "type_specific": "RECKLESS DRIVING , INVESTIGATE",
     "street": "7100-BLK FOREST HILL AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5378286,
-    "lng": -77.5260018
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -111,10 +98,10 @@
     "street": "1200-BLK E MARSHALL ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5404297,
-    "lng": -77.4303132
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -150,10 +137,10 @@
     "street": "700-BLK STOCKTON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stockton Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5214521,
-    "lng": -77.4386556
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -180,19 +167,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5422953,
     "lng": -77.4296796
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 11:23",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "OLIVER HILL WAY/E MARSHALL ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Oliver Hill Way",
-    "location_township": "Precinct 1",
-    "lat": 37.5501278,
-    "lng": -77.4239328
   },
   {
     "type_general": "RPD",
@@ -209,42 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 11:36",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "00-BLK W FELLS ST",
+    "dispatch_time": "11/25/2025 11:57",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "500-BLK HULL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 11:50",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 12:00",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
+    "nearest_intersection": "Hull Street",
+    "location_township": "DPR",
+    "lat": 37.5240062,
+    "lng": -77.4383862
   },
   {
     "type_general": "RPD",
@@ -260,42 +208,94 @@
     "lng": -77.4565646
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/25/2025 11:59",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "3400-BLK MAURY ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 11:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "FIRE",
-    "lat": 37.5030567,
-    "lng": -77.4626598
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 10:41",
+    "dispatch_time": "11/25/2025 11:23",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "OLIVER HILL WAY/E MARSHALL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Oliver Hill Way",
+    "location_township": "Precinct 1",
+    "lat": 37.5501278,
+    "lng": -77.4239328
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 12:12",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1100-BLK DECATUR ST",
-    "status": "Arrived",
+    "street": "2500-BLK Q ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Decatur Street",
+    "nearest_intersection": "Q Street, East End",
     "location_township": "Precinct 1",
-    "lat": 37.520471,
-    "lng": -77.442472
+    "lat": 37.538495,
+    "lng": -77.4120703
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 11:57",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "500-BLK HULL ST",
+    "dispatch_time": "11/25/2025 12:10",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "DPR",
-    "lat": 37.5240062,
-    "lng": -77.4383862
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5466404,
+    "lng": -77.4092602
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/25/2025 12:19",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2600-BLK E WEYBURN RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Weyburn Road",
+    "location_township": "FIRE",
+    "lat": 37.544721,
+    "lng": -77.5448822
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 11:39",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2900-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5649909,
+    "lng": -77.4697197
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 12:00",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53551,
+    "lng": -77.431692
   }
 ]
