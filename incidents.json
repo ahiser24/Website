@@ -143,19 +143,6 @@
     "lng": -77.4147445
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/25/2025 14:00",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @I195 NB BETWEEN W LABURNUM AVE & CITY LIMITS",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Capitol Square",
-    "location_township": "FIRE",
-    "lat": 37.5385087,
-    "lng": -77.43428
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/25/2025 13:58",
     "box_no": "Precinct 4",
@@ -234,45 +221,6 @@
     "lng": -77.422946
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/25/2025 14:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "3600-BLK E BROAD ROCK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "FIRE",
-    "lat": 37.5025962,
-    "lng": -77.4660676
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 14:30",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "6300-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5046527,
-    "lng": -77.5119423
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 14:25",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "300-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5525386,
-    "lng": -77.4393965
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/25/2025 14:28",
     "box_no": "DPR",
@@ -287,19 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 14:14",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "200-BLK S ARTHUR ASHE BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Downtown Expressway",
-    "location_township": "Precinct 3",
-    "lat": 37.5488772,
-    "lng": -77.4777879
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 14:28",
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
@@ -310,5 +245,83 @@
     "location_township": "DPR",
     "lat": 37.535933,
     "lng": -77.568926
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 14:15",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1000-BLK ST JAMES ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint James Street",
+    "location_township": "Precinct 4",
+    "lat": 37.551762,
+    "lng": -77.436219
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 14:29",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "500-BLK W BACON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5563785,
+    "lng": -77.4391955
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 14:45",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "LL(-77:26:37.5361,37:32:36.4127): EST 59 N FOUSHEE ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Foushee Street",
+    "location_township": "Precinct 4",
+    "lng": -77.44376002777778,
+    "lat": 37.54344797222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 14:45",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "LL(-77:26:37.5361,37:32:36.4127): EST 59 N FOUSHEE ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Foushee Street",
+    "location_township": "Precinct 4",
+    "lng": -77.44376002777778,
+    "lat": 37.54344797222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 14:30",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "6300-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5046527,
+    "lng": -77.5119423
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/25/2025 14:24",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "300-BLK W ROANOKE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Roanoke Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5137506,
+    "lng": -77.4761962
   }
 ]
