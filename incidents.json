@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -65,6 +65,19 @@
     "lng": -77.4534865
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 03:33",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "1700-BLK E MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5370165,
+    "lng": -77.4247541
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/26/2025 03:18",
     "box_no": "FIRE",
@@ -76,5 +89,18 @@
     "location_township": "FIRE",
     "lat": 37.5455809,
     "lng": -77.4314299
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 03:47",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "400-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.504277,
+    "lng": -77.4768127
   }
 ]
