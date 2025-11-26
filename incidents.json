@@ -91,19 +91,6 @@
     "lng": -77.5085263
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/26/2025 04:45",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "2100-BLK FAIRFIELD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "FIRE",
-    "lat": 37.548153,
-    "lng": -77.409036
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/26/2025 04:39",
     "box_no": "Precinct 4",
@@ -128,5 +115,57 @@
     "location_township": "Precinct 1",
     "lat": 37.548153,
     "lng": -77.409036
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 04:45",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "2100-BLK FAIRFIELD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.548153,
+    "lng": -77.409036
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/26/2025 05:04",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2200-BLK SUMMER HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Summer Hill Avenue",
+    "location_township": "FIRE",
+    "lat": 37.4809325,
+    "lng": -77.4392742
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 05:01",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1400-BLK SUNBURY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sunbury Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.495215,
+    "lng": -77.475447
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 05:01",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1400-BLK SUNBURY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sunbury Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.495215,
+    "lng": -77.475447
   }
 ]
