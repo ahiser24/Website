@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 23:48",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "1700-BLK GROSS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Gross Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4941401,
-    "lng": -77.461401
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 02:33",
     "box_no": "Precinct 4",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
@@ -37,19 +24,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5461226,
     "lng": -77.4316081
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 02:58",
-    "box_no": "Precinct 3",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "4700-BLK BUTTE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Butte Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5586115,
-    "lng": -77.5478034
   },
   {
     "type_general": "RPD",
@@ -66,15 +40,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 03:08",
-    "box_no": "Precinct 3",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "5200-BLK DORCHESTER RD",
+    "dispatch_time": "11/26/2025 03:27",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1400-BLK W MARSHALL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5542325,
+    "lng": -77.4534865
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/26/2025 03:18",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "700-BLK E JACKSON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Dorchester Road",
-    "location_township": "Precinct 3",
-    "lat": 37.525028,
-    "lng": -77.4951996
+    "nearest_intersection": "East Jackson Street",
+    "location_township": "FIRE",
+    "lat": 37.5455809,
+    "lng": -77.4314299
   }
 ]
