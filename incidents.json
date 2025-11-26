@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/23/2025 18:19",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1400-BLK JOHNSTON WILLIS DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/24/2025 02:47",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -40,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 01:20",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "2000-BLK CREIGHTON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Creighton Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5439656,
-    "lng": -77.3997454
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 01:41",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -63,19 +37,6 @@
     "location_township": "Precinct 1",
     "lat": 37.555212,
     "lng": -77.418447
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 01:50",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2000-BLK E GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5334414,
-    "lng": -77.4236892
   },
   {
     "type_general": "RPD",
@@ -96,7 +57,7 @@
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "E 34TH ST/LAWSON ST RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East 34th Street, Southside",
     "location_township": "Precinct 2",
@@ -105,41 +66,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 02:04",
+    "dispatch_time": "11/26/2025 02:33",
     "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "1300-BLK VALLEY RD",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "OLIVER HILL WAY/FAIRFIELD WAY RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Valley Road",
+    "nearest_intersection": "Oliver Hill Way",
     "location_township": "Precinct 4",
-    "lat": 37.5551347,
-    "lng": -77.4293164
+    "lat": 37.5501278,
+    "lng": -77.4239328
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 02:10",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3200-BLK COASTAL BLVD",
-    "status": "Arrived",
+    "dispatch_time": "11/26/2025 02:34",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Coastal Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.487114,
-    "lng": -77.460687
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 02:11",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , DPR Call - Advice Only",
-    "street": "600-BLK N 30TH ST",
+    "dispatch_time": "11/26/2025 02:34",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "400-BLK WESTOVER HILLS BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5317062,
-    "lng": -77.4118517
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
   }
 ]
