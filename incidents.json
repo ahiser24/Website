@@ -91,19 +91,6 @@
     "lng": -77.5085263
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/26/2025 04:36",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3700-BLK ANGELA DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Angela Drive, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4898412,
-    "lng": -77.4664616
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/26/2025 04:35",
     "box_no": "Precinct 4",
@@ -117,16 +104,42 @@
     "lng": null
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/26/2025 04:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "2100-BLK FAIRFIELD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "FIRE",
+    "lat": 37.548153,
+    "lng": -77.409036
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/26/2025 04:39",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "500-BLK W BACON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Bacon Street",
     "location_township": "Precinct 4",
     "lat": 37.5563785,
     "lng": -77.4391955
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 04:45",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "2100-BLK FAIRFIELD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.548153,
+    "lng": -77.409036
   }
 ]
