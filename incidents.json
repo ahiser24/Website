@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1400-BLK JOHNSTON WILLIS DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 00:07",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2000-BLK VENABLE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Venable Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.538394,
-    "lng": -77.420279
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 00:17",
     "box_no": "Precinct 1",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -182,19 +169,6 @@
     "lng": -77.5157461
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/26/2025 00:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "7200-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "FIRE",
-    "lat": 37.537455,
-    "lng": -77.530122
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/26/2025 00:18",
     "box_no": "Precinct 2",
@@ -206,19 +180,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5052382,
     "lng": -77.4476466
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 00:07",
-    "box_no": "Precinct 3",
-    "type_specific": "CAR JACKING , JUST OCCURRED / IN-PROGESS",
-    "street": "MIDLOTHIAN TPKE/OAK GLEN ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5070429,
-    "lng": -77.4949501
   },
   {
     "type_general": "RPD",
