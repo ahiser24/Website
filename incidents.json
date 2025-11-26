@@ -9,8 +9,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5396586,
-    "lng": -77.4286204
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -22,8 +22,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5400835,
+    "lng": -77.4068808
   },
   {
     "type_general": "RPD",
@@ -35,8 +35,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.556334,
+    "lng": -77.425946
   },
   {
     "type_general": "RPD",
@@ -72,10 +72,10 @@
     "street": "MIDLOTHIAN TPKE/CARNATION ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5063821,
-    "lng": -77.4979375
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -87,8 +87,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -98,10 +98,10 @@
     "street": "3400-BLK LOGANDALE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Logandale Avenue, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.5033179,
-    "lng": -77.4637045
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -111,10 +111,10 @@
     "street": "E 37TH ST/HULL ST RICH",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East 37th Street, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.5073351,
-    "lng": -77.4719781
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -139,8 +139,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5541317,
-    "lng": -77.4873713
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -150,7 +150,7 @@
     "street": "2000-BLK VENABLE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Venable Street, East End",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.538394,
     "lng": -77.420279
@@ -189,23 +189,10 @@
     "street": "5300-BLK HULL STREET RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 14:16",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "CARNATION ST/MIDLOTHIAN TPKE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Carnation Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5028688,
-    "lng": -77.5172407
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -217,8 +204,73 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
+    "lat": 37.54812,
+    "lng": -77.402046
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:16",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "CARNATION ST/MIDLOTHIAN TPKE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:25",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3000-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:28",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1700-BLK HANOVER AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:31",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK COWARDIN AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:31",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK COWARDIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": 37.5204201,
+    "lng": -77.4500564
   },
   {
     "type_general": "RPD",
@@ -228,9 +280,22 @@
     "street": "1800-BLK E GRACE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Grace Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.534629,
-    "lng": -77.425788
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/26/2025 14:33",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "3100-BLK PORTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
