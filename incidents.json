@@ -91,19 +91,6 @@
     "lng": -77.5085263
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 04:35",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @EXIT 3 -  I195 SB (N HAMILTON ST)",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/26/2025 04:45",
     "box_no": "FIRE",
@@ -135,7 +122,7 @@
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , EMS RESPONSE",
     "street": "2100-BLK FAIRFIELD AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairfield Avenue",
     "location_township": "Precinct 1",
