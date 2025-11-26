@@ -27,29 +27,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 02:58",
+    "dispatch_time": "11/26/2025 05:50",
     "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "100-BLK W FRANKLIN ST",
-    "status": "Arrived",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "900-BLK W FRANKLIN ST",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "West Franklin Street",
     "location_township": "Precinct 4",
-    "lat": 37.544751,
-    "lng": -77.4444328
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 03:25",
-    "box_no": "DPR",
-    "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
-    "street": "1300-BLK GERMAN SCHOOL RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "DPR",
-    "lat": 37.5235351,
-    "lng": -77.5184305
+    "lat": 37.5493204,
+    "lng": -77.4522596
   },
   {
     "type_general": "RPD",
@@ -78,17 +65,30 @@
     "lng": -77.4479214
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/26/2025 05:55",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "2000-BLK BROOK RD",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 06:20",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "600-BLK N 30TH ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Bath Street, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5608096,
-    "lng": -77.4479214
+    "nearest_intersection": "North 30th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5317062,
+    "lng": -77.4118517
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 06:20",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "600-BLK N 30TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 30th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5317062,
+    "lng": -77.4118517
   },
   {
     "type_general": "RFD",
