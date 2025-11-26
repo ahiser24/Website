@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 10:45",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "1600-BLK 4TH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.556334,
-    "lng": -77.425946
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 12:34",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4794055,
     "lng": -77.5126339
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 14:07",
-    "box_no": "Precinct 2",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "4700-BLK COOKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cooks Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4884559,
-    "lng": -77.4774469
   },
   {
     "type_general": "RPD",
@@ -92,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:17",
+    "box_no": "Precinct 4",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "4500-BLK NEWPORT DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Newport Drive",
+    "location_township": "Precinct 4",
+    "lat": 37.5937967,
+    "lng": -77.4573745
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/26/2025 14:28",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -115,32 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5038637,
     "lng": -77.4650326
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 14:17",
-    "box_no": "Precinct 4",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "4500-BLK NEWPORT DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Newport Drive",
-    "location_township": "Precinct 4",
-    "lat": 37.5937967,
-    "lng": -77.4573745
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 14:54",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "200-BLK HOSPITAL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hospital Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5533597,
-    "lng": -77.4314478
   },
   {
     "type_general": "RPD",
@@ -235,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 14:36",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3500-BLK ELLWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Ellwood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.556473,
-    "lng": -77.486031
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 14:50",
     "box_no": "Precinct 4",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -258,6 +206,58 @@
     "location_township": "Precinct 4",
     "lat": 37.5724275,
     "lng": -77.4487587
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 15:20",
+    "box_no": "Precinct 2",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4961097,
+    "lng": -77.4759645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 15:25",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "GERMAN SCHOOL RD/JAHNKE RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5235351,
+    "lng": -77.5184305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:36",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "3500-BLK ELLWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ellwood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.556473,
+    "lng": -77.486031
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 15:19",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "WAXFORD RD/N HUGUENOT RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Waxford Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5483661,
+    "lng": -77.5549578
   },
   {
     "type_general": "RFD",
@@ -312,12 +312,64 @@
     "lng": -77.4175446
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 15:29",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "100-BLK W 4TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West 4th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.525895,
+    "lng": -77.438741
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 15:29",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "100-BLK W 4TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 4th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.525895,
+    "lng": -77.438741
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 15:31",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1000-BLK N 25TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5378656,
+    "lng": -77.413033
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 15:31",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1000-BLK N 25TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5378656,
+    "lng": -77.413033
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/26/2025 15:25",
     "box_no": "FIRE",
     "type_specific": "CRASH , HAZARD CONTROL",
     "street": "GERMAN SCHOOL RD/JAHNKE RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "German School Road",
     "location_township": "FIRE",
@@ -326,28 +378,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 15:20",
-    "box_no": "Precinct 2",
-    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 15:25",
+    "dispatch_time": "11/26/2025 15:31",
     "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "GERMAN SCHOOL RD/JAHNKE RD RICH",
-    "status": "Enroute",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2900-BLK FLOYD AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "German School Road",
+    "nearest_intersection": "Floyd Avenue",
     "location_township": "Precinct 3",
-    "lat": 37.5235351,
-    "lng": -77.5184305
+    "lat": 37.554417,
+    "lng": -77.476441
   }
 ]
