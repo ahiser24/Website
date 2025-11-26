@@ -31,7 +31,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "600-BLK N 30TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 30th Street, East End",
     "location_township": "Precinct 1",
@@ -66,15 +66,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/26/2025 06:06",
+    "dispatch_time": "11/26/2025 06:46",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "3300-BLK 5TH AVE",
-    "status": "Arrived",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2600-BLK FENDALL AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "5th Avenue",
+    "nearest_intersection": "Fendall Avenue, Northside",
     "location_township": "FIRE",
-    "lat": 37.5698457,
-    "lng": -77.4109385
+    "lat": 37.566333,
+    "lng": -77.436826
   }
 ]
