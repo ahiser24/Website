@@ -7,10 +7,10 @@
     "street": "1300-BLK E MARSHALL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5396586,
-    "lng": -77.4286204
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -20,10 +20,10 @@
     "street": "1500-BLK N 28TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 28th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -31,25 +31,12 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
     "street": "1600-BLK 4TH AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "4th Avenue, Northside",
     "location_township": "Precinct 4",
     "lat": 37.556334,
     "lng": -77.425946
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 11:10",
-    "box_no": "Precinct 4",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "1100-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -66,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/26/2025 12:25",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "300-BLK CEDAR ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cedar Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5366518,
+    "lng": -77.4228041
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/26/2025 12:33",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
@@ -76,19 +76,6 @@
     "location_township": "Precinct 3",
     "lat": 37.553104,
     "lng": -77.472742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 13:00",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "500-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5240062,
-    "lng": -77.4383862
   },
   {
     "type_general": "RPD",
@@ -189,10 +176,10 @@
     "street": "00-BLK S NANSEMOND ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "South Nansemond Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5541317,
-    "lng": -77.4873713
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -202,23 +189,10 @@
     "street": "1500-BLK N 19TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 19th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.546653,
-    "lng": -77.413449
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 13:30",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "900-BLK N LOMBARDY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5563334,
-    "lng": -77.454402
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -228,23 +202,62 @@
     "street": "3400-BLK LOGANDALE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Logandale Avenue, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
     "lat": 37.5033179,
     "lng": -77.4637045
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 13:15",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1100-BLK RICHMOND HWY",
+    "dispatch_time": "11/26/2025 13:46",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "100-BLK S BELVIDERE ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 1",
-    "lat": 37.5052382,
-    "lng": -77.4476466
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 13:46",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "100-BLK S BELVIDERE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 13:41",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "900-BLK SLEDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 12:54",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "600-BLK W BACON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5565875,
+    "lng": -77.4412236
   },
   {
     "type_general": "RFD",
@@ -254,10 +267,10 @@
     "street": "5900-BLK WESTOWER CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westower Court",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.524055,
-    "lng": -77.506613
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -267,9 +280,9 @@
     "street": "2100-BLK GREENWOOD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Greenwood Avenue, Northside",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5621539,
-    "lng": -77.4366019
+    "lat": null,
+    "lng": null
   }
 ]
