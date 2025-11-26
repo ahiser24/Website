@@ -20,7 +20,7 @@
     "street": "1500-BLK N 28TH ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 28th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.5400835,
     "lng": -77.4068808
@@ -33,10 +33,10 @@
     "street": "1600-BLK 4TH AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.556334,
-    "lng": -77.425946
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -46,23 +46,10 @@
     "street": "1100-BLK RICHMOND HWY",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.5052382,
-    "lng": -77.4476466
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 12:39",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5997402,
-    "lng": -77.4502625
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -72,10 +59,10 @@
     "street": "600-BLK W BACON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5565875,
-    "lng": -77.4412236
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -85,10 +72,10 @@
     "street": "1500-BLK N 19TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 19th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.546653,
-    "lng": -77.413449
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -100,8 +87,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 14:03",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "00-BLK E BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": 37.5386168,
-    "lng": -77.4303197
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 13:59",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -152,19 +126,6 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5367101,
-    "lng": -77.4433141
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 13:55",
-    "box_no": "Precinct 2",
-    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
-    "street": "5300-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
     "lat": null,
     "lng": null
   },
@@ -178,8 +139,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -222,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 14:07",
-    "box_no": "Precinct 2",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "4700-BLK COOKS RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": 37.4884559,
-    "lng": -77.4774469
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 14:02",
     "box_no": "Precinct 1",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -247,17 +195,56 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
+    "type_general": "RPD",
     "dispatch_time": "11/26/2025 14:03",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1700-BLK BELLEVUE AVE",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "00-BLK E BROAD ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": 37.590597,
-    "lng": -77.464322
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:07",
+    "box_no": "Precinct 2",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "4700-BLK COOKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:06",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1500-BLK JENNIE SCHER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 13:55",
+    "box_no": "Precinct 2",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "5300-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -273,19 +260,6 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/26/2025 14:09",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "100-BLK W FRANKLIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/26/2025 14:12",
     "box_no": "Precinct 4",
@@ -308,6 +282,19 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 14:16",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "CARNATION ST/MIDLOTHIAN TPKE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
   }
