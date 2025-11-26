@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 06:31",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "400-BLK N 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.536538,
-    "lng": -77.424302
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 07:42",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
@@ -92,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 09:17",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "1300-BLK N 25TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.540421,
-    "lng": -77.410557
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 09:17",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "1300-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.540421,
-    "lng": -77.410557
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 09:12",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -131,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 08:50",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HUNTLEY RD/RIVER RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Huntley Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5669092,
-    "lng": -77.5266731
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 09:27",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -154,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4908816,
     "lng": -77.4654757
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/26/2025 09:50",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "700-BLK ALBEMARLE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Albemarle Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5406074,
-    "lng": -77.4507651
   },
   {
     "type_general": "RPD",
@@ -221,19 +156,6 @@
     "lng": -77.4801788
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/26/2025 10:09",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1100-BLK CYPRESS ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Cypress Street, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5624297,
-    "lng": -77.4262896
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/26/2025 09:56",
     "box_no": "Precinct 3",
@@ -248,6 +170,71 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/26/2025 09:26",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "400-BLK W CLAY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5496735,
+    "lng": -77.4437834
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 10:17",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3000-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.564782,
+    "lng": -77.4727504
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 10:17",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3000-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.564782,
+    "lng": -77.4727504
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 10:18",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "LL(-77:30:14.1121,37:31:21.3671): EST 4207 APACHE CT RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Oakhurst Lane",
+    "location_township": "Precinct 3",
+    "lng": -77.50392002777778,
+    "lat": 37.52260197222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 09:31",
+    "box_no": "Precinct 4",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "200-BLK W HILL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Hill Street",
+    "location_township": "Precinct 4",
+    "lat": 37.55464,
+    "lng": -77.4364061
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/26/2025 09:58",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -258,5 +245,57 @@
     "location_township": "Precinct 2",
     "lat": 37.495355,
     "lng": -77.4758563
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 09:30",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/26/2025 10:19",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "CHANTILLY ST/MONUMENT AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chantilly Street, West End",
+    "location_township": "FIRE",
+    "lat": 37.5729269,
+    "lng": -77.4985875
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 10:19",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "CHANTILLY ST/MONUMENT AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chantilly Street, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5729269,
+    "lng": -77.4985875
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 10:21",
+    "box_no": "Precinct 4",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "2900-BLK FENDALL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fendall Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5702913,
+    "lng": -77.4366393
   }
 ]
