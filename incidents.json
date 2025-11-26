@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 04:39",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "500-BLK W BACON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5563785,
-    "lng": -77.4391955
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 04:45",
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , EMS RESPONSE",
@@ -120,7 +107,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/26/2025 05:01",
     "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
     "street": "1400-BLK SUNBURY RD",
     "status": "Arrived",
     "cross_street": "",
@@ -128,5 +115,18 @@
     "location_township": "Precinct 2",
     "lat": 37.495215,
     "lng": -77.475447
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/26/2025 05:23",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "N BELVIDERE ST/W LEIGH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
   }
 ]
