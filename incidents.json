@@ -109,7 +109,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "2200-BLK DEFORREST ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Deforrest Street",
     "location_township": "Precinct 1",
@@ -118,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 23:23",
-    "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "600-BLK S BELVIDERE ST",
+    "dispatch_time": "11/25/2025 23:24",
+    "box_no": "Precinct 2",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "6400-BLK WORTHINGTON RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
+    "nearest_intersection": "Worthington Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4942298,
+    "lng": -77.5118297
   },
   {
     "type_general": "RPD",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/25/2025 23:38",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "500-BLK TREDEGAR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tredegar Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53517,
-    "lng": -77.445236
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/25/2025 23:46",
     "box_no": "DPR",
     "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
@@ -219,19 +206,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5602471,
     "lng": -77.4431479
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/25/2025 23:24",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "6400-BLK WORTHINGTON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Worthington Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4942298,
-    "lng": -77.5118297
   },
   {
     "type_general": "RFD",
