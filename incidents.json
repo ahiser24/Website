@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 01:51",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1000-BLK ST JAMES ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551762,
-    "lng": -77.436219
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/26/2025 02:02",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -70,7 +57,7 @@
     "box_no": "Precinct 4",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
     "street": "N 7TH ST/HOSPITAL ST RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 7th Street",
     "location_township": "Precinct 4",
@@ -79,15 +66,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/26/2025 02:38",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "N 7TH ST/HOSPITAL ST RICH",
+    "dispatch_time": "11/26/2025 02:47",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "100-BLK W FEDERAL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 7th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5461226,
-    "lng": -77.4316081
+    "nearest_intersection": "West Federal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5528651,
+    "lng": -77.4366559
   }
 ]
