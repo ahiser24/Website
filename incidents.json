@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 03:37",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "100-BLK W COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5205244,
-    "lng": -77.4386505
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 03:57",
     "box_no": "Precinct 2",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS - EMS",
@@ -208,29 +195,29 @@
     "lng": -77.4460819
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 04:40",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2200-BLK W BROAD ST",
-    "status": "Arrived",
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 04:56",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "700-BLK E 6TH ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5582531,
-    "lng": -77.4623243
+    "nearest_intersection": "East 6th Street",
+    "location_township": "FIRE",
+    "lat": 37.5186554,
+    "lng": -77.4337993
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 04:49",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "RICH: @EXIT 76 A - I95 NB (CHAMBERLAYNE AVE)",
-    "status": "Dispatched",
+    "dispatch_time": "11/27/2025 04:56",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2400-BLK E CARY ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5287098,
+    "lng": -77.4220145
   }
 ]
