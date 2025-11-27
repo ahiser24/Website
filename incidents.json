@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:31",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "1100-BLK WORTHINGTON CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Worthington Road",
-    "location_township": "Precinct 2",
-    "lat": 37.490628,
-    "lng": -77.503936
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 15:13",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -76,19 +63,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5845486,
     "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:26",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
   },
   {
     "type_general": "RPD",
@@ -117,10 +91,36 @@
     "lng": -77.416023
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 08:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "400-BLK N 3RD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 08:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 16:07",
     "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "1400-BLK TREEHAVEN DR",
     "status": "Arrived",
     "cross_street": "",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 16:21",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "4400-BLK FOREST HILL AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.519466,
-    "lng": -77.4818158
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 16:13",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -183,16 +170,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 16:29",
+    "dispatch_time": "11/27/2025 16:38",
     "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "7100-BLK FOREST HILL AVE",
-    "status": "Enroute",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
+    "nearest_intersection": "West Grace Street",
     "location_township": "Precinct 3",
-    "lat": 37.5378286,
-    "lng": -77.5260018
+    "lat": 37.5514093,
+    "lng": -77.4534673
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 16:48",
+    "box_no": "Precinct 2",
+    "type_specific": "DISABLED VEHICLE - NON HAZARD - UNOCCUPIED , INVESTIGATE",
+    "street": "E BROAD ROCK RD/HOLLY SPRING AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5038637,
+    "lng": -77.4650326
   },
   {
     "type_general": "RPD",
@@ -208,30 +208,30 @@
     "lng": -77.482853
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 08:13",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "400-BLK N 3RD ST",
-    "status": "Dispatched",
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:58",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "GORDON AVE/RICHMOND HWY RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "nearest_intersection": "Gordon Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5152611,
+    "lng": -77.4317641
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/27/2025 08:13",
+    "dispatch_time": "11/27/2025 16:49",
     "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
+    "type_specific": "",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "East Richmond Road",
     "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "lat": 37.5301228,
+    "lng": -77.3889896
   },
   {
     "type_general": "RFD",
@@ -239,23 +239,10 @@
     "box_no": "FIRE",
     "type_specific": "",
     "street": "1000-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5514093,
-    "lng": -77.4534673
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 16:38",
-    "box_no": "Precinct 3",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "1000-BLK W GRACE ST",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
+    "location_township": "FIRE",
     "lat": 37.5514093,
     "lng": -77.4534673
   }
