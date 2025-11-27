@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 10:58",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "LL(-77:31:29.0671,37:31:41.0092): @POWHITE PKWY NB BETWEEN CHIPPENHAM PKWY & MAIN TOLL PLAZA",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Powhite Parkway",
-    "location_township": "Precinct 3",
-    "lng": -77.52474086111111,
-    "lat": 37.52805811111111
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 11:37",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -48,8 +35,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.554765,
+    "lng": -77.431824
   },
   {
     "type_general": "RPD",
@@ -59,10 +46,10 @@
     "street": "1300-BLK E CARY ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5353479,
-    "lng": -77.4336162
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -85,23 +72,49 @@
     "street": "100-BLK W BAKER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Baker Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5517889,
-    "lng": -77.4384316
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:19",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "CEDAR ST/E MARSHALL ST RICH",
+    "dispatch_time": "11/27/2025 12:59",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "BROOK RD/OVERBROOK RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Cedar Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5366518,
-    "lng": -77.4228041
+    "nearest_intersection": "Brook Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5588478,
+    "lng": -77.4467516
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 08:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "400-BLK N 3RD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 08:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -111,23 +124,10 @@
     "street": "LAWSON ST/E BROAD ROCK RD RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Lawson Street, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:40",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "2500-BLK ROSETTA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.508154,
+    "lng": -77.4658483
   },
   {
     "type_general": "RPD",
@@ -141,6 +141,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5487906,
     "lng": -77.4025396
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 13:40",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2500-BLK ROSETTA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -176,62 +189,36 @@
     "street": "3400-BLK DECATUR ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Decatur Street, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.5053165,
+    "lng": -77.4660404
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:40",
+    "dispatch_time": "11/27/2025 14:02",
     "box_no": "Precinct 3",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "1700-BLK COLORADO AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Colorado Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5373675,
-    "lng": -77.4653188
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 12:59",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "BROOK RD/OVERBROOK RD RICH",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "3500-BLK ELLWOOD AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Brook Road, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5588478,
-    "lng": -77.4467516
+    "nearest_intersection": "Ellwood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.556473,
+    "lng": -77.486031
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 08:13",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "400-BLK N 3RD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 08:13",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "400-BLK N 3RD ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 13:45",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "3100-BLK NINE MILE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.542438,
+    "lng": -77.398764
   },
   {
     "type_general": "RFD",
@@ -241,22 +228,9 @@
     "street": "3200-BLK 3RD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "3rd Avenue",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 13:48",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ASSAULT",
-    "street": "3400-BLK DECATUR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.5721919,
+    "lng": -77.4152452
   }
 ]
