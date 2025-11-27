@@ -156,19 +156,6 @@
     "lng": -77.479949
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 02:48",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S ARTHUR ASHE BLVD/BLANTON AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Downtown Expressway",
-    "location_township": "Precinct 3",
-    "lat": 37.5488772,
-    "lng": -77.4777879
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/27/2025 04:56",
     "box_no": "FIRE",
@@ -193,5 +180,31 @@
     "location_township": "Precinct 2",
     "lat": 37.495285,
     "lng": -77.4460819
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 05:18",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2300-BLK SELDEN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Selden Street",
+    "location_township": "FIRE",
+    "lat": 37.549784,
+    "lng": -77.4058634
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 05:16",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "2200-BLK N 25TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5488075,
+    "lng": -77.4037679
   }
 ]
