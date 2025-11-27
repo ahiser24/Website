@@ -157,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 09:18",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 09:30",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
-    "street": "2500-BLK BERWYN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Berwyn Street",
-    "location_township": "FIRE",
-    "lat": 37.487799,
-    "lng": -77.4423898
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 09:22",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -196,16 +170,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 09:25",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "500-BLK HARROW RD",
-    "status": "Enroute",
+    "dispatch_time": "11/27/2025 09:35",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "1600-BLK COMMERCE RD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Harrow Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5102388,
-    "lng": -77.5189618
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.506368,
+    "lng": -77.430565
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 09:35",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "1600-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.506368,
+    "lng": -77.430565
   },
   {
     "type_general": "RPD",
@@ -219,5 +206,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5602471,
     "lng": -77.4431479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 09:25",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "500-BLK HARROW RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Harrow Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5102388,
+    "lng": -77.5189618
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 09:36",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "COLUMBIA ST/ATWELL DR RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Columbia Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4933045,
+    "lng": -77.4437875
   }
 ]
