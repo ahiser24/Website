@@ -7,7 +7,7 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 22nd Street",
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
@@ -22,8 +22,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5466404,
+    "lng": -77.4092602
   },
   {
     "type_general": "RPD",
@@ -33,7 +33,7 @@
     "street": "400-BLK PEMBER LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Pember Lane",
     "location_township": "Precinct 3",
     "lat": 37.5031564,
     "lng": -77.4951659
@@ -85,10 +85,10 @@
     "street": "3800-BLK HANOVER AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Hanover Avenue",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5618445,
+    "lng": -77.4886152
   },
   {
     "type_general": "RPD",
@@ -98,23 +98,10 @@
     "street": "N MEADOW ST/PARK AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Meadow Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.5582953,
     "lng": -77.4592678
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 10:58",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "LL(-77:31:29.0671,37:31:41.0092): @POWHITE PKWY NB BETWEEN CHIPPENHAM PKWY & MAIN TOLL PLAZA",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lng": -77.52474086111111,
-    "lat": 37.52805811111111
   },
   {
     "type_general": "RPD",
@@ -126,8 +113,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5404917,
+    "lng": -77.4175446
   },
   {
     "type_general": "RPD",
@@ -139,8 +126,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.571676,
-    "lng": -77.481157
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -176,10 +163,23 @@
     "street": "2400-BLK BRADY ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Brady Street",
     "location_township": "Precinct 2",
     "lat": 37.490538,
     "lng": -77.441739
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 10:58",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "LL(-77:31:29.0671,37:31:41.0092): @POWHITE PKWY NB BETWEEN CHIPPENHAM PKWY & MAIN TOLL PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "Precinct 3",
+    "lng": -77.52474086111111,
+    "lat": 37.52805811111111
   },
   {
     "type_general": "RFD",
@@ -202,10 +202,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -232,19 +232,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5026646,
     "lng": -77.4370536
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:38",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "100-BLK PENSHURST RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": 37.5582695,
-    "lng": -77.4973113
   },
   {
     "type_general": "RPD",
@@ -282,8 +269,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5431916,
-    "lng": -77.4365125
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -306,36 +293,10 @@
     "street": "3200-BLK 3RD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5721919,
-    "lng": -77.4152452
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:57",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "2700-BLK E CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5271351,
-    "lng": -77.4201626
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:57",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "2800-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4801667,
-    "lng": -77.4805903
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -358,23 +319,10 @@
     "street": "1700-BLK FAIRFIELD WAY",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 1",
-    "lat": 37.548532,
-    "lng": -77.4127685
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:45",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "700-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5214521,
-    "lng": -77.4386556
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -384,35 +332,74 @@
     "street": "600-BLK N 38TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 38th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.5269521,
     "lng": -77.4049886
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 12:21",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "3300-BLK IDLEWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Idlewood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.551934,
-    "lng": -77.484847
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "11/27/2025 11:57",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "2700-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 12:21",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 12:23",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "1100-BLK FLOYD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5271351,
-    "lng": -77.4201626
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 11:38",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "100-BLK PENSHURST RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 12:01",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1200-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   }
 ]
