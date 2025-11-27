@@ -286,16 +286,68 @@
     "lng": -77.4886152
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 10:47",
+    "box_no": "Precinct 4",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "LL(-77:25:33.0493,37:33:43.2719): EST LOCKGREEN PL RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cypress Street, Northside",
+    "location_township": "Precinct 4",
+    "lng": -77.42584702777778,
+    "lat": 37.56201997222222
+  },
+  {
     "type_general": "RFD",
-    "dispatch_time": "11/27/2025 10:42",
+    "dispatch_time": "11/27/2025 10:48",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1600-BLK WESTWOOD AVE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "MONTROSE AVE/W LADIES MILE RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westwood Avenue",
+    "nearest_intersection": "Montrose Avenue, Northside",
     "location_township": "FIRE",
-    "lat": 37.5791153,
-    "lng": -77.4602073
+    "lat": 37.5663539,
+    "lng": -77.4391334
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 10:46",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "MONTROSE AVE/W LADIES MILE RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Montrose Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5663539,
+    "lng": -77.4391334
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 10:49",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1200-BLK GREENVILLE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Greenville Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5393014,
+    "lng": -77.4695221
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 10:51",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N MEADOW ST/PARK AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5582953,
+    "lng": -77.4592678
   }
 ]
