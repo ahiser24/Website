@@ -7,10 +7,10 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -33,10 +33,10 @@
     "street": "1100-BLK WORTHINGTON CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Worthington Road",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.490628,
+    "lng": -77.503936
   },
   {
     "type_general": "RPD",
@@ -46,10 +46,10 @@
     "street": "1500-BLK TREEHAVEN DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Treehaven Drive, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4959016,
+    "lng": -77.4801286
   },
   {
     "type_general": "RPD",
@@ -137,23 +137,10 @@
     "street": "3800-BLK CHAMBERLAYNE AVE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:42",
-    "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
-    "street": "3000-BLK PARKWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": 37.551835,
-    "lng": -77.479356
+    "lat": 37.58494,
+    "lng": -77.4478043
   },
   {
     "type_general": "RPD",
@@ -170,6 +157,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:46",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "2300-BLK SELDEN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Selden Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549784,
+    "lng": -77.4058634
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:42",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "3000-BLK PARKWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Sheppard Street",
+    "location_township": "Precinct 3",
+    "lat": 37.551835,
+    "lng": -77.479356
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/27/2025 15:40",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -180,19 +193,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5469679,
     "lng": -77.416023
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:46",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "2300-BLK SELDEN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549784,
-    "lng": -77.4058634
   },
   {
     "type_general": "RFD",
@@ -206,18 +206,5 @@
     "location_township": "FIRE",
     "lat": 37.5514093,
     "lng": -77.4534673
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 15:34",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "5000-BLK FERNBROOK TER",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fernbrook Terrace, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4874615,
-    "lng": -77.4833007
   }
 ]
