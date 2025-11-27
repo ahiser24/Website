@@ -20,10 +20,10 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -33,7 +33,7 @@
     "street": "3800-BLK HANOVER AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Hanover Avenue",
     "location_township": "Precinct 3",
     "lat": 37.5618445,
     "lng": -77.4886152
@@ -46,10 +46,10 @@
     "street": "2000-BLK 1ST AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "1st Avenue, Northside",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5615,
-    "lng": -77.425618
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -59,7 +59,7 @@
     "street": "2400-BLK BRADY ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Brady Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
     "lat": 37.490538,
     "lng": -77.441739
@@ -85,23 +85,23 @@
     "street": "3800-BLK MASTIN LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.571676,
+    "lng": -77.481157
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:08",
-    "box_no": "Precinct 4",
+    "dispatch_time": "11/27/2025 11:41",
+    "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "2600-BLK LAMB AVE",
+    "street": "2200-BLK CHALFONT DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Chalfont Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4908816,
+    "lng": -77.4654757
   },
   {
     "type_general": "RPD",
@@ -111,10 +111,23 @@
     "street": "500-BLK E BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Broad Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5431916,
+    "lng": -77.4365125
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 11:45",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "3200-BLK 3RD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "3rd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5721919,
+    "lng": -77.4152452
   },
   {
     "type_general": "RPD",
@@ -124,10 +137,10 @@
     "street": "100-BLK N 1ST ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 1st Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.554765,
+    "lng": -77.431824
   },
   {
     "type_general": "RPD",
@@ -141,19 +154,6 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:28",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "600-BLK N 38TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 38th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5269521,
-    "lng": -77.4049886
   },
   {
     "type_general": "RPD",
@@ -202,23 +202,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:41",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "2200-BLK CHALFONT DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4908816,
-    "lng": -77.4654757
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -228,23 +215,10 @@
     "street": "4100-BLK HULL STREET RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Hull Street Road, Southside",
     "location_township": "Precinct 2",
     "lat": 37.5015735,
     "lng": -77.4755884
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:45",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "3200-BLK 3RD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RFD",
@@ -254,10 +228,10 @@
     "street": "3200-BLK 3RD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "3rd Avenue",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.5721919,
+    "lng": -77.4152452
   },
   {
     "type_general": "RPD",
@@ -267,10 +241,10 @@
     "street": "2700-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5271351,
+    "lng": -77.4201626
   },
   {
     "type_general": "RPD",
@@ -280,23 +254,10 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 12:39",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "5700-BLK WARWICK RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": 37.4972912,
-    "lng": -77.5005953
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -306,10 +267,62 @@
     "street": "1700-BLK FAIRFIELD WAY",
     "status": "Arrived",
     "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 1",
+    "lat": 37.548532,
+    "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 12:46",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1900-BLK N 27TH ST",
+    "status": "Arrived",
+    "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 12:46",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1900-BLK N 27TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 27th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5446606,
+    "lng": -77.4037535
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 12:46",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1900-BLK N 27TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 27th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5446606,
+    "lng": -77.4037535
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 12:47",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2600-BLK SEMINARY AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Seminary Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.566608,
+    "lng": -77.4464624
   },
   {
     "type_general": "RPD",
@@ -319,8 +332,34 @@
     "street": "1500-BLK N 28TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 28th Street, East End",
     "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 12:47",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "3700-BLK ANGELA DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Angela Drive, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4898412,
+    "lng": -77.4664616
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 12:47",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "6000-BLK WILLOW OAKS DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
     "lat": null,
     "lng": null
   }
