@@ -18,7 +18,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "3400-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
@@ -104,45 +104,6 @@
     "lng": -77.438422
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 16:54",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "3000-BLK DUPONT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dupont Avenue",
-    "location_township": "FIRE",
-    "lat": 37.4636879,
-    "lng": -77.4522939
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 17:01",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3900-BLK WALMSLEY BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4687589,
-    "lng": -77.4676158
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 17:01",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3900-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4687589,
-    "lng": -77.4676158
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 17:03",
     "box_no": "Precinct 3",
@@ -180,5 +141,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5400835,
     "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 17:11",
+    "box_no": "Precinct 4",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 17:12",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "300-BLK RED ASH DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Red Ash Drive",
+    "location_township": "FIRE",
+    "lat": 37.506088,
+    "lng": -77.516003
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 17:19",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "100-BLK E BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "1st Street Cycle Track",
+    "location_township": "Precinct 4",
+    "lat": 37.5452364,
+    "lng": -77.4407586
   }
 ]
