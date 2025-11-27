@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 04:30",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "N 18TH ST/E BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337736,
-    "lng": -77.4268235
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 02:48",
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -182,25 +169,12 @@
     "lng": -77.4777879
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 03:00",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "4500-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.495285,
-    "lng": -77.4460819
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/27/2025 04:56",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
     "street": "700-BLK E 6TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East 6th Street",
     "location_township": "FIRE",
@@ -209,15 +183,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 04:56",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2400-BLK E CARY ST",
-    "status": "Enroute",
+    "dispatch_time": "11/27/2025 03:00",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "4500-BLK RICHMOND HWY",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5287098,
-    "lng": -77.4220145
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.495285,
+    "lng": -77.4460819
   }
 ]
