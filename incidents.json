@@ -7,10 +7,10 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -46,10 +46,10 @@
     "street": "2000-BLK E MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Main Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5317819,
+    "lng": -77.4254224
   },
   {
     "type_general": "RPD",
@@ -59,10 +59,10 @@
     "street": "1400-BLK E BROOKLAND PARK BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.569235,
-    "lng": -77.417054
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -85,10 +85,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -98,10 +98,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -130,6 +130,71 @@
     "lng": -77.460475
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:33",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , AGGRESSIVE - EMS",
+    "street": "2500-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5657632,
+    "lng": -77.4446172
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:42",
+    "box_no": "Precinct 4",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.58494,
+    "lng": -77.4478043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:42",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "3000-BLK PARKWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Sheppard Street",
+    "location_township": "Precinct 3",
+    "lat": 37.551835,
+    "lng": -77.479356
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:40",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "1500-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5469679,
+    "lng": -77.416023
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:34",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "5000-BLK FERNBROOK TER",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.4874615,
+    "lng": -77.4833007
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/27/2025 15:34",
     "box_no": "FIRE",
@@ -137,22 +202,35 @@
     "street": "5000-BLK FERNBROOK TER",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Fernbrook Terrace, Southside",
     "location_township": "FIRE",
     "lat": 37.4874615,
     "lng": -77.4833007
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:33",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "2500-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 15:42",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5657632,
-    "lng": -77.4446172
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 15:42",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "FIRE",
+    "lat": 37.58494,
+    "lng": -77.4478043
   }
 ]
