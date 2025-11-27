@@ -143,19 +143,6 @@
     "lng": -77.4500565
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 04:56",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "700-BLK E 6TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 6th Street",
-    "location_township": "FIRE",
-    "lat": 37.5186554,
-    "lng": -77.4337993
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 03:00",
     "box_no": "Precinct 2",
@@ -226,7 +213,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "1800-BLK HIGHPOINT AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Highpoint Avenue",
     "location_township": "Precinct 4",
