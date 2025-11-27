@@ -76,5 +76,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5884889,
     "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 06:52",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "MOSS SIDE AVE/CULPEPPER ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Moss Side Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5863449,
+    "lng": -77.4422198
   }
 ]
