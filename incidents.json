@@ -92,16 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 17:58",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "dispatch_time": "11/27/2025 18:02",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2300-BLK E TREMONT CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5602471,
-    "lng": -77.4431479
+    "nearest_intersection": "East Tremont Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5333177,
+    "lng": -77.5362406
   },
   {
     "type_general": "RFD",
@@ -131,28 +131,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:02",
+    "dispatch_time": "11/27/2025 18:07",
     "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2300-BLK E TREMONT CT",
-    "status": "Enroute",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "6500-BLK JAHNKE RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Tremont Court",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
-    "lat": 37.5333177,
-    "lng": -77.5362406
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 18:04",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1900-BLK KANSAS AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Kansas Avenue",
-    "location_township": "FIRE",
-    "lat": 37.531676,
-    "lng": -77.4740006
+    "lat": 37.519498,
+    "lng": -77.51638
   }
 ]
