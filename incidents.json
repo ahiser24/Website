@@ -144,32 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:31",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:36",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2900BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 18:24",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -196,16 +170,16 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/27/2025 18:38",
+    "dispatch_time": "11/27/2025 18:43",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "BROOK RD/CHAMBERLAYNE PKWY RICH",
-    "status": "Enroute",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "2800-BLK HAWTHORNE AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Brook Road, Northside",
+    "nearest_intersection": "Hawthorne Avenue, Northside",
     "location_township": "FIRE",
-    "lat": 37.5588478,
-    "lng": -77.4467516
+    "lat": 37.568343,
+    "lng": -77.4417108
   },
   {
     "type_general": "RPD",
@@ -213,11 +187,37 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
     "street": "1200-BLK ST JAMES ST",
-    "status": "Arrived",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Saint James Street",
     "location_township": "Precinct 4",
     "lat": 37.5530109,
     "lng": -77.4351594
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 18:42",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1700-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.55058,
+    "lng": -77.413552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 18:50",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "4200-BLK KINGCREST PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Kingcrest Parkway",
+    "location_township": "FIRE",
+    "lat": 37.5620834,
+    "lng": -77.4948302
   }
 ]
