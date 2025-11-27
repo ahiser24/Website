@@ -7,7 +7,7 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
@@ -20,10 +20,10 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -33,7 +33,7 @@
     "street": "400-BLK PEMBER LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Pember Lane",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.5031564,
     "lng": -77.4951659
@@ -59,10 +59,10 @@
     "street": "2000-BLK 1ST AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "1st Avenue, Northside",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5615,
-    "lng": -77.425618
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -72,10 +72,10 @@
     "street": "4200-BLK PETTUS RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Pettus Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4757467,
-    "lng": -77.4740236
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -85,10 +85,10 @@
     "street": "3800-BLK HANOVER AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5618445,
-    "lng": -77.4886152
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 10:50",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2400-BLK BRADY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Brady Street",
-    "location_township": "Precinct 2",
-    "lat": 37.490538,
-    "lng": -77.441739
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 11:06",
     "box_no": "Precinct 1",
     "type_specific": "SUBJECT PURSUIT , OFFICER-INITIATED",
@@ -139,8 +126,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -150,7 +137,7 @@
     "street": "3800-BLK MASTIN LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.571676,
     "lng": -77.481157
@@ -163,6 +150,19 @@
     "street": "2600-BLK LAMB AVE",
     "status": "Arrived",
     "cross_street": "",
+    "nearest_intersection": "Lamb Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5658667,
+    "lng": -77.4310735
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 11:09",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3000-BLK MEADOW BRIDGE RD",
+    "status": "Arrived",
+    "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": null,
@@ -170,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:01",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "100-BLK W MARSHALL ST",
+    "dispatch_time": "11/27/2025 10:50",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2400-BLK BRADY ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.547254,
-    "lng": -77.4419569
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.490538,
+    "lng": -77.441739
   },
   {
     "type_general": "RFD",
@@ -189,10 +189,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -202,10 +202,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Marshall Street",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RFD",
@@ -215,10 +215,10 @@
     "street": "1800-BLK STEGGE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Stegge Avenue",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5026646,
-    "lng": -77.4370536
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -248,29 +248,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:18",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1000-BLK CARLISLE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 11:41",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "2200-BLK CHALFONT DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4908816,
-    "lng": -77.4654757
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -293,7 +280,7 @@
     "street": "500-BLK E BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.5431916,
     "lng": -77.4365125
@@ -306,49 +293,23 @@
     "street": "3200-BLK 3RD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5721919,
-    "lng": -77.4152452
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:50",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 1",
-    "lat": 37.548532,
-    "lng": -77.4127685
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:09",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3000-BLK MEADOW BRIDGE RD",
-    "status": "Arrived",
-    "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 12:02",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "2200-BLK N 25TH ST",
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 11:45",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "3200-BLK 3RD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5488075,
-    "lng": -77.4037679
+    "nearest_intersection": "3rd Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5721919,
+    "lng": -77.4152452
   },
   {
     "type_general": "RPD",
@@ -369,12 +330,38 @@
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "2800-BLK BROAD ROCK BLVD",
-    "status": "Dispatched",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4801667,
+    "lng": -77.4805903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 11:37",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "100-BLK N 1ST ST",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "location_township": "Precinct 4",
+    "lat": 37.554765,
+    "lng": -77.431824
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 11:50",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 1",
+    "lat": 37.548532,
+    "lng": -77.4127685
   },
   {
     "type_general": "RPD",
@@ -382,38 +369,38 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "700-BLK STOCKTON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stockton Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.5214521,
     "lng": -77.4386556
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:38",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PACKAGE",
-    "street": "E MAIN ST/N FOUSHEE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5337997,
-    "lng": -77.4291343
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 11:45",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "3200-BLK 3RD AVE",
+    "dispatch_time": "11/27/2025 11:28",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "600-BLK N 38TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5721919,
-    "lng": -77.4152452
+    "nearest_intersection": "North 38th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5269521,
+    "lng": -77.4049886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 12:21",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "3300-BLK IDLEWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.551934,
+    "lng": -77.484847
   },
   {
     "type_general": "RFD",
@@ -427,18 +414,5 @@
     "location_township": "FIRE",
     "lat": 37.5271351,
     "lng": -77.4201626
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 12:08",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "400-BLK N 18TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
   }
 ]
