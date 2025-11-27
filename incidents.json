@@ -7,10 +7,10 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 22nd Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5466404,
+    "lng": -77.4092602
   },
   {
     "type_general": "RPD",
@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:19",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1500-BLK TREEHAVEN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Treehaven Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4959016,
-    "lng": -77.4801286
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 15:13",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -78,6 +65,19 @@
     "lng": -77.4473886
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:26",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "3400-BLK WALMSLEY BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Angus Road",
+    "location_township": "Precinct 2",
+    "lat": 37.464799,
+    "lng": -77.460475
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/27/2025 08:13",
     "box_no": "FIRE",
@@ -102,19 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:26",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
   },
   {
     "type_general": "RPD",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5657632,
     "lng": -77.4446172
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:42",
-    "box_no": "Precinct 4",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.58494,
-    "lng": -77.4478043
   },
   {
     "type_general": "RPD",
@@ -195,16 +169,16 @@
     "lng": -77.416023
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 15:42",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 16:07",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1400-BLK TREEHAVEN DR",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5514093,
-    "lng": -77.4534673
+    "nearest_intersection": "Treehaven Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.496241,
+    "lng": -77.4787022
   }
 ]
