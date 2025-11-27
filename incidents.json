@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 02:48",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S ARTHUR ASHE BLVD/BLANTON AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Downtown Expressway",
-    "location_township": "Precinct 3",
-    "lat": 37.5488772,
-    "lng": -77.4777879
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 04:00",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -196,15 +183,54 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/27/2025 02:48",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "S ARTHUR ASHE BLVD/BLANTON AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 3",
+    "lat": 37.5488772,
+    "lng": -77.4777879
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/27/2025 04:30",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "N 18TH ST/E BROAD ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 18th Street",
     "location_township": "Precinct 1",
     "lat": 37.5337736,
     "lng": -77.4268235
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 04:37",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4300-BLK OLD BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5946766,
+    "lng": -77.448233
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 04:40",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2200-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5582531,
+    "lng": -77.4623243
   }
 ]
