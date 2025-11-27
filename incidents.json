@@ -5,12 +5,12 @@
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
     "street": "1800-BLK N 22ND ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 22nd Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5466404,
+    "lng": -77.4092602
   },
   {
     "type_general": "RPD",
@@ -20,23 +20,10 @@
     "street": "LAWSON ST/E BROAD ROCK RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Lawson Street, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:41",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "100-BLK N BELVIDERE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.508154,
+    "lng": -77.4658483
   },
   {
     "type_general": "RPD",
@@ -46,7 +33,7 @@
     "street": "1100-BLK WORTHINGTON CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Worthington Road",
     "location_township": "Precinct 2",
     "lat": 37.490628,
     "lng": -77.503936
@@ -66,11 +53,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:13",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "1400-BLK E BROOKLAND PARK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.569235,
+    "lng": -77.417054
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/27/2025 14:40",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "3400-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
@@ -85,10 +85,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Marshall Street",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RFD",
@@ -102,32 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 14:41",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "400-BLK N 3RD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 3",
-    "lat": 37.54503,
-    "lng": -77.438422
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 14:41",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -148,24 +122,37 @@
     "box_no": "Precinct 2",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
     "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Angus Road",
+    "location_township": "Precinct 2",
+    "lat": 37.464799,
+    "lng": -77.460475
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 15:34",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "5000-BLK FERNBROOK TER",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "location_township": "FIRE",
+    "lat": 37.4874615,
+    "lng": -77.4833007
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:13",
+    "dispatch_time": "11/27/2025 15:33",
     "box_no": "Precinct 4",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "1400-BLK E BROOKLAND PARK BLVD",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "2500-BLK CHAMBERLAYNE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.569235,
-    "lng": -77.417054
+    "lat": 37.5657632,
+    "lng": -77.4446172
   }
 ]
