@@ -27,58 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 03:57",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "2800-BLK TERMINAL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Terminal Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4834656,
-    "lng": -77.4500565
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 05:30",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "600-BLK N 39TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 39th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5260593,
-    "lng": -77.4043892
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 05:37",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "500-BLK PORTER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5259475,
-    "lng": -77.4407535
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 01:16",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5884889,
-    "lng": -77.4485395
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 06:36",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -102,5 +50,31 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 05:30",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "600-BLK N 39TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 39th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5260593,
+    "lng": -77.4043892
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 01:16",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
   }
 ]
