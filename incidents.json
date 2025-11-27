@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 06:36",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 06:36",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 01:16",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -72,7 +46,7 @@
     "street": "600-BLK N 39TH ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 39th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.5260593,
     "lng": -77.4043892
@@ -83,24 +57,37 @@
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , NUISANCE",
     "street": "4600-BLK W BROAD ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5789985,
-    "lng": -77.4891247
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 06:57",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "400-BLK WESTOVER HILLS BLVD",
+    "dispatch_time": "11/27/2025 07:14",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "4100-BLK HULL STREET RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.5015735,
+    "lng": -77.4755884
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 07:19",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "1800-BLK N 22ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5466404,
+    "lng": -77.4092602
   }
 ]
