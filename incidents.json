@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 09:22",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "6800-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.538209,
-    "lng": -77.520181
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 09:25",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -170,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 09:39",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1200-BLK EVERGREEN AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Evergreen Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4973887,
-    "lng": -77.4735448
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 08:49",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 09:51",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -206,5 +167,57 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 09:39",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1200-BLK EVERGREEN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Evergreen Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4973887,
+    "lng": -77.4735448
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 09:40",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2500-BLK PORTER ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 2",
+    "lat": 37.51714,
+    "lng": -77.456796
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 09:52",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "400-BLK PEMBER LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Pember Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5031564,
+    "lng": -77.4951659
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 09:54",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "4000-BLK NORTH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5840735,
+    "lng": -77.4381519
   }
 ]
