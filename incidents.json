@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:24",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 5TH ST/HOSPITAL ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5497878,
-    "lng": -77.4309047
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 18:15",
     "box_no": "Precinct 2",
     "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
@@ -154,32 +141,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5196704,
     "lng": -77.4613917
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:22",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "100-BLK MANCHESTER RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Manchester Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5263605,
-    "lng": -77.4339202
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:21",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "5000-BLK SNEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770457,
-    "lng": -77.4856193
   },
   {
     "type_general": "RPD",
@@ -196,15 +157,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:32",
+    "dispatch_time": "11/27/2025 18:36",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "600BLK MAIN ST",
+    "street": "2900BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 18:24",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 5TH ST/HOSPITAL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5497878,
+    "lng": -77.4309047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 18:38",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "RIO VISTA LN/CARY STREET RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Rio Vista Lane, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5669839,
+    "lng": -77.5234985
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 18:38",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "BROOK RD/CHAMBERLAYNE PKWY RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5588478,
+    "lng": -77.4467516
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 18:38",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "1200-BLK ST JAMES ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint James Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5530109,
+    "lng": -77.4351594
   }
 ]
