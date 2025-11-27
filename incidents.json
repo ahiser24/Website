@@ -7,7 +7,7 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 22nd Street",
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
@@ -22,21 +22,21 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 11:37",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "100-BLK N 1ST ST",
+    "dispatch_time": "11/27/2025 12:21",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": 37.554765,
-    "lng": -77.431824
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -53,27 +53,27 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 12:21",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "dispatch_time": "11/27/2025 13:13",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LAWSON ST/E BROAD ROCK RD RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.508154,
+    "lng": -77.4658483
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 12:29",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "100-BLK W BAKER ST",
+    "dispatch_time": "11/27/2025 13:31",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1100-BLK WORTHINGTON CT",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 4",
+    "location_township": "Precinct 2",
     "lat": null,
     "lng": null
   },
@@ -85,10 +85,10 @@
     "street": "BROOK RD/OVERBROOK RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Brook Road, Northside",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5588478,
-    "lng": -77.4467516
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -98,10 +98,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Marshall Street",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RFD",
@@ -118,29 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:13",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "LAWSON ST/E BROAD ROCK RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Lawson Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.508154,
-    "lng": -77.4658483
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 13:40",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "2500-BLK ROSETTA ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rosetta Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5487906,
-    "lng": -77.4025396
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -170,42 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:31",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "1100-BLK WORTHINGTON CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:48",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "3400-BLK DECATUR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5053165,
-    "lng": -77.4660404
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 14:02",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , DPR Call - Take a Report",
     "street": "3500-BLK ELLWOOD AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Ellwood Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.556473,
-    "lng": -77.486031
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -215,10 +176,49 @@
     "street": "3100-BLK NINE MILE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.542438,
-    "lng": -77.398764
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 14:06",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "800-BLK W MARSHALL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 13:48",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "3400-BLK DECATUR ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 14:15",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "100-BLK W COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -228,9 +228,9 @@
     "street": "3200-BLK 3RD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5721919,
-    "lng": -77.4152452
+    "lat": null,
+    "lng": null
   }
 ]
