@@ -5,25 +5,12 @@
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
     "street": "1800-BLK N 22ND ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 22nd Street",
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 07:19",
-    "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "1800-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -35,8 +22,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -46,10 +33,10 @@
     "street": "1100-BLK WORTHINGTON CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Worthington Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.490628,
-    "lng": -77.503936
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -85,10 +72,10 @@
     "street": "1300-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5353479,
-    "lng": -77.4336162
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -98,10 +85,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -111,10 +98,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -126,8 +113,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5721919,
-    "lng": -77.4152452
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -139,8 +126,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5487906,
-    "lng": -77.4025396
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -163,23 +150,10 @@
     "street": "100-BLK N BELVIDERE ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North Belvidere Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 13:45",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "3100-BLK NINE MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.542438,
-    "lng": -77.398764
+    "lat": 37.5511248,
+    "lng": -77.4451238
   },
   {
     "type_general": "RPD",
@@ -189,10 +163,10 @@
     "street": "PATTERSON AVE/WILLOW LAWN DR RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Patterson Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5634214,
-    "lng": -77.4843201
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -202,10 +176,23 @@
     "street": "800-BLK W MARSHALL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5507269,
-    "lng": -77.4478135
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 14:26",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "3000-BLK MONTROSE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -217,20 +204,7 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5287094,
-    "lng": -77.5063627
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 14:26",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3000-BLK MONTROSE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Montrose Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.572006,
-    "lng": -77.4399803
+    "lat": null,
+    "lng": null
   }
 ]
