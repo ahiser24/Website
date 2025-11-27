@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 05:30",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "600-BLK N 39TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 39th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5260593,
-    "lng": -77.4043892
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 01:16",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -79,15 +66,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 06:52",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "MOSS SIDE AVE/CULPEPPER ST RICH",
+    "dispatch_time": "11/27/2025 05:30",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "600-BLK N 39TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 39th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5260593,
+    "lng": -77.4043892
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 06:34",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "4600-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5789985,
+    "lng": -77.4891247
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 06:57",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "400-BLK WESTOVER HILLS BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Moss Side Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5863449,
-    "lng": -77.4422198
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
   }
 ]
