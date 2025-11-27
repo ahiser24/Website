@@ -143,19 +143,6 @@
     "lng": -77.4500565
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 04:00",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1600-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.49302,
-    "lng": -77.479949
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/27/2025 04:56",
     "box_no": "FIRE",
@@ -182,29 +169,68 @@
     "lng": -77.4460819
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 05:18",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2300-BLK SELDEN ST",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 05:26",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2500-BLK Q ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "FIRE",
-    "lat": 37.549784,
-    "lng": -77.4058634
+    "nearest_intersection": "Q Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.538495,
+    "lng": -77.4120703
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 05:16",
+    "dispatch_time": "11/27/2025 05:26",
     "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "2200-BLK N 25TH ST",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2500-BLK Q ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 25th Street",
+    "nearest_intersection": "Q Street, East End",
     "location_township": "Precinct 1",
-    "lat": 37.5488075,
-    "lng": -77.4037679
+    "lat": 37.538495,
+    "lng": -77.4120703
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 05:32",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2000-BLK E CARY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5309062,
+    "lng": -77.4259638
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 05:32",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2000-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5309062,
+    "lng": -77.4259638
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 05:35",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2000-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5573327,
+    "lng": -77.4604978
   }
 ]
