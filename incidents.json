@@ -79,16 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 01:02",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W MAIN ST/N ROBINSON ST RICH",
+    "dispatch_time": "11/27/2025 01:07",
+    "box_no": "Precinct 4",
+    "type_specific": "STABBING , INVESTIGATE",
+    "street": "1000-BLK AZALEA AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.552686,
-    "lng": -77.4756125
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.601975,
+    "lng": -77.450736
   },
   {
     "type_general": "RPD",
@@ -128,19 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.591125,
     "lng": -77.452618
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 01:07",
-    "box_no": "Precinct 4",
-    "type_specific": "STABBING , INVESTIGATE",
-    "street": "1000-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.601975,
-    "lng": -77.450736
   },
   {
     "type_general": "RPD",
@@ -209,11 +196,37 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/27/2025 02:48",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "S ARTHUR ASHE BLVD/BLANTON AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 3",
+    "lat": 37.5488772,
+    "lng": -77.4777879
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 02:47",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1600-BLK MONUMENT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5529551,
+    "lng": -77.457496
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/27/2025 02:45",
     "box_no": "Precinct 2",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
     "street": "5000-BLK BONINGTON CT",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
