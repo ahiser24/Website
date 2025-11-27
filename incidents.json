@@ -222,15 +222,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 05:35",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2000-BLK W BROAD ST",
+    "dispatch_time": "11/27/2025 05:39",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1800-BLK HIGHPOINT AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5573327,
-    "lng": -77.4604978
+    "nearest_intersection": "Highpoint Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.570312,
+    "lng": -77.469224
   }
 ]
