@@ -130,19 +130,6 @@
     "lng": -77.438422
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 17:33",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "5800-BLK WILLOW OAKS DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Willow Oaks Drive",
-    "location_township": "FIRE",
-    "lat": 37.5287094,
-    "lng": -77.5063627
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 17:43",
     "box_no": "Precinct 1",
@@ -158,19 +145,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 17:48",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1700-BLK MAURY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5146969,
-    "lng": -77.4449797
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 17:48",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "1600-BLK ROSENEATH RD",
@@ -180,5 +154,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5706748,
     "lng": -77.4729377
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 17:48",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1700-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 1",
+    "lat": 37.5146969,
+    "lng": -77.4449797
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 17:49",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "5300-BLK WHITE OAK DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "White Oak Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4779906,
+    "lng": -77.4913641
   }
 ]
