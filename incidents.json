@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:40",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "1500-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5469679,
-    "lng": -77.416023
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 16:13",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -53,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 15:57",
+    "dispatch_time": "11/27/2025 16:53",
     "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3300-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "3000-BLK DUPONT AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
+    "nearest_intersection": "Dupont Avenue",
     "location_township": "Precinct 2",
-    "lat": 37.471946,
-    "lng": -77.482853
+    "lat": 37.4636879,
+    "lng": -77.4522939
   },
   {
     "type_general": "RPD",
@@ -76,6 +63,19 @@
     "location_township": "DPR",
     "lat": 37.534577,
     "lng": -77.44718
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 15:57",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3300-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.471946,
+    "lng": -77.482853
   },
   {
     "type_general": "RFD",
@@ -118,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 16:53",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "3000-BLK DUPONT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dupont Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4636879,
-    "lng": -77.4522939
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 17:05",
-    "box_no": "Precinct 1",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 17:11",
     "box_no": "Precinct 4",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -170,15 +144,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 17:19",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "100-BLK E BROAD ST",
+    "dispatch_time": "11/27/2025 17:25",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "CARY STREET RD/THREE CHOPT RD RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "1st Street Cycle Track",
-    "location_township": "Precinct 4",
-    "lat": 37.5452364,
-    "lng": -77.4407586
+    "nearest_intersection": "Cary Street Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5570666,
+    "lng": -77.4909498
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 17:25",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1400-BLK CARLISLE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carlisle Avenue, East End",
+    "location_township": "FIRE",
+    "lat": 37.516544,
+    "lng": -77.400131
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 17:05",
+    "box_no": "Precinct 1",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 17:05",
+    "box_no": "Precinct 1",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 17:05",
+    "box_no": "Precinct 1",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
   }
 ]
