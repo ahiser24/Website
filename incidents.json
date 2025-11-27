@@ -7,10 +7,10 @@
     "street": "1800-BLK N 22ND ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -20,10 +20,10 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -104,19 +104,6 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 11:45",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "3200-BLK 3RD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 13:40",
     "box_no": "Precinct 1",
@@ -124,10 +111,10 @@
     "street": "2500-BLK ROSETTA ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Rosetta Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5487906,
+    "lng": -77.4025396
   },
   {
     "type_general": "RPD",
@@ -163,10 +150,10 @@
     "street": "PATTERSON AVE/WILLOW LAWN DR RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Patterson Avenue",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5634214,
+    "lng": -77.4843201
   },
   {
     "type_general": "RPD",
@@ -182,19 +169,6 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 14:26",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3000-BLK MONTROSE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 14:24",
     "box_no": "Precinct 3",
@@ -206,5 +180,70 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 14:41",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "400-BLK N 3RD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 14:41",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 14:40",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3400-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 11:45",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "3200-BLK 3RD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "3rd Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5721919,
+    "lng": -77.4152452
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 14:26",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "3000-BLK MONTROSE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Montrose Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.572006,
+    "lng": -77.4399803
   }
 ]
