@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 08:26",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2600-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5543423,
-    "lng": -77.4720912
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 08:23",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -141,19 +128,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4952595,
     "lng": -77.4785319
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 08:38",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "2000-BLK E FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "FIRE",
-    "lat": 37.5327654,
-    "lng": -77.4246753
   },
   {
     "type_general": "RPD",
@@ -170,15 +144,80 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 08:36",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "dispatch_time": "11/27/2025 08:49",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 08:49",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 08:40",
+    "box_no": "Precinct 3",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "WALLACE ST/RANDOLPH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Wallace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5415381,
+    "lng": -77.4584904
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 08:46",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , PROBATION & PAROLE SERVICE - (INVESTIGATE)",
+    "street": "600-BLK WARWICK VILLAGE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Village Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.500983,
+    "lng": -77.500299
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 08:43",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "400-BLK E GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
     "location_township": "Precinct 4",
-    "lat": 37.5884889,
-    "lng": -77.4485395
+    "lat": 37.5426237,
+    "lng": -77.4389179
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 08:38",
+    "box_no": "FIRE",
+    "type_specific": "# OTHER , SINGLE COMPANY",
+    "street": "2000-BLK E FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "FIRE",
+    "lat": 37.5327654,
+    "lng": -77.4246753
   }
 ]
