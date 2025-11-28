@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 23:57",
-    "box_no": "Precinct 1",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "1300-BLK DECATUR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5193595,
-    "lng": -77.4439894
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/27/2025 23:53",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "3300-BLK PARKWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Parkwood Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5533866,
-    "lng": -77.4833169
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 23:45",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -154,5 +128,31 @@
     "location_township": "Precinct 1",
     "lat": 37.542062,
     "lng": -77.399754
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 00:04",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
+    "street": "2100-BLK CREIGHTON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Creighton Road",
+    "location_township": "FIRE",
+    "lat": 37.5447691,
+    "lng": -77.3989708
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 00:12",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2100-BLK S KINSLEY AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Kinsley Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4879247,
+    "lng": -77.4699906
   }
 ]
