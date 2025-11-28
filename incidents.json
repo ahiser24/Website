@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 14:40",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3400-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 17:05",
     "box_no": "Precinct 1",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -24,19 +11,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5400835,
     "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:04",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1800-BLK RUFFIN RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ruffin Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4795226,
-    "lng": -77.4322163
   },
   {
     "type_general": "RPD",
@@ -53,16 +27,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:24",
-    "box_no": "Precinct 4",
+    "dispatch_time": "11/27/2025 19:08",
+    "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 5TH ST/HOSPITAL ST RICH",
+    "street": "MECHANICSVILLE TPKE/T ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5497878,
-    "lng": -77.4309047
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5514699,
+    "lng": -77.4128847
   },
   {
     "type_general": "RPD",
@@ -76,6 +50,32 @@
     "location_township": "Precinct 4",
     "lat": 37.5516719,
     "lng": -77.43914
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 19:05",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 19:31",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 2",
+    "lat": 37.548532,
+    "lng": -77.4127685
   },
   {
     "type_general": "RFD",
@@ -105,71 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:08",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "MECHANICSVILLE TPKE/T ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5514699,
-    "lng": -77.4128847
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:26",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "00-BLK E LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5284359,
-    "lng": -77.4067688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:26",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "00-BLK E LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5284359,
-    "lng": -77.4067688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:26",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "00-BLK E LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5284359,
-    "lng": -77.4067688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:31",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 2",
-    "lat": 37.548532,
-    "lng": -77.4127685
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 19:33",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -182,42 +117,68 @@
     "lng": -77.4235309
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:57",
-    "box_no": "Precinct 3",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "1800-BLK IDLEWOOD AVE",
+    "type_general": "RFD",
+    "dispatch_time": "11/27/2025 20:21",
+    "box_no": "FIRE",
+    "type_specific": "# ELEVATOR INCIDENT",
+    "street": "500-BLK E BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Idlewood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.544957,
-    "lng": -77.46522
+    "nearest_intersection": "East Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5431916,
+    "lng": -77.4365125
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:36",
+    "dispatch_time": "11/27/2025 20:22",
     "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1400-BLK HOPKINS RD",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "WELFORD AVE/BROAD ROCK BLVD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chapel Drive, Southside",
+    "nearest_intersection": "Welford Avenue",
     "location_township": "Precinct 2",
-    "lat": 37.498434,
-    "lng": -77.459373
+    "lat": 37.4741481,
+    "lng": -77.4755967
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:05",
+    "dispatch_time": "11/27/2025 20:24",
     "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "0-BLK W GRACE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "nearest_intersection": "West Grace Street",
     "location_township": "Precinct 4",
-    "lat": 37.5746979,
-    "lng": -77.4644653
+    "lat": 37.551079,
+    "lng": -77.453249
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 20:39",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1700-BLK SUMMIT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Summit Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5692805,
+    "lng": -77.4694434
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 20:30",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.58494,
+    "lng": -77.4478043
   }
 ]
