@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/28/2025 02:08",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "5600-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.518679,
+    "lng": -77.502435
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/28/2025 02:07",
     "box_no": "Precinct 3",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -68,19 +81,6 @@
     "type_general": "RPD",
     "dispatch_time": "11/28/2025 02:08",
     "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "5600-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.518679,
-    "lng": -77.502435
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:08",
-    "box_no": "Precinct 3",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
     "street": "2000-BLK W CARY ST",
     "status": "Arrived",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5483622,
     "lng": -77.4665387
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 02:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "4000-BLK PARK AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Park Avenue, West End",
-    "location_township": "FIRE",
-    "lat": 37.5664674,
-    "lng": -77.4874224
   },
   {
     "type_general": "RPD",
@@ -118,16 +105,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:09",
+    "dispatch_time": "11/28/2025 02:28",
     "box_no": "Precinct 3",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "7100-BLK JAHNKE RD",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "9200-BLK STONY POINT PKWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
+    "nearest_intersection": "Stony Point Parkway",
     "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
+    "lat": 37.5503586,
+    "lng": -77.5718286
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 02:16",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "DPR",
+    "lat": 37.464094,
+    "lng": -77.442993
   },
   {
     "type_general": "RPD",
@@ -157,28 +157,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:28",
+    "dispatch_time": "11/28/2025 02:09",
     "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "9200-BLK STONY POINT PKWY",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
-    "lat": 37.5503586,
-    "lng": -77.5718286
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:16",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "4600-BLK RICHMOND HWY",
+    "dispatch_time": "11/28/2025 02:19",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "500-BLK S PINE ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "DPR",
-    "lat": 37.464094,
-    "lng": -77.442993
+    "nearest_intersection": "South Pine Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5390408,
+    "lng": -77.4506611
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 02:28",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "4000-BLK PARK AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Park Avenue, West End",
+    "location_township": "FIRE",
+    "lat": 37.5664674,
+    "lng": -77.4874224
   }
 ]
