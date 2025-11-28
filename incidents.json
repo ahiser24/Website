@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 12:56",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "500-BLK BLET BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 12:56",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "500-BLK BLET BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 13:02",
     "box_no": "Precinct 4",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -167,19 +141,6 @@
     "location_township": "Precinct 4",
     "lat": 37.544543,
     "lng": -77.449249
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 13:02",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "400-BLK HUNT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hunt Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.580697,
-    "lng": -77.4282483
   },
   {
     "type_general": "RPD",
@@ -222,16 +183,42 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/28/2025 13:31",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "4900-BLK OLD BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5998898,
+    "lng": -77.4490619
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/28/2025 12:52",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
     "street": "200-BLK N ARTHUR ASHE BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Arthur Ashe Boulevard",
     "location_township": "Precinct 3",
     "lat": 37.5560585,
     "lng": -77.4748952
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 13:21",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E 7TH ST/GORDON AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 7th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5177026,
+    "lng": -77.434251
   },
   {
     "type_general": "RFD",
@@ -245,58 +232,6 @@
     "location_township": "FIRE",
     "lat": 37.5881277,
     "lng": -77.5266766
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 13:22",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "2300-BLK MONUMENT AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "DPR",
-    "lat": 37.5575583,
-    "lng": -77.4655353
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 13:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "1800-BLK WILLIAMSBURG RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road",
-    "location_township": "FIRE",
-    "lat": 37.5158864,
-    "lng": -77.3922414
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 13:21",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E 7TH ST/GORDON AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 7th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5177026,
-    "lng": -77.434251
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 13:31",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "4900-BLK OLD BROOK RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5998898,
-    "lng": -77.4490619
   },
   {
     "type_general": "RPD",
@@ -336,5 +271,44 @@
     "location_township": "FIRE",
     "lat": 37.5284359,
     "lng": -77.4067688
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 13:40",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 13:38",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "DPR",
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 13:44",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "600-BLK W BACON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5565875,
+    "lng": -77.4412236
   }
 ]
