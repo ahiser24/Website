@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 01:19",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3300-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.5148724,
-    "lng": -77.4682198
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 01:25",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 01:20",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2100-BLK COMMERCE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4937237,
-    "lng": -77.4335138
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 01:25",
     "box_no": "Precinct 3",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -167,5 +141,31 @@
     "location_township": "Precinct 3",
     "lat": 37.549339,
     "lng": -77.465957
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 01:20",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2100-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4937237,
+    "lng": -77.4335138
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 01:46",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4200-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.591125,
+    "lng": -77.452618
   }
 ]
