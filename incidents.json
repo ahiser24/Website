@@ -70,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "1200-BLK E CLAY ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -98,7 +98,7 @@
     "street": "3400-BLK KEIGHLY RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Keighly Road",
     "location_township": "Precinct 2",
     "lat": 37.4785136,
     "lng": -77.436944
@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 18:11",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 18:26",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -157,16 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 18:12",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "7100-BLK FOREST HILL AVE",
+    "dispatch_time": "11/28/2025 18:35",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "00-BLK ASHBY WAY",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5378286,
-    "lng": -77.5260018
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -174,11 +161,24 @@
     "box_no": "Precinct 3",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
     "street": "2200-BLK MONUMENT AVE",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Monument Avenue",
     "location_township": "Precinct 3",
     "lat": 37.5565531,
     "lng": -77.4639136
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 18:12",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "7100-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5378286,
+    "lng": -77.5260018
   }
 ]
