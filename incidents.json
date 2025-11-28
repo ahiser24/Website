@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/28/2025 02:59",
+    "box_no": "Precinct 2",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "3700-BLK MCGUIRE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "McGuire Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5025027,
+    "lng": -77.4697922
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/28/2025 04:13",
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -66,16 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:59",
-    "box_no": "Precinct 2",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "3700-BLK MCGUIRE DR",
+    "dispatch_time": "11/28/2025 06:31",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2100-BLK N HAMILTON ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "McGuire Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5025027,
-    "lng": -77.4697922
+    "nearest_intersection": "North Hamilton Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5751385,
+    "lng": -77.4750168
   },
   {
     "type_general": "RPD",
@@ -83,24 +96,11 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "IRON BRIDGE RD/BROOKBURY BLVD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Iron Bridge Road",
     "location_township": "Precinct 2",
     "lat": 37.4666613,
     "lng": -77.4888188
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 05:44",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "700-BLK HOLLY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Pine Street",
-    "location_township": "Precinct 4",
-    "lat": 37.536571,
-    "lng": -77.450663
   }
 ]
