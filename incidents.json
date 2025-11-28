@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "6500-BLK PATTERSON AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Patterson Avenue, West End",
     "location_township": "Precinct 3",
@@ -37,6 +37,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5497878,
     "lng": -77.4309047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:19",
+    "box_no": "Precinct 2",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "1000-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.499523,
+    "lng": -77.4714208
   },
   {
     "type_general": "RPD",
@@ -66,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:11",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "2000-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5573327,
-    "lng": -77.4604978
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:19",
-    "box_no": "Precinct 2",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "1000-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.499523,
-    "lng": -77.4714208
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 15:51",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -102,45 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:33",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1200-BLK HICKORY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hickory Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5535876,
-    "lng": -77.4402475
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:51",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "LL(-77:27:28.2241,37:30:38.7647): EST 2802 DECATUR ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street, Southside",
-    "location_township": "Precinct 2",
-    "lng": -77.45784002777778,
-    "lat": 37.51076797222222
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 16:11",
-    "box_no": "Precinct 4",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "3800-BLK HILL MONUMENT PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hill Monument Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.584558,
-    "lng": -77.463491
   },
   {
     "type_general": "RPD",
@@ -182,19 +130,6 @@
     "lng": -77.4171675
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 16:18",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "3300-BLK KENSINGTON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Kensington Avenue",
-    "location_township": "FIRE",
-    "lat": 37.560944,
-    "lng": -77.4793239
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/28/2025 16:54",
     "box_no": "Precinct 2",
@@ -222,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 16:53",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2300-BLK 3RD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "3rd Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.562797,
-    "lng": -77.422375
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 16:57",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -247,16 +169,94 @@
     "lng": -77.4436388
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 16:51",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "6600-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5030935,
+    "lng": -77.5178344
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 16:18",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "3300-BLK KENSINGTON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Kensington Avenue",
+    "location_township": "FIRE",
+    "lat": 37.560944,
+    "lng": -77.4793239
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 17:13",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "2000-BLK NEWBOURNE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Newbourne Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549649,
+    "lng": -77.409405
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/28/2025 16:43",
     "box_no": "FIRE",
     "type_specific": "# BRUSH FIRE , GRASS",
     "street": "5300-BLK RIVERSIDE DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Riverside Drive",
     "location_township": "FIRE",
     "lat": 37.5289786,
     "lng": -77.4915014
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 17:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "600-BLK N 37TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Crestview Road",
+    "location_township": "FIRE",
+    "lat": 37.527574,
+    "lng": -77.405499
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 17:13",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "600-BLK N 37TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Crestview Road",
+    "location_township": "Precinct 1",
+    "lat": 37.527574,
+    "lng": -77.405499
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 17:15",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "4000-BLK PINEY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Piney Road",
+    "location_township": "Precinct 4",
+    "lat": 37.589734,
+    "lng": -77.4449701
   }
 ]
