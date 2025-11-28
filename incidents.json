@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 04:11",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W 42ND ST/NEW KENT AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 42nd Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5191617,
-    "lng": -77.4779409
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 04:08",
     "box_no": "Precinct 2",
     "type_specific": "STABBING , INVESTIGATE / NON-EMS",
@@ -115,5 +102,18 @@
     "location_township": "Precinct 2",
     "lat": 37.5025027,
     "lng": -77.4697922
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 04:49",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   }
 ]
