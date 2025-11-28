@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:07",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 5TH ST/HOSPITAL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5497878,
-    "lng": -77.4309047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:19",
-    "box_no": "Precinct 2",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "1000-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.499523,
-    "lng": -77.4714208
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 15:27",
     "box_no": "Precinct 1",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
@@ -78,32 +52,6 @@
     "lng": -77.486525
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 16:43",
-    "box_no": "FIRE",
-    "type_specific": "# BRUSH FIRE , GRASS",
-    "street": "5300-BLK RIVERSIDE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "FIRE",
-    "lat": 37.5289786,
-    "lng": -77.4915014
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 17:29",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "1700-BLK ROSECREST AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rosecrest Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5038492,
-    "lng": -77.4325932
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/28/2025 17:22",
     "box_no": "Precinct 4",
@@ -118,6 +66,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:19",
+    "box_no": "Precinct 2",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "1000-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.499523,
+    "lng": -77.4714208
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 16:43",
+    "box_no": "FIRE",
+    "type_specific": "# BRUSH FIRE , GRASS",
+    "street": "5300-BLK RIVERSIDE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "FIRE",
+    "lat": 37.5289786,
+    "lng": -77.4915014
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/28/2025 17:26",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -128,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5181729,
     "lng": -77.4661545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 17:39",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3800-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4725725,
-    "lng": -77.4434741
   },
   {
     "type_general": "RPD",
@@ -167,5 +128,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5692515,
     "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 17:38",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2500-BLK HADEN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Haden Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4773796,
+    "lng": -77.4411571
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 17:58",
+    "box_no": "Precinct 3",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "1600-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.547576,
+    "lng": -77.461027
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 17:58",
+    "box_no": "Precinct 3",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "1600-BLK W MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.547576,
+    "lng": -77.461027
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 17:58",
+    "box_no": "Precinct 3",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
+    "street": "4400-BLK STRATFORD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Avonmore Road",
+    "location_township": "Precinct 3",
+    "lat": 37.554719,
+    "lng": -77.539147
   }
 ]
