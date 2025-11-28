@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 01:18",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 01:25",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -156,16 +143,68 @@
     "lng": -77.4335138
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 01:46",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4200-BLK BROOK RD",
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 01:53",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5884889,
+    "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 01:57",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 01:57",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 01:55",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "2600-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.591125,
-    "lng": -77.452618
+    "lat": 37.5668206,
+    "lng": -77.4448967
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 01:55",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "2600-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5668206,
+    "lng": -77.4448967
   }
 ]
