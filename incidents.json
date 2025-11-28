@@ -14,16 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 17:43",
+    "dispatch_time": "11/27/2025 17:05",
     "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "FAIRMOUNT AVE/N 21ST ST RICH",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fairmount Avenue",
+    "nearest_intersection": "North 28th Street, East End",
     "location_township": "Precinct 1",
-    "lat": 37.5414344,
-    "lng": -77.4123118
+    "lat": 37.5400835,
+    "lng": -77.4068808
   },
   {
     "type_general": "RPD",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:04",
-    "box_no": "Precinct 4",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "900-BLK ST PAUL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint Paul Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5516719,
-    "lng": -77.43914
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 18:24",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5497878,
     "lng": -77.4309047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 19:04",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "900-BLK ST PAUL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint Paul Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5516719,
+    "lng": -77.43914
   },
   {
     "type_general": "RFD",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 19:12",
-    "box_no": "Precinct 2",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "5400-BLK HULL STREET RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4899001,
-    "lng": -77.4939365
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/27/2025 19:08",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -133,7 +120,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 19:26",
     "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "type_specific": "LARCENY , INVESTIGATE",
     "street": "00-BLK E LEIGH ST",
     "status": "Arrived",
     "cross_street": "",
@@ -146,7 +133,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 19:26",
     "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "type_specific": "LARCENY , INVESTIGATE",
     "street": "00-BLK E LEIGH ST",
     "status": "Arrived",
     "cross_street": "",
@@ -159,7 +146,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/27/2025 19:26",
     "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "type_specific": "LARCENY , INVESTIGATE",
     "street": "00-BLK E LEIGH ST",
     "status": "Arrived",
     "cross_street": "",
@@ -180,5 +167,57 @@
     "location_township": "Precinct 2",
     "lat": 37.548532,
     "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 19:33",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2300-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5292529,
+    "lng": -77.4235309
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 19:57",
+    "box_no": "Precinct 3",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "1800-BLK IDLEWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.544957,
+    "lng": -77.46522
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 19:36",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1400-BLK HOPKINS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chapel Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.498434,
+    "lng": -77.459373
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 19:05",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
   }
 ]
