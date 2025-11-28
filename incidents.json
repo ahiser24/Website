@@ -18,7 +18,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , AGGRESSIVE - EMS",
     "street": "1100-BLK CATHERINE ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Catherine Street",
     "location_township": "Precinct 4",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:09",
-    "box_no": "Precinct 3",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 02:07",
     "box_no": "Precinct 3",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -78,17 +65,17 @@
     "lng": -77.568926
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 02:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "4000-BLK PARK AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 02:09",
+    "box_no": "Precinct 3",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Park Avenue, West End",
-    "location_township": "FIRE",
-    "lat": 37.5664674,
-    "lng": -77.4874224
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -169,16 +156,68 @@
     "lng": -77.442993
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 02:55",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "500-BLK E CANAL ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 02:59",
+    "box_no": "Precinct 2",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "3700-BLK MCGUIRE DR",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "South 5th Street",
+    "nearest_intersection": "McGuire Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5025027,
+    "lng": -77.4697922
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 02:21",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 19TH ST/E BROAD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 19th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5332252,
+    "lng": -77.4259138
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 02:28",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "4000-BLK PARK AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Park Avenue, West End",
     "location_township": "FIRE",
-    "lat": 37.538635,
-    "lng": -77.441345
+    "lat": 37.5664674,
+    "lng": -77.4874224
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 03:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
+    "street": "3700-BLK MCGUIRE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "McGuire Drive, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5025027,
+    "lng": -77.4697922
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 03:05",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5514093,
+    "lng": -77.4534673
   }
 ]
