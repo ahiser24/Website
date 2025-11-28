@@ -5,25 +5,12 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
     "lat": 37.58494,
     "lng": -77.4478043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:59",
-    "box_no": "Precinct 2",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "3700-BLK MCGUIRE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "McGuire Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5025027,
-    "lng": -77.4697922
   },
   {
     "type_general": "RPD",
@@ -37,71 +24,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5864713,
     "lng": -77.5238056
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 13:40",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 12:59",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3800-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5706416,
-    "lng": -77.4793298
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 14:07",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "5000-BLK BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.6002259,
-    "lng": -77.4542662
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 14:18",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "300-BLK N MULBERRY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.555802,
-    "lng": -77.472656
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 14:18",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "300-BLK N MULBERRY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.555802,
-    "lng": -77.472656
   },
   {
     "type_general": "RPD",
@@ -131,6 +53,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/28/2025 12:59",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3800-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5706416,
+    "lng": -77.4793298
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 14:07",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "5000-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.6002259,
+    "lng": -77.4542662
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/28/2025 15:07",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -141,6 +89,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5497878,
     "lng": -77.4309047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:19",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "500-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5240062,
+    "lng": -77.4383862
   },
   {
     "type_general": "RPD",
@@ -170,6 +131,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:19",
+    "box_no": "Precinct 2",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "1000-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.499523,
+    "lng": -77.4714208
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:19",
+    "box_no": "Precinct 2",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "1000-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.499523,
+    "lng": -77.4714208
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/28/2025 15:17",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -196,55 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:19",
+    "dispatch_time": "11/28/2025 15:27",
     "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "500-BLK HULL ST",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "1900-BLK R ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street",
+    "nearest_intersection": "R Street",
     "location_township": "Precinct 1",
-    "lat": 37.5240062,
-    "lng": -77.4383862
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 15:19",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1000-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "FIRE",
-    "lat": 37.499523,
-    "lng": -77.4714208
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:19",
-    "box_no": "Precinct 2",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "1000-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.499523,
-    "lng": -77.4714208
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:19",
-    "box_no": "Precinct 2",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "1000-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.499523,
-    "lng": -77.4714208
+    "lat": 37.5431122,
+    "lng": -77.4171675
   },
   {
     "type_general": "RPD",
@@ -260,19 +208,6 @@
     "lng": -77.4731515
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:27",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "1900-BLK R ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "R Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5431122,
-    "lng": -77.4171675
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/28/2025 15:27",
     "box_no": "FIRE",
@@ -284,5 +219,18 @@
     "location_township": "FIRE",
     "lat": 37.5431122,
     "lng": -77.4171675
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:33",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1200-BLK HICKORY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hickory Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5535876,
+    "lng": -77.4402475
   }
 ]
