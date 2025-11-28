@@ -27,6 +27,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/28/2025 04:49",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/28/2025 02:13",
     "box_no": "Precinct 1",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
@@ -40,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 04:08",
+    "dispatch_time": "11/28/2025 04:13",
     "box_no": "Precinct 2",
-    "type_specific": "STABBING , INVESTIGATE / NON-EMS",
-    "street": "3900-BLK OLD HOPKINS RD",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1400-BLK MINEFEE ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Old Hopkins Road",
+    "nearest_intersection": "Minefee Street",
     "location_township": "Precinct 2",
-    "lat": 37.4677901,
-    "lng": -77.4685161
+    "lat": 37.5017706,
+    "lng": -77.4357245
   },
   {
     "type_general": "RPD",
@@ -66,71 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 04:13",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1400-BLK MINEFEE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Minefee Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5017706,
-    "lng": -77.4357245
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 04:49",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 05:49",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "LL(-77:24:56.0313,37:32:08.3508)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lng": -77.41556425,
-    "lat": 37.535652999999996
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 05:49",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "LL(-77:24:56.0313,37:32:08.3508)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lng": -77.41556425,
-    "lat": 37.535652999999996
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 05:44",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "700-BLK HOLLY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Pine Street",
-    "location_township": "Precinct 4",
-    "lat": 37.536571,
-    "lng": -77.450663
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 05:38",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -141,5 +89,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4666613,
     "lng": -77.4888188
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 05:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "700-BLK HOLLY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Pine Street",
+    "location_township": "Precinct 4",
+    "lat": 37.536571,
+    "lng": -77.450663
   }
 ]
