@@ -70,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
     "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
@@ -115,19 +115,6 @@
     "location_township": "Precinct 1",
     "lat": 37.538495,
     "lng": -77.4120703
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 10:14",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , PERSON TRAPPED",
-    "street": "1400-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "FIRE",
-    "lat": 37.545579,
-    "lng": -77.459189
   },
   {
     "type_general": "RPD",
@@ -183,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 10:36",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "2200-BLK MONUMENT AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "DPR",
-    "lat": 37.5565531,
-    "lng": -77.4639136
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 10:44",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -206,5 +180,57 @@
     "location_township": "Precinct 1",
     "lat": 37.5359716,
     "lng": -77.4121083
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 10:40",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "500-BLK W FRANKLIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "DPR",
+    "lat": 37.5468144,
+    "lng": -77.447785
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 10:49",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4961097,
+    "lng": -77.4759645
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 10:14",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , PERSON TRAPPED",
+    "street": "1400-BLK W CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "FIRE",
+    "lat": 37.545579,
+    "lng": -77.459189
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 10:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "400-BLK E 16TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street",
+    "location_township": "FIRE",
+    "lat": 37.515343,
+    "lng": -77.444039
   }
 ]
