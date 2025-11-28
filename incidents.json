@@ -70,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "FENDALL AVE/W FRITZ ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fendall Avenue, Northside",
     "location_township": "Precinct 4",
@@ -104,16 +104,29 @@
     "lng": -77.4532654
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 09:33",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "2200-BLK GORDON AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 09:43",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2100-BLK SEMMES AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5215929,
+    "lng": -77.4545457
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 09:43",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2100-BLK SEMMES AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Gordon Avenue",
-    "location_township": "FIRE",
-    "lat": 37.507166,
-    "lng": -77.444352
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5215929,
+    "lng": -77.4545457
   }
 ]
