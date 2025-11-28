@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:59",
-    "box_no": "Precinct 2",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "3700-BLK MCGUIRE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "McGuire Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5025027,
-    "lng": -77.4697922
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 04:13",
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 06:31",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2100-BLK N HAMILTON ST",
-    "status": "Enroute",
+    "dispatch_time": "11/28/2025 02:59",
+    "box_no": "Precinct 2",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "3700-BLK MCGUIRE DR",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Hamilton Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5751385,
-    "lng": -77.4750168
+    "nearest_intersection": "McGuire Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5025027,
+    "lng": -77.4697922
   },
   {
     "type_general": "RPD",
@@ -102,5 +89,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4666613,
     "lng": -77.4888188
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 06:36",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "900-BLK N MEADOW ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.55868,
+    "lng": -77.459013
   }
 ]
