@@ -81,26 +81,13 @@
     "type_general": "RPD",
     "dispatch_time": "11/28/2025 04:49",
     "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
+    "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 05:06",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2900-BLK HATHAWAY RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hathaway Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5386349,
-    "lng": -77.5200352
   }
 ]
