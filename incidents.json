@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:31",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "2900-BLK MONUMENT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5619317,
-    "lng": -77.4731515
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 15:17",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -180,6 +167,19 @@
     "location_township": "DPR",
     "lat": 37.51462,
     "lng": -77.396434
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:15",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "2600-BLK GROVE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.5543423,
+    "lng": -77.4720912
   },
   {
     "type_general": "RPD",
@@ -284,5 +284,57 @@
     "location_township": "Precinct 4",
     "lat": 37.584558,
     "lng": -77.463491
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 16:28",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1200-BLK GREYCOURT AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Greycourt Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.587353,
+    "lng": -77.451924
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 16:28",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1200-BLK GREYCOURT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greycourt Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.587353,
+    "lng": -77.451924
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:47",
+    "box_no": "Precinct 1",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "1700-BLK E CARY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5324005,
+    "lng": -77.4288141
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:45",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2600-BLK M ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.534547,
+    "lng": -77.41439
   }
 ]
