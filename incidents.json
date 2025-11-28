@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 04:49",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 02:59",
-    "box_no": "Precinct 2",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "3700-BLK MCGUIRE DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "McGuire Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5025027,
-    "lng": -77.4697922
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 07:57",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 2",
     "lat": 37.5071442,
     "lng": -77.4853454
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 02:59",
+    "box_no": "Precinct 2",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "3700-BLK MCGUIRE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "McGuire Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5025027,
+    "lng": -77.4697922
   },
   {
     "type_general": "RFD",
@@ -102,18 +89,5 @@
     "location_township": "FIRE",
     "lat": 37.5386349,
     "lng": -77.5200352
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 08:38",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5514093,
-    "lng": -77.4534673
   }
 ]
