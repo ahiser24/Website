@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 13:45",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1100-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 14:15",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -195,17 +182,17 @@
     "lng": -77.4467516
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 12:40",
-    "box_no": "FIRE",
-    "type_specific": "# BRUSH FIRE , GRASS",
-    "street": "6700-BLK PATTERSON AVE",
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 13:45",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1100-BLK CHAMBERLAYNE PKWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Patterson Avenue, West End",
-    "location_township": "FIRE",
-    "lat": 37.5881277,
-    "lng": -77.5266766
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RFD",
@@ -258,19 +245,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5172579,
     "lng": -77.404473
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 14:30",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "1100-BLK SOUTHWOOD PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Southwood Parkway, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4939666,
-    "lng": -77.4818206
   },
   {
     "type_general": "RPD",
@@ -336,5 +310,70 @@
     "location_township": "Precinct 4",
     "lat": 37.5450741,
     "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 14:37",
+    "box_no": "Precinct 2",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1600-BLK COLUMBIA ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Columbia Street",
+    "location_township": "Precinct 2",
+    "lat": 37.498291,
+    "lng": -77.444895
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 14:38",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5546,
+    "lng": -77.418318
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 14:30",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "1100-BLK SOUTHWOOD PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Southwood Parkway, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4939666,
+    "lng": -77.4818206
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 14:33",
+    "box_no": "Precinct 3",
+    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
+    "street": "700-BLK ST JOHNS WOOD DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 14:39",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1500-BLK ARMFIELD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Armfield Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4831277,
+    "lng": -77.5163942
   }
 ]
