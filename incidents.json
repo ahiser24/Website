@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 09:20",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "FENDALL AVE/W FRITZ ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fendall Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5744837,
-    "lng": -77.4360582
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 09:56",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5845486,
     "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 09:20",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "FENDALL AVE/W FRITZ ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fendall Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5744837,
+    "lng": -77.4360582
   },
   {
     "type_general": "RPD",
@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 10:32",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "5600-BLK LIMESTONE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Limestone Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.4844173,
-    "lng": -77.4944991
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 10:35",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -170,11 +157,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/28/2025 10:50",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "3300-BLK GROVE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "DPR",
+    "lat": 37.557627,
+    "lng": -77.4812077
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/28/2025 10:44",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
     "street": "900-BLK N 27TH ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 27th Street, East End",
     "location_township": "Precinct 1",
@@ -183,54 +183,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 10:40",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "500-BLK W FRANKLIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "DPR",
-    "lat": 37.5468144,
-    "lng": -77.447785
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 10:49",
+    "dispatch_time": "11/28/2025 10:53",
     "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Arrived",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "6300-BLK SWANSON RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
+    "nearest_intersection": "Swanson Road",
     "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 10:14",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , PERSON TRAPPED",
-    "street": "1400-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "FIRE",
-    "lat": 37.545579,
-    "lng": -77.459189
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 10:49",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "400-BLK E 16TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street",
-    "location_township": "FIRE",
-    "lat": 37.515343,
-    "lng": -77.444039
+    "lat": 37.4944269,
+    "lng": -77.5109339
   }
 ]
