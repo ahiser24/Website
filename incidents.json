@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 09:20",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "FENDALL AVE/W FRITZ ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fendall Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5744837,
-    "lng": -77.4360582
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 10:44",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -115,5 +102,83 @@
     "location_township": "Precinct 1",
     "lat": 37.5060193,
     "lng": -77.4421819
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 11:46",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK S BELVIDERE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 11:46",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK S BELVIDERE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 11:45",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "4700-BLK WALMSLEY BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4704251,
+    "lng": -77.4818545
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 11:48",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1500-BLK PRESSON BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Presson Boulevard",
+    "location_township": "FIRE",
+    "lat": 37.496695,
+    "lng": -77.435308
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 11:50",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "0-BLK N 4TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 4th Street",
+    "location_township": "FIRE",
+    "lat": 37.5507508,
+    "lng": -77.4313014
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 11:52",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "300-BLK GREY BIRCH DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grey Birch Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.505784,
+    "lng": -77.51754
   }
 ]
