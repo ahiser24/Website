@@ -195,19 +195,6 @@
     "lng": -77.4171675
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:31",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "2900-BLK MONUMENT AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5619317,
-    "lng": -77.4731515
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/28/2025 15:27",
     "box_no": "FIRE",
@@ -232,5 +219,70 @@
     "location_township": "Precinct 4",
     "lat": 37.5535876,
     "lng": -77.4402475
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:48",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "7500-BLK EXMOUTH DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Exmouth Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.533484,
+    "lng": -77.5341636
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:31",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "2900-BLK MONUMENT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5619317,
+    "lng": -77.4731515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:51",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:51",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:27:28.2241,37:30:38.7647): EST 2802 DECATUR ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Decatur Street, Southside",
+    "location_township": "Precinct 2",
+    "lng": -77.45784002777778,
+    "lat": 37.51076797222222
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/28/2025 15:47",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "1600-BLK ROGERS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rogers Street",
+    "location_township": "FIRE",
+    "lat": 37.5490022,
+    "lng": -77.413401
   }
 ]
