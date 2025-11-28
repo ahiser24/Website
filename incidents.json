@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:17",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "E GRACE ST/N 17TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5375801,
-    "lng": -77.4313482
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 15:19",
     "box_no": "Precinct 2",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -115,6 +102,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5535876,
     "lng": -77.4402475
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 15:51",
+    "box_no": "Precinct 4",
+    "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
+    "street": "1300-BLK ST PETER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint Peter Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5533937,
+    "lng": -77.4388408
   },
   {
     "type_general": "RPD",
@@ -196,45 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:48",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "7500-BLK EXMOUTH DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Exmouth Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.533484,
-    "lng": -77.5341636
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:51",
-    "box_no": "Precinct 4",
-    "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
-    "street": "1300-BLK ST PETER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint Peter Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5533937,
-    "lng": -77.4388408
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 16:01",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "3500-BLK GROVE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "DPR",
-    "lat": 37.5589949,
-    "lng": -77.4848348
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 15:51",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -258,19 +219,6 @@
     "location_township": "FIRE",
     "lat": 37.560944,
     "lng": -77.4793239
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 16:22",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "W BROAD ST/N ALLEN AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
   },
   {
     "type_general": "RPD",
@@ -313,28 +261,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:47",
-    "box_no": "Precinct 1",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "1700-BLK E CARY ST",
-    "status": "Enroute",
+    "dispatch_time": "11/28/2025 16:35",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "W CLAY ST/BELLEVILLE ST RICH",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5324005,
-    "lng": -77.4288141
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5529593,
+    "lng": -77.449671
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 15:45",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2600-BLK M ST",
+    "dispatch_time": "11/28/2025 16:35",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "W CLAY ST/BELLEVILLE ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 26th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.534547,
-    "lng": -77.41439
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5529593,
+    "lng": -77.449671
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 16:38",
+    "box_no": "Precinct 4",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3100-BLK W BROAD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5656688,
+    "lng": -77.4738416
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 16:22",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "W BROAD ST/N ALLEN AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467727,
+    "lng": -77.4436631
   }
 ]
