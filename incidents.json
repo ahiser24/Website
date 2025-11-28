@@ -78,32 +78,6 @@
     "lng": -77.4360582
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/28/2025 09:24",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "1000-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "FIRE",
-    "lat": 37.515436,
-    "lng": -77.524786
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/28/2025 09:31",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "0-BLK E ROBERTS ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Roberts Street, Northside",
-    "location_township": "DPR",
-    "lat": 37.5624129,
-    "lng": -77.4532654
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/28/2025 09:43",
     "box_no": "Precinct 4",
