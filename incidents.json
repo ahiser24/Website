@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 10:30",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 10:35",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -167,5 +154,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5598643,
     "lng": -77.4872671
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 10:39",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "600-BLK IDLEWOOD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.541891,
+    "lng": -77.449388
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 10:39",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "600-BLK IDLEWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.541891,
+    "lng": -77.449388
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 10:36",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "2200-BLK MONUMENT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "DPR",
+    "lat": 37.5565531,
+    "lng": -77.4639136
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 10:44",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "900-BLK N 27TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 27th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5359716,
+    "lng": -77.4121083
   }
 ]
