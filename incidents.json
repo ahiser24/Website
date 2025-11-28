@@ -195,29 +195,29 @@
     "lng": -77.4351594
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/27/2025 18:42",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1700-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.55058,
-    "lng": -77.413552
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/27/2025 18:50",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
     "street": "4200-BLK KINGCREST PKWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Kingcrest Parkway",
     "location_township": "FIRE",
     "lat": 37.5620834,
     "lng": -77.4948302
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/27/2025 18:46",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1900-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5528738,
+    "lng": -77.4124488
   }
 ]
