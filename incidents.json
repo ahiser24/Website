@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "OLD BROOK RD/AZALEA AVE RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -83,20 +83,7 @@
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "3200-BLK HANES AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hanes Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.574359,
-    "lng": -77.4351771
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 08:15",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "3200-BLK HANES AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hanes Avenue, Northside",
     "location_township": "Precinct 4",
@@ -105,15 +92,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/29/2025 07:50",
+    "dispatch_time": "11/29/2025 08:27",
     "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "400-BLK WESTOVER HILLS BLVD",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "3200-BLK HANES AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
+    "nearest_intersection": "Hanes Avenue, Northside",
     "location_township": "FIRE",
-    "lat": 37.5110515,
-    "lng": -77.488118
+    "lat": 37.574359,
+    "lng": -77.4351771
   }
 ]
