@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "OLD BROOK RD/AZALEA AVE RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 09:24",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1200-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 4",
-    "lat": 37.5397543,
-    "lng": -77.4114201
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 09:30",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -102,6 +89,32 @@
     "location_township": "Precinct 4",
     "lat": 37.5523546,
     "lng": -77.4384047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 09:52",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "2800-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.527181,
+    "lng": -77.418761
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 09:55",
+    "box_no": "Precinct 4",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1900-BLK ELMSMERE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Elmsmere Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.580343,
+    "lng": -77.4662151
   },
   {
     "type_general": "RFD",
@@ -128,5 +141,18 @@
     "location_township": "FIRE",
     "lat": 37.590816,
     "lng": -77.460162
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/29/2025 09:55",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1900-BLK ELMSMERE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Elmsmere Avenue",
+    "location_township": "FIRE",
+    "lat": 37.580343,
+    "lng": -77.4662151
   }
 ]
