@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "OLD BROOK RD/AZALEA AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -96,7 +96,7 @@
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "1600-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
@@ -117,16 +117,42 @@
     "lng": -77.4068808
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 08:43",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "4700-BLK KENSINGTON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Kensington Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5699657,
+    "lng": -77.5014661
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/29/2025 08:38",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
     "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bellevue Avenue",
     "location_township": "FIRE",
     "lat": 37.590597,
     "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 08:45",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2000-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5573327,
+    "lng": -77.4604978
   }
 ]
