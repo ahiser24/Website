@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 14:22",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W BROAD ST/N LOMBARDY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 14:40",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -130,6 +117,19 @@
     "lng": -77.4910454
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 16:06",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 2",
+    "lat": 37.548532,
+    "lng": -77.4127685
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/29/2025 12:52",
     "box_no": "FIRE",
@@ -170,32 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 16:28",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1000-BLK AZALEA AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.601975,
-    "lng": -77.450736
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 16:28",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1000-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.601975,
-    "lng": -77.450736
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 16:08",
     "box_no": "Precinct 3",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
@@ -219,19 +193,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4782054,
     "lng": -77.5056111
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 16:27",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
   },
   {
     "type_general": "RFD",
@@ -274,15 +235,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 16:06",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1700-BLK FAIRFIELD WAY",
+    "dispatch_time": "11/29/2025 16:40",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "00-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 16:27",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 16:44",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "E 17TH ST/DECATUR ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 2",
-    "lat": 37.548532,
-    "lng": -77.4127685
+    "nearest_intersection": "East 17th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5118244,
+    "lng": -77.4418366
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 16:31",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "4200-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5916148,
+    "lng": -77.4490092
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 16:23",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S MEADOW ST/W MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
   }
 ]
