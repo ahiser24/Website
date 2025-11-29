@@ -57,7 +57,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "1900-BLK REDD ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Accommodation Street",
     "location_township": "Precinct 1",
@@ -76,19 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.506154,
     "lng": -77.434326
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 13:09",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "100-BLK VIRGINIA AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Virginia Avenue, West End",
-    "location_township": "DPR",
-    "lat": 37.564164,
-    "lng": -77.506356
   },
   {
     "type_general": "RPD",
@@ -128,6 +115,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5523653,
     "lng": -77.4383838
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 13:42",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "EVERETT ST/E 9TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5133671,
+    "lng": -77.4494788
   },
   {
     "type_general": "RFD",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 13:42",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "EVERETT ST/E 9TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Everett Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5133671,
-    "lng": -77.4494788
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 13:50",
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -196,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 14:05",
-    "box_no": "Precinct 1",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "1100-BLK MOSBY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mosby Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5371525,
-    "lng": -77.4209262
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 14:14",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -258,19 +232,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5037621,
     "lng": -77.4732556
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 14:18",
-    "box_no": "Precinct 2",
-    "type_specific": "SILENT E911 CALL , WIRELESS Call",
-    "street": "LL(-77:29:05.6401,37:29:04.1747): EST 5212 BRYCE LN RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fernbrook Place, Southside",
-    "location_township": "Precinct 2",
-    "lng": -77.48490002777778,
-    "lat": 37.48449297222222
   },
   {
     "type_general": "RPD",
@@ -286,19 +247,6 @@
     "lng": -77.4456731
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 14:24",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1600-BLK 4TH AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.556334,
-    "lng": -77.425946
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/29/2025 14:22",
     "box_no": "FIRE",
@@ -312,16 +260,55 @@
     "lng": -77.443889
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/29/2025 14:22",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "W BROAD ST/N LOMBARDY ST RICH",
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 13:45",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2900-BLK HATHAWAY RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hathaway Road",
+    "location_township": "DPR",
+    "lat": 37.5386349,
+    "lng": -77.5200352
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 14:24",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1600-BLK 4TH AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "nearest_intersection": "4th Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.556334,
+    "lng": -77.425946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 14:30",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4770457,
+    "lng": -77.4856193
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 14:23",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "PHAUP ST/N 23RD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Phaup Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5509968,
+    "lng": -77.407871
   }
 ]
