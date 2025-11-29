@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "OLD BROOK RD/AZALEA AVE RICH",
-    "status": "Arrived",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -70,11 +70,24 @@
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "10200-BLK APACHE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Apache Road",
     "location_township": "Precinct 3",
     "lat": 37.551075,
     "lng": -77.581913
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 04:56",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2200-BLK GROVE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5525961,
+    "lng": -77.467072
   }
 ]
