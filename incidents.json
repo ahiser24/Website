@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "11/24/2025 14:07",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3300-BLK 2ND AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "2nd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5738696,
+    "lng": -77.4154015
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/29/2025 11:15",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -117,19 +130,6 @@
     "lng": -77.4328912
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 14:58",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "900-BLK N LOMBARDY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5563334,
-    "lng": -77.454402
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/29/2025 12:52",
     "box_no": "FIRE",
@@ -157,29 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 15:06",
-    "box_no": "Precinct 3",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "3000-BLK PARKWOOD AVE",
+    "dispatch_time": "11/29/2025 14:58",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "800-BLK BOWE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Sheppard Street",
-    "location_township": "Precinct 3",
-    "lat": 37.551835,
-    "lng": -77.479356
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 15:18",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E CANAL ST/S 2ND ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Canal Street",
+    "nearest_intersection": "Bowe Street",
     "location_township": "Precinct 4",
-    "lat": 37.5407914,
-    "lng": -77.4451185
+    "lat": 37.5557825,
+    "lng": -77.4535835
   },
   {
     "type_general": "RPD",
@@ -196,29 +183,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 15:24",
-    "box_no": "Precinct 4",
+    "dispatch_time": "11/29/2025 15:32",
+    "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S BELVIDERE ST RICH:EST LL(-77.4502,37.5313)",
+    "street": "500-BLK BELT BLVD",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5032713,
+    "lng": -77.4753936
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 15:24",
-    "box_no": "Precinct 4",
+    "dispatch_time": "11/29/2025 15:32",
+    "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S BELVIDERE ST RICH:EST LL(-77.4502,37.5313)",
+    "street": "500-BLK BELT BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5032713,
+    "lng": -77.4753936
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 15:06",
+    "box_no": "Precinct 3",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "3000-BLK PARKWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Sheppard Street",
+    "location_township": "Precinct 3",
+    "lat": 37.551835,
+    "lng": -77.479356
   },
   {
     "type_general": "RPD",
@@ -226,11 +226,24 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "German School Road",
     "location_township": "Precinct 3",
     "lat": 37.516032,
     "lng": -77.512119
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 15:30",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK S BELVIDERE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
   }
 ]
