@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 05:09",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 06:26",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -66,9 +53,22 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 06:33",
+    "dispatch_time": "11/29/2025 06:49",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "4400-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4645638,
+    "lng": -77.4274473
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 07:05",
     "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "4800-BLK OLD BROOK RD",
     "status": "Enroute",
     "cross_street": "",
@@ -79,15 +79,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 06:49",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "4400-BLK COMMERCE RD",
+    "dispatch_time": "11/29/2025 07:09",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "2800-BLK E MAIN ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4645638,
-    "lng": -77.4274473
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.527181,
+    "lng": -77.418761
   }
 ]
