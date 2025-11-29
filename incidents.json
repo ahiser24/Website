@@ -70,7 +70,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "700-BLK E MAIN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Main Street",
     "location_township": "Precinct 4",
@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 22:44",
-    "box_no": "Precinct 2",
-    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
-    "street": "2800-BLK DEEPWATER TERMINAL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Deepwater Terminal Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4859007,
-    "lng": -77.4289962
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 22:26",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -157,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/28/2025 22:48",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1100-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.5052382,
-    "lng": -77.4476466
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/28/2025 22:41",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -180,5 +154,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5398456,
     "lng": -77.4184522
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/28/2025 22:48",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1100-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.5052382,
+    "lng": -77.4476466
   }
 ]
