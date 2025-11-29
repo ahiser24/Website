@@ -91,16 +91,42 @@
     "lng": -77.4351771
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/29/2025 08:27",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "3200-BLK HANES AVE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 08:24",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1600-BLK W BROAD ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Hanes Avenue, Northside",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.554602,
+    "lng": -77.4561674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 08:33",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/29/2025 08:38",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
     "location_township": "FIRE",
-    "lat": 37.574359,
-    "lng": -77.4351771
+    "lat": 37.590597,
+    "lng": -77.464322
   }
 ]
