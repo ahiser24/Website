@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 01:49",
-    "box_no": "Precinct 4",
-    "type_specific": "CAR JACKING , JUST OCCURRED / IN-PROGESS",
-    "street": "2600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5668206,
-    "lng": -77.4448967
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 01:51",
     "box_no": "Precinct 1",
     "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
@@ -79,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 02:18",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "300-BLK E 10TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 10th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.519396,
-    "lng": -77.439755
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 02:23",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -102,19 +76,6 @@
     "location_township": "Precinct 3",
     "lat": 37.534622,
     "lng": -77.535671
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 02:30",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "LL(-77:28:29.0281,37:32:47.8428): EST 505 S DAVIS AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Davis Avenue",
-    "location_township": "Precinct 3",
-    "lng": -77.47473002777778,
-    "lat": 37.546623
   },
   {
     "type_general": "RPD",
@@ -131,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 03:02",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "6300-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5046527,
-    "lng": -77.5119423
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 03:06",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1700-BLK COLORADO AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Colorado Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5373675,
-    "lng": -77.4653188
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 03:01",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -167,5 +102,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5499277,
     "lng": -77.4485489
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 03:20",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "200-BLK N SHIELDS AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Shields Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.552869,
+    "lng": -77.467027
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/29/2025 03:12",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1500-BLK N 21ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "FIRE",
+    "lat": 37.5460125,
+    "lng": -77.4108059
   }
 ]
