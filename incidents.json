@@ -83,12 +83,25 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "5300-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
     "lat": 37.4794055,
     "lng": -77.5126339
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 06:33",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "4800-BLK OLD BROOK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5976948,
+    "lng": -77.448636
   },
   {
     "type_general": "RFD",
