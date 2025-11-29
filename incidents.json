@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 16:49",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1300-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dill Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.569893,
-    "lng": -77.417958
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 17:31",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 17:58",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516032,
-    "lng": -77.512119
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 18:18",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -128,6 +102,32 @@
     "location_township": "Precinct 3",
     "lat": 37.5760916,
     "lng": -77.4985378
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 18:19",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
+    "street": "00-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 18:24",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1400-BLK MCDONOUGH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "McDonough Street",
+    "location_township": "DPR",
+    "lat": 37.523191,
+    "lng": -77.449155
   },
   {
     "type_general": "RFD",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 18:24",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1400-BLK MCDONOUGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "McDonough Street",
-    "location_township": "DPR",
-    "lat": 37.523191,
-    "lng": -77.449155
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 18:31",
     "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -206,5 +193,31 @@
     "location_township": "Precinct 2",
     "lat": 37.5080691,
     "lng": -77.4700277
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 18:42",
+    "box_no": "Precinct 2",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4770457,
+    "lng": -77.4856193
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 18:42",
+    "box_no": "Precinct 2",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4770457,
+    "lng": -77.4856193
   }
 ]
