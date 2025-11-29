@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 05:12",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "6000-BLK GLENWAY CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Blandy Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.516347,
-    "lng": -77.508562
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 05:49",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -96,7 +83,7 @@
     "box_no": "Precinct 2",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
     "street": "1400-BLK MINEFEE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Minefee Street",
     "location_township": "Precinct 2",
