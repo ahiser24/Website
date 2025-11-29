@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/24/2025 14:07",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3300-BLK 2ND AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "2nd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5738696,
-    "lng": -77.4154015
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 11:54",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -130,6 +117,19 @@
     "lng": -77.4706195
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 16:23",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S MEADOW ST/W MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/29/2025 12:52",
     "box_no": "FIRE",
@@ -180,19 +180,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5118244,
     "lng": -77.4418366
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 16:23",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "S MEADOW ST/W MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
   },
   {
     "type_general": "RPD",
@@ -271,5 +258,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5845486,
     "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 16:43",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "1400-BLK BAINBRIDGE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "DPR",
+    "lat": 37.5205352,
+    "lng": -77.4464716
   }
 ]
