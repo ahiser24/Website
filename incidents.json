@@ -44,7 +44,7 @@
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "200-BLK E 9TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East 9th Street",
     "location_township": "Precinct 1",
@@ -135,7 +135,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "N 25TH ST/P ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 25th Street",
     "location_township": "Precinct 1",
@@ -144,15 +144,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/29/2025 09:33",
+    "dispatch_time": "11/29/2025 10:42",
     "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "4100-BLK CRESTWOOD RD",
-    "status": "Arrived",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "1300-BLK DANCE ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Crestwood Road",
+    "nearest_intersection": "Dance Street",
     "location_township": "FIRE",
-    "lat": 37.590816,
-    "lng": -77.460162
+    "lat": 37.5410917,
+    "lng": -77.4593617
   }
 ]
