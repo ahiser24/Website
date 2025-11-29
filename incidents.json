@@ -79,16 +79,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 07:43",
+    "dispatch_time": "11/29/2025 08:15",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2400-BLK 4TH AVE",
-    "status": "Arrived",
+    "street": "3200-BLK HANES AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
+    "nearest_intersection": "Hanes Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.563117,
-    "lng": -77.420663
+    "lat": 37.574359,
+    "lng": -77.4351771
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 08:15",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3200-BLK HANES AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hanes Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.574359,
+    "lng": -77.4351771
   },
   {
     "type_general": "RFD",
