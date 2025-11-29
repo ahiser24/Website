@@ -44,7 +44,7 @@
     "box_no": "Precinct 4",
     "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
     "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 17:43",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "6200-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.504361,
-    "lng": -77.509856
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 17:48",
     "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -222,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 17:51",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E MAIN ST/N 20TH ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337997,
-    "lng": -77.4291343
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 17:52",
     "box_no": "Precinct 4",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -260,19 +234,6 @@
     "lng": -77.450736
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/29/2025 17:50",
-    "box_no": "FIRE",
-    "type_specific": "# SMOKE INVESTIGATION",
-    "street": "2100-BLK PHAUP ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Phaup Street",
-    "location_township": "FIRE",
-    "lat": 37.5510819,
-    "lng": -77.407214
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/29/2025 17:48",
     "box_no": "Precinct 4",
@@ -284,6 +245,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5974284,
     "lng": -77.4498698
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 17:51",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E MAIN ST/N 20TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5337997,
+    "lng": -77.4291343
   },
   {
     "type_general": "RFD",
@@ -300,15 +274,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 17:58",
+    "dispatch_time": "11/29/2025 17:57",
     "box_no": "DPR",
-    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
-    "street": "4400-BLK FULTON ST",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2700-BLK E MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "DPR",
+    "lat": 37.527783,
+    "lng": -77.419068
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 18:07",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "5200-BLK WARWICK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4984757,
+    "lng": -77.511526
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 18:04",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4500-BLK NORBORNE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fulton Street, East End",
-    "location_township": "DPR",
-    "lat": 37.5205026,
-    "lng": -77.408689
+    "nearest_intersection": "Norborne Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.482781,
+    "lng": -77.475195
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 17:43",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "6200-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.504361,
+    "lng": -77.509856
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 18:08",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "6800-BLK FOREST HILL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.538209,
+    "lng": -77.520181
   }
 ]
