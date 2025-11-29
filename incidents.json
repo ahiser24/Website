@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 07:05",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4800-BLK OLD BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5976948,
-    "lng": -77.448636
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 09:18",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -66,29 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 09:30",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "200-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5523546,
-    "lng": -77.4384047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 09:37",
+    "dispatch_time": "11/29/2025 09:46",
     "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "00-BLK STRAWBERRY ST",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Strawberry Street",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "DPR",
-    "lat": 37.5580399,
-    "lng": -77.4648708
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -115,6 +89,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5339508,
     "lng": -77.4282558
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 10:18",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
   },
   {
     "type_general": "RFD",
