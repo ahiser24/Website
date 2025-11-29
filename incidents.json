@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
@@ -128,5 +128,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5366474,
     "lng": -77.4240552
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 03:02",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "6300-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5046527,
+    "lng": -77.5119423
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 03:06",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1700-BLK COLORADO AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Colorado Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5373675,
+    "lng": -77.4653188
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 03:01",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "800-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5499277,
+    "lng": -77.4485489
   }
 ]
