@@ -1,24 +1,11 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/27/2025 20:30",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.58494,
-    "lng": -77.4478043
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 04:18",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "OLD BROOK RD/AZALEA AVE RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -63,19 +50,6 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 12:14",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "500-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5240062,
-    "lng": -77.4383862
   },
   {
     "type_general": "RPD",
@@ -130,32 +104,6 @@
     "lng": -77.420888
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/29/2025 12:52",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "600-BLK E GRACE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/29/2025 12:52",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "600-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/29/2025 12:40",
     "box_no": "Precinct 3",
@@ -180,6 +128,32 @@
     "location_township": "Precinct 3",
     "lat": 37.5709315,
     "lng": -77.485548
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/29/2025 12:52",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "600-BLK E GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5415708,
+    "lng": -77.4366965
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/29/2025 12:52",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "600-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5415708,
+    "lng": -77.4366965
   },
   {
     "type_general": "RPD",
@@ -222,29 +196,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 13:18",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK SPRING ST",
+    "dispatch_time": "11/29/2025 13:09",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "1500-BLK NEWELL RD",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Spring Street",
-    "location_township": "Precinct 4",
-    "lat": 37.53883,
-    "lng": -77.447176
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 13:18",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "500-BLK SPRING ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Spring Street",
-    "location_township": "Precinct 4",
-    "lat": 37.53883,
-    "lng": -77.447176
+    "nearest_intersection": "Newell Road",
+    "location_township": "DPR",
+    "lat": 37.5227482,
+    "lng": -77.5066343
   },
   {
     "type_general": "RPD",
@@ -261,45 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 13:09",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1500-BLK NEWELL RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Newell Road",
-    "location_township": "DPR",
-    "lat": 37.5227482,
-    "lng": -77.5066343
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/29/2025 13:13",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "1300-BLK JENNIE SCHER RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road, East End",
-    "location_township": "FIRE",
-    "lat": 37.521475,
-    "lng": -77.40059
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 12:57",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 13:12",
     "box_no": "Precinct 2",
     "type_specific": "ASSAULT , INVESTIGATE-EMS",
@@ -310,5 +232,57 @@
     "location_township": "Precinct 2",
     "lat": 37.4923295,
     "lng": -77.481047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 12:57",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4961097,
+    "lng": -77.4759645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 13:37",
+    "box_no": "Precinct 3",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "RANDOLPH ST/KEMPER ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Randolph Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5401725,
+    "lng": -77.4614271
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/29/2025 13:35",
+    "box_no": "FIRE",
+    "type_specific": "# CHEMICAL MATERIALS , BIOHAZARD/BLOOD CLEAN UP",
+    "street": "1700-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4923295,
+    "lng": -77.481047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 13:40",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   }
 ]
