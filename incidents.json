@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 04:16",
-    "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "E GLADSTONE AVE/CLIFF AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Gladstone Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5751692,
-    "lng": -77.4266807
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 04:18",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -81,7 +68,7 @@
     "type_general": "RPD",
     "dispatch_time": "11/29/2025 05:12",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "6000-BLK GLENWAY CT",
     "status": "Arrived",
     "cross_street": "",
@@ -96,7 +83,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "BELLS RD/RICHMOND HWY RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bells Road",
     "location_township": "Precinct 2",
@@ -104,16 +91,29 @@
     "lng": -77.453612
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/29/2025 05:30",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "6700-BLK W CARNATION ST",
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 05:54",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "1400-BLK MINEFEE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Minefee Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5017706,
+    "lng": -77.4357245
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 05:54",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "5400-BLK HULL STREET RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
-    "location_township": "FIRE",
-    "lat": 37.5078326,
-    "lng": -77.5178676
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4899001,
+    "lng": -77.4939365
   }
 ]
