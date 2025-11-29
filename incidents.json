@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 04:38",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5725597,
-    "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 05:09",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
@@ -92,15 +79,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/29/2025 05:11",
+    "dispatch_time": "11/29/2025 05:30",
     "box_no": "FIRE",
-    "type_specific": "# CHEMICAL MATERIALS , SMELL OR ODOR (NO SPILL)",
-    "street": "700-BLK E FRANKLIN ST",
+    "type_specific": "",
+    "street": "6700-BLK W CARNATION ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
+    "nearest_intersection": "West Carnation Street",
     "location_township": "FIRE",
-    "lat": 37.5400871,
-    "lng": -77.4367211
+    "lat": 37.5078326,
+    "lng": -77.5178676
   }
 ]
