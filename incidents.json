@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 10:01",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 17TH ST/E BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "17th Street Farmers' Market",
-    "location_township": "Precinct 1",
-    "lat": 37.5339508,
-    "lng": -77.4282558
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 10:34",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 11:52",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "600-BLK W SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 11:54",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -131,29 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 12:03",
-    "box_no": "Precinct 2",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "RICH: @SOUTHSIDE PLAZA",
+    "dispatch_time": "11/29/2025 11:55",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "3100-BLK 3RD AVE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 12:03",
-    "box_no": "Precinct 2",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "RICH: @SOUTHSIDE PLAZA",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "3rd Avenue",
+    "location_township": "DPR",
+    "lat": 37.5709731,
+    "lng": -77.4161597
   },
   {
     "type_general": "RPD",
@@ -222,32 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 12:14",
-    "box_no": "Precinct 3",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
-    "street": "500-BLK RANDOLPH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Randolph Street",
-    "location_township": "Precinct 3",
-    "lat": 37.542091,
-    "lng": -77.460455
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/29/2025 11:55",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "3100-BLK 3RD AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "3rd Avenue",
-    "location_township": "DPR",
-    "lat": 37.5709731,
-    "lng": -77.4161597
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 12:00",
     "box_no": "Precinct 1",
     "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
@@ -258,5 +193,57 @@
     "location_township": "Precinct 1",
     "lat": 37.537263,
     "lng": -77.42238
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/29/2025 12:30",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "2200-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "FIRE",
+    "lat": 37.514084,
+    "lng": -77.450314
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 12:27",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "2100-BLK E FRANKLIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 1",
+    "lat": 37.532107,
+    "lng": -77.423896
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 12:03",
+    "box_no": "Precinct 2",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "RICH: @SOUTHSIDE PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/29/2025 12:14",
+    "box_no": "Precinct 3",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "500-BLK RANDOLPH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Randolph Street",
+    "location_township": "Precinct 3",
+    "lat": 37.542091,
+    "lng": -77.460455
   }
 ]
