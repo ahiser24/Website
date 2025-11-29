@@ -79,6 +79,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/29/2025 02:05",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "700-BLK W MARSHALL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.550004,
+    "lng": -77.446819
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/29/2025 02:14",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
