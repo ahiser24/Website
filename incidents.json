@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 14:05",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "300-BLK W CHARITY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5525386,
-    "lng": -77.4393965
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 14:15",
     "box_no": "Precinct 2",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -141,19 +128,6 @@
     "location_township": "Precinct 2",
     "lat": 37.492722,
     "lng": -77.4891674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 14:23",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "400-BLK HUNT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hunt Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.580697,
-    "lng": -77.4282483
   },
   {
     "type_general": "RPD",
@@ -180,6 +154,32 @@
     "location_township": "Precinct 2",
     "lat": 37.5063621,
     "lng": -77.4750457
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 13:44",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , CITY PROPERTY",
+    "street": "LYNHAVEN AVE/HARWOOD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Lynhaven Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.4841265,
+    "lng": -77.4411736
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 14:05",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "300-BLK W CHARITY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5525386,
+    "lng": -77.4393965
   },
   {
     "type_general": "RFD",
@@ -209,6 +209,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/30/2025 14:23",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "400-BLK HUNT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hunt Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.580697,
+    "lng": -77.4282483
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/30/2025 14:46",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -235,15 +248,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 14:52",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "TREDEGAR ST/S 7TH ST RICH",
+    "dispatch_time": "11/30/2025 15:06",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N BELVIDERE ST/MITCHELL ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Tredegar Street",
+    "nearest_intersection": "North Belvidere Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5511248,
+    "lng": -77.4451238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 15:02",
+    "box_no": "Precinct 1",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "2400-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
     "location_township": "Precinct 1",
-    "lat": 37.5340124,
-    "lng": -77.4520695
+    "lat": 37.5293872,
+    "lng": -77.4214565
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 15:11",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3200-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5666169,
+    "lng": -77.4750226
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 15:13",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "4100-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.585559,
+    "lng": -77.440752
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 15:13",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "4100-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.585559,
+    "lng": -77.440752
   }
 ]
