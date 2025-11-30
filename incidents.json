@@ -1,11 +1,24 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 01:30",
+    "dispatch_time": "11/29/2025 19:16",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 01:30",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -40,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:42",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "CHAMBERLAYNE AVE/W BROOKLAND PARK BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 10:07",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -79,16 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:52",
+    "dispatch_time": "11/30/2025 10:42",
     "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "200-BLK W GRACE ST",
-    "status": "Enroute",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "CHAMBERLAYNE AVE/W BROOKLAND PARK BLVD RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.5462078,
-    "lng": -77.4445175
+    "lat": 37.5845486,
+    "lng": -77.4473886
   },
   {
     "type_general": "RPD",
@@ -131,42 +131,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 11:27",
+    "dispatch_time": "11/30/2025 11:29",
     "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "1800-BLK FERNBROOK DR",
-    "status": "Arrived",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3600-BLK HULL ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Fernbrook Drive, Southside",
+    "nearest_intersection": "Hull Street, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.489185,
-    "lng": -77.484279
+    "lat": 37.5049607,
+    "lng": -77.4686883
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 11:26",
-    "box_no": "FIRE",
-    "type_specific": "# BRUSH FIRE , GRASS",
-    "street": "HOPKINS RD/WALMSLEY BLVD RICH",
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 11:29",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "3600-BLK HULL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hopkins Road",
-    "location_township": "FIRE",
-    "lat": 37.4671693,
-    "lng": -77.469464
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 11:26",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "00-BLK S 14TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 14th Street",
-    "location_township": "FIRE",
-    "lat": 37.5354383,
-    "lng": -77.4320295
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5049607,
+    "lng": -77.4686883
   },
   {
     "type_general": "RPD",
@@ -180,5 +167,31 @@
     "location_township": "Precinct 1",
     "lat": 37.532735,
     "lng": -77.413582
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 11:29",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "1700-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5465473,
+    "lng": -77.4123402
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 11:37",
+    "box_no": "Precinct 2",
+    "type_specific": "MAYDAY/Deputy/Officer Down , INVESTIGATE",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
   }
 ]
