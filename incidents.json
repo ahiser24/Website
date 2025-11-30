@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 09:35",
-    "box_no": "Precinct 3",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "8000-BLK AMMONETT DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Ammonett Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.537478,
-    "lng": -77.543847
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 08:42",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -79,29 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:19",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "2300-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5292529,
-    "lng": -77.4235309
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:05",
+    "dispatch_time": "11/30/2025 09:35",
     "box_no": "DPR",
-    "type_specific": "MISSING PERSON , DPR Call - Take a Report Normal (NOT Juvenile or Elderly)",
-    "street": "3200-BLK CHAMBERLAYNE AVE",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "8000-BLK AMMONETT DR",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "nearest_intersection": "Ammonett Drive",
     "location_township": "DPR",
-    "lat": 37.5754748,
-    "lng": -77.4462032
+    "lat": 37.537478,
+    "lng": -77.543847
   },
   {
     "type_general": "RFD",
@@ -118,6 +92,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/30/2025 10:48",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "600-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.532735,
+    "lng": -77.413582
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/30/2025 10:07",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -128,5 +115,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5997402,
     "lng": -77.4502625
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 10:42",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "CHAMBERLAYNE AVE/W BROOKLAND PARK BLVD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 10:46",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2100-BLK CARRINGTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carrington Street",
+    "location_township": "FIRE",
+    "lat": 37.5394511,
+    "lng": -77.4180765
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 10:52",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "200-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5462078,
+    "lng": -77.4445175
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 10:08",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4600-BLK NEW KENT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "New Kent Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.523082,
+    "lng": -77.4816007
   }
 ]
