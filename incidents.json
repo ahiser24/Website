@@ -180,18 +180,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4831277,
     "lng": -77.5163942
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 03:38",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1400-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Redd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5455254,
-    "lng": -77.4168545
   }
 ]
