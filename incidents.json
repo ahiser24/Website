@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 02:37",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "5200-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.492722,
-    "lng": -77.4891674
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 03:03",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -109,7 +96,7 @@
     "box_no": "Precinct 3",
     "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
     "street": "6200-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -118,29 +105,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 04:17",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1400-BLK MINEFEE ST",
+    "dispatch_time": "11/30/2025 04:30",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4800-BLK OLD BROOK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Minefee Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5017706,
-    "lng": -77.4357245
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5976948,
+    "lng": -77.448636
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 04:25",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "3100-BLK MEADOW BRIDGE RD",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 04:42",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5301228,
+    "lng": -77.3889896
   },
   {
     "type_general": "RFD",
@@ -167,5 +154,18 @@
     "location_township": "FIRE",
     "lat": 37.5976948,
     "lng": -77.448636
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 04:42",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "FIRE",
+    "lat": 37.5301228,
+    "lng": -77.3889896
   }
 ]
