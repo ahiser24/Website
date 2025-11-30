@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 17:41",
+    "dispatch_time": "11/30/2025 16:42",
     "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "8000-BLK AMMONETT DR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2400-BLK SHEILA LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Ammonett Drive",
+    "nearest_intersection": "Sheila Lane",
     "location_township": "DPR",
-    "lat": 37.537478,
-    "lng": -77.543847
+    "lat": 37.5363096,
+    "lng": -77.5330408
   },
   {
     "type_general": "RPD",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.519278,
     "lng": -77.4423862
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 18:31",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1700-BLK N 20TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5465473,
-    "lng": -77.4123402
   },
   {
     "type_general": "RPD",
@@ -182,6 +169,19 @@
     "lng": -77.4462243
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 18:31",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1700-BLK N 20TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5465473,
+    "lng": -77.4123402
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "11/30/2025 13:34",
     "box_no": "FIRE",
@@ -245,5 +245,18 @@
     "location_township": "FIRE",
     "lat": 37.5468144,
     "lng": -77.447785
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 18:40",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2900-BLK MOSS SIDE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Moss Side Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5705022,
+    "lng": -77.4411923
   }
 ]
