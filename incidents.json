@@ -157,15 +157,67 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/30/2025 10:35",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "0-BLK CHIPPENHAM PKWY CHES",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 10:35",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "0-BLK CHIPPENHAM PKWY CHES",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 10:37",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2500-BLK PORTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 2",
+    "lat": 37.51714,
+    "lng": -77.456796
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/30/2025 10:07",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "4900-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
     "lat": 37.5997402,
     "lng": -77.4502625
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 10:37",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "500-BLK N 2ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Clay Street",
+    "location_township": "FIRE",
+    "lat": 37.54643,
+    "lng": -77.438512
   }
 ]
