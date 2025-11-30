@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 03:03",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 01:30",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 04:06",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "6200-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5205385,
+    "lng": -77.510489
   },
   {
     "type_general": "RPD",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:07",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "2800-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.527181,
-    "lng": -77.418761
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 05:36",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC PURSUIT , OFFICER-INITIATED",
@@ -128,32 +115,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5517009,
     "lng": -77.4333866
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 04:48",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5393687,
-    "lng": -77.4376041
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:10",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "1800-BLK MACTAVISH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mactavish Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5713371,
-    "lng": -77.4703301
   },
   {
     "type_general": "RPD",
@@ -170,16 +131,68 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 04:06",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "6200-BLK JAHNKE RD",
+    "dispatch_time": "11/30/2025 06:42",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "1900-BLK ACCOMMODATION ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5478392,
+    "lng": -77.4217136
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 05:07",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "2800-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.527181,
+    "lng": -77.418761
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 06:52",
+    "box_no": "Precinct 3",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2400-BLK SHEILA LN",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Sheila Lane",
     "location_township": "Precinct 3",
-    "lat": 37.5205385,
-    "lng": -77.510489
+    "lat": 37.5363096,
+    "lng": -77.5330408
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 06:52",
+    "box_no": "Precinct 3",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2400-BLK SHEILA LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sheila Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5363096,
+    "lng": -77.5330408
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 06:49",
+    "box_no": "Precinct 2",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "1200-BLK BROAD ROCK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Deloak Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.498706,
+    "lng": -77.470527
   },
   {
     "type_general": "RFD",
@@ -204,19 +217,6 @@
     "cross_street": "",
     "nearest_intersection": "Accommodation Street",
     "location_township": "FIRE",
-    "lat": 37.5478392,
-    "lng": -77.4217136
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 06:42",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1900-BLK ACCOMMODATION ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
-    "location_township": "Precinct 1",
     "lat": 37.5478392,
     "lng": -77.4217136
   }
