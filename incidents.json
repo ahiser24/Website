@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 03:05",
-    "box_no": "Precinct 4",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "00-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 04:06",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:16",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "6000-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 05:10",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -157,16 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:36",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC PURSUIT , OFFICER-INITIATED",
-    "street": "N 2ND ST/E BAKER ST RICH",
-    "status": "Enroute",
+    "dispatch_time": "11/30/2025 05:16",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "6000-BLK HULL STREET RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 2nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5517009,
-    "lng": -77.4333866
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4794055,
+    "lng": -77.5126339
   },
   {
     "type_general": "RPD",
@@ -235,16 +209,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:45",
+    "dispatch_time": "11/30/2025 05:36",
     "box_no": "Precinct 4",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "700-BLK HOSPITAL ST",
+    "type_specific": "TRAFFIC PURSUIT , OFFICER-INITIATED",
+    "street": "N 2ND ST/E BAKER ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hospital Street",
+    "nearest_intersection": "North 2nd Street",
     "location_township": "Precinct 4",
-    "lat": 37.55119,
-    "lng": -77.426704
+    "lat": 37.5517009,
+    "lng": -77.4333866
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 06:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2100-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "FIRE",
+    "lat": 37.5514574,
+    "lng": -77.4094167
   },
   {
     "type_general": "RPD",
