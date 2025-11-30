@@ -40,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 09:19",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2800-BLK E MAIN ST",
+    "dispatch_time": "11/30/2025 09:49",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "300-BLK W CHARITY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.527181,
-    "lng": -77.418761
+    "nearest_intersection": "West Charity Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5525386,
+    "lng": -77.4393965
   },
   {
     "type_general": "RPD",
@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 09:49",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "300-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5525386,
-    "lng": -77.4393965
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:16",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "00-BLK S NANSEMOND ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Nansemond Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5541317,
-    "lng": -77.4873713
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 10:19",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -115,32 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5292529,
     "lng": -77.4235309
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:25",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3200-BLK HULL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.507008,
-    "lng": -77.4653481
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:25",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "3200-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.507008,
-    "lng": -77.4653481
   },
   {
     "type_general": "RPD",
@@ -156,58 +104,6 @@
     "lng": -77.4462032
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:35",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "0-BLK CHIPPENHAM PKWY CHES",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:35",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "0-BLK CHIPPENHAM PKWY CHES",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:37",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2500-BLK PORTER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 2",
-    "lat": 37.51714,
-    "lng": -77.456796
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 10:07",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "4900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5997402,
-    "lng": -77.4502625
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "11/30/2025 10:37",
     "box_no": "FIRE",
@@ -219,5 +115,18 @@
     "location_township": "FIRE",
     "lat": 37.54643,
     "lng": -77.438512
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 10:07",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "4900-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5997402,
+    "lng": -77.4502625
   }
 ]
