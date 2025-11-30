@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -76,19 +76,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5525386,
     "lng": -77.4393965
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 14:46",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "0-BLK N MORRIS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Morris Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5486771,
-    "lng": -77.456527
   },
   {
     "type_general": "RPD",
@@ -183,6 +170,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/30/2025 15:19",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "100-BLK W FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.544751,
+    "lng": -77.4444328
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/30/2025 15:11",
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -248,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 15:19",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "100-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.544751,
-    "lng": -77.4444328
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 15:47",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , AGGRESSIVE",
@@ -284,5 +271,70 @@
     "location_township": "FIRE",
     "lat": 37.5340124,
     "lng": -77.4520695
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 16:05",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2300-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "FIRE",
+    "lat": 37.562841,
+    "lng": -77.44829
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 16:05",
+    "box_no": "Precinct 3",
+    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
+    "street": "3000-BLK HANOVER AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Sheppard Street",
+    "location_township": "Precinct 3",
+    "lat": 37.557106,
+    "lng": -77.476421
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 16:08",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1800-BLK FERNBROOK DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fernbrook Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.489185,
+    "lng": -77.484279
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 16:15",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1500-BLK OAKHURST LN",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Oakhurst Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5214157,
+    "lng": -77.5044297
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 16:15",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "5800-BLK GROVE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue, West End",
+    "location_township": "DPR",
+    "lat": 37.5732515,
+    "lng": -77.5185083
   }
 ]
