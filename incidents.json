@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 03:05",
-    "box_no": "Precinct 4",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "00-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 01:30",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/30/2025 05:27",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2700-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5607265,
+    "lng": -77.4688272
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/30/2025 06:20",
     "box_no": "Precinct 1",
     "type_specific": "PERSON DOWN , INVESTIGATE",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.55119,
     "lng": -77.426704
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 06:13",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
   },
   {
     "type_general": "RPD",
@@ -131,16 +118,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:27",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2700-BLK W GRACE ST",
-    "status": "Enroute",
+    "dispatch_time": "11/30/2025 06:55",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "1700-BLK ELLEN RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
+    "nearest_intersection": "Ellen Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5743413,
+    "lng": -77.4672723
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 06:51",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "8000-BLK AMMONETT DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ammonett Drive",
     "location_township": "Precinct 3",
-    "lat": 37.5607265,
-    "lng": -77.4688272
+    "lat": 37.537478,
+    "lng": -77.543847
   },
   {
     "type_general": "RPD",
@@ -157,24 +157,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:35",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 06:32",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "1100-BLK ST JOHN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Saint John Street",
     "location_township": "Precinct 4",
@@ -182,42 +169,29 @@
     "lng": -77.4363957
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 06:42",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "1900-BLK ACCOMMODATION ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
-    "location_township": "FIRE",
-    "lat": 37.5478392,
-    "lng": -77.4217136
-  },
-  {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 06:51",
+    "dispatch_time": "11/30/2025 05:35",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "8000-BLK AMMONETT DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Ammonett Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.537478,
-    "lng": -77.543847
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 06:55",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1700-BLK ELLEN RD",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "600-BLK WESTOVER HILLS BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Ellen Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5743413,
-    "lng": -77.4672723
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 07:23",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "FIRE",
+    "lat": 37.516032,
+    "lng": -77.512119
   }
 ]
