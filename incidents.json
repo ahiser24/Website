@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 17:31",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "W CARNATION ST/EVERGLADES DR RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5033964,
-    "lng": -77.5173984
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 19:16",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -182,45 +169,6 @@
     "lng": -77.4333866
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 05:41",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "2600-BLK WHITCOMB ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Whitcomb Street",
-    "location_township": "FIRE",
-    "lat": 37.554568,
-    "lng": -77.413734
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 05:45",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "700-BLK HOSPITAL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hospital Street",
-    "location_township": "FIRE",
-    "lat": 37.55119,
-    "lng": -77.426704
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 05:46",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "6300-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5046527,
-    "lng": -77.5119423
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/30/2025 05:35",
     "box_no": "Precinct 3",
@@ -273,12 +221,38 @@
     "lng": -77.413734
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 05:46",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "6300-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5046527,
+    "lng": -77.5119423
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "11/30/2025 05:45",
     "box_no": "Precinct 4",
     "type_specific": "PERSON DOWN , INVESTIGATE",
     "street": "700-BLK HOSPITAL ST",
-    "status": "Enroute",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hospital Street",
+    "location_township": "Precinct 4",
+    "lat": 37.55119,
+    "lng": -77.426704
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 05:45",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "700-BLK HOSPITAL ST",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hospital Street",
     "location_township": "Precinct 4",
