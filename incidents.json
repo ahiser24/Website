@@ -66,11 +66,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "11/30/2025 03:05",
+    "box_no": "Precinct 4",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "00-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "11/30/2025 04:06",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "6200-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -118,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:10",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "1800-BLK MACTAVISH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mactavish Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5713371,
-    "lng": -77.4703301
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 05:16",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -141,6 +141,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4794055,
     "lng": -77.5126339
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 05:10",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1800-BLK MACTAVISH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mactavish Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5713371,
+    "lng": -77.4703301
   },
   {
     "type_general": "RPD",
@@ -195,17 +208,30 @@
     "lng": -77.413734
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 05:46",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "6300-BLK MIDLOTHIAN TPKE",
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 05:45",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "700-BLK HOSPITAL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
+    "nearest_intersection": "Hospital Street",
+    "location_township": "Precinct 4",
+    "lat": 37.55119,
+    "lng": -77.426704
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 06:13",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "3500-BLK MCGUIRE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "McGuire Drive, Southside",
     "location_township": "FIRE",
-    "lat": 37.5046527,
-    "lng": -77.5119423
+    "lat": 37.4992435,
+    "lng": -77.4647691
   },
   {
     "type_general": "RPD",
@@ -222,28 +248,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "11/30/2025 06:00",
+    "dispatch_time": "11/30/2025 06:15",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2100-BLK N 20TH ST",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "3600-BLK E MARSHALL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 20th Street",
+    "nearest_intersection": "East Marshall Street",
     "location_township": "FIRE",
-    "lat": 37.5514574,
-    "lng": -77.4094167
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:45",
-    "box_no": "Precinct 4",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "700-BLK HOSPITAL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hospital Street",
-    "location_township": "Precinct 4",
-    "lat": 37.55119,
-    "lng": -77.426704
+    "lat": 37.5266747,
+    "lng": -77.4077471
   }
 ]
