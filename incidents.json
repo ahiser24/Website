@@ -95,26 +95,13 @@
     "dispatch_time": "11/30/2025 03:05",
     "box_no": "Precinct 4",
     "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "400-BLK N 12TH ST",
+    "street": "00-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.54025,
-    "lng": -77.43045
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 04:00",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
-    "street": "200-BLK GREEN ACRES AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Green Acres Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5045186,
-    "lng": -77.4897395
+    "lat": 37.5467727,
+    "lng": -77.4436631
   },
   {
     "type_general": "RPD",
@@ -122,7 +109,7 @@
     "box_no": "Precinct 3",
     "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
     "street": "6200-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -135,7 +122,7 @@
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "1400-BLK MINEFEE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Minefee Street",
     "location_township": "Precinct 2",
@@ -154,5 +141,31 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 04:29",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "2200-BLK MANDALAY RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 04:36",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST POLICE , STANDBY",
+    "street": "4800-BLK OLD BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "FIRE",
+    "lat": 37.5976948,
+    "lng": -77.448636
   }
 ]
