@@ -96,7 +96,7 @@
     "box_no": "Precinct 3",
     "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
     "street": "6200-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -118,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 04:42",
+    "dispatch_time": "11/30/2025 04:36",
     "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "3500-BLK EAST RICHMOND RD",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1800-BLK E BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
+    "nearest_intersection": "East Broad Street",
     "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
+    "lat": 37.5356036,
+    "lng": -77.4247666
   },
   {
     "type_general": "RFD",
@@ -156,16 +156,42 @@
     "lng": -77.448636
   },
   {
-    "type_general": "RFD",
+    "type_general": "RPD",
     "dispatch_time": "11/30/2025 04:42",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "3500-BLK EAST RICHMOND RD",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Richmond Road",
-    "location_township": "FIRE",
+    "location_township": "Precinct 1",
     "lat": 37.5301228,
     "lng": -77.3889896
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 04:57",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1100-BLK ST JOHN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint John Street",
+    "location_township": "FIRE",
+    "lat": 37.5531273,
+    "lng": -77.4363957
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 04:57",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3600-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4752744,
+    "lng": -77.4444157
   }
 ]
