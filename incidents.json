@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 12:14",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "1200-BLK LAKEVIEW AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Lakeview Avenue",
-    "location_township": "DPR",
-    "lat": 37.5405217,
-    "lng": -77.4597311
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 12:26",
     "box_no": "Precinct 2",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4819006,
     "lng": -77.4619128
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 12:32",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1600-BLK N 23RD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.544191,
-    "lng": -77.409823
   },
   {
     "type_general": "RPD",
@@ -187,12 +161,51 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "2500-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
     "lat": 37.5657632,
     "lng": -77.4446172
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 12:32",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1600-BLK N 23RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 23rd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.544191,
+    "lng": -77.409823
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 12:22",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "W BROAD ST/N ADAMS ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 12:52",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "8000-BLK AMMONETT DR",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Ammonett Drive",
+    "location_township": "DPR",
+    "lat": 37.537478,
+    "lng": -77.543847
   },
   {
     "type_general": "RPD",
@@ -245,5 +258,44 @@
     "location_township": "Precinct 2",
     "lat": 37.493453,
     "lng": -77.505449
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 12:56",
+    "box_no": "Precinct 4",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "1200-BLK PALMYRA AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Palmyra Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.580366,
+    "lng": -77.450638
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 12:54",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2000-BLK E FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5327654,
+    "lng": -77.4246753
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 13:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "1000-BLK SHELBY DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Shelby Drive, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4982938,
+    "lng": -77.4843601
   }
 ]
