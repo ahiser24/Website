@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 02:38",
-    "box_no": "Precinct 1",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS- EMS",
-    "street": "2100-BLK N 23RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.548158,
-    "lng": -77.406396
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 03:03",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 03:11",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "5900-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4970906,
-    "lng": -77.5049472
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 03:05",
     "box_no": "Precinct 4",
     "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
@@ -193,5 +167,31 @@
     "location_township": "Precinct 4",
     "lat": 37.54025,
     "lng": -77.43045
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 03:30",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1500-BLK ARMFIELD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Armfield Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4831277,
+    "lng": -77.5163942
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 03:38",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1400-BLK MECHANICSVILLE TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Redd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5455254,
+    "lng": -77.4168545
   }
 ]
