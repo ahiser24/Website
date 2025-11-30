@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/29/2025 21:11",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "500-BLK N 1ST ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.546969,
-    "lng": -77.439411
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/29/2025 23:20",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -79,24 +66,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 02:03",
-    "box_no": "Precinct 1",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
-    "street": "100-BLK VIRGINIA ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Virginia Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5346376,
-    "lng": -77.433185
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 02:37",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "5200-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
@@ -122,7 +96,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
     "street": "400-BLK N 12TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -141,5 +115,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4831277,
     "lng": -77.5163942
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 04:00",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "200-BLK GREEN ACRES AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Green Acres Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5045186,
+    "lng": -77.4897395
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 03:56",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "5600-BLK CHARLEVOIX CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Charlevoix Court",
+    "location_township": "FIRE",
+    "lat": 37.4999424,
+    "lng": -77.5010213
   }
 ]
