@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 03:30",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1500-BLK ARMFIELD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Armfield Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4831277,
-    "lng": -77.5163942
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 04:00",
     "box_no": "Precinct 3",
     "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
@@ -130,29 +117,42 @@
     "lng": -77.4897395
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 03:56",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "5600-BLK CHARLEVOIX CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Charlevoix Court",
-    "location_township": "FIRE",
-    "lat": 37.4999424,
-    "lng": -77.5010213
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "11/30/2025 04:06",
     "box_no": "Precinct 3",
     "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
     "street": "6200-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.5205385,
     "lng": -77.510489
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 04:17",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1400-BLK MINEFEE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Minefee Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5017706,
+    "lng": -77.4357245
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "11/30/2025 04:25",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
+    "street": "3100-BLK MEADOW BRIDGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
