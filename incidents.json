@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 09:29",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "900-BLK N 29TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5348834,
-    "lng": -77.4102459
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 09:29",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "900-BLK N 29TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5348834,
-    "lng": -77.4102459
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 09:19",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -154,5 +128,31 @@
     "location_township": "Precinct 2",
     "lat": 37.5056583,
     "lng": -77.4677311
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 09:41",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "5600-BLK GERMAIN RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Germain Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.485109,
+    "lng": -77.494103
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 09:29",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "900-BLK N 29TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5348834,
+    "lng": -77.4102459
   }
 ]
