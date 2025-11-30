@@ -131,45 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 04:42",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "11/30/2025 04:57",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1100-BLK ST JOHN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "FIRE",
-    "lat": 37.5531273,
-    "lng": -77.4363957
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 05:10",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "1800-BLK MACTAVISH AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Mactavish Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5713371,
-    "lng": -77.4703301
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 04:57",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -180,5 +141,44 @@
     "location_township": "Precinct 2",
     "lat": 37.4752744,
     "lng": -77.4444157
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 05:21",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "8000-BLK AMMONETT DR",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Ammonett Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.537478,
+    "lng": -77.543847
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 05:16",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "6000-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4794055,
+    "lng": -77.5126339
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 05:10",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1800-BLK MACTAVISH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mactavish Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5713371,
+    "lng": -77.4703301
   }
 ]
