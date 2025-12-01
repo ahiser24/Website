@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 10:47",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1000-BLK E CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5420099,
-    "lng": -77.4310471
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 11:27",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -24,32 +11,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5845486,
     "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 13:29",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "E LEIGH ST/N 8TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5284359,
-    "lng": -77.4067688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 13:29",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "E LEIGH ST/N 8TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5284359,
-    "lng": -77.4067688
   },
   {
     "type_general": "RPD",
@@ -66,6 +27,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/01/2025 13:29",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "E LEIGH ST/N 8TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5284359,
+    "lng": -77.4067688
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 13:29",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "E LEIGH ST/N 8TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5284359,
+    "lng": -77.4067688
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/01/2025 13:27",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 3",
     "lat": 37.53821,
     "lng": -77.587837
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 13:35",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3100-BLK GARLAND AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Garland Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5731801,
+    "lng": -77.4340389
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 13:35",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3100-BLK GARLAND AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Garland Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5731801,
-    "lng": -77.4340389
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 13:57",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -209,6 +196,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/01/2025 14:03",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "NORTH AVE/MONTROSE AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5878395,
+    "lng": -77.4443988
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/01/2025 14:10",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -248,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 14:03",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "NORTH AVE/MONTROSE AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5878395,
-    "lng": -77.4443988
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 14:15",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -271,19 +258,6 @@
     "location_township": "DPR",
     "lat": 37.5541317,
     "lng": -77.4873713
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 14:27",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1400-BLK N 30TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "DPR",
-    "lat": 37.5385178,
-    "lng": -77.4053606
   },
   {
     "type_general": "RPD",
@@ -310,19 +284,6 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 14:34",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3200-BLK SNEAD CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Court",
-    "location_township": "FIRE",
-    "lat": 37.4748411,
-    "lng": -77.483701
   },
   {
     "type_general": "RPD",
@@ -352,15 +313,93 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 14:11",
+    "dispatch_time": "12/01/2025 14:40",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1100-BLK N 31ST ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 31st Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5355662,
+    "lng": -77.4066729
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 14:46",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "6900-BLK MARLOWE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Marlowe Road",
+    "location_township": "Precinct 3",
+    "lat": 37.515422,
+    "lng": -77.52309
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 14:46",
+    "box_no": "Precinct 3",
+    "type_specific": "ANIMAL BITE IN PROGRESS / WITH INJURIES , INVESTIGATE",
+    "street": "PATTERSON AVE/N ARTHUR ASHE BLVD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5634214,
+    "lng": -77.4843201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 14:08",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "3600-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5803545,
+    "lng": -77.4337353
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 14:27",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1400-BLK N 30TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 30th Street, East End",
+    "location_township": "DPR",
+    "lat": 37.5385178,
+    "lng": -77.4053606
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/01/2025 14:47",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "3600-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5803545,
+    "lng": -77.4337353
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 14:45",
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "3800-BLK FAUQUIER AVE",
-    "status": "Dispatched",
+    "street": "3800-BLK GREENBAY RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Laburnum Avenue, Northside",
+    "nearest_intersection": "Greenbay Road, Southside",
     "location_township": "DPR",
-    "lat": 37.584525,
-    "lng": -77.451566
+    "lat": 37.481669,
+    "lng": -77.467646
   }
 ]
