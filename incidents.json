@@ -83,25 +83,12 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "1600-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
     "lat": 37.554602,
     "lng": -77.4561674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 09:24",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "2200-BLK MONUMENT AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "DPR",
-    "lat": 37.5565531,
-    "lng": -77.4639136
   },
   {
     "type_general": "RPD",
@@ -196,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/01/2025 09:19",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "5200-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "DPR",
+    "lat": 37.492722,
+    "lng": -77.4891674
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/01/2025 09:40",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -219,32 +219,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5542042,
     "lng": -77.418396
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 09:44",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1000-BLK ST JAMES ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "FIRE",
-    "lat": 37.551762,
-    "lng": -77.436219
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 09:44",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1000-BLK ST JAMES ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "FIRE",
-    "lat": 37.551762,
-    "lng": -77.436219
   },
   {
     "type_general": "RPD",
@@ -323,5 +297,18 @@
     "location_township": "FIRE",
     "lat": 37.548532,
     "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 09:44",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1700-BLK W CARY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "DPR",
+    "lat": 37.546901,
+    "lng": -77.462883
   }
 ]
