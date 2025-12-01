@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 02:17",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N ARTHUR ASHE BLVD/W MAIN ST RICH",
+    "dispatch_time": "12/01/2025 02:27",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "100-BLK E BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5748547,
-    "lng": -77.4635584
+    "nearest_intersection": "1st Street Cycle Track",
+    "location_township": "Precinct 4",
+    "lat": 37.5452364,
+    "lng": -77.4407586
   },
   {
     "type_general": "RPD",
@@ -105,16 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 02:27",
+    "dispatch_time": "12/01/2025 02:40",
     "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "100-BLK E BROAD ST",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "3800-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "1st Street Cycle Track",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5452364,
-    "lng": -77.4407586
+    "lat": 37.5706416,
+    "lng": -77.4793298
   },
   {
     "type_general": "RPD",
@@ -122,11 +122,24 @@
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "3800-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
     "lat": 37.5706416,
     "lng": -77.4793298
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 02:49",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N ARTHUR ASHE BLVD/GROVE AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5748547,
+    "lng": -77.4635584
   }
 ]
