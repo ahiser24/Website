@@ -70,24 +70,11 @@
     "box_no": "Precinct 4",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
     "street": "100-BLK E GRACE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 1st Street",
     "location_township": "Precinct 4",
     "lat": 37.54423,
     "lng": -77.441673
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 03:18",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3000-BLK FLOYD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5549689,
-    "lng": -77.4775433
   }
 ]
