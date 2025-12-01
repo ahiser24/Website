@@ -37,5 +37,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5337178,
     "lng": -77.4328912
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 06:55",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2500-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5136902,
+    "lng": -77.4550503
   }
 ]
