@@ -46,23 +46,23 @@
     "street": "600-BLK HENRICO BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Henrico Boulevard, Northside",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5833164,
+    "lng": -77.4397948
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 09:30",
-    "box_no": "DPR",
-    "type_specific": "TRESPASSING , DPR/ADVICE",
-    "street": "1600-BLK ROGERS ST",
+    "dispatch_time": "12/01/2025 09:59",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1700-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rogers Street",
-    "location_township": "DPR",
-    "lat": 37.5490022,
-    "lng": -77.413401
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5565043,
+    "lng": -77.4586383
   },
   {
     "type_general": "RPD",
@@ -91,45 +91,6 @@
     "lng": -77.479702
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 09:59",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1700-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5565043,
-    "lng": -77.4586383
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 10:34",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "5200-BLK WEATHERFORD RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Weatherford Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4964051,
-    "lng": -77.490489
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 10:34",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "5200-BLK WEATHERFORD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Weatherford Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4964051,
-    "lng": -77.490489
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/01/2025 10:27",
     "box_no": "FIRE",
@@ -141,19 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.4644536,
     "lng": -77.4652714
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 10:05",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "3000-BLK GROVELAND AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "DPR",
-    "lat": 37.570371,
-    "lng": -77.42142
   },
   {
     "type_general": "RPD",
@@ -196,16 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 10:41",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "500-BLK E CANAL ST",
-    "status": "Enroute",
+    "dispatch_time": "12/01/2025 10:16",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "3600-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.538635,
-    "lng": -77.441345
+    "nearest_intersection": "Walton Avenue, Northside",
+    "location_township": "DPR",
+    "lat": 37.581665,
+    "lng": -77.446998
   },
   {
     "type_general": "RFD",
@@ -217,6 +165,32 @@
     "cross_street": "",
     "nearest_intersection": "South 5th Street",
     "location_township": "FIRE",
+    "lat": 37.538635,
+    "lng": -77.441345
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 10:47",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1000-BLK E CLAY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5420099,
+    "lng": -77.4310471
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 10:41",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "500-BLK E CANAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 4",
     "lat": 37.538635,
     "lng": -77.441345
   }
