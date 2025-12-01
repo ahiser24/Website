@@ -18,7 +18,7 @@
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , EMS RESPONSE",
     "street": "1200-BLK DECATUR ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Decatur Street",
     "location_township": "Precinct 1",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 16:13",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "W BROAD ST/ALLISON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 16:27",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 16:40",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "2700-BLK MONUMENT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5599388,
-    "lng": -77.4696001
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 16:31",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 16:27",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "2800-BLK HULL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "DPR",
-    "lat": 37.5114959,
-    "lng": -77.4583224
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 16:19",
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -193,6 +154,45 @@
     "location_township": "Precinct 1",
     "lat": 37.5028468,
     "lng": -77.4343407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 16:39",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "5500-BLK HULL STREET RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4794055,
+    "lng": -77.5126339
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 16:40",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "2700-BLK MONUMENT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5599388,
+    "lng": -77.4696001
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 16:27",
+    "box_no": "DPR",
+    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
+    "street": "4300-BLK WELFORD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Welford Avenue",
+    "location_township": "DPR",
+    "lat": 37.4743619,
+    "lng": -77.4754269
   },
   {
     "type_general": "RPD",
@@ -219,19 +219,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5205244,
     "lng": -77.4386505
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 17:13",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E FEDERAL ST/N 1ST ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Federal Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5520212,
-    "lng": -77.4344624
   },
   {
     "type_general": "RPD",
@@ -300,15 +287,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 17:19",
+    "dispatch_time": "12/01/2025 17:13",
     "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "2900-BLK 3RD AVE",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E FEDERAL ST/N 1ST ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Federal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5520212,
+    "lng": -77.4344624
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 17:37",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "STAPLES MILL RD/AUGUSTA AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Staples Mill Road, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5760916,
+    "lng": -77.4985378
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 17:36",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 17:35",
+    "box_no": "Precinct 4",
+    "type_specific": "ROBBERY , JUST OCCURRED/ IN-PROGRESS",
+    "street": "LL(-77:26:32.9641,37:32:47.1911): EST COALTER ST/N 18TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "3rd Avenue, Northside",
+    "nearest_intersection": "Maggie Lena Walker Memorial Plaza",
     "location_township": "Precinct 4",
-    "lat": 37.5683155,
-    "lng": -77.41837
+    "lng": -77.44249002777778,
+    "lat": 37.54644197222222
   }
 ]
