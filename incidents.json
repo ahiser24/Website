@@ -53,45 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 01:38",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "200-BLK W BAKER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Baker Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551566,
-    "lng": -77.439165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 02:31",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
-    "street": "1600-BLK COMMERCE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.506368,
-    "lng": -77.430565
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 02:31",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
-    "street": "1600-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.506368,
-    "lng": -77.430565
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 02:40",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -115,6 +76,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5706416,
     "lng": -77.4793298
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 02:31",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
+    "street": "1600-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.506368,
+    "lng": -77.430565
   },
   {
     "type_general": "RPD",
@@ -131,45 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 02:38",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1200-BLK NELSON ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5131526,
-    "lng": -77.4030988
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 02:38",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1200-BLK NELSON ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5131526,
-    "lng": -77.4030988
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 02:55",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "LL(-77:28:02.1361,37:29:05.3736): EST 2418 HOPKINS LN RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hopkins Lane, Southside",
-    "location_township": "FIRE",
-    "lng": -77.46726002777778,
-    "lat": 37.484826
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 02:55",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -180,5 +115,31 @@
     "location_township": "Precinct 2",
     "lng": -77.46726002777778,
     "lat": 37.484826
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/01/2025 02:55",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "LL(-77:28:02.1361,37:29:05.3736): EST 2418 HOPKINS LN RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hopkins Lane, Southside",
+    "location_township": "FIRE",
+    "lng": -77.46726002777778,
+    "lat": 37.484826
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 03:02",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2500-BLK NORTH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5651003,
+    "lng": -77.4334188
   }
 ]
