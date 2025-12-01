@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 05:30",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "N 22ND ST/CARRINGTON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5407315,
-    "lng": -77.4144303
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 05:45",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -40,15 +27,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 06:55",
+    "dispatch_time": "12/01/2025 07:12",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2500-BLK W TREMONT CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Tremont Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5347397,
+    "lng": -77.53732
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 06:58",
     "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2500-BLK HULL ST",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "800-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.508793,
+    "lng": -77.4480183
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 07:09",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "BELT/HULL STREET RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street",
+    "nearest_intersection": "East Belt Boulevard, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.5136902,
-    "lng": -77.4550503
+    "lat": 37.5024399,
+    "lng": -77.4740369
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 06:37",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "3600-BLK BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Laburnum Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.581592,
+    "lng": -77.450824
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/01/2025 07:09",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , PERSON TRAPPED",
+    "street": "BELT/HULL STREET RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5024399,
+    "lng": -77.4740369
   }
 ]
