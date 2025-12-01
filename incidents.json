@@ -24,57 +24,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5407315,
     "lng": -77.4144303
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 05:55",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "3000-BLK LAURELBROOK DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Laurelbrook Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4977334,
-    "lng": -77.4553186
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 06:05",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 06:22",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "300-BLK W CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "FIRE",
-    "lat": 37.5492224,
-    "lng": -77.4430642
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 06:03",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "6000-BLK WILLOW OAKS DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Willow Oaks Drive",
-    "location_township": "FIRE",
-    "lat": 37.5307603,
-    "lng": -77.5072338
   }
 ]
