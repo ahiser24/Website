@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/01/2025 04:36",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "1500-BLK STONY RUN RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stony Run Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5240873,
+    "lng": -77.3988943
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/01/2025 04:06",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -65,29 +78,42 @@
     "lng": -77.4874998
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 04:36",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "3800-BLK GLENWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Glenwood Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.526235,
-    "lng": -77.4054165
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/01/2025 04:46",
     "box_no": "FIRE",
     "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "3800-BLK GLENWOOD AVE",
-    "status": "Enroute",
+    "street": "1500-BLK STONY RUN RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Glenwood Avenue",
+    "nearest_intersection": "Stony Run Road, East End",
     "location_township": "FIRE",
-    "lat": 37.526235,
-    "lng": -77.4054165
+    "lat": 37.5240873,
+    "lng": -77.3988943
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 04:51",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53551,
+    "lng": -77.431692
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 04:48",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "300-BLK W CLAY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5492224,
+    "lng": -77.4430642
   }
 ]
