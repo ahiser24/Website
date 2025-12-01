@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 21:40",
-    "box_no": "Precinct 3",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "11/30/2025 22:05",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -89,6 +76,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5485649,
     "lng": -77.3955888
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "11/30/2025 21:40",
+    "box_no": "Precinct 3",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "6600-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5030935,
+    "lng": -77.5178344
   },
   {
     "type_general": "RPD",
@@ -141,32 +141,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5337997,
     "lng": -77.4291343
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 23:54",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2700-BLK BROAD ROCK BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4807712,
-    "lng": -77.4800812
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 23:54",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2700-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4807712,
-    "lng": -77.4800812
   },
   {
     "type_general": "RPD",
@@ -232,5 +206,57 @@
     "location_township": "Precinct 2",
     "lat": 37.483664,
     "lng": -77.505535
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 00:21",
+    "box_no": "Precinct 3",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/01/2025 00:21",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1000-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "FIRE",
+    "lat": 37.515436,
+    "lng": -77.524786
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 00:25",
+    "box_no": "Precinct 4",
+    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
+    "street": "1900-BLK ROSENEATH RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Roseneath Road",
+    "location_township": "Precinct 4",
+    "lat": 37.572899,
+    "lng": -77.4701254
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 00:25",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "100-BLK W HILL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint John Street",
+    "location_township": "Precinct 4",
+    "lat": 37.55418,
+    "lng": -77.435426
   }
 ]
