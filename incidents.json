@@ -24,5 +24,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5407315,
     "lng": -77.4144303
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 05:45",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "100-BLK S 14TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5337178,
+    "lng": -77.4328912
   }
 ]
