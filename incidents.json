@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 04:36",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "1500-BLK STONY RUN RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stony Run Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5240873,
-    "lng": -77.3988943
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 05:22",
     "box_no": "Precinct 1",
     "type_specific": "PERSON DOWN , INVESTIGATE",
@@ -70,11 +57,37 @@
     "box_no": "Precinct 1",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
     "street": "COMMERCE RD/MAURY ST RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Commerce Road",
     "location_township": "Precinct 1",
     "lat": 37.5205244,
     "lng": -77.4386505
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 05:54",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1200-BLK N 25TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5397543,
+    "lng": -77.4114201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 05:55",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "3000-BLK LAURELBROOK DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Laurelbrook Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4977334,
+    "lng": -77.4553186
   }
 ]
