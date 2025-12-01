@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 04:36",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1800-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5356036,
-    "lng": -77.4247666
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 04:06",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -66,11 +53,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/01/2025 06:05",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "6600-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5030935,
+    "lng": -77.5178344
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/01/2025 05:30",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "N 22ND ST/CARRINGTON ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 22nd Street, East End",
     "location_township": "Precinct 1",
@@ -91,25 +91,12 @@
     "lng": -77.5072338
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 06:05",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/01/2025 06:05",
     "box_no": "FIRE",
     "type_specific": "# UTILITY INCIDENT , WATER RELATED",
     "street": "0-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "FIRE",
