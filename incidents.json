@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 03:02",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2500-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5651003,
-    "lng": -77.4334188
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 03:14",
     "box_no": "Precinct 4",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
@@ -66,16 +53,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 04:05",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1200-BLK NELSON ST",
+    "dispatch_time": "12/01/2025 04:06",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "WALMSLEY BLVD/HOPKINS RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5131526,
-    "lng": -77.4030988
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4708185,
+    "lng": -77.4874998
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 03:02",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2500-BLK NORTH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5651003,
+    "lng": -77.4334188
   },
   {
     "type_general": "RPD",
@@ -105,15 +105,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 04:06",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "WALMSLEY BLVD/HOPKINS RD RICH",
-    "status": "Arrived",
+    "dispatch_time": "12/01/2025 04:33",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3200-BLK W BROAD ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4708185,
-    "lng": -77.4874998
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5666169,
+    "lng": -77.4750226
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 04:36",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LL(-77:23:56.4001,37:31:26.2019): EST 1589 STONY RUN RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stony Run Road, East End",
+    "location_township": "Precinct 1",
+    "lng": -77.39900002777779,
+    "lat": 37.523944972222225
   }
 ]
