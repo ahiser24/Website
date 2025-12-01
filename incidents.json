@@ -1,32 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 08:50",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "CITY WIDE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 08:50",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "CITY WIDE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 09:10",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -40,29 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 09:47",
+    "dispatch_time": "12/01/2025 09:34",
     "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "4700-BLK WALMSLEY BLVD",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4600-BLK SOUTHWOOD PKWY",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4704251,
-    "lng": -77.4818545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 10:26",
-    "box_no": "Precinct 3",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "6700-BLK W CARNATION ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5078326,
-    "lng": -77.5178676
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -76,19 +37,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5364177,
     "lng": -77.4409091
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 09:34",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4600-BLK SOUTHWOOD PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Southwood Parkway, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.493513,
-    "lng": -77.479702
   },
   {
     "type_general": "RPD",
@@ -111,10 +59,10 @@
     "street": "W BROAD ST/N ADAMS ST RICH",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -143,32 +91,6 @@
     "lng": -77.4853454
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 11:05",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "5100-BLK HULL STREET RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 11:05",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "5100-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/01/2025 10:53",
     "box_no": "FIRE",
@@ -176,10 +98,10 @@
     "street": "1700-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5565043,
-    "lng": -77.4586383
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -209,28 +131,106 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 10:51",
+    "dispatch_time": "12/01/2025 11:08",
     "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1400-BLK HOPKINS RD",
-    "status": "Arrived",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chapel Drive, Southside",
+    "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "DPR",
-    "lat": 37.498434,
-    "lng": -77.459373
+    "lat": 37.5140128,
+    "lng": -77.4895724
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/01/2025 11:08",
+    "dispatch_time": "12/01/2025 11:18",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , HEAT DETECTOR",
-    "street": "2200-BLK E CARY ST",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "6300-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5297586,
-    "lng": -77.4244833
+    "lat": 37.5046527,
+    "lng": -77.5119423
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 11:10",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "100-BLK S 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": 37.540525,
+    "lng": -77.442684
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 11:21",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "1800-BLK TEXAS AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Texas Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5328346,
+    "lng": -77.4696139
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 11:22",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "HULL ST/MIDLOTHIAN TPKE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4974544,
+    "lng": -77.4810279
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 11:21",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2300-BLK BETHEL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Sussex Street",
+    "location_township": "Precinct 1",
+    "lat": 37.555212,
+    "lng": -77.418447
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/01/2025 11:22",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "4100-BLK NORTH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue",
+    "location_township": "FIRE",
+    "lat": 37.585559,
+    "lng": -77.440752
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/01/2025 11:22",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , PERSON TRAPPED",
+    "street": "2600-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "FIRE",
+    "lat": 37.513339,
+    "lng": -77.456128
   }
 ]
