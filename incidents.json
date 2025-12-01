@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 03:14",
-    "box_no": "Precinct 4",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "100-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 1st Street",
-    "location_township": "Precinct 4",
-    "lat": 37.54423,
-    "lng": -77.441673
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 04:36",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -63,6 +50,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5240873,
     "lng": -77.3988943
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 04:51",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53551,
+    "lng": -77.431692
   },
   {
     "type_general": "RPD",
@@ -78,16 +78,29 @@
     "lng": -77.4874998
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 04:51",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Arrived",
+    "type_general": "RFD",
+    "dispatch_time": "12/01/2025 05:22",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "100-BLK W COMMERCE RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 14th Street",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "FIRE",
+    "lat": 37.5205244,
+    "lng": -77.4386505
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 05:22",
+    "box_no": "Precinct 1",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "100-BLK W COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
     "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
+    "lat": 37.5205244,
+    "lng": -77.4386505
   }
 ]
