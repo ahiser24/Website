@@ -14,16 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "11/30/2025 19:48",
+    "dispatch_time": "11/30/2025 21:50",
     "box_no": "Precinct 1",
-    "type_specific": "SEX OFFENSE , INVESTIGATE - EMS",
-    "street": "1800-BLK N 22ND ST",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2900-BLK RALPH BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
+    "nearest_intersection": "Ralph Boulevard",
     "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
+    "lat": 37.5485649,
+    "lng": -77.3955888
   },
   {
     "type_general": "RPD",
@@ -37,19 +37,6 @@
     "location_township": "Precinct 4",
     "lat": 37.539224,
     "lng": -77.449467
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "11/30/2025 21:50",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2900-BLK RALPH BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ralph Boulevard",
-    "location_township": "Precinct 1",
-    "lat": 37.5485649,
-    "lng": -77.3955888
   },
   {
     "type_general": "RPD",
@@ -79,28 +66,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 04:06",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "WALMSLEY BLVD/HOPKINS RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4708185,
-    "lng": -77.4874998
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 04:05",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "1200-BLK NELSON ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Nelson Street",
     "location_township": "Precinct 1",
     "lat": 37.5131526,
     "lng": -77.4030988
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 04:13",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "2800-BLK FAIRFIELD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5480463,
+    "lng": -77.4062874
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 04:11",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "S BELMONT AVE/GRAYLAND AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Belmont Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5520493,
+    "lng": -77.4809159
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/01/2025 04:06",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "WALMSLEY BLVD/HOPKINS RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4708185,
+    "lng": -77.4874998
   }
 ]
