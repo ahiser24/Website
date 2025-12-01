@@ -14,29 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 05:22",
+    "dispatch_time": "12/01/2025 05:30",
     "box_no": "Precinct 1",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "100-BLK W COMMERCE RD",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "N 22ND ST/CARRINGTON ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Commerce Road",
+    "nearest_intersection": "North 22nd Street, East End",
     "location_township": "Precinct 1",
-    "lat": 37.5205244,
-    "lng": -77.4386505
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 05:54",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1200-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5397543,
-    "lng": -77.4114201
+    "lat": 37.5407315,
+    "lng": -77.4144303
   },
   {
     "type_general": "RPD",
@@ -65,17 +52,17 @@
     "lng": -77.5178344
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 05:30",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "N 22ND ST/CARRINGTON ST RICH",
+    "type_general": "RFD",
+    "dispatch_time": "12/01/2025 06:22",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "300-BLK W CLAY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 22nd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5407315,
-    "lng": -77.4144303
+    "nearest_intersection": "West Clay Street",
+    "location_township": "FIRE",
+    "lat": 37.5492224,
+    "lng": -77.4430642
   },
   {
     "type_general": "RFD",
@@ -83,24 +70,11 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
     "street": "6000-BLK WILLOW OAKS DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Willow Oaks Drive",
     "location_township": "FIRE",
     "lat": 37.5307603,
     "lng": -77.5072338
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 06:05",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , WATER RELATED",
-    "street": "0-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5467727,
-    "lng": -77.4436631
   }
 ]
