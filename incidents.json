@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 16:20",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "2300-BLK N 29TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5472704,
-    "lng": -77.3978407
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 17:19",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -147,13 +134,13 @@
     "dispatch_time": "12/02/2025 17:21",
     "box_no": "Precinct 4",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "100-BLK W FRANKLIN ST",
+    "street": "200-BLK W BROAD ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.544751,
-    "lng": -77.4444328
+    "lat": 37.547,
+    "lng": -77.4435632
   },
   {
     "type_general": "RPD",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 16:47",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "4700-BLK N SOUTHSIDE PLZ",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 17:01",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -196,6 +170,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 16:20",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "2300-BLK N 29TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5472704,
+    "lng": -77.3978407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 16:47",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "4700-BLK N SOUTHSIDE PLZ",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 17:25",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -206,32 +206,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4819006,
     "lng": -77.4619128
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 17:38",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WESTBROOK AVE/CHAMBERLAYNE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westbrook Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5973475,
-    "lng": -77.4489426
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/02/2025 17:39",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "7500-BLK BRISBANE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brisbane Drive",
-    "location_township": "FIRE",
-    "lat": 37.54981,
-    "lng": -77.527819
   },
   {
     "type_general": "RFD",
@@ -274,32 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 17:45",
-    "box_no": "DPR",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "1000-BLK HOLLY SPRING AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Holly Spring Avenue, Southside",
-    "location_township": "DPR",
-    "lat": 37.5026212,
-    "lng": -77.459759
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 17:50",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @EXIT - POWHITE PKWY SB (FOREST HILL AVE)",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 17:46",
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -323,32 +271,6 @@
     "location_township": "Precinct 1",
     "lng": -77.41470702777778,
     "lat": 37.53719597222222
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 17:30",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "6400-BLK CLISBY RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Clisby Road",
-    "location_township": "Precinct 2",
-    "lat": 37.489858,
-    "lng": -77.5134401
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 17:49",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
   },
   {
     "type_general": "RPD",
@@ -362,5 +284,70 @@
     "location_township": "Precinct 4",
     "lat": 37.5511248,
     "lng": -77.4451238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 17:50",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RICH: @EXIT - POWHITE PKWY SB (FOREST HILL AVE)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 18:02",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "0-BLK N LAUREL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "FIRE",
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 18:02",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "0-BLK N LAUREL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "FIRE",
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 17:56",
+    "box_no": "Precinct 3",
+    "type_specific": "OCCP STRUCTURE OR VEH , JUST OCCURRED/IN-PROGESS NON-EMS",
+    "street": "6300-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5215193,
+    "lng": -77.5137851
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 17:48",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "100-BLK S 5TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.539453,
+    "lng": -77.440891
   }
 ]
