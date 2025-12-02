@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:20",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 15:02",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -118,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:27",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "RICH: @EXIT 79 - I95 SB (I64 WB / I195 SB)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 15:06",
     "box_no": "Precinct 3",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -141,45 +115,6 @@
     "location_township": "Precinct 3",
     "lat": 37.560869,
     "lng": -77.489519
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:21",
-    "box_no": "Precinct 4",
-    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
-    "street": "COLLEGE ST/E BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5388015,
-    "lng": -77.4293635
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:26",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "2500-BLK FLOYD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5528391,
-    "lng": -77.4713524
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:17",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "2100-BLK RIVERSIDE DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5241719,
-    "lng": -77.4561381
   },
   {
     "type_general": "RPD",
@@ -258,6 +193,19 @@
     "location_township": "Precinct 4",
     "lat": 37.54025,
     "lng": -77.43045
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 15:17",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "2100-BLK RIVERSIDE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5241719,
+    "lng": -77.4561381
   },
   {
     "type_general": "RPD",
@@ -429,16 +377,55 @@
     "lng": -77.4614271
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 16:48",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "2000-BLK ACCOMMODATION ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "FIRE",
+    "lat": 37.5484311,
+    "lng": -77.4188064
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "12/02/2025 16:38",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
     "street": "3800-BLK CAULDER CT",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Caulder Court, Southside",
     "location_township": "Precinct 2",
     "lat": 37.5020931,
     "lng": -77.4616758
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 16:48",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N HUGUENOT RD/CHIPPENHAM RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Huguenot Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5472915,
+    "lng": -77.5518134
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 16:49",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "200-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5462078,
+    "lng": -77.4445175
   }
 ]
