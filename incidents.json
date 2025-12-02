@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 00:48",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "900-BLK WATKINS ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.599797,
-    "lng": -77.448967
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 00:53",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -63,32 +50,6 @@
     "location_township": "Precinct 2",
     "lat": 37.468084,
     "lng": -77.428152
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 01:06",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3800-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4725725,
-    "lng": -77.4434741
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 01:06",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3800-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4725725,
-    "lng": -77.4434741
   },
   {
     "type_general": "RPD",
@@ -102,5 +63,70 @@
     "location_township": "Precinct 3",
     "lat": 37.5564183,
     "lng": -77.4595959
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:48",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "900-BLK WATKINS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.599797,
+    "lng": -77.448967
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 01:10",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "300-BLK W BAKER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5518853,
+    "lng": -77.4399743
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 01:21",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "4000-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4702608,
+    "lng": -77.4438114
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 01:21",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "4000-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4702608,
+    "lng": -77.4438114
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 01:14",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "1000-BLK HICKORY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hickory Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5526575,
+    "lng": -77.4402225
   }
 ]
