@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 15:03",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 19:50",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -76,5 +63,44 @@
     "location_township": "Precinct 2",
     "lat": 37.468084,
     "lng": -77.428152
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 01:06",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3800-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4725725,
+    "lng": -77.4434741
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 01:06",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3800-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4725725,
+    "lng": -77.4434741
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:56",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1800-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5564183,
+    "lng": -77.4595959
   }
 ]
