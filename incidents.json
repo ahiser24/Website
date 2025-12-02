@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 08:26",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 07:49",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.54457,
     "lng": -77.450508
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 08:26",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "900-BLK SLEDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.518987,
     "lng": -77.449351
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 09:02",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "3900-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.5153136,
-    "lng": -77.4482022
   },
   {
     "type_general": "RPD",
@@ -183,6 +170,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 09:21",
+    "box_no": "Precinct 3",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "5600-BLK WESTOWER DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.523818,
+    "lng": -77.50137
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 09:24",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , CITY PROPERTY",
@@ -193,19 +193,6 @@
     "location_township": "Precinct 3",
     "lat": 37.519052,
     "lng": -77.498051
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 09:21",
-    "box_no": "Precinct 3",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "5600-BLK WESTOWER DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westower Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.523818,
-    "lng": -77.50137
   },
   {
     "type_general": "RPD",
@@ -245,5 +232,96 @@
     "location_township": "Precinct 1",
     "lat": 37.5246138,
     "lng": -77.4488098
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 09:52",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "1500-BLK COALTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54623,
+    "lng": -77.419433
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 09:51",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "GREYSTONE AVE/CLOVER LN RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Greystone Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5008913,
+    "lng": -77.4752109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 09:53",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "700-BLK W FELLS ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fells Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5582353,
+    "lng": -77.4394875
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 09:58",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "100-BLK E GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 1st Street",
+    "location_township": "Precinct 4",
+    "lat": 37.54423,
+    "lng": -77.441673
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 09:58",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "100-BLK E GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 1st Street",
+    "location_township": "Precinct 4",
+    "lat": 37.54423,
+    "lng": -77.441673
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 09:54",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1800-BLK SOUTHLAWN AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Southlawn Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5028468,
+    "lng": -77.4343407
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 09:58",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "100-BLK E GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 1st Street",
+    "location_township": "FIRE",
+    "lat": 37.54423,
+    "lng": -77.441673
   }
 ]
