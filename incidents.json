@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 03:42",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1500-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54623,
+    "lng": -77.419433
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 03:30",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -63,19 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.545147,
     "lng": -77.400271
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 03:41",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "00-BLK S 13TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 13th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5357528,
-    "lng": -77.4334169
   },
   {
     "type_general": "RFD",
@@ -91,16 +91,42 @@
     "lng": -77.414427
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 04:01",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "2100-BLK N 29TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street",
+    "location_township": "FIRE",
+    "lat": 37.545147,
+    "lng": -77.400271
+  },
+  {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 03:42",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1500-BLK COALTER ST",
+    "dispatch_time": "12/02/2025 04:01",
+    "box_no": "Precinct 3",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.54623,
-    "lng": -77.419433
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 04:06",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "4000-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5722672,
+    "lng": -77.4813689
   }
 ]
