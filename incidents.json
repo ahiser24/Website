@@ -50,18 +50,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5393435,
     "lng": -77.462098
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/02/2025 06:23",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2600-BLK BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brook Road, Northside",
-    "location_township": "FIRE",
-    "lat": 37.566431,
-    "lng": -77.4492287
   }
 ]
