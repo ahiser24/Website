@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 23:01",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N HAMILTON ST/MONUMENT AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Hamilton Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5730225,
-    "lng": -77.4763556
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 21:30",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -92,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 23:20",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2600-BLK CHEATHAM ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cheatham Street",
-    "location_township": "Precinct 2",
-    "lat": 37.483697,
-    "lng": -77.446645
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 23:52",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -128,32 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 00:01",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2900-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.484409,
-    "lng": -77.445034
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 00:01",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2900-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.484409,
-    "lng": -77.445034
   },
   {
     "type_general": "RPD",
@@ -170,15 +118,67 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:05",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2800-BLK BROAD ROCK BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4801667,
+    "lng": -77.4805903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:05",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2800-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4801667,
+    "lng": -77.4805903
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 00:01",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
     "street": "1800-BLK N 30TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 30th Street, East End",
     "location_township": "Precinct 1",
     "lat": 37.5419054,
     "lng": -77.4021606
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:09",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:09",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
   }
 ]
