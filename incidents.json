@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 19:50",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "3000-BLK MOSS SIDE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Moss Side Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5720367,
-    "lng": -77.4412979
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 21:30",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -115,18 +102,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5399797,
     "lng": -77.4638057
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/02/2025 05:49",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5725597,
-    "lng": -77.4456656
   }
 ]
