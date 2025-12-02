@@ -14,16 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 06:23",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2300-BLK E CARY ST",
-    "status": "Dispatched",
+    "dispatch_time": "12/02/2025 06:42",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "DPR",
-    "lat": 37.5292529,
-    "lng": -77.4235309
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 07:49",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "700-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.54457,
-    "lng": -77.450508
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 06:42",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 08:26",
     "box_no": "Precinct 4",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.557176,
     "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 07:49",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "700-BLK W CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.54457,
+    "lng": -77.450508
   },
   {
     "type_general": "RPD",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.518987,
     "lng": -77.449351
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 08:05",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "1800-BLK FAIRFAX AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfax Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5098696,
-    "lng": -77.4419104
   },
   {
     "type_general": "RPD",
@@ -183,29 +157,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 09:06",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1300-BLK COALTER ST",
-    "status": "Dispatched",
+    "dispatch_time": "12/02/2025 09:16",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "200-BLK W MARSHALL ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5476996,
+    "lng": -77.4428649
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 09:06",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1300-BLK COALTER ST",
-    "status": "Arrived",
+    "dispatch_time": "12/02/2025 08:27",
+    "box_no": "DPR",
+    "type_specific": "SUSPICIOUS , DPR/ADVICE",
+    "street": "100-BLK S 15TH ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
+    "nearest_intersection": "South 15th Street",
+    "location_township": "DPR",
+    "lat": 37.533699,
+    "lng": -77.431349
   },
   {
     "type_general": "RPD",
@@ -219,19 +193,6 @@
     "location_township": "Precinct 3",
     "lat": 37.519052,
     "lng": -77.498051
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 09:24",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
   },
   {
     "type_general": "RPD",
@@ -271,32 +232,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5467727,
     "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 09:16",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "200-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5476996,
-    "lng": -77.4428649
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 09:34",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "200-BLK BANBURY RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Banbury Road",
-    "location_township": "DPR",
-    "lat": 37.55466,
-    "lng": -77.49427
   },
   {
     "type_general": "RPD",
