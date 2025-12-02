@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 02:25",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "600-BLK TILTON CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Shallow Way",
-    "location_township": "Precinct 2",
-    "lat": 37.499402,
-    "lng": -77.504433
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 01:40",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -79,54 +66,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 02:39",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1400-BLK CLAIBORNE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Claiborne Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5400826,
-    "lng": -77.4617077
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 03:03",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "MALVERN AVE/HANOVER AVE RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Malvern Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5709315,
-    "lng": -77.485548
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 03:03",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "MALVERN AVE/HANOVER AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Malvern Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5709315,
-    "lng": -77.485548
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 02:30",
     "box_no": "Precinct 3",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
     "street": "800-BLK FAYE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Faye Street",
     "location_township": "Precinct 3",
     "lat": 37.515106,
     "lng": -77.498958
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 03:17",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2400-BLK BURTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Pink Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.537979,
+    "lng": -77.414427
   }
 ]
