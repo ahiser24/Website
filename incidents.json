@@ -78,30 +78,17 @@
     "lng": -77.400271
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/02/2025 03:17",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "2400-BLK BURTON ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 04:01",
+    "box_no": "Precinct 3",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Pink Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.537979,
-    "lng": -77.414427
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/02/2025 04:01",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "2100-BLK N 29TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street",
-    "location_township": "FIRE",
-    "lat": 37.545147,
-    "lng": -77.400271
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -128,5 +115,18 @@
     "location_township": "FIRE",
     "lat": 37.5722672,
     "lng": -77.4813689
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 04:22",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "1500-BLK N 21ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "FIRE",
+    "lat": 37.5460125,
+    "lng": -77.4108059
   }
 ]
