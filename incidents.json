@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 21:30",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "2300-BLK ROSETTA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rosetta Street",
-    "location_township": "Precinct 1",
-    "lat": 37.548743,
-    "lng": -77.406126
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 04:01",
     "box_no": "Precinct 3",
     "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
@@ -79,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 05:36",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1300-BLK WILLIAMSBURG RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5148194,
-    "lng": -77.401305
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 06:51",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -102,5 +76,18 @@
     "location_township": "Precinct 2",
     "lat": 37.498706,
     "lng": -77.470527
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 06:54",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "E CARY ST/S 23RD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5387002,
+    "lng": -77.4393739
   }
 ]
