@@ -14,6 +14,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 05:38",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "2300-BLK CARMINE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Carmine Street",
+    "location_township": "Precinct 1",
+    "lat": 37.555794,
+    "lng": -77.418531
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 06:42",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -37,45 +50,19 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 06:47",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 06:47",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
   },
   {
     "type_general": "RPD",
     "dispatch_time": "12/02/2025 06:51",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1200-BLK BROAD ROCK BLVD",
+    "street": "WARWICK RD/HULL STREET RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Deloak Avenue, Southside",
+    "nearest_intersection": "Warwick Road",
     "location_township": "Precinct 2",
-    "lat": 37.498706,
-    "lng": -77.470527
+    "lat": 37.4930304,
+    "lng": -77.4887357
   },
   {
     "type_general": "RPD",
@@ -89,5 +76,70 @@
     "location_township": "Precinct 1",
     "lat": 37.5387002,
     "lng": -77.4393739
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 06:48",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 07:06",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "3900-BLK P ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "P Street",
+    "location_township": "Precinct 1",
+    "lat": 37.530261,
+    "lng": -77.400766
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 07:06",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "3900-BLK P ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "P Street",
+    "location_township": "Precinct 1",
+    "lat": 37.530261,
+    "lng": -77.400766
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 07:14",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1400-BLK JENNIE SCHER RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5226217,
+    "lng": -77.3994575
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 07:14",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1400-BLK JENNIE SCHER RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5226217,
+    "lng": -77.3994575
   }
 ]
