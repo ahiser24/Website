@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 23:31",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1800-BLK N 22ND ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "DPR",
-    "lat": 37.5466404,
-    "lng": -77.4092602
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 23:40",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "900-BLK NORTON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Norton Street",
-    "location_township": "Precinct 4",
-    "lat": 37.554898,
-    "lng": -77.451161
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/01/2025 23:20",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -157,42 +131,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 23:51",
-    "box_no": "Precinct 4",
-    "type_specific": "OVERDOSE/POISONING , ALS Not Alert",
-    "street": "700-BLK W CARY ST",
-    "status": "Enroute",
+    "dispatch_time": "12/02/2025 00:01",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.54457,
-    "lng": -77.450508
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 23:51",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1600-BLK GLENFIELD AVE",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:01",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Glenfield Avenue",
-    "location_township": "FIRE",
-    "lat": 37.506154,
-    "lng": -77.434326
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/01/2025 23:51",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "1600-BLK GLENFIELD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Glenfield Avenue",
-    "location_township": "FIRE",
-    "lat": 37.506154,
-    "lng": -77.434326
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
   },
   {
     "type_general": "RPD",
@@ -206,5 +167,18 @@
     "location_township": "Precinct 1",
     "lat": 37.506154,
     "lng": -77.434326
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:01",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "1800-BLK N 30TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 30th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5419054,
+    "lng": -77.4021606
   }
 ]
