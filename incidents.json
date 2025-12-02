@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 01:42",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "1400-BLK ST PETER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint Peter Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5534074,
-    "lng": -77.4385965
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 02:28",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -70,12 +57,25 @@
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
     "street": "2100-BLK N 29TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 29th Street",
     "location_township": "Precinct 1",
     "lat": 37.545147,
     "lng": -77.400271
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 03:41",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "00-BLK S 13TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 13th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5357528,
+    "lng": -77.4334169
   },
   {
     "type_general": "RFD",
@@ -91,16 +91,16 @@
     "lng": -77.414427
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/02/2025 03:38",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "300-BLK NORCROFT CIR",
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 03:42",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1500-BLK COALTER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Norcroft Circle",
-    "location_township": "FIRE",
-    "lat": 37.5126503,
-    "lng": -77.4826702
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54623,
+    "lng": -77.419433
   }
 ]
