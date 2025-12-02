@@ -40,54 +40,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/01/2025 23:52",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 23:52",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/01/2025 23:17",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1300-BLK MINEFEE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Minefee Street",
-    "location_township": "Precinct 2",
-    "lat": 37.503846,
-    "lng": -77.43571
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 00:30",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fairfield Way",
     "location_township": "Precinct 1",
     "lat": 37.548532,
     "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 00:43",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1800-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5595952,
+    "lng": -77.4428004
   }
 ]
