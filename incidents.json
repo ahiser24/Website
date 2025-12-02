@@ -40,6 +40,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 14:58",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "0-BLK W CHARITY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5524286,
+    "lng": -77.4397449
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 13:52",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -50,19 +63,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5442536,
     "lng": -77.4397407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 14:34",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "5800-BLK ORCUTT LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4829472,
-    "lng": -77.4998228
   },
   {
     "type_general": "RPD",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 14:58",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "0-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5524286,
-    "lng": -77.4397449
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 15:02",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -128,6 +115,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5720587,
     "lng": -77.4183407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 15:27",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "3100-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5656688,
+    "lng": -77.4738416
   },
   {
     "type_general": "RPD",
@@ -182,71 +182,6 @@
     "lng": -77.4713524
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:27",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "3100-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5656688,
-    "lng": -77.4738416
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:36",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "5600-BLK ORCUTT LN",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4820498,
-    "lng": -77.4957518
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:36",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "5600-BLK ORCUTT LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4820498,
-    "lng": -77.4957518
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:38",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:38",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/02/2025 15:27",
     "box_no": "FIRE",
@@ -256,32 +191,6 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:50",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @EXIT 74C - I95 SB (BROAD ST)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 15:50",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @EXIT 74C - I95 SB (BROAD ST)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
     "lat": null,
     "lng": null
   },
@@ -390,19 +299,6 @@
     "lng": -77.4333415
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/02/2025 16:01",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "2500-BLK KENSINGTON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Kensington Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5571519,
-    "lng": -77.468911
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/02/2025 16:03",
     "box_no": "Precinct 2",
@@ -443,16 +339,94 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 16:01",
+    "dispatch_time": "12/02/2025 16:04",
     "box_no": "Precinct 3",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "2500-BLK KENSINGTON AVE",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2900-BLK WESTGATE DR",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Kensington Avenue",
+    "nearest_intersection": "Westgate Drive",
     "location_township": "Precinct 3",
-    "lat": 37.5571519,
-    "lng": -77.468911
+    "lat": 37.5361662,
+    "lng": -77.5749479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 16:13",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S 9TH ST/E CANAL ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South 9th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5354551,
+    "lng": -77.4394569
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 15:38",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 16:18",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1300-BLK BLACKROCK DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Blackrock Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.519988,
+    "lng": -77.517726
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 15:36",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "5600-BLK ORCUTT LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4820498,
+    "lng": -77.4957518
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 16:25",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "2100-BLK FAIRFIELD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.548153,
+    "lng": -77.409036
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 16:25",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4000-BLK CRUTCHFIELD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Roanoke Street",
+    "location_township": "Precinct 3",
+    "lat": 37.512032,
+    "lng": -77.475272
   },
   {
     "type_general": "RFD",
@@ -469,15 +443,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/02/2025 16:12",
+    "dispatch_time": "12/02/2025 16:22",
     "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , WIRES DOWN (NO FIRE)",
-    "street": "4700-BLK W FRANKLIN ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
+    "street": "1200-BLK GREENVILLE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Franklin Street, West End",
+    "nearest_intersection": "Greenville Avenue",
     "location_township": "FIRE",
-    "lat": 37.5723046,
-    "lng": -77.4968865
+    "lat": 37.5393014,
+    "lng": -77.4695221
   }
 ]
