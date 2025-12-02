@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 01:40",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1800-BLK N 30TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5419054,
-    "lng": -77.4021606
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 02:28",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -78,6 +65,19 @@
     "lng": -77.498958
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 03:30",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2100-BLK N 29TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.545147,
+    "lng": -77.400271
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/02/2025 03:17",
     "box_no": "FIRE",
@@ -89,5 +89,18 @@
     "location_township": "FIRE",
     "lat": 37.537979,
     "lng": -77.414427
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/02/2025 03:38",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "300-BLK NORCROFT CIR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Norcroft Circle",
+    "location_township": "FIRE",
+    "lat": 37.5126503,
+    "lng": -77.4826702
   }
 ]
