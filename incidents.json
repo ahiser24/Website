@@ -102,18 +102,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4972912,
     "lng": -77.5005953
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 03:28",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4500-BLK SULGRAVE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sulgrave Road",
-    "location_township": "Precinct 3",
-    "lat": 37.555756,
-    "lng": -77.505112
   }
 ]
