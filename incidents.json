@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 08:46",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "2400-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 10:34",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -24,45 +11,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5511248,
     "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:47",
-    "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "4900-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5820472,
-    "lng": -77.4934603
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:36",
-    "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "4900-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5820472,
-    "lng": -77.4934603
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 13:27",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
   },
   {
     "type_general": "RPD",
@@ -79,6 +27,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:47",
+    "box_no": "Precinct 3",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "4900-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5820472,
+    "lng": -77.4934603
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 13:38",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -89,6 +50,32 @@
     "location_township": "Precinct 2",
     "lat": 37.5153136,
     "lng": -77.4482022
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:36",
+    "box_no": "Precinct 3",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "4900-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5820472,
+    "lng": -77.4934603
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 13:59",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RUFFIN RD/RICHMOND HWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ruffin Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4795889,
+    "lng": -77.4375534
   },
   {
     "type_general": "RPD",
@@ -118,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 13:59",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RUFFIN RD/RICHMOND HWY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ruffin Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4795889,
-    "lng": -77.4375534
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 14:19",
     "box_no": "Precinct 1",
     "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
@@ -141,19 +115,6 @@
     "location_township": "Precinct 1",
     "lat": 37.509479,
     "lng": -77.446665
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:38",
-    "box_no": "Precinct 1",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "1000-BLK N 20TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.540634,
-    "lng": -77.417522
   },
   {
     "type_general": "RPD",
@@ -183,11 +144,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:45",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Admiral Gravely Boulevard, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.520445,
+    "lng": -77.40241
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 14:03",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "5300-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
@@ -208,29 +182,68 @@
     "lng": -77.450314
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/03/2025 14:38",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "1000-BLK N 20TH ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:58",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "400-BLK N ROBINSON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 20th Street",
-    "location_township": "FIRE",
-    "lat": 37.540634,
-    "lng": -77.417522
+    "nearest_intersection": "North Robinson Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5565704,
+    "lng": -77.4707752
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:45",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
+    "dispatch_time": "12/03/2025 15:01",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "100-BLK BELT BLVD",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Admiral Gravely Boulevard, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.520445,
-    "lng": -77.40241
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5071442,
+    "lng": -77.4853454
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:01",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "100-BLK BELT BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5071442,
+    "lng": -77.4853454
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:00",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2500-BLK STUART AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stuart Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5561292,
+    "lng": -77.4695596
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:03",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "500-BLK W FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5468144,
+    "lng": -77.447785
   }
 ]
