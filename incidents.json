@@ -40,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 06:32",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "100-BLK W LEIGH ST",
+    "dispatch_time": "12/03/2025 06:40",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "5700-BLK THORNDALE LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5494799,
-    "lng": -77.4406219
+    "nearest_intersection": "Thorndale Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5206297,
+    "lng": -77.5012375
   },
   {
     "type_general": "RPD",
@@ -57,7 +57,7 @@
     "box_no": "Precinct 2",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
     "street": "5300-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
@@ -70,25 +70,12 @@
     "box_no": "Precinct 2",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
     "street": "1100-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
     "lat": 37.5052382,
     "lng": -77.4476466
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/03/2025 05:32",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "6300-BLK POWHITE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Powhite Parkway",
-    "location_township": "FIRE",
-    "lat": 37.531117,
-    "lng": -77.514346
   },
   {
     "type_general": "RPD",
@@ -117,19 +104,6 @@
     "lng": -77.4004155
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 06:46",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "LL(-77:32:56.7961,37:33:04.3775): EST 4035 N HUGUENOT RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Huguenot Road",
-    "location_township": "Precinct 3",
-    "lng": -77.54911002777777,
-    "lat": 37.55121597222222
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/03/2025 06:47",
     "box_no": "FIRE",
@@ -144,15 +118,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 06:44",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4000-BLK MOSS SIDE AVE",
+    "dispatch_time": "12/03/2025 06:46",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LL(-77:32:56.7961,37:33:04.3775): EST 4035 N HUGUENOT RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rex Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.588198,
-    "lng": -77.440505
+    "nearest_intersection": "North Huguenot Road",
+    "location_township": "Precinct 3",
+    "lng": -77.54911002777777,
+    "lat": 37.55121597222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 06:47",
+    "box_no": "Precinct 1",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1200-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5379459,
+    "lng": -77.408927
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 07:10",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 07:10",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
   }
 ]
