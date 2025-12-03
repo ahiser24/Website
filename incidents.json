@@ -157,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:12",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "MAPLE SHADE LN/ROSEDALE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maple Shade Lane",
-    "location_township": "Precinct 4",
-    "lat": 37.5819409,
-    "lng": -77.4655021
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 13:27",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 13:17",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -196,16 +170,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:14",
+    "dispatch_time": "12/03/2025 13:27",
     "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "STAPLES MILL RD/W BROAD ST RICH",
-    "status": "Enroute",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "6600-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Staples Mill Road, West End",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
-    "lat": 37.5760916,
-    "lng": -77.4985378
+    "lat": 37.5030935,
+    "lng": -77.5178344
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:14",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "100-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.5464347,
+    "lng": -77.4427708
   },
   {
     "type_general": "RPD",
@@ -235,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:24",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1700-BLK W 42ND ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "New Kent Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.521085,
-    "lng": -77.476606
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 14:30",
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -271,19 +245,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5127565,
     "lng": -77.4541845
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/03/2025 14:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "2500-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5618681,
-    "lng": -77.4650329
   },
   {
     "type_general": "RPD",
@@ -297,5 +258,83 @@
     "location_township": "Precinct 3",
     "lat": 37.5618681,
     "lng": -77.4650329
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:37",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1200-BLK BROAD ROCK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Deloak Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.498706,
+    "lng": -77.470527
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:34",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "4500-BLK NEW KENT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "New Kent Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5224149,
+    "lng": -77.4804369
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:38",
+    "box_no": "Precinct 1",
+    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
+    "street": "1000-BLK N 20TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.540634,
+    "lng": -77.417522
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:24",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1700-BLK W 42ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "New Kent Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.521085,
+    "lng": -77.476606
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/03/2025 14:38",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
+    "street": "1000-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "FIRE",
+    "lat": 37.540634,
+    "lng": -77.417522
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:37",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , CITY PROPERTY",
+    "street": "2200-BLK COLUMBIA ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Columbia Street",
+    "location_township": "Precinct 2",
+    "lat": 37.49122,
+    "lng": -77.443453
   }
 ]
