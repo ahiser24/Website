@@ -144,29 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:35",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "3200-BLK SEMINARY AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Seminary Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.5753104,
-    "lng": -77.4480492
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:38",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "400-BLK BELT BLVD",
+    "dispatch_time": "12/03/2025 15:47",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "2900-BLK HATHAWAY RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504277,
-    "lng": -77.4768127
+    "nearest_intersection": "Hathaway Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5386349,
+    "lng": -77.5200352
   },
   {
     "type_general": "RPD",
@@ -180,6 +167,19 @@
     "location_township": "Precinct 2",
     "lat": 37.5012106,
     "lng": -77.4784074
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:53",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 4",
+    "lat": 37.548532,
+    "lng": -77.4127685
   },
   {
     "type_general": "RPD",
@@ -222,32 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:47",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "2900-BLK HATHAWAY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hathaway Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5386349,
-    "lng": -77.5200352
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:53",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 4",
-    "lat": 37.548532,
-    "lng": -77.4127685
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 16:11",
     "box_no": "Precinct 2",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -261,28 +235,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 16:25",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1500-BLK PERRY ST",
+    "dispatch_time": "12/03/2025 16:15",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "5300-BLK BLUE RIDGE AVE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Perry Street",
-    "location_township": "Precinct 4",
-    "lat": 37.521606,
-    "lng": -77.449457
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 16:25",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1500-BLK PERRY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Perry Street",
-    "location_township": "Precinct 4",
-    "lat": 37.521606,
-    "lng": -77.449457
+    "nearest_intersection": "Blue Ridge Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.511306,
+    "lng": -77.394329
   }
 ]
