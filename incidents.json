@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 18:23",
-    "box_no": "Precinct 4",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
-    "street": "1800-BLK THOMAS ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bath Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.56188,
-    "lng": -77.452732
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 19:00",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -118,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 21:42",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "KENT RD/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Kent Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5676455,
-    "lng": -77.4836358
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 22:27",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -183,6 +157,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 23:02",
+    "box_no": "Precinct 3",
+    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
+    "street": "2900-BLK PATTERSON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.560017,
+    "lng": -77.473325
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 22:00",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -200,38 +187,12 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "4700-BLK ERIN CRESCENT ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Erin Crescent Street, East End",
     "location_township": "Precinct 1",
     "lat": 37.517792,
     "lng": -77.407656
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 23:02",
-    "box_no": "Precinct 3",
-    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
-    "street": "2900-BLK PATTERSON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Patterson Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.560017,
-    "lng": -77.473325
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 23:03",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2100-BLK E CLAY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "Precinct 1",
-    "lat": 37.535341,
-    "lng": -77.420123
   },
   {
     "type_general": "RPD",
@@ -245,5 +206,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 23:39",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "700-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5393687,
+    "lng": -77.4376041
   }
 ]
