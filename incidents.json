@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 02:37",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "1300-BLK COALTER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 02:44",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -115,5 +102,57 @@
     "location_township": "Precinct 4",
     "lat": 37.56341,
     "lng": -77.469527
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 02:37",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 02:55",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "200-BLK E PILKINGTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Dominion Street",
+    "location_township": "Precinct 2",
+    "lat": 37.513864,
+    "lng": -77.452262
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 02:50",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Admiral Gravely Boulevard, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.520445,
+    "lng": -77.40241
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 02:55",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1500-BLK ROANE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "DPR",
+    "lat": 37.556519,
+    "lng": -77.441095
   }
 ]
