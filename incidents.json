@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 19:29",
-    "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "300-BLK CHIMBORAZO BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.526828,
-    "lng": -77.410671
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 03:19",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -37,45 +24,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 04:51",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "PATTERSON AVE/N HAMILTON ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Patterson Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5634214,
-    "lng": -77.4843201
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 04:51",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "PATTERSON AVE/N HAMILTON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Patterson Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5634214,
-    "lng": -77.4843201
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 04:49",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "1900-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5313944,
-    "lng": -77.4270617
   },
   {
     "type_general": "RPD",
@@ -92,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 04:57",
+    "dispatch_time": "12/03/2025 04:49",
     "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "0-BLK S 18TH ST",
-    "status": "Enroute",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "1900-BLK E CARY ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South 18th Street",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": 37.5323493,
-    "lng": -77.4281956
+    "lat": 37.5313944,
+    "lng": -77.4270617
   },
   {
     "type_general": "RPD",
@@ -131,15 +79,67 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 04:57",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "0-BLK S 18TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5323493,
+    "lng": -77.4281956
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 05:00",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "VENABLE ST/MOSBY ST RICH",
-    "status": "Enroute",
+    "street": "VENABLE ST/N 21ST ST RICH",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Venable Street",
     "location_township": "Precinct 1",
     "lat": 37.5383143,
     "lng": -77.4216407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 05:06",
+    "box_no": "Precinct 3",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "RICH: @DOWNTOWN EXPY EB BETWEEN BOULEVARD & GRAYLAND AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 3",
+    "lat": 37.5518661,
+    "lng": -77.4834184
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 05:09",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "3600-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Walton Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.581665,
+    "lng": -77.446998
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 05:12",
+    "box_no": "Precinct 2",
+    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
+    "street": "400-BLK BELT BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.504277,
+    "lng": -77.4768127
   }
 ]
