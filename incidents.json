@@ -14,29 +14,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 21:34",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK AMBROSE ST",
+    "dispatch_time": "12/02/2025 22:00",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "2000-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Ambrose Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5546,
-    "lng": -77.418318
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5573327,
+    "lng": -77.4604978
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 21:37",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , INVESTIGATE-EMS",
-    "street": "1700-BLK FAIRFIELD WAY",
+    "dispatch_time": "12/02/2025 22:35",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2100-BLK IDLEWOOD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 1",
-    "lat": 37.548532,
-    "lng": -77.4127685
+    "nearest_intersection": "South Shields Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.546853,
+    "lng": -77.4689311
   },
   {
     "type_general": "RPD",
@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:00",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2000-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5573327,
-    "lng": -77.4604978
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:35",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "2100-BLK IDLEWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Shields Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.546853,
-    "lng": -77.4689311
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 22:47",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -115,5 +89,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 00:27",
+    "box_no": "Precinct 1",
+    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5546,
+    "lng": -77.418318
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/03/2025 00:27",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STABBING",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "FIRE",
+    "lat": 37.5546,
+    "lng": -77.418318
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 00:28",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "300-BLK CALHOUN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Hill Street",
+    "location_township": "Precinct 4",
+    "lat": 37.553913,
+    "lng": -77.43816
   }
 ]
