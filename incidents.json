@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
     "street": "4900-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 3",
@@ -37,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": 37.49122,
     "lng": -77.443453
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:45",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Admiral Gravely Boulevard, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.520445,
-    "lng": -77.40241
   },
   {
     "type_general": "RPD",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4624001,
     "lng": -77.4430084
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:08",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1300-BLK E MARSHALL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5396586,
+    "lng": -77.4286204
   },
   {
     "type_general": "RPD",
@@ -131,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:47",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "2700-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5121322,
+    "lng": -77.4575591
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 15:35",
     "box_no": "DPR",
     "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
@@ -167,58 +180,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5012106,
     "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:19",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "00-BLK S 19TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 19th Street",
-    "location_township": "DPR",
-    "lat": 37.5319313,
-    "lng": -77.4271464
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:47",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2700-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5121322,
-    "lng": -77.4575591
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 16:07",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1800-BLK E MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532898,
-    "lng": -77.427455
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 16:07",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1800-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532898,
-    "lng": -77.427455
   },
   {
     "type_general": "RPD",
@@ -274,32 +235,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 16:02",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "N LOMBARDY ST/W GRACE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5558128,
-    "lng": -77.4545828
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 16:11",
-    "box_no": "Precinct 2",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "CALVERT DR/YORKSHIRE DR RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Calvert Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.5003543,
-    "lng": -77.4966395
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 15:53",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -310,5 +245,44 @@
     "location_township": "Precinct 4",
     "lat": 37.548532,
     "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 16:11",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "CALVERT DR/EFFINGHAM DR RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Calvert Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.5003543,
+    "lng": -77.4966395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 16:25",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1500-BLK PERRY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Perry Street",
+    "location_township": "Precinct 4",
+    "lat": 37.521606,
+    "lng": -77.449457
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 16:25",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1500-BLK PERRY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Perry Street",
+    "location_township": "Precinct 4",
+    "lat": 37.521606,
+    "lng": -77.449457
   }
 ]
