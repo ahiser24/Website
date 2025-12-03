@@ -1,6 +1,19 @@
 [
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 08:38",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "2300-BLK 4TH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5624018,
+    "lng": -77.4214468
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 10:34",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -11,32 +24,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5511248,
     "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:12",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1200-BLK E CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5410235,
-    "lng": -77.4292888
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:47",
-    "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "4900-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5820472,
-    "lng": -77.4934603
   },
   {
     "type_general": "RPD",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4795889,
     "lng": -77.4375534
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:12",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1200-BLK E CLAY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Clay Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5410235,
+    "lng": -77.4292888
   },
   {
     "type_general": "RPD",
@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:34",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "4500-BLK NEW KENT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "New Kent Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5224149,
-    "lng": -77.4804369
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 14:45",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -154,19 +141,6 @@
     "location_township": "Precinct 1",
     "lat": 37.520445,
     "lng": -77.40241
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:03",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "5300-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5076004,
-    "lng": -77.4951837
   },
   {
     "type_general": "RPD",
@@ -183,42 +157,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:58",
+    "dispatch_time": "12/03/2025 14:53",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "900-BLK SLEDD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:25",
     "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "400-BLK N ROBINSON ST",
-    "status": "Arrived",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "5900-BLK GLENWAY CT",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North Robinson Street",
+    "nearest_intersection": "Glenway Court",
     "location_township": "Precinct 3",
-    "lat": 37.5565704,
-    "lng": -77.4707752
+    "lat": 37.5164349,
+    "lng": -77.5096172
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:01",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "100-BLK BELT BLVD",
-    "status": "Dispatched",
+    "dispatch_time": "12/03/2025 14:25",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "800-BLK ERICH RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:01",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "100-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
+    "nearest_intersection": "Erich Road",
+    "location_township": "Precinct 3",
+    "lat": 37.515523,
+    "lng": -77.501754
   },
   {
     "type_general": "RPD",
@@ -234,6 +208,45 @@
     "lng": -77.4695596
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/03/2025 15:16",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "600-BLK E MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 5th Street",
+    "location_township": "FIRE",
+    "lat": 37.543391,
+    "lng": -77.4358
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:22",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S 8TH ST/E CANAL ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South 8th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5375994,
+    "lng": -77.4382926
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:22",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S 8TH ST/E CANAL ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 8th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5375994,
+    "lng": -77.4382926
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "12/03/2025 15:03",
     "box_no": "Precinct 4",
@@ -245,5 +258,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5468144,
     "lng": -77.447785
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:20",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "4300-BLK CRUTCHFIELD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Norcroft Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5107675,
+    "lng": -77.4859506
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:58",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "400-BLK N ROBINSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Robinson Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5565704,
+    "lng": -77.4707752
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 15:24",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "5600-BLK PETOSKEY AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Petoskey Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4988816,
+    "lng": -77.5008037
   }
 ]
