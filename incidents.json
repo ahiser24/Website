@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
     "street": "100-BLK HIOAKS RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Hioaks Road",
     "location_township": "Precinct 3",
@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 00:27",
-    "box_no": "Precinct 1",
-    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
-    "street": "2300-BLK AMBROSE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ambrose Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5546,
-    "lng": -77.418318
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 01:00",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -63,19 +50,6 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 01:49",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5600-BLK PETOSKEY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Petoskey Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4988816,
-    "lng": -77.5008037
   },
   {
     "type_general": "RPD",
@@ -105,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 02:37",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "1300-BLK COALTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 02:55",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "200-BLK E PILKINGTON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Dominion Street",
-    "location_township": "Precinct 2",
-    "lat": 37.513864,
-    "lng": -77.452262
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 02:50",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -154,5 +102,18 @@
     "location_township": "DPR",
     "lat": 37.556519,
     "lng": -77.441095
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 02:55",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "200-BLK E PILKINGTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Dominion Street",
+    "location_township": "Precinct 2",
+    "lat": 37.513864,
+    "lng": -77.452262
   }
 ]
