@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 08:08",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1600-BLK W GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.553461,
-    "lng": -77.456952
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 08:10",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -40,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 08:15",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "MALVERN AVE/MONUMENT AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Malvern Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5709315,
-    "lng": -77.485548
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 08:35",
     "box_no": "Precinct 1",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -63,6 +37,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5366518,
     "lng": -77.4228041
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 08:56",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2300-BLK ROSETTA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rosetta Street",
+    "location_township": "Precinct 1",
+    "lat": 37.548743,
+    "lng": -77.406126
   },
   {
     "type_general": "RPD",
@@ -83,25 +70,12 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "2400-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
     "lat": 37.5845486,
     "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 08:56",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK ROSETTA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rosetta Street",
-    "location_township": "Precinct 1",
-    "lat": 37.548743,
-    "lng": -77.406126
   },
   {
     "type_general": "RPD",
@@ -131,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 09:44",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "800-BLK FAYE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Faye Street",
-    "location_township": "Precinct 3",
-    "lat": 37.515106,
-    "lng": -77.498958
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 09:34",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -154,45 +115,6 @@
     "location_township": "Precinct 4",
     "lat": 37.554602,
     "lng": -77.4561674
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 09:45",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "1400-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5195165,
-    "lng": -77.4456731
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 09:19",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "MONTGOMERY ST/CARLISLE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Montgomery Street",
-    "location_township": "Precinct 1",
-    "lat": 37.516137,
-    "lng": -77.3984253
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 08:59",
-    "box_no": "Precinct 3",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
   },
   {
     "type_general": "RPD",
@@ -235,29 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 10:00",
-    "box_no": "Precinct 4",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "200-BLK E BROAD ST",
+    "dispatch_time": "12/03/2025 09:19",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "MONTGOMERY ST/CARLISLE AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5446393,
-    "lng": -77.4398964
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/03/2025 10:00",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1700-BLK PARK AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Park Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5523616,
-    "lng": -77.4597593
+    "nearest_intersection": "Montgomery Street",
+    "location_township": "Precinct 1",
+    "lat": 37.516137,
+    "lng": -77.3984253
   },
   {
     "type_general": "RPD",
@@ -271,5 +180,83 @@
     "location_township": "Precinct 4",
     "lat": 37.5484702,
     "lng": -77.4367774
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 09:44",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "800-BLK FAYE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Faye Street",
+    "location_township": "Precinct 3",
+    "lat": 37.515106,
+    "lng": -77.498958
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 10:00",
+    "box_no": "Precinct 4",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "200-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5446393,
+    "lng": -77.4398964
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 10:15",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 10:06",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1100-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "DPR",
+    "lat": 37.5522621,
+    "lng": -77.4544894
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 10:09",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1200-BLK N 2ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5526528,
+    "lng": -77.4329023
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 10:14",
+    "box_no": "Precinct 3",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "BASSETT AVE/WESTOVER HILLS BLVD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bassett Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5151157,
+    "lng": -77.4947009
   }
 ]
