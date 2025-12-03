@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:12",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1200-BLK E CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5410235,
-    "lng": -77.4292888
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 12:18",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:12",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1200-BLK E CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Clay Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5410235,
+    "lng": -77.4292888
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 13:38",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -89,19 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5153136,
     "lng": -77.4482022
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 13:59",
-    "box_no": "Precinct 1",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "N 24TH ST/O ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 24th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5362052,
-    "lng": -77.4158664
   },
   {
     "type_general": "RPD",
@@ -157,6 +144,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:19",
+    "box_no": "Precinct 1",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
+    "street": "2200-BLK DINWIDDIE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dinwiddie Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.509479,
+    "lng": -77.446665
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 13:17",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -196,58 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:19",
-    "box_no": "Precinct 1",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
-    "street": "2200-BLK DINWIDDIE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dinwiddie Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.509479,
-    "lng": -77.446665
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:18",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:30",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2500-BLK DECATUR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5127565,
-    "lng": -77.4541845
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:30",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2500-BLK DECATUR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Decatur Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5127565,
-    "lng": -77.4541845
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 14:28",
     "box_no": "Precinct 3",
     "type_specific": "WELFARE CHECK , EMS RESPONSE",
@@ -258,19 +206,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5618681,
     "lng": -77.4650329
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 14:37",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1200-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Deloak Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.498706,
-    "lng": -77.470527
   },
   {
     "type_general": "RPD",
@@ -312,6 +247,19 @@
     "lng": -77.476606
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 14:24",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/03/2025 14:38",
     "box_no": "FIRE",
@@ -330,7 +278,7 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , CITY PROPERTY",
     "street": "2200-BLK COLUMBIA ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Columbia Street",
     "location_township": "Precinct 2",
