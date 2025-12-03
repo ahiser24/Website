@@ -145,19 +145,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/03/2025 12:16",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1000-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.601975,
-    "lng": -77.450736
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:16",
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "4400-BLK FOREST HILL AVE",
@@ -195,6 +182,19 @@
     "lng": -77.51385
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:36",
+    "box_no": "Precinct 3",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "4900-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5820472,
+    "lng": -77.4934603
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/03/2025 12:37",
     "box_no": "FIRE",
@@ -206,19 +206,6 @@
     "location_township": "FIRE",
     "lat": 37.5529921,
     "lng": -77.5653742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:46",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.5692515,
-    "lng": -77.4451986
   },
   {
     "type_general": "RPD",
@@ -235,32 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:37",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "9000-BLK STONY POINT PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5529921,
-    "lng": -77.5653742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 12:36",
-    "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "4900-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5820472,
-    "lng": -77.4934603
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 12:42",
     "box_no": "Precinct 4",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -271,5 +232,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5658667,
     "lng": -77.4310735
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:47",
+    "box_no": "Precinct 2",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "E 33RD ST/MCLENNAN ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 33rd Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5087588,
+    "lng": -77.4680246
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:49",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "DPR",
+    "lat": 37.5799327,
+    "lng": -77.4469305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:51",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "4300-BLK WAKEFIELD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Wakefield Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5541228,
+    "lng": -77.541109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 12:53",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "700-BLK E 6TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 6th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5186554,
+    "lng": -77.4337993
   }
 ]
