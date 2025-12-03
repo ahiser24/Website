@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 02:36",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "900-BLK MYERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Myers Street",
-    "location_township": "Precinct 4",
-    "lat": 37.56341,
-    "lng": -77.469527
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 02:37",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -104,15 +91,28 @@
     "lng": -77.422946
   },
   {
-    "type_general": "RFD",
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 02:44",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "0-BLK S 15TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 15th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5333191,
+    "lng": -77.4315779
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 02:36",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
     "street": "900-BLK MYERS ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Myers Street",
-    "location_township": "FIRE",
+    "location_township": "Precinct 4",
     "lat": 37.56341,
     "lng": -77.469527
   }
