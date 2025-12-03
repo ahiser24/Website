@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:00",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2000-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5573327,
-    "lng": -77.4604978
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 22:23",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , AGGRESSIVE",
@@ -157,6 +144,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 22:35",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2100-BLK IDLEWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Shields Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.546853,
+    "lng": -77.4689311
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 22:07",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -167,19 +167,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5149743,
     "lng": -77.5244606
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:02",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1300-BLK GREENMOSS DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greenmoss Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.519751,
-    "lng": -77.51884
   },
   {
     "type_general": "RPD",
@@ -196,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/02/2025 22:00",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "2000-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5573327,
+    "lng": -77.4604978
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/02/2025 22:47",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -209,45 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:35",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "2100-BLK IDLEWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Shields Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.546853,
-    "lng": -77.4689311
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/02/2025 23:15",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "3200-BLK FLOYD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5563289,
-    "lng": -77.4812582
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 23:22",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "500-BLK ARGYLE TER",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Argyle Terrace",
-    "location_township": "Precinct 3",
-    "lat": 37.5102456,
-    "lng": -77.5178982
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 23:02",
     "box_no": "Precinct 3",
     "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
@@ -258,5 +219,31 @@
     "location_township": "Precinct 3",
     "lat": 37.560017,
     "lng": -77.473325
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 23:03",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2100-BLK E CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Clay Street",
+    "location_township": "Precinct 1",
+    "lat": 37.535341,
+    "lng": -77.420123
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 23:35",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1800-BLK N 22ND ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5466404,
+    "lng": -77.4092602
   }
 ]
