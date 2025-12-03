@@ -1,32 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 03:19",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 03:19",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 03:24",
     "box_no": "Precinct 4",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -53,42 +27,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 04:59",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Dispatched",
+    "dispatch_time": "12/03/2025 05:12",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "400-BLK BELT BLVD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.504277,
+    "lng": -77.4768127
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 04:59",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "400-BLK WESTOVER HILLS BLVD",
+    "dispatch_time": "12/03/2025 05:12",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "400-BLK BELT BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 04:57",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "0-BLK S 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5323493,
-    "lng": -77.4281956
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.504277,
+    "lng": -77.4768127
   },
   {
     "type_general": "RPD",
@@ -102,44 +63,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5383143,
     "lng": -77.4216407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 05:06",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "RICH: @DOWNTOWN EXPY EB BETWEEN BOULEVARD & GRAYLAND AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Downtown Expressway",
-    "location_township": "Precinct 3",
-    "lat": 37.5518661,
-    "lng": -77.4834184
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 05:09",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "3600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.581665,
-    "lng": -77.446998
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 05:12",
-    "box_no": "Precinct 2",
-    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
-    "street": "400-BLK BELT BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504277,
-    "lng": -77.4768127
   }
 ]
