@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 18:20",
-    "box_no": "Precinct 3",
-    "type_specific": "SUBJECT PURSUIT , OFFICER-INITIATED",
-    "street": "300-BLK RED ASH DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Red Ash Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.506088,
-    "lng": -77.516003
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 19:00",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -27,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 20:09",
-    "box_no": "Precinct 4",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "2700-BLK WOODROW AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Woodrow Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5671459,
-    "lng": -77.430153
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 19:29",
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
@@ -50,6 +24,19 @@
     "location_township": "Precinct 1",
     "lat": 37.526828,
     "lng": -77.410671
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 20:09",
+    "box_no": "Precinct 4",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "2700-BLK WOODROW AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Woodrow Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5671459,
+    "lng": -77.430153
   },
   {
     "type_general": "RPD",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": 37.548532,
     "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 22:00",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "2000-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5573327,
+    "lng": -77.4604978
   },
   {
     "type_general": "RPD",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:00",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2000-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5573327,
-    "lng": -77.4604978
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 22:47",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -200,7 +187,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
     "street": "1800-BLK N 22ND ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 22nd Street",
     "location_township": "Precinct 1",
@@ -219,5 +206,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5393687,
     "lng": -77.4376041
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 23:50",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "3900-BLK GRAYSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Ladies Mile Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.581478,
+    "lng": -77.429921
   }
 ]
