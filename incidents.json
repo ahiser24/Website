@@ -105,28 +105,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/03/2025 00:27",
+    "dispatch_time": "12/03/2025 00:34",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STABBING",
-    "street": "2300-BLK AMBROSE ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1700-BLK JOPLIN AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Ambrose Street",
+    "nearest_intersection": "Lenmore Street",
     "location_township": "FIRE",
-    "lat": 37.5546,
-    "lng": -77.418318
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 00:28",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "300-BLK CALHOUN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Hill Street",
-    "location_township": "Precinct 4",
-    "lat": 37.553913,
-    "lng": -77.43816
+    "lat": 37.507524,
+    "lng": -77.437799
   }
 ]
