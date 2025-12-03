@@ -79,28 +79,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 02:31",
-    "box_no": "Precinct 3",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "600-BLK COWARDIN AVE",
+    "dispatch_time": "12/03/2025 02:36",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "900-BLK MYERS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Myers Street",
+    "location_township": "Precinct 4",
+    "lat": 37.56341,
+    "lng": -77.469527
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 02:37",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1300-BLK COALTER ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5242935,
-    "lng": -77.452771
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/03/2025 02:31",
+    "dispatch_time": "12/03/2025 02:36",
     "box_no": "FIRE",
-    "type_specific": "",
-    "street": "600-BLK COWARDIN AVE",
-    "status": "Enroute",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "900-BLK MYERS ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
+    "nearest_intersection": "Myers Street",
     "location_township": "FIRE",
-    "lat": 37.5242935,
-    "lng": -77.452771
+    "lat": 37.56341,
+    "lng": -77.469527
   }
 ]
