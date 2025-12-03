@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 01:36",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "E 29TH ST/STOCKTON ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 29th Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5088971,
-    "lng": -77.4587036
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 01:29",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , AGGRESSIVE",
@@ -130,16 +117,16 @@
     "lng": -77.525109
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/03/2025 01:43",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "5400-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 01:49",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5600-BLK PETOSKEY AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5072965,
-    "lng": -77.4968755
+    "nearest_intersection": "Petoskey Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4988816,
+    "lng": -77.5008037
   }
 ]
