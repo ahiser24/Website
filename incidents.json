@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 20:09",
-    "box_no": "Precinct 4",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "2700-BLK WOODROW AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Woodrow Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5671459,
-    "lng": -77.430153
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 21:34",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -50,6 +37,19 @@
     "location_township": "Precinct 1",
     "lat": 37.548532,
     "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/02/2025 22:07",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "100-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5149743,
+    "lng": -77.5244606
   },
   {
     "type_general": "RPD",
@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:07",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "100-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5149743,
-    "lng": -77.5244606
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/02/2025 22:47",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -128,31 +115,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 23:59",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "3300-BLK W FRANKLIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5634139,
-    "lng": -77.4784299
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/02/2025 23:59",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "3300-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5634139,
-    "lng": -77.4784299
   }
 ]
