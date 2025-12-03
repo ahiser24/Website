@@ -14,16 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:03",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "3900-BLK REBECCA RD",
+    "dispatch_time": "12/02/2025 22:07",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "100-BLK HIOAKS RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rebecca Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464706,
-    "lng": -77.485841
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5149743,
+    "lng": -77.5244606
   },
   {
     "type_general": "RPD",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/02/2025 22:07",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "100-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5149743,
-    "lng": -77.5244606
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 01:00",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -92,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 01:29",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5030935,
-    "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 01:30",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 01:49",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -128,18 +89,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4988816,
     "lng": -77.5008037
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/03/2025 01:58",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "2900-BLK HATHAWAY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hathaway Road",
-    "location_township": "FIRE",
-    "lat": 37.5386349,
-    "lng": -77.5200352
   }
 ]
