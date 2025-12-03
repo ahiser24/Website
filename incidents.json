@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 18:08",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "600-BLK N 37TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Crestview Road",
-    "location_township": "Precinct 1",
-    "lat": 37.527574,
-    "lng": -77.405499
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 18:03",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -115,32 +102,6 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 18:13",
-    "box_no": "Precinct 4",
-    "type_specific": "ABDUCTION , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "N LAUREL ST/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5465072,
-    "lng": -77.4515552
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 18:28",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "4600-BLK SOUTHAMPTON RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Southampton Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5569794,
-    "lng": -77.5471216
   },
   {
     "type_general": "RPD",
@@ -170,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 18:31",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "4100-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4697327,
+    "lng": -77.4438269
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 18:02",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -182,30 +156,30 @@
     "lng": -77.3989708
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/03/2025 18:05",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @POWHITE PKWY SB - TOLL PLAZA",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/03/2025 18:27",
-    "box_no": "FIRE",
-    "type_specific": "# VEHICLE FIRE , LIMITED ACCESS HIGHWAY",
-    "street": "RICH: @EXIT 75 - I95 SB (I64 EB / 3RD ST)",
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 18:29",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2500-BLK W BROAD ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5618681,
+    "lng": -77.4650329
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 18:13",
+    "box_no": "Precinct 4",
+    "type_specific": "ABDUCTION , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "N LAUREL ST/W BROAD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Laurel Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5465072,
+    "lng": -77.4515552
   },
   {
     "type_general": "RFD",
@@ -235,16 +209,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 18:31",
-    "box_no": "Precinct 2",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "4100-BLK RICHMOND HWY",
+    "dispatch_time": "12/03/2025 18:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1700-BLK PORTER ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5195526,
+    "lng": -77.4501372
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 18:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1700-BLK PORTER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4697327,
-    "lng": -77.4438269
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5195526,
+    "lng": -77.4501372
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 18:39",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.508019,
+    "lng": -77.4897113
   },
   {
     "type_general": "RPD",
@@ -260,16 +260,16 @@
     "lng": -77.5143962
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 18:39",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "type_general": "RFD",
+    "dispatch_time": "12/03/2025 18:48",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @EXIT 76 A - I95 NB (CHAMBERLAYNE AVE)",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Old Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.508019,
-    "lng": -77.4897113
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
