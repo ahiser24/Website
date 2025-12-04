@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 04:50",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1300-BLK GRAYLAND AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Grayland Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5433507,
-    "lng": -77.4581133
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 04:42",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -143,30 +130,30 @@
     "lng": -77.4082906
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 05:00",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "300-BLK W CLAY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "FIRE",
-    "lat": 37.5492224,
-    "lng": -77.4430642
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 04:54",
-    "box_no": "FIRE",
-    "type_specific": "# TRASH FIRE , DEBRIS",
-    "street": "W CARY ST/S SHEPPARD ST RICH",
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 05:03",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1300-BLK COALTER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "FIRE",
-    "lat": 37.5433115,
-    "lng": -77.4470688
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 04:50",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1300-BLK GRAYLAND AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grayland Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5433507,
+    "lng": -77.4581133
   },
   {
     "type_general": "RPD",
@@ -180,5 +167,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5063238,
     "lng": -77.4972004
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 04:54",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "3000-BLK W CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "FIRE",
+    "lat": 37.5527107,
+    "lng": -77.4788573
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 05:12",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1700-BLK FAIRFAX AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfax Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5105481,
+    "lng": -77.440768
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 05:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "300-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "FIRE",
+    "lat": 37.5492224,
+    "lng": -77.4430642
   }
 ]
