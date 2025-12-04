@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 00:34",
-    "box_no": "Precinct 3",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 00:44",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -50,32 +37,6 @@
     "location_township": "Precinct 3",
     "lat": 37.509293,
     "lng": -77.525136
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 01:36",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "2800-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5630621,
-    "lng": -77.4702604
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 01:25",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2000-BLK PUMP HOUSE DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Pump House Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.538498,
-    "lng": -77.486443
   },
   {
     "type_general": "RPD",
@@ -102,6 +63,32 @@
     "location_township": "Precinct 2",
     "lat": 37.4952595,
     "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 01:25",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2000-BLK PUMP HOUSE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Pump House Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.538498,
+    "lng": -77.486443
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 00:34",
+    "box_no": "Precinct 3",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -144,45 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:17",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2600-BLK BELLS RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road",
-    "location_township": "Precinct 2",
-    "lat": 37.472843,
-    "lng": -77.443917
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:17",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2600-BLK BELLS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road",
-    "location_township": "Precinct 2",
-    "lat": 37.472843,
-    "lng": -77.443917
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:15",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "400-BLK E GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5426237,
-    "lng": -77.4389179
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 02:18",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -193,32 +141,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5845486,
     "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:19",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4500-BLK GLASGOW ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Dale Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.465187,
-    "lng": -77.441486
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:19",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4500-BLK GLASGOW ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dale Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.465187,
-    "lng": -77.441486
   },
   {
     "type_general": "RPD",
@@ -234,29 +156,16 @@
     "lng": -77.4283823
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 02:13",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 02:15",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "400-BLK E GRACE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "FIRE",
-    "lat": 37.5602471,
-    "lng": -77.4431479
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 02:16",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "W CHARITY ST/ST JOHN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "FIRE",
-    "lat": 37.5524286,
-    "lng": -77.4397449
+    "nearest_intersection": "East Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5426237,
+    "lng": -77.4389179
   }
 ]
