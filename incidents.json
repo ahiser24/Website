@@ -5,7 +5,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 1",
@@ -91,19 +91,6 @@
     "lng": -77.435199
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 04:04",
-    "box_no": "Precinct 4",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
-    "street": "S 5TH ST/E CANAL ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5367101,
-    "lng": -77.4433141
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/04/2025 04:10",
     "box_no": "FIRE",
@@ -118,15 +105,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 04:09",
+    "dispatch_time": "12/04/2025 04:17",
     "box_no": "Precinct 3",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "00-BLK W LOCKE LN",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1000-BLK GERMAN SCHOOL RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "German School Road",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.516032,
+    "lng": -77.512119
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 04:31",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2100-BLK CARRINGTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Carrington Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5394511,
+    "lng": -77.4180765
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 04:04",
+    "box_no": "Precinct 4",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
+    "street": "S 5TH ST/E CANAL ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5367101,
+    "lng": -77.4433141
   }
 ]
