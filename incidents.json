@@ -40,42 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 22:40",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3500-BLK EAST RICHMOND RD",
+    "dispatch_time": "12/03/2025 23:41",
+    "box_no": "Precinct 4",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "3000-BLK MECHANICSVILLE TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 23:33",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "3000-BLK COLUMBIA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Columbia Street",
-    "location_township": "Precinct 2",
-    "lat": 37.482982,
-    "lng": -77.443405
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 23:01",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "2800-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5300467,
-    "lng": -77.4158071
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 4",
+    "lat": 37.565391,
+    "lng": -77.4068934
   },
   {
     "type_general": "RPD",
@@ -92,6 +66,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 23:54",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "MCDONOUGH ST/W 11TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "McDonough Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5256273,
+    "lng": -77.445479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 23:01",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "2800-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5300467,
+    "lng": -77.4158071
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 23:59",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -102,45 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5556224,
     "lng": -77.451142
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 23:41",
-    "box_no": "Precinct 4",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "3000-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 4",
-    "lat": 37.565391,
-    "lng": -77.4068934
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 00:26",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 00:26",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
   },
   {
     "type_general": "RPD",
@@ -167,19 +128,6 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 00:44",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5600-BLK WALMSLEY BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Monet Court",
-    "location_township": "Precinct 2",
-    "lat": 37.471473,
-    "lng": -77.498441
   },
   {
     "type_general": "RPD",
@@ -211,7 +159,7 @@
     "type_general": "RPD",
     "dispatch_time": "12/04/2025 00:44",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "400-BLK HIOAKS RD",
     "status": "Arrived",
     "cross_street": "",
@@ -221,17 +169,30 @@
     "lng": -77.525136
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 00:49",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "400-BLK E BROOKLAND PARK BLVD",
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 00:57",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2900-BLK FENDALL AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "FIRE",
-    "lat": 37.571329,
-    "lng": -77.428043
+    "nearest_intersection": "Fendall Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5702913,
+    "lng": -77.4366393
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 00:44",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5600-BLK WALMSLEY BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monet Court",
+    "location_township": "Precinct 2",
+    "lat": 37.471473,
+    "lng": -77.498441
   },
   {
     "type_general": "RFD",
@@ -245,5 +206,18 @@
     "location_township": "FIRE",
     "lat": 37.5203529,
     "lng": -77.4660856
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 01:08",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "400-BLK BYSWICK LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Byswick Lane",
+    "location_township": "FIRE",
+    "lat": 37.5109054,
+    "lng": -77.4966999
   }
 ]
