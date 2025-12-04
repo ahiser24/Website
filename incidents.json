@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 04:04",
-    "box_no": "Precinct 4",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
-    "street": "S 5TH ST/E CANAL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5367101,
-    "lng": -77.4433141
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 02:50",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -66,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 01:25",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2000-BLK PUMP HOUSE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Pump House Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.538498,
-    "lng": -77.486443
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 01:25",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2000-BLK PUMP HOUSE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Pump House Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.538498,
-    "lng": -77.486443
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 04:31",
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -102,6 +63,32 @@
     "location_township": "Precinct 1",
     "lat": 37.5394511,
     "lng": -77.4180765
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 01:25",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2000-BLK PUMP HOUSE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Pump House Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.538498,
+    "lng": -77.486443
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 01:25",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2000-BLK PUMP HOUSE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Pump House Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.538498,
+    "lng": -77.486443
   },
   {
     "type_general": "RPD",
