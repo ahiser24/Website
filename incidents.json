@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 08:37",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1400-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5103215,
-    "lng": -77.4304566
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 08:57",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -89,32 +76,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 09:21",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HOLLY SPRING AVE/MAURY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Holly Spring Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5029551,
-    "lng": -77.4605948
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 09:30",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516032,
-    "lng": -77.512119
   },
   {
     "type_general": "RPD",
@@ -157,6 +118,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/04/2025 10:36",
+    "box_no": "Precinct 4",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "900-BLK SLEDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 11:08",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "3000-BLK COLUMBIA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Columbia Street",
+    "location_township": "DPR",
+    "lat": 37.482982,
+    "lng": -77.443405
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/04/2025 11:24",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -196,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 11:36",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1200-BLK RENNIE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Rennie Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.574992,
-    "lng": -77.449714
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 11:34",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -219,19 +193,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5132486,
     "lng": -77.4015074
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 10:36",
-    "box_no": "Precinct 4",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
   },
   {
     "type_general": "RPD",
@@ -248,28 +209,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 11:51",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2200-BLK EDWARDS AVE",
-    "status": "Arrived",
+    "dispatch_time": "12/04/2025 12:00",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "3500-BLK KENSINGTON AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Edwards Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5086369,
-    "lng": -77.4458022
+    "nearest_intersection": "Kensington Avenue",
+    "location_township": "DPR",
+    "lat": 37.5622682,
+    "lng": -77.4830633
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 11:08",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "3000-BLK COLUMBIA ST",
+    "dispatch_time": "12/04/2025 11:32",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "200-BLK STOCKTON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Columbia Street",
-    "location_township": "DPR",
-    "lat": 37.482982,
-    "lng": -77.443405
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5241254,
+    "lng": -77.4344202
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:03",
+    "box_no": "Precinct 4",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "100-BLK W LEIGH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5494799,
+    "lng": -77.4406219
   }
 ]
