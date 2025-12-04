@@ -105,16 +105,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 13:27",
+    "dispatch_time": "12/04/2025 13:25",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1900-BLK RAVEN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Raven Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549938,
+    "lng": -77.421725
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 13:25",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1900-BLK RAVEN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Raven Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549938,
+    "lng": -77.421725
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 13:40",
     "box_no": "DPR",
     "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "2000-BLK RIVERSIDE DR",
+    "street": "7100-BLK JAHNKE RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "DPR",
-    "lat": 37.52427,
-    "lng": -77.4552133
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -157,32 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:31",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "100-BLK S 5TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.539453,
-    "lng": -77.440891
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:35",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "300-BLK W 31ST ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 2",
-    "lat": 37.51558,
-    "lng": -77.464689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 14:43",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -222,6 +222,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/04/2025 14:35",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "300-BLK W 31ST ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 2",
+    "lat": 37.51558,
+    "lng": -77.464689
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/04/2025 14:39",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -232,5 +245,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5140128,
     "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 14:31",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "100-BLK S 5TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.539453,
+    "lng": -77.440891
   }
 ]
