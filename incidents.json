@@ -5,7 +5,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 1",
@@ -83,7 +83,7 @@
     "box_no": "Precinct 3",
     "type_specific": "SEX OFFENSE , INVESTIGATE",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:18",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 02:45",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -154,5 +141,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4873722,
     "lng": -77.469496
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 02:44",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1600-BLK SKIPWITH RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 03:07",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "500-BLK CATHERINE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Catherine Street",
+    "location_township": "FIRE",
+    "lat": 37.550665,
+    "lng": -77.444195
   }
 ]
