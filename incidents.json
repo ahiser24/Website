@@ -18,7 +18,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 1",
@@ -37,19 +37,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5398456,
     "lng": -77.4184522
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 17:06",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , FIRE ARM",
-    "street": "700-BLK W BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5724275,
-    "lng": -77.4487587
   },
   {
     "type_general": "RPD",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5464347,
     "lng": -77.4427708
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 17:06",
+    "box_no": "Precinct 4",
+    "type_specific": "FOUND PROPERTY , FIRE ARM",
+    "street": "700-BLK W BROOKLAND PARK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5724275,
+    "lng": -77.4487587
   },
   {
     "type_general": "RPD",
@@ -161,7 +161,7 @@
     "box_no": "Precinct 3",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "2500-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 3",
@@ -209,32 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 18:44",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1700-BLK PORTER ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5195526,
-    "lng": -77.4501372
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/03/2025 18:44",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "1700-BLK PORTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5195526,
-    "lng": -77.4501372
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/03/2025 18:39",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -248,11 +222,37 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/03/2025 18:56",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK S BELVIDERE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/03/2025 18:56",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "300-BLK S BELVIDERE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/03/2025 18:41",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "5800-BLK PATTERSON AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Patterson Avenue, West End",
     "location_township": "Precinct 3",
@@ -261,15 +261,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/03/2025 18:48",
+    "dispatch_time": "12/03/2025 18:54",
     "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @EXIT 76 A - I95 NB (CHAMBERLAYNE AVE)",
-    "status": "Enroute",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "3600-BLK CHAPEL DR",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Chapel Drive, Southside",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.5013498,
+    "lng": -77.465222
   }
 ]
