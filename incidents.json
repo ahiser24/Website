@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 11:08",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "3000-BLK COLUMBIA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Columbia Street",
-    "location_township": "DPR",
-    "lat": 37.482982,
-    "lng": -77.443405
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 11:24",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -167,32 +154,6 @@
     "location_township": "Precinct 1",
     "lat": 37.532107,
     "lng": -77.423896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 11:12",
-    "box_no": "Precinct 1",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "900-BLK MCDONOUGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "McDonough Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5255372,
-    "lng": -77.4449088
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 11:34",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1300-BLK NELSON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5132486,
-    "lng": -77.4015074
   },
   {
     "type_general": "RPD",
@@ -245,5 +206,70 @@
     "location_township": "Precinct 4",
     "lat": 37.5494799,
     "lng": -77.4406219
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:18",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "AZALEA AVE/WILKINSON RD HENR",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.6015861,
+    "lng": -77.4529869
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:18",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "AZALEA AVE/WILKINSON RD HENR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.6015861,
+    "lng": -77.4529869
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 12:16",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , DIABETIC PROBLEM",
+    "street": "3500-BLK MISSOURI AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Missouri Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5799351,
+    "lng": -77.4210478
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:07",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Admiral Gravely Boulevard, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.520445,
+    "lng": -77.40241
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:17",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
   }
 ]
