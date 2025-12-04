@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:50",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1700-BLK FAIRFIELD WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 2",
-    "lat": 37.548532,
-    "lng": -77.4127685
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 05:58",
     "box_no": "Precinct 2",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -78,17 +65,17 @@
     "lng": -77.4581133
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 05:50",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1700-BLK MAURY ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 02:50",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "FIRE",
-    "lat": 37.5146969,
-    "lng": -77.4449797
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "Precinct 2",
+    "lat": 37.548532,
+    "lng": -77.4127685
   },
   {
     "type_general": "RPD",
@@ -167,5 +154,70 @@
     "location_township": "Precinct 4",
     "lat": 37.581665,
     "lng": -77.446998
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 06:29",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "7000-BLK RAVENSCRAIG CRES",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 06:29",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "7000-BLK RAVENSCRAIG CRES",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 06:31",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 06:31",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 06:07",
+    "box_no": "Precinct 3",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "00-BLK S ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 3",
+    "lat": 37.5488772,
+    "lng": -77.4777879
   }
 ]
