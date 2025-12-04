@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 04:31",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2100-BLK CARRINGTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carrington Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5394511,
-    "lng": -77.4180765
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 04:50",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -78,17 +65,17 @@
     "lng": -77.4581133
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 04:54",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "3000-BLK W CARY ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 04:59",
+    "box_no": "Precinct 3",
+    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "FIRE",
-    "lat": 37.5527107,
-    "lng": -77.4788573
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5063238,
+    "lng": -77.4972004
   },
   {
     "type_general": "RPD",
@@ -148,7 +135,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
     "street": "1700-BLK MAURY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Maury Street, Southside",
     "location_township": "FIRE",
@@ -157,15 +144,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 04:59",
-    "box_no": "Precinct 3",
-    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "dispatch_time": "12/04/2025 05:58",
+    "box_no": "Precinct 2",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "700-BLK EVERETT ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5063238,
-    "lng": -77.4972004
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5202989,
+    "lng": -77.4378027
   }
 ]
