@@ -40,29 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 01:46",
+    "dispatch_time": "12/04/2025 01:48",
     "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 01:46",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1500-BLK CLARKSON RD",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2200-BLK MANDALAY RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -118,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 01:48",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2200-BLK MANDALAY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 02:18",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -144,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:12",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE - EMS",
-    "street": "3700-BLK DELMONT ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Delmont Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5816138,
-    "lng": -77.4283823
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 02:15",
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -167,5 +128,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5426237,
     "lng": -77.4389179
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 02:37",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2800-BLK TRANSPORT ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Transport Street",
+    "location_township": "Precinct 2",
+    "lat": 37.469718,
+    "lng": -77.449731
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 02:37",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2800-BLK TRANSPORT ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Transport Street",
+    "location_township": "Precinct 2",
+    "lat": 37.469718,
+    "lng": -77.449731
   }
 ]
