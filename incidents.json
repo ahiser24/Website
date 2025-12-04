@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 08:26",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "500-BLK TREDEGAR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tredegar Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53517,
-    "lng": -77.445236
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 08:28",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -193,45 +180,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5355217,
     "lng": -77.4004155
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 08:20",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK - RUPTURED MAIN (OUTSIDE)",
-    "street": "5300-BLK PATTERSON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Patterson Avenue, West End",
-    "location_township": "FIRE",
-    "lat": 37.576053,
-    "lng": -77.508561
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 08:35",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2400-BLK E MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5293872,
-    "lng": -77.4214565
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 08:35",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "2400-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5293872,
-    "lng": -77.4214565
   },
   {
     "type_general": "RPD",
@@ -245,32 +193,6 @@
     "location_township": "Precinct 2",
     "lat": 37.472385,
     "lng": -77.453612
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 08:44",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3000-BLK BARTON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Barton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.571549,
-    "lng": -77.431666
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 08:44",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3000-BLK BARTON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Barton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.571549,
-    "lng": -77.431666
   },
   {
     "type_general": "RPD",
@@ -300,11 +222,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/04/2025 08:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3000-BLK BARTON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Barton Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.571549,
+    "lng": -77.431666
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/04/2025 08:43",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "3000-BLK HEY RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hey Road",
     "location_township": "Precinct 2",
@@ -313,15 +248,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 08:42",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "800-BLK W 29TH ST",
-    "status": "Enroute",
+    "dispatch_time": "12/04/2025 08:45",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1400-BLK HULL ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West 29th Street",
-    "location_township": "DPR",
-    "lat": 37.5210903,
-    "lng": -77.4653668
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5195165,
+    "lng": -77.4456731
   }
 ]
