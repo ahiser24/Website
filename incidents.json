@@ -118,32 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 11:24",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2100-BLK E FRANKLIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532107,
-    "lng": -77.423896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 11:24",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2100-BLK E FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532107,
-    "lng": -77.423896
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 11:32",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -195,32 +169,6 @@
     "lng": -77.4406219
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 12:18",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "AZALEA AVE/WILKINSON RD HENR",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.6015861,
-    "lng": -77.4529869
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 12:18",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "AZALEA AVE/WILKINSON RD HENR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.6015861,
-    "lng": -77.4529869
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/04/2025 12:16",
     "box_no": "FIRE",
@@ -235,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 12:07",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Admiral Gravely Boulevard, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.520445,
-    "lng": -77.40241
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 12:17",
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -258,19 +193,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5140128,
     "lng": -77.4895724
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 12:32",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
-    "street": "2400-BLK BURTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Pink Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.537979,
-    "lng": -77.414427
   },
   {
     "type_general": "RPD",
@@ -300,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 12:25",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3200-BLK FLOYD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5563289,
-    "lng": -77.4812582
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 12:32",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , NON-EMERGENCY",
@@ -323,5 +232,70 @@
     "location_township": "Precinct 1",
     "lat": 37.537979,
     "lng": -77.414427
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:25",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3200-BLK FLOYD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5563289,
+    "lng": -77.4812582
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 12:44",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
+    "street": "1500-BLK JENNIE SCHER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "FIRE",
+    "lat": 37.5231263,
+    "lng": -77.3987139
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:39",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "DPR",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 12:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "700-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "FIRE",
+    "lat": 37.5153136,
+    "lng": -77.4482022
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:43",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "1500-BLK JENNIE SCHER RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5231263,
+    "lng": -77.3987139
   }
 ]
