@@ -79,29 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 12:41",
-    "box_no": "DPR",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "3300-BLK CHEVERLY RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Cheverly Road",
-    "location_township": "DPR",
-    "lat": 37.5431149,
-    "lng": -77.5356732
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 12:43",
     "box_no": "Precinct 1",
     "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
-    "street": "1500-BLK JENNIE SCHER RD",
+    "street": "1300-BLK JENNIE SCHER RD",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jennie Scher Road, East End",
     "location_township": "Precinct 1",
-    "lat": 37.5231263,
-    "lng": -77.3987139
+    "lat": 37.521475,
+    "lng": -77.40059
   },
   {
     "type_general": "RPD",
@@ -122,25 +109,12 @@
     "box_no": "DPR",
     "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
     "street": "2000-BLK RIVERSIDE DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Riverside Drive",
     "location_township": "DPR",
     "lat": 37.52427,
     "lng": -77.4552133
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 13:27",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.5692515,
-    "lng": -77.4451986
   },
   {
     "type_general": "RPD",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:15",
-    "box_no": "Precinct 2",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2200-BLK PERRY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West 22nd Street",
-    "location_township": "Precinct 2",
-    "lat": 37.519241,
-    "lng": -77.454756
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 14:26",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -193,32 +154,6 @@
     "location_township": "Precinct 3",
     "lat": 37.550869,
     "lng": -77.47399
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 14:26",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1800-BLK WILLIAMSBURG RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road",
-    "location_township": "FIRE",
-    "lat": 37.5158864,
-    "lng": -77.3922414
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:27",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2400-BLK FORD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Ford Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5501736,
-    "lng": -77.4174397
   },
   {
     "type_general": "RPD",
@@ -232,5 +167,70 @@
     "location_township": "Precinct 4",
     "lat": 37.539453,
     "lng": -77.440891
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 14:35",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "300-BLK W 31ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 2",
+    "lat": 37.51558,
+    "lng": -77.464689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 14:43",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "400-BLK W CLAY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5496735,
+    "lng": -77.4437834
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 14:39",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "2900-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Essex Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.570084,
+    "lng": -77.43294
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 14:41",
+    "box_no": "Precinct 3",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "6500-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5035598,
+    "lng": -77.5157461
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 14:39",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
   }
 ]
