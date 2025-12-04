@@ -132,54 +132,15 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/04/2025 12:43",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "1500-BLK JENNIE SCHER RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "DPR",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 13:17",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2400-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.5153136,
-    "lng": -77.4482022
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 13:18",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "IRON BRIDGE RD/W BELMONT RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Iron Bridge Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4666613,
-    "lng": -77.4888188
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 13:27",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "HUGUENOT/CHIPPENHAM PKWY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Uppingham Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5540359,
-    "lng": -77.5844328
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5231263,
+    "lng": -77.3987139
   },
   {
     "type_general": "RPD",
@@ -193,19 +154,6 @@
     "location_township": "DPR",
     "lat": 37.52427,
     "lng": -77.4552133
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 12:43",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "1500-BLK JENNIE SCHER RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5231263,
-    "lng": -77.3987139
   },
   {
     "type_general": "RPD",
@@ -234,19 +182,6 @@
     "lng": -77.4489075
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 13:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "7900-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "FIRE",
-    "lat": 37.533149,
-    "lng": -77.541794
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/04/2025 13:45",
     "box_no": "Precinct 4",
@@ -261,16 +196,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 13:22",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "4220-BLK OLD BROOK RD",
+    "dispatch_time": "12/04/2025 13:57",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "800-BLK GREYSTONE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5932107,
-    "lng": -77.447774
+    "nearest_intersection": "Greystone Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.500819,
+    "lng": -77.475284
   },
   {
     "type_general": "RPD",
@@ -284,5 +219,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5563785,
     "lng": -77.4391955
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 13:22",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "4220-BLK OLD BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5932107,
+    "lng": -77.447774
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 14:04",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "5300-BLK PATTERSON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.576053,
+    "lng": -77.508561
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 14:03",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK - RUPTURED MAIN (OUTSIDE)",
+    "street": "5300-BLK PATTERSON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue, West End",
+    "location_township": "FIRE",
+    "lat": 37.576053,
+    "lng": -77.508561
   }
 ]
