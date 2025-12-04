@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/03/2025 15:08",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1300-BLK E MARSHALL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5396586,
-    "lng": -77.4286204
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 06:06",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -53,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 07:37",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "0-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5524286,
-    "lng": -77.4397449
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 10:09",
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
@@ -83,12 +57,25 @@
     "box_no": "Precinct 1",
     "type_specific": "OCCP STRUCTURE OR VEH , INVESTIGATE / NON - EMS",
     "street": "1300-BLK JENNIE SCHER RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jennie Scher Road, East End",
     "location_township": "Precinct 1",
     "lat": 37.521475,
     "lng": -77.40059
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 12:46",
+    "box_no": "DPR",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "100-BLK S BELVIDERE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "DPR",
+    "lat": 37.5450741,
+    "lng": -77.4489075
   },
   {
     "type_general": "RPD",
@@ -102,19 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5347009,
     "lng": -77.4032658
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 13:25",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1900-BLK RAVEN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Raven Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549938,
-    "lng": -77.421725
   },
   {
     "type_general": "RPD",
@@ -144,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:43",
+    "dispatch_time": "12/04/2025 14:31",
     "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "400-BLK W CLAY ST",
-    "status": "Dispatched",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "100-BLK S 5TH ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Clay Street",
+    "nearest_intersection": "South 5th Street",
     "location_township": "Precinct 4",
-    "lat": 37.5496735,
-    "lng": -77.4437834
+    "lat": 37.539453,
+    "lng": -77.440891
   },
   {
     "type_general": "RPD",
@@ -170,42 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:31",
+    "dispatch_time": "12/04/2025 14:43",
     "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "100-BLK S 5TH ST",
-    "status": "Arrived",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "400-BLK W CLAY ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "South 5th Street",
+    "nearest_intersection": "West Clay Street",
     "location_township": "Precinct 4",
-    "lat": 37.539453,
-    "lng": -77.440891
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:52",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "5000-BLK EVELYN BYRD RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.526624,
-    "lng": -77.486773
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:52",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "5000-BLK EVELYN BYRD RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.526624,
-    "lng": -77.486773
+    "lat": 37.5496735,
+    "lng": -77.4437834
   },
   {
     "type_general": "RPD",
@@ -232,32 +180,6 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:39",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "2900-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Essex Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.570084,
-    "lng": -77.43294
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 14:41",
-    "box_no": "Precinct 3",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5035598,
-    "lng": -77.5157461
   },
   {
     "type_general": "RPD",
@@ -271,5 +193,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5648403,
     "lng": -77.4793039
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 15:07",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "5000-BLK EVELYN BYRD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.526624,
+    "lng": -77.486773
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 15:10",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "KROUSE ST/WRIGHT AVE RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Krouse Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4897452,
+    "lng": -77.4395252
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 15:11",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "KROUSE ST/WRIGHT AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Krouse Street",
+    "location_township": "FIRE",
+    "lat": 37.4897452,
+    "lng": -77.4395252
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 15:02",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "W CHARITY ST/ST PAUL ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5524286,
+    "lng": -77.4397449
   }
 ]
