@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:18",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 02:15",
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -118,16 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:45",
+    "dispatch_time": "12/04/2025 02:46",
     "box_no": "Precinct 2",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "4100-BLK LEAKE AVE",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "5400-BLK HULL STREET RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Leake Avenue, Southside",
+    "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
-    "lat": 37.4873722,
-    "lng": -77.469496
+    "lat": 37.4899001,
+    "lng": -77.4939365
   },
   {
     "type_general": "RFD",
@@ -144,15 +131,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:46",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "5400-BLK HULL STREET RD",
-    "status": "Enroute",
+    "dispatch_time": "12/04/2025 02:18",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "CHAMBERLAYNE AVE/AZALEA AVE RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 02:45",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "4100-BLK LEAKE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Leake Avenue, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.4899001,
-    "lng": -77.4939365
+    "lat": 37.4873722,
+    "lng": -77.469496
   }
 ]
