@@ -78,30 +78,17 @@
     "lng": -77.486443
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 04:10",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1700-BLK BELLEVUE AVE",
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 01:25",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "2000-BLK PUMP HOUSE DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "FIRE",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/04/2025 04:38",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1000-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "FIRE",
-    "lat": 37.499523,
-    "lng": -77.4714208
+    "nearest_intersection": "Pump House Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.538498,
+    "lng": -77.486443
   },
   {
     "type_general": "RPD",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5394511,
     "lng": -77.4180765
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 04:44",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "800-BLK LOUISIANA ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Louisiana Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5184716,
-    "lng": -77.4082906
   },
   {
     "type_general": "RPD",
@@ -154,5 +128,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5140128,
     "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 04:44",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "800-BLK LOUISIANA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Louisiana Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5184716,
+    "lng": -77.4082906
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 05:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "300-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "FIRE",
+    "lat": 37.5492224,
+    "lng": -77.4430642
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 04:54",
+    "box_no": "FIRE",
+    "type_specific": "# TRASH FIRE , DEBRIS",
+    "street": "W CARY ST/S SHEPPARD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "FIRE",
+    "lat": 37.5433115,
+    "lng": -77.4470688
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 04:59",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5063238,
+    "lng": -77.4972004
   }
 ]
