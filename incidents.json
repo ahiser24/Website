@@ -5,7 +5,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 1",
@@ -24,19 +24,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5300467,
     "lng": -77.4158071
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 02:44",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1600-BLK SKIPWITH RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -83,7 +70,7 @@
     "box_no": "Precinct 2",
     "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
     "street": "OLD WARWICK RD/HOPKINS RD RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Old Warwick Road, Southside",
     "location_township": "Precinct 2",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 03:50",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5035598,
-    "lng": -77.5157461
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 03:45",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -128,5 +102,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5433507,
     "lng": -77.4581133
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 03:58",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "1500-BLK HELEN LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Helen Lane",
+    "location_township": "FIRE",
+    "lat": 37.49838,
+    "lng": -77.435199
   }
 ]
