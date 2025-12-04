@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 05:58",
-    "box_no": "Precinct 2",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "700-BLK EVERETT ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Everett Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5202989,
-    "lng": -77.4378027
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 06:00",
     "box_no": "Precinct 1",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -219,5 +206,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5448002,
     "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 06:33",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2700-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Atwell Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4859476,
+    "lng": -77.4457759
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 06:23",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "700-BLK EVERETT ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5202989,
+    "lng": -77.4378027
   }
 ]
