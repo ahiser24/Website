@@ -44,7 +44,7 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "5800-BLK BREMO RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
@@ -63,31 +63,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5641217,
     "lng": -77.4706195
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 03:31",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4000-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4702608,
-    "lng": -77.4438114
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 03:35",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2500-BLK ALEXANDER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Alexander Avenue",
-    "location_township": "FIRE",
-    "lat": 37.475311,
-    "lng": -77.440793
   }
 ]
