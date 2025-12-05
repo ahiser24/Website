@@ -96,7 +96,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "RIVERSIDE DR/W 21ST ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Riverside Drive",
     "location_township": "Precinct 3",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 12:00",
-    "box_no": "Precinct 3",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "100-BLK S ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Arthur Ashe Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.551581,
-    "lng": -77.4766431
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 11:52",
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
@@ -245,5 +232,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5468144,
     "lng": -77.447785
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 12:34",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "3800-BLK OLD POST RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Post Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4771532,
+    "lng": -77.4647449
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 12:36",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
+    "street": "900-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5501607,
+    "lng": -77.4515112
   }
 ]
