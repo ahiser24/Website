@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 11:48",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5035598,
-    "lng": -77.5157461
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 11:02",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5335,
     "lng": -77.402973
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 12:29",
+    "box_no": "Precinct 3",
+    "type_specific": "LOST PROPERTY , DPR CALL - TAKE A REPORT",
+    "street": "00-BLK W ROANOKE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Roanoke Street",
+    "location_township": "Precinct 3",
+    "lat": 37.51077,
+    "lng": -77.4747743
   },
   {
     "type_general": "RPD",
@@ -287,19 +287,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:54",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "800-BLK MAGGIE WALKER AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Maggie Walker Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5923528,
-    "lng": -77.441796
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 14:46",
     "box_no": "Precinct 3",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -364,19 +351,6 @@
     "lng": -77.4051343
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 14:54",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "600-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "FIRE",
-    "lat": 37.5112807,
-    "lng": -77.5249879
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/05/2025 14:56",
     "box_no": "Precinct 4",
@@ -390,16 +364,55 @@
     "lng": -77.4493985
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 14:56",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "900-BLK W BROAD ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:07",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2700-BLK W BROAD ST",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5504418,
-    "lng": -77.4493985
+    "location_township": "Precinct 4",
+    "lat": 37.5620282,
+    "lng": -77.468756
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:11",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "900-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 1",
+    "lat": 37.5071934,
+    "lng": -77.4476457
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:11",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "900-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 1",
+    "lat": 37.5071934,
+    "lng": -77.4476457
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 14:54",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "800-BLK MAGGIE WALKER AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maggie Walker Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5923528,
+    "lng": -77.441796
   }
 ]
