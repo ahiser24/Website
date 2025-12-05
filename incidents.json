@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "2600-BLK GROVE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
@@ -118,16 +118,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 12:34",
+    "dispatch_time": "12/05/2025 14:20",
     "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
-    "street": "3800-BLK OLD POST RD",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "300-BLK BELT BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.504835,
+    "lng": -77.478641
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 14:20",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "300-BLK BELT BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Post Road",
+    "nearest_intersection": "East Belt Boulevard, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.4771532,
-    "lng": -77.4647449
+    "lat": 37.504835,
+    "lng": -77.478641
   },
   {
     "type_general": "RPD",
@@ -196,32 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:20",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "300-BLK BELT BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504835,
-    "lng": -77.478641
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:20",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "300-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504835,
-    "lng": -77.478641
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 14:34",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -271,45 +258,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4899001,
     "lng": -77.4939365
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 14:52",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
-    "street": "2400-BLK PETER PAUL BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Peter Paul Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5472631,
-    "lng": -77.4051343
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 15:11",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "900-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 1",
-    "lat": 37.5071934,
-    "lng": -77.4476457
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 15:11",
-    "box_no": "Precinct 1",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "900-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 1",
-    "lat": 37.5071934,
-    "lng": -77.4476457
   },
   {
     "type_general": "RPD",
@@ -427,5 +375,44 @@
     "location_township": "Precinct 2",
     "lat": 37.503041,
     "lng": -77.44145
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:53",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "5200-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492722,
+    "lng": -77.4891674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:50",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "2400-BLK COURTLAND ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Courtland Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4698523,
+    "lng": -77.4396672
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:37",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1600-BLK ALTAMONT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Altamont Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5675544,
+    "lng": -77.4691915
   }
 ]
