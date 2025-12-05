@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 11:10",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RIVERSIDE DR/W 21ST ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5279468,
-    "lng": -77.4870276
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 11:14",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -115,45 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4752744,
     "lng": -77.4444157
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 11:22",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "3100-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5746979,
-    "lng": -77.4644653
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 11:38",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "300-BLK BELT BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504835,
-    "lng": -77.478641
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 11:38",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "300-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.504835,
-    "lng": -77.478641
   },
   {
     "type_general": "RPD",
@@ -170,16 +118,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 11:52",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "9200-BLK FOREST HILL AVE",
+    "dispatch_time": "12/05/2025 11:38",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "300-BLK BELT BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.504835,
+    "lng": -77.478641
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 11:38",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "300-BLK BELT BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stony Point Road",
-    "location_township": "Precinct 3",
-    "lat": 37.540885,
-    "lng": -77.565286
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.504835,
+    "lng": -77.478641
   },
   {
     "type_general": "RPD",
@@ -196,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 11:45",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "LL(-77:30:27.2320,37:32:00.4195): @RR CROSSING - FOREST HILL - POWHITE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lng": -77.50756444444444,
-    "lat": 37.53344986111111
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 12:08",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -222,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 12:42",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "400-BLK OLD CARNATION ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Carnation Street",
-    "location_township": "Precinct 3",
-    "lat": 37.4990143,
-    "lng": -77.5163025
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 12:44",
     "box_no": "Precinct 4",
     "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
@@ -245,45 +180,6 @@
     "location_township": "Precinct 4",
     "lat": 37.572006,
     "lng": -77.4399803
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 12:47",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2400-BLK P ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 12:47",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2400-BLK P ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 12:44",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "1800-BLK MAPLEWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maplewood Avenue",
-    "location_township": "FIRE",
-    "lat": 37.543566,
-    "lng": -77.466491
   },
   {
     "type_general": "RFD",
@@ -325,19 +221,6 @@
     "lng": -77.5008037
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 12:41",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1200-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.520818,
-    "lng": -77.444127
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/05/2025 12:46",
     "box_no": "FIRE",
@@ -349,5 +232,83 @@
     "location_township": "FIRE",
     "lat": 37.5533559,
     "lng": -77.4402851
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 12:53",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "1700-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5361461,
+    "lng": -77.4257319
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 12:54",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "1200-BLK E BROOKLAND PARK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "location_township": "FIRE",
+    "lat": 37.57024,
+    "lng": -77.420545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 12:42",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "400-BLK OLD CARNATION ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.4990143,
+    "lng": -77.5163025
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 12:58",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Admiral Gravely Boulevard, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.520445,
+    "lng": -77.40241
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 12:57",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "6700-BLK W CARNATION ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5078326,
+    "lng": -77.5178676
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 13:00",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5799327,
+    "lng": -77.4469305
   }
 ]
