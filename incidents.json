@@ -157,58 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 10:17",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "6400-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5036311,
-    "lng": -77.5151182
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 10:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "5400-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "FIRE",
-    "lat": 37.4899001,
-    "lng": -77.4939365
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 10:46",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "W BROAD ST/N HAMILTON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 10:48",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "600-BLK W BACON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
-    "location_township": "FIRE",
-    "lat": 37.5565875,
-    "lng": -77.4412236
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 10:24",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -219,5 +167,31 @@
     "location_township": "Precinct 2",
     "lat": 37.493513,
     "lng": -77.479702
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 10:57",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "5700-BLK PATTERSON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5787726,
+    "lng": -77.512961
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 10:53",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1300-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.520299,
+    "lng": -77.444944
   }
 ]
