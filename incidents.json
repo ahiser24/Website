@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/05/2025 05:08",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "2600-BLK GROVE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5543423,
+    "lng": -77.4720912
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/05/2025 05:09",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
