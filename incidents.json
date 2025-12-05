@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 08:32",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BOSTON AVE/E 15TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Boston Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5127984,
-    "lng": -77.4449461
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:04",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2300-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5292529,
-    "lng": -77.4235309
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 09:04",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -115,32 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5301228,
     "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:07",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2400-BLK P ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:07",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2400-BLK P ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
   },
   {
     "type_general": "RPD",
@@ -169,19 +117,6 @@
     "lng": -77.512119
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 09:20",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @MM 74 - I95 SB",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/05/2025 09:41",
     "box_no": "Precinct 4",
@@ -193,32 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5409621,
     "lng": -77.4386469
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:37",
-    "box_no": "Precinct 3",
-    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
-    "street": "1200-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5202636,
-    "lng": -77.4888584
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:19",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1900-BLK ACCOMMODATION ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5478392,
-    "lng": -77.4217136
   },
   {
     "type_general": "RPD",
@@ -234,17 +143,17 @@
     "lng": -77.446052
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:51",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "200-BLK HOSPITAL ST",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 09:20",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @MM 74 - I95 SB",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hospital Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5533597,
-    "lng": -77.4314478
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -258,5 +167,83 @@
     "location_township": "Precinct 4",
     "lat": 37.5746979,
     "lng": -77.4644653
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 09:51",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "200-BLK HOSPITAL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hospital Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5533597,
+    "lng": -77.4314478
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 10:03",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1300-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.520299,
+    "lng": -77.444944
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 10:05",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "2400-BLK CARRINGTON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Carrington Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5395588,
+    "lng": -77.413313
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 10:05",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "2400-BLK CARRINGTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carrington Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5395588,
+    "lng": -77.413313
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 10:06",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "2500-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5618681,
+    "lng": -77.4650329
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 10:06",
+    "box_no": "Precinct 3",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "2500-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5618681,
+    "lng": -77.4650329
   }
 ]
