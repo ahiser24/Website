@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 05:03",
-    "box_no": "Precinct 2",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "5800-BLK SNEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.478385,
-    "lng": -77.500654
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 05:08",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5543423,
     "lng": -77.4720912
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 05:56",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
   },
   {
     "type_general": "RPD",
