@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 23:09",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "300-BLK S CHERRY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Cherry Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5416905,
-    "lng": -77.4530903
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/04/2025 23:28",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3100-BLK LANVALE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lanvale Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.575568,
-    "lng": -77.467196
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 23:29",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -118,15 +92,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 23:34",
+    "dispatch_time": "12/04/2025 23:43",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE-EMS",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/04/2025 23:43",
     "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "4200-BLK KENMARE LN",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "4300-BLK RICHMOND HWY",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Kenmare Lane",
+    "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
-    "lat": 37.4595415,
-    "lng": -77.4909803
+    "lat": 37.4669702,
+    "lng": -77.4434064
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/04/2025 23:46",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "1100-BLK COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "FIRE",
+    "lat": 37.5141179,
+    "lng": -77.4329313
   }
 ]
