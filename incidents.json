@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 00:38",
-    "box_no": "Precinct 2",
-    "type_specific": "INTOXICATED PERSON , INVESTIGATE",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 00:39",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -143,32 +130,6 @@
     "lng": -77.4552133
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 01:48",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "WESTOVER HILLS BLVD/FOREST HILL AVE RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5260606,
-    "lng": -77.4865771
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 01:48",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "WESTOVER HILLS BLVD/FOREST HILL AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5260606,
-    "lng": -77.4865771
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/05/2025 01:48",
     "box_no": "FIRE",
@@ -187,24 +148,11 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "5800-BLK BREMO RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 01:47",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "5100-BLK KENMARE LOOP",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Kenmare Loop",
-    "location_township": "Precinct 2",
-    "lat": 37.4600571,
-    "lng": -77.4881969
   }
 ]
