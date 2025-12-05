@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 07:52",
-    "box_no": "Precinct 2",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "2700-BLK GLENAN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greenbay Road",
-    "location_township": "Precinct 2",
-    "lat": 37.480953,
-    "lng": -77.465388
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 08:32",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -131,37 +118,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 08:59",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2300-BLK CREIGHTON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Creighton Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5464723,
-    "lng": -77.3973868
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 08:59",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2300-BLK CREIGHTON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Creighton Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5464723,
-    "lng": -77.3973868
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 09:04",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "2300-BLK E CARY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
@@ -170,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/05/2025 09:04",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5301228,
+    "lng": -77.3889896
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/05/2025 09:07",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -193,32 +167,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5404917,
     "lng": -77.4175446
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:05",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "4000-BLK BARTH RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bathurst Road",
-    "location_township": "Precinct 2",
-    "lat": 37.462596,
-    "lng": -77.488737
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:20",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1100-BLK ST JOHN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5531273,
-    "lng": -77.4363957
   },
   {
     "type_general": "RPD",
@@ -247,19 +195,6 @@
     "lng": -77.512119
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 09:04",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "3500-BLK EAST RICHMOND RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/05/2025 09:20",
     "box_no": "FIRE",
@@ -271,5 +206,18 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 09:37",
+    "box_no": "Precinct 3",
+    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
+    "street": "1200-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5202636,
+    "lng": -77.4888584
   }
 ]
