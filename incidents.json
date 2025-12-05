@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 10:01",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2200-BLK BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bath Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5625595,
-    "lng": -77.4482371
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 10:05",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -143,17 +130,17 @@
     "lng": -77.4939365
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 09:20",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @MM 74 - I95 SB",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 10:08",
+    "box_no": "Precinct 2",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "3400-BLK CHALFONT DR",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Chalfont Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4906627,
+    "lng": -77.4626687
   },
   {
     "type_general": "RPD",
@@ -187,7 +174,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
     "street": "5400-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "FIRE",
@@ -195,16 +182,42 @@
     "lng": -77.4939365
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 10:08",
-    "box_no": "Precinct 2",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "3400-BLK CHALFONT DR",
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 10:46",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "W BROAD ST/N HAMILTON ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 10:48",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "600-BLK W BACON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "FIRE",
+    "lat": 37.5565875,
+    "lng": -77.4412236
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 10:24",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "4600-BLK SOUTHWOOD PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Southwood Parkway, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.4906627,
-    "lng": -77.4626687
+    "lat": 37.493513,
+    "lng": -77.479702
   }
 ]
