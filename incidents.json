@@ -52,6 +52,32 @@
     "lng": -77.4180413
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 04:56",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "1500-BLK LONE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bruce Street",
+    "location_township": "Precinct 1",
+    "lat": 37.506086,
+    "lng": -77.435506
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 04:59",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/05/2025 04:37",
     "box_no": "FIRE",
@@ -63,18 +89,5 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 04:39",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3600-BLK DELAWARE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Delaware Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5801027,
-    "lng": -77.4180413
   }
 ]
