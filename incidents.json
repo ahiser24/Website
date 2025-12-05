@@ -27,6 +27,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/05/2025 05:52",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2200-BLK CLEARFIELD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clearfield Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4832199,
+    "lng": -77.4952558
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/05/2025 06:01",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , AGGRESSIVE - EMS",
@@ -53,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 06:22",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2100-BLK CREIGHTON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Creighton Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5447691,
-    "lng": -77.3989708
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 06:31",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -83,7 +83,7 @@
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "1100-BLK W MAIN ST",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Main Street",
     "location_township": "Precinct 3",
@@ -92,16 +92,55 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 06:31",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1100-BLK W MAIN ST",
+    "dispatch_time": "12/05/2025 06:40",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3100-BLK MIDLOTHIAN TPKE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Main Street",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5117693,
+    "lng": -77.4649524
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 06:40",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 06:40",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 06:43",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "9900-BLK W HUGUENOT RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Huguenot Road",
     "location_township": "Precinct 3",
-    "lat": 37.5460193,
-    "lng": -77.4554581
+    "lat": 37.5327709,
+    "lng": -77.5781607
   },
   {
     "type_general": "RFD",
@@ -115,5 +154,18 @@
     "location_township": "FIRE",
     "lat": 37.5123438,
     "lng": -77.4754932
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 06:43",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "9900-BLK W HUGUENOT RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Huguenot Road",
+    "location_township": "FIRE",
+    "lat": 37.5327709,
+    "lng": -77.5781607
   }
 ]
