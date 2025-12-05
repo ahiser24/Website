@@ -50,5 +50,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5543423,
     "lng": -77.4720912
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 05:56",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 06:01",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , AGGRESSIVE - EMS",
+    "street": "N 3RD ST/E BROAD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 3rd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5480773,
+    "lng": -77.4352319
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 06:01",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "200-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "FIRE",
+    "lat": 37.5056338,
+    "lng": -77.5252413
   }
 ]
