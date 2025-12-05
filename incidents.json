@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/04/2025 18:39",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Admiral Gravely Boulevard, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.520445,
-    "lng": -77.40241
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/04/2025 18:45",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -63,18 +50,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5543423,
     "lng": -77.4720912
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 05:09",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3500-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5799327,
-    "lng": -77.4469305
   }
 ]
