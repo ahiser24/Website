@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 13:46",
-    "box_no": "Precinct 3",
-    "type_specific": "FOUND PROPERTY , FIRE ARM",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 12:34",
     "box_no": "Precinct 2",
     "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
@@ -154,19 +141,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4771532,
     "lng": -77.4647449
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 13:43",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "2200-BLK SEMMES AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.521266,
-    "lng": -77.455533
   },
   {
     "type_general": "RPD",
@@ -182,6 +156,32 @@
     "lng": -77.5178676
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 13:43",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2200-BLK SEMMES AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.521266,
+    "lng": -77.455533
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 13:46",
+    "box_no": "Precinct 3",
+    "type_specific": "FOUND PROPERTY , FIRE ARM",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/05/2025 13:43",
     "box_no": "FIRE",
@@ -193,19 +193,6 @@
     "location_township": "FIRE",
     "lat": 37.521266,
     "lng": -77.455533
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 13:48",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "1600-BLK 4TH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.556334,
-    "lng": -77.425946
   },
   {
     "type_general": "RPD",
@@ -300,32 +287,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:24",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "3200-BLK PARWOOOD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:24",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "3200-BLK PARWOOOD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 14:07",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -352,45 +313,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:31",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1400-BLK MECHANICSVILLE TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Redd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5455254,
-    "lng": -77.4168545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:17",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3800-BLK GLENWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Glenwood Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.526235,
-    "lng": -77.4054165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:22",
-    "box_no": "Precinct 2",
-    "type_specific": "FOUND PROPERTY , FIRE ARM",
-    "street": "3700-BLK GUILDER LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Guilder Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.473723,
-    "lng": -77.46439
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 14:36",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -414,19 +336,6 @@
     "location_township": "Precinct 1",
     "lat": 37.534302,
     "lng": -77.427504
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:33",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3300-BLK DILL AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Dill Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5719648,
-    "lng": -77.4119515
   },
   {
     "type_general": "RFD",
@@ -455,16 +364,55 @@
     "lng": -77.4102526
   },
   {
-    "type_general": "RFD",
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 14:27",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W CARY ST/S DOOLEY AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5433115,
+    "lng": -77.4470688
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/05/2025 14:33",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "1300-BLK BAINBRIDGE ST",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "3300-BLK DILL AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Dill Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5719648,
+    "lng": -77.4119515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 13:55",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2700-BLK BELLS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bells Road",
+    "location_township": "Precinct 2",
+    "lat": 37.472474,
+    "lng": -77.44866
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 14:17",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3800-BLK GLENWOOD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bainbridge Street",
-    "location_township": "FIRE",
-    "lat": 37.5210845,
-    "lng": -77.445684
+    "nearest_intersection": "Glenwood Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.526235,
+    "lng": -77.4054165
   }
 ]
