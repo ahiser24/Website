@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "2600-BLK GROVE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
@@ -222,32 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:36",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1700-BLK E FRANKLIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 17th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534302,
-    "lng": -77.427504
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:36",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1700-BLK E FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 17th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534302,
-    "lng": -77.427504
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 14:34",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -258,32 +232,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5436083,
     "lng": -77.4102526
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:33",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "3300-BLK DILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dill Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5719648,
-    "lng": -77.4119515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:42",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2400-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5511863,
-    "lng": -77.4707987
   },
   {
     "type_general": "RPD",
@@ -325,17 +273,17 @@
     "lng": -77.4939365
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:54",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2500-BLK E MAIN ST",
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 14:52",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "2400-BLK PETER PAUL BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "DPR",
-    "lat": 37.5290346,
-    "lng": -77.4208043
+    "nearest_intersection": "Peter Paul Boulevard",
+    "location_township": "FIRE",
+    "lat": 37.5472631,
+    "lng": -77.4051343
   },
   {
     "type_general": "RPD",
@@ -417,32 +365,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 15:17",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3300-BLK DILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dill Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5719648,
-    "lng": -77.4119515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 14:53",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 15:07",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -455,29 +377,29 @@
     "lng": -77.468756
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 14:52",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
-    "street": "2400-BLK PETER PAUL BLVD",
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:35",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "1200-BLK GREYCOURT AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Peter Paul Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5472631,
-    "lng": -77.4051343
+    "nearest_intersection": "Greycourt Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.587353,
+    "lng": -77.451924
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 15:14",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , ELECTRICAL FIRE",
-    "street": "4400-BLK FITZHUGH AVE",
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:35",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2000-BLK E FRANKLIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fitzhugh Avenue",
-    "location_township": "FIRE",
-    "lat": 37.575303,
-    "lng": -77.487848
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5327654,
+    "lng": -77.4246753
   }
 ]
