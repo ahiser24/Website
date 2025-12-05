@@ -27,55 +27,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 00:39",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "100-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5149743,
-    "lng": -77.5244606
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 04:39",
-    "box_no": "Precinct 4",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "3600-BLK DELAWARE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Delaware Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5801027,
-    "lng": -77.4180413
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 04:56",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1500-BLK LONE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bruce Street",
-    "location_township": "Precinct 1",
-    "lat": 37.506086,
-    "lng": -77.435506
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 04:59",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "2900-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
     "lat": 37.484409,
     "lng": -77.445034
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 05:03",
+    "box_no": "Precinct 2",
+    "type_specific": "D.O.A. , INVESTIGATE",
+    "street": "5800-BLK SNEAD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.478385,
+    "lng": -77.500654
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 05:09",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5799327,
+    "lng": -77.4469305
   },
   {
     "type_general": "RFD",
@@ -89,5 +76,18 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 05:05",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
+    "street": "5800-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "FIRE",
+    "lat": 37.478385,
+    "lng": -77.500654
   }
 ]
