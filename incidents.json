@@ -144,29 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 08:02",
+    "dispatch_time": "12/05/2025 08:32",
     "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "300-BLK N 20TH ST",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "BOSTON AVE/E 15TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
+    "nearest_intersection": "Boston Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.534543,
-    "lng": -77.423317
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 08:30",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "RIVERSIDE DR/SOUTHAMPTON RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5279468,
-    "lng": -77.4870276
+    "lat": 37.5127984,
+    "lng": -77.4449461
   },
   {
     "type_general": "RFD",
@@ -183,16 +170,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 08:31",
+    "dispatch_time": "12/05/2025 08:59",
     "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "3500-BLK EAST RICHMOND RD",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2300-BLK CREIGHTON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Creighton Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5464723,
+    "lng": -77.3973868
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 08:59",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2300-BLK CREIGHTON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
+    "nearest_intersection": "Creighton Road",
     "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
+    "lat": 37.5464723,
+    "lng": -77.3973868
   },
   {
     "type_general": "RPD",
@@ -206,18 +206,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5335375,
     "lng": -77.4374905
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 08:32",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BOSTON AVE/E 15TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Boston Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5127984,
-    "lng": -77.4449461
   }
 ]
