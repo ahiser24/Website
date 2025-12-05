@@ -7,7 +7,7 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
     "lat": 37.516009,
     "lng": -77.525109
@@ -20,7 +20,7 @@
     "street": "2600-BLK GROVE AVE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.5543423,
     "lng": -77.4720912
@@ -33,10 +33,10 @@
     "street": "300-BLK S MEADOW ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -46,10 +46,10 @@
     "street": "300-BLK S MEADOW ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -59,10 +59,10 @@
     "street": "4100-BLK NORTH AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Avenue",
+    "nearest_intersection": "",
     "location_township": "DPR",
-    "lat": 37.585559,
-    "lng": -77.440752
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -72,10 +72,10 @@
     "street": "1200-BLK OAKWOOD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Oakwood Avenue, East End",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5335,
-    "lng": -77.402973
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -85,10 +85,10 @@
     "street": "2400-BLK COURTLAND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Courtland Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4698523,
-    "lng": -77.4396672
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -98,7 +98,7 @@
     "street": "CARYTOWN",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Cary Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.5536367,
     "lng": -77.4819503
@@ -111,7 +111,7 @@
     "street": "CARYTOWN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Cary Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.5536367,
     "lng": -77.4819503
@@ -124,10 +124,10 @@
     "street": "200-BLK E 36TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 36th Street, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.5076914,
-    "lng": -77.4713103
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -137,10 +137,10 @@
     "street": "N ALLEN AVE/W LEIGH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Allen Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5532301,
-    "lng": -77.4608627
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -150,10 +150,10 @@
     "street": "E MAIN ST/N 9TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Main Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5337997,
-    "lng": -77.4291343
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -163,7 +163,7 @@
     "street": "2900-BLK NINE MILE RD",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
+    "nearest_intersection": "",
     "location_township": "DPR",
     "lat": 37.5416609,
     "lng": -77.4031859
@@ -176,10 +176,10 @@
     "street": "1500-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5541589,
-    "lng": -77.4554329
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -202,32 +202,6 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 18:01",
-    "box_no": "Precinct 2",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "3600-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4752744,
-    "lng": -77.4444157
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 18:02",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "600BLK W 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": null,
@@ -241,10 +215,10 @@
     "street": "1300-BLK MCDONOUGH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "McDonough Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5235784,
-    "lng": -77.4484232
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -254,10 +228,10 @@
     "street": "100-BLK BELT BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -267,10 +241,23 @@
     "street": "1500-BLK OLD ARMSTRONG WAY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Armstrong Way, East End",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5384253,
-    "lng": -77.4013792
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 18:21",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "3800-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -278,24 +265,37 @@
     "box_no": "Precinct 3",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
     "street": "700-BLK S NANSEMOND ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Nansemond Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5499371,
-    "lng": -77.4897227
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 18:10",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1300-BLK MCDONOUGH ST",
-    "status": "Arrived",
+    "dispatch_time": "12/05/2025 18:01",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "ROTHESAY CIR/PORTLAND PL RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "McDonough Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5235784,
-    "lng": -77.4484232
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": 37.5431866,
+    "lng": -77.4932816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 18:22",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "1100-BLK SOUTHWOOD PKWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   }
 ]
