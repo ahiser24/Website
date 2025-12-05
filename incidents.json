@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 03:13",
-    "box_no": "Precinct 3",
-    "type_specific": "SEX OFFENSE , JUST OCCURRED / IN-PROGRESS",
-    "street": "N SHEPPARD ST/MONUMENT AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Sheppard Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5641217,
-    "lng": -77.4706195
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 04:13",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -66,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 04:28",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "2400-BLK INGRAM AVE",
-    "status": "Arrived",
+    "dispatch_time": "12/05/2025 04:39",
+    "box_no": "Precinct 4",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "3600-BLK DELAWARE AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Ingram Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.504359,
-    "lng": -77.444902
+    "nearest_intersection": "Delaware Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5801027,
+    "lng": -77.4180413
   },
   {
     "type_general": "RFD",
@@ -89,5 +76,31 @@
     "location_township": "FIRE",
     "lat": 37.504359,
     "lng": -77.444902
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 04:37",
+    "box_no": "FIRE",
+    "type_specific": "# MUTUAL AID , TO SCENE",
+    "street": "6400-BLK WIMBLEDON DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 04:39",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "3600-BLK DELAWARE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Delaware Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5801027,
+    "lng": -77.4180413
   }
 ]
