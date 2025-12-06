@@ -18,7 +18,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 06:00",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "CHAMBERLAYNE PKWY/MITCHELL ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 06:08",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -79,28 +66,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 06:45",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1300-BLK GREENMOSS DR",
-    "status": "Enroute",
+    "dispatch_time": "12/06/2025 06:00",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "CHAMBERLAYNE PKWY/MITCHELL ST RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Greenmoss Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.519751,
-    "lng": -77.51884
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 06:42",
+    "dispatch_time": "12/06/2025 07:10",
     "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2600-BLK W MAIN ST",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1200-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Main Street",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
-    "lat": 37.55211,
-    "lng": -77.4732564
+    "lat": 37.5205537,
+    "lng": -77.494178
   }
 ]
