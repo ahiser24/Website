@@ -53,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 11:20",
-    "box_no": "Precinct 3",
-    "type_specific": "MAYDAY/Deputy/Officer Down , INVESTIGATE",
-    "street": "00-BLK S NANSEMOND ST",
+    "dispatch_time": "12/06/2025 12:14",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3000-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Nansemond Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5541317,
-    "lng": -77.4873713
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5725597,
+    "lng": -77.4456656
   },
   {
     "type_general": "RPD",
@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 12:14",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5725597,
-    "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 13:04",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "900-BLK MYERS ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Myers Street",
-    "location_township": "Precinct 4",
-    "lat": 37.56341,
-    "lng": -77.469527
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 12:39",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -115,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5717288,
     "lng": -77.4340347
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 12:44",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W LEIGH ST/MYERS ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5556224,
-    "lng": -77.451142
   },
   {
     "type_general": "RPD",
@@ -157,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 13:16",
-    "box_no": "Precinct 1",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "900-BLK N 24TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 24th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5376113,
-    "lng": -77.4147888
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 12:18",
     "box_no": "Precinct 4",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -180,6 +128,58 @@
     "location_township": "Precinct 4",
     "lat": 37.5442536,
     "lng": -77.4397407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 13:11",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 2ND ST/MAGGIE L WALKER PL RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 2nd Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5517009,
+    "lng": -77.4333866
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 13:04",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "900-BLK MYERS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Myers Street",
+    "location_township": "Precinct 4",
+    "lat": 37.56341,
+    "lng": -77.469527
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 13:25",
+    "box_no": "Precinct 1",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "300-BLK E 19TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.514762,
+    "lng": -77.447047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 12:44",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W LEIGH ST/MYERS ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5556224,
+    "lng": -77.451142
   },
   {
     "type_general": "RFD",
@@ -208,16 +208,55 @@
     "lng": -77.4515552
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 13:25",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1700-BLK W LEIGH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "DPR",
+    "lat": 37.5580027,
+    "lng": -77.4548916
+  },
+  {
     "type_general": "RFD",
-    "dispatch_time": "12/06/2025 13:08",
+    "dispatch_time": "12/06/2025 13:29",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "300-BLK RANDOLPH ST",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "W LABURNUM AVE/HERMITAGE RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Randolph Street",
+    "nearest_intersection": "West Laburnum Avenue",
     "location_township": "FIRE",
-    "lat": 37.543731,
-    "lng": -77.4602618
+    "lat": 37.5840069,
+    "lng": -77.4708596
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 13:28",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1900-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5494597,
+    "lng": -77.4106083
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 13:29",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W LABURNUM AVE/HERMITAGE RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
   }
 ]
