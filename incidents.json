@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 08:59",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "500-BLK TREDEGAR ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Tredegar Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53517,
-    "lng": -77.445236
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 09:17",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -118,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 09:07",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1000-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.515436,
-    "lng": -77.524786
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 09:08",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -141,5 +115,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5506605,
     "lng": -77.4756001
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 09:29",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "300-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5475032,
+    "lng": -77.4444903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 08:59",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "500-BLK TREDEGAR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Tredegar Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53517,
+    "lng": -77.445236
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 09:17",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "PATTERSON AVE/THREE CHOPT RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5634214,
+    "lng": -77.4843201
   }
 ]
