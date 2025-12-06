@@ -18,7 +18,7 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1200-BLK OAKWOOD AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Oakwood Avenue, East End",
     "location_township": "Precinct 1",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 15:50",
-    "box_no": "Precinct 2",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "2400-BLK COURTLAND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Courtland Street",
-    "location_township": "Precinct 2",
-    "lat": 37.4698523,
-    "lng": -77.4396672
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 20:11",
     "box_no": "Precinct 2",
     "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
@@ -89,6 +76,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5086369,
     "lng": -77.4458022
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:50",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "2400-BLK COURTLAND ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Courtland Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4698523,
+    "lng": -77.4396672
   },
   {
     "type_general": "RPD",
@@ -157,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 21:41",
-    "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2000-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5133362,
-    "lng": -77.4470727
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 22:44",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "N HOPKINS RD/RICHMOND HWY RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Hopkins Road, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5011278,
-    "lng": -77.4570324
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 21:19",
     "box_no": "DPR",
     "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
@@ -196,16 +170,42 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/05/2025 22:44",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "N HOPKINS RD/RICHMOND HWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Hopkins Road, Southside",
+    "location_township": "Precinct 1",
+    "lat": 37.5011278,
+    "lng": -77.4570324
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/05/2025 22:45",
     "box_no": "Precinct 2",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Angus Road",
     "location_township": "Precinct 2",
     "lat": 37.464799,
     "lng": -77.460475
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 21:41",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2000-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 1",
+    "lat": 37.5133362,
+    "lng": -77.4470727
   },
   {
     "type_general": "RFD",
@@ -221,29 +221,16 @@
     "lng": -77.4515552
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 22:42",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1000-BLK HIOAKS RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:03",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "1200-BLK N 30TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "FIRE",
-    "lat": 37.515436,
-    "lng": -77.524786
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 22:52",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "E GLADSTONE AVE/CLIFF AVE RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Gladstone Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5751692,
-    "lng": -77.4266807
+    "nearest_intersection": "North 30th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.536977,
+    "lng": -77.4067976
   }
 ]
