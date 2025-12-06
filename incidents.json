@@ -15,15 +15,54 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/05/2025 11:02",
-    "box_no": "Precinct 1",
+    "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1200-BLK OAKWOOD AVE",
+    "street": "1300-BLK E MARSHALL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5396586,
+    "lng": -77.4286204
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 11:02",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1300-BLK E MARSHALL ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Oakwood Avenue, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5335,
-    "lng": -77.402973
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5396586,
+    "lng": -77.4286204
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 11:02",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1300-BLK E MARSHALL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5396586,
+    "lng": -77.4286204
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 11:02",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1300-BLK E MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5396586,
+    "lng": -77.4286204
   },
   {
     "type_general": "RPD",
@@ -50,19 +89,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5448002,
     "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 20:11",
-    "box_no": "Precinct 2",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "3600-BLK E BROAD ROCK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5025962,
-    "lng": -77.4660676
   },
   {
     "type_general": "RPD",
@@ -79,45 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 15:50",
-    "box_no": "Precinct 2",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "2400-BLK COURTLAND ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Courtland Street",
-    "location_township": "Precinct 2",
-    "lat": 37.4698523,
-    "lng": -77.4396672
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 22:13",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1500-BLK BELLS RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road",
-    "location_township": "Precinct 2",
-    "lat": 37.466858,
-    "lng": -77.428399
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 22:13",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1500-BLK BELLS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road",
-    "location_township": "Precinct 2",
-    "lat": 37.466858,
-    "lng": -77.428399
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 21:04",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -131,6 +118,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:50",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "2400-BLK COURTLAND ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Courtland Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4698523,
+    "lng": -77.4396672
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/05/2025 21:38",
     "box_no": "Precinct 3",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
@@ -141,19 +141,6 @@
     "location_township": "Precinct 3",
     "lat": 37.4912925,
     "lng": -77.4721515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 21:41",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "2700-BLK GRANTWOOD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grantwood Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5366168,
-    "lng": -77.5359407
   },
   {
     "type_general": "RPD",
@@ -183,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 22:45",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "3400-BLK WALMSLEY BLVD",
+    "dispatch_time": "12/05/2025 23:03",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "1200-BLK N 30TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
+    "nearest_intersection": "North 30th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.536977,
+    "lng": -77.4067976
   },
   {
     "type_general": "RPD",
@@ -208,6 +195,45 @@
     "lng": -77.4470727
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:12",
+    "box_no": "Precinct 3",
+    "type_specific": "LOUD MUSIC , INVESTIGATE",
+    "street": "3100-BLK BRADWILL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bradwill Road",
+    "location_township": "Precinct 3",
+    "lat": 37.542512,
+    "lng": -77.529534
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:14",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.508019,
+    "lng": -77.4897113
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:15",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/05/2025 18:46",
     "box_no": "FIRE",
@@ -221,16 +247,16 @@
     "lng": -77.4515552
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 23:03",
-    "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "1200-BLK N 30TH ST",
-    "status": "Arrived",
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 23:21",
+    "box_no": "FIRE",
+    "type_specific": "# TRASH FIRE , DEBRIS",
+    "street": "1100-BLK AZALEA AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.536977,
-    "lng": -77.4067976
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "FIRE",
+    "lat": 37.6015861,
+    "lng": -77.4529869
   }
 ]
