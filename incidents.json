@@ -89,5 +89,83 @@
     "location_township": "Precinct 1",
     "lat": 37.516544,
     "lng": -77.400131
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 08:48",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 08:48",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 08:51",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "4200-BLK BROOK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.591125,
+    "lng": -77.452618
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 08:51",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "4200-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.591125,
+    "lng": -77.452618
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 08:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "3200-BLK NORTH RABZA BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Rabza Boulevard, East End",
+    "location_township": "FIRE",
+    "lat": 37.5396212,
+    "lng": -77.4009639
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 08:53",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1400-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5195165,
+    "lng": -77.4456731
   }
 ]
