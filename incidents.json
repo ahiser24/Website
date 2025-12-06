@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 13:29",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "W LABURNUM AVE/HERMITAGE RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Laburnum Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5840069,
-    "lng": -77.4708596
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 13:39",
     "box_no": "Precinct 2",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5556224,
     "lng": -77.451142
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 13:29",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W LABURNUM AVE/HERMITAGE RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
   },
   {
     "type_general": "RPD",
@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 13:51",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "LL(-77:28:29.9281,37:33:59.9975): EST 3212 W BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lng": -77.47498002777778,
-    "lat": 37.56666597222222
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 14:08",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -170,16 +157,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 14:12",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2600-BLK M ST",
-    "status": "Arrived",
+    "dispatch_time": "12/06/2025 13:51",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LL(-77:28:29.9281,37:33:59.9975): EST 3212 W BROAD ST RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 26th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.534547,
-    "lng": -77.41439
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lng": -77.47498002777778,
+    "lat": 37.56666597222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 13:48",
+    "box_no": "DPR",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1200-BLK HERMITAGE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "DPR",
+    "lat": 37.563296,
+    "lng": -77.460563
   },
   {
     "type_general": "RFD",
@@ -260,19 +260,6 @@
     "lng": -77.453249
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/06/2025 14:15",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "E GRACE ST/N 5TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5375801,
-    "lng": -77.4313482
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/06/2025 14:18",
     "box_no": "Precinct 4",
@@ -312,17 +299,17 @@
     "lng": -77.3889896
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/06/2025 14:29",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
-    "street": "300-BLK E 19TH ST",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 14:12",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2600-BLK M ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Everett Street",
-    "location_township": "FIRE",
-    "lat": 37.514762,
-    "lng": -77.447047
+    "nearest_intersection": "North 26th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.534547,
+    "lng": -77.41439
   },
   {
     "type_general": "RPD",
@@ -336,5 +323,31 @@
     "location_township": "Precinct 1",
     "lat": 37.514762,
     "lng": -77.447047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 14:36",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 14:10",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1200-BLK HERMITAGE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.563296,
+    "lng": -77.460563
   }
 ]
