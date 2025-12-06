@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 21:41",
-    "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2000-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5133362,
-    "lng": -77.4470727
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 15:50",
     "box_no": "Precinct 2",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -79,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 01:09",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2000-BLK CHAMBERLAYNE PKWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "DPR",
-    "lat": 37.5514017,
-    "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 00:18",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -102,6 +76,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4908816,
     "lng": -77.4654757
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 01:09",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2000-BLK CHAMBERLAYNE PKWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "DPR",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RPD",
@@ -118,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 01:30",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "00-BLK S DAVIS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Davis Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.546673,
-    "lng": -77.4748608
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 01:26",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -141,6 +115,19 @@
     "location_township": "Precinct 4",
     "lat": 37.58494,
     "lng": -77.4478043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 01:42",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "N 20TH ST/E MAIN ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5331033,
+    "lng": -77.4245845
   },
   {
     "type_general": "RPD",
@@ -156,6 +143,45 @@
     "lng": -77.4291343
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 01:43",
+    "box_no": "Precinct 4",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE - EMS",
+    "street": "900-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5504418,
+    "lng": -77.4493985
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 01:43",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 01:49",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/06/2025 01:26",
     "box_no": "FIRE",
@@ -167,5 +193,31 @@
     "location_township": "FIRE",
     "lat": 37.58494,
     "lng": -77.4478043
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 01:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "3200-BLK ENSLOW AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Enslow Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5738176,
+    "lng": -77.4183987
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 01:43",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "FIRE",
+    "lat": 37.590597,
+    "lng": -77.464322
   }
 ]
