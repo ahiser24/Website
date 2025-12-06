@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/06/2025 02:59",
+    "box_no": "Precinct 4",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "2500-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5618681,
+    "lng": -77.4650329
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/06/2025 02:03",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -66,15 +79,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 02:59",
-    "box_no": "Precinct 4",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "2500-BLK W BROAD ST",
+    "dispatch_time": "12/06/2025 05:43",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54083,
+    "lng": -77.408699
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 05:43",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5618681,
-    "lng": -77.4650329
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54083,
+    "lng": -77.408699
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 05:46",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "200-BLK S ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 3",
+    "lat": 37.5488772,
+    "lng": -77.4777879
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 05:46",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "200-BLK S ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "FIRE",
+    "lat": 37.5488772,
+    "lng": -77.4777879
   }
 ]
