@@ -117,19 +117,6 @@
     "lng": -77.4650329
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/06/2025 03:31",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @BROAD ST / HAMILTON TO I195 SB",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/06/2025 03:50",
     "box_no": "Precinct 1",
@@ -144,15 +131,80 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/06/2025 04:09",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1800-BLK STOPFORD ALY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Stopford Alley",
+    "location_township": "Precinct 3",
+    "lat": 37.5479901,
+    "lng": -77.4643201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 04:09",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1800-BLK STOPFORD ALY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stopford Alley",
+    "location_township": "Precinct 3",
+    "lat": 37.5479901,
+    "lng": -77.4643201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 04:11",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E MARSHALL ST/N 2ND ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5432612,
+    "lng": -77.4357318
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 04:11",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E MARSHALL ST/N 2ND ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5432612,
+    "lng": -77.4357318
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/06/2025 03:54",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "6600-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
     "lat": 37.5030935,
     "lng": -77.5178344
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 04:14",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "600-BLK TARPLEY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Tarpley Road",
+    "location_township": "FIRE",
+    "lat": 37.5120379,
+    "lng": -77.5004566
   }
 ]
