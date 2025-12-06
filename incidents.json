@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 21:04",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "GROVE AVE/N ARTHUR ASHE BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5653911,
-    "lng": -77.4995034
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 15:50",
     "box_no": "Precinct 2",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -128,6 +115,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4698523,
     "lng": -77.4396672
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 21:04",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "GROVE AVE/N ARTHUR ASHE BLVD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5653911,
+    "lng": -77.4995034
   },
   {
     "type_general": "RPD",
@@ -209,29 +209,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 23:14",
-    "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.508019,
-    "lng": -77.4897113
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 23:15",
     "box_no": "Precinct 4",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
     "street": "3900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
     "lat": 37.5884889,
     "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:14",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.508019,
+    "lng": -77.4897113
   },
   {
     "type_general": "RFD",
@@ -252,11 +252,37 @@
     "box_no": "FIRE",
     "type_specific": "# TRASH FIRE , DEBRIS",
     "street": "1100-BLK AZALEA AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Azalea Avenue",
     "location_township": "FIRE",
     "lat": 37.6015861,
     "lng": -77.4529869
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:32",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "LL(-77:26:43.1809,37:34:20.8560): EST 3002 CHAMBERLAYNE AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lng": -77.44532802777778,
+    "lat": 37.57246000000001
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:27",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "400-BLK E GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5426237,
+    "lng": -77.4389179
   }
 ]
