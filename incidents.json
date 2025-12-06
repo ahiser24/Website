@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 16:13",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 13:40",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -50,45 +37,6 @@
     "location_township": "Precinct 4",
     "lat": 37.588312,
     "lng": -77.458284
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 15:13",
-    "box_no": "Precinct 4",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "3400-BLK MOORE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Moore Street",
-    "location_township": "Precinct 4",
-    "lat": 37.570572,
-    "lng": -77.473047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 16:18",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "900-BLK TERMINAL PL",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Terminal Place",
-    "location_township": "Precinct 4",
-    "lat": 37.5630577,
-    "lng": -77.4679006
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 16:18",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "900-BLK TERMINAL PL",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Terminal Place",
-    "location_township": "Precinct 4",
-    "lat": 37.5630577,
-    "lng": -77.4679006
   },
   {
     "type_general": "RPD",
@@ -105,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 17:36",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "3100-BLK E WEYBURN RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Weyburn Road",
-    "location_township": "Precinct 3",
-    "lat": 37.544721,
-    "lng": -77.5448822
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 16:50",
     "box_no": "Precinct 2",
     "type_specific": "ROBBERY , INVESTIGATE - EMS",
@@ -131,29 +66,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 17:10",
+    "dispatch_time": "12/06/2025 16:18",
     "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W CARY ST/S BELVIDERE ST RICH",
-    "status": "Arrived",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "900-BLK TERMINAL PL",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Cary Street",
+    "nearest_intersection": "Terminal Place",
     "location_township": "Precinct 4",
-    "lat": 37.5433115,
-    "lng": -77.4470688
+    "lat": 37.5630577,
+    "lng": -77.4679006
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 17:22",
-    "box_no": "Precinct 2",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "600-BLK EFFINGHAM DR",
+    "dispatch_time": "12/06/2025 17:38",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "1000-BLK N 21ST ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Effingham Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.5000998,
-    "lng": -77.4977173
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5401726,
+    "lng": -77.4167093
   },
   {
     "type_general": "RPD",
@@ -167,6 +102,19 @@
     "location_township": "Precinct 1",
     "lat": 37.549938,
     "lng": -77.421725
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 17:51",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "300-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5077898,
+    "lng": -77.525705
   },
   {
     "type_general": "RPD",
@@ -193,6 +141,45 @@
     "location_township": "Precinct 2",
     "lat": 37.4852277,
     "lng": -77.5158227
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 17:36",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3100-BLK E WEYBURN RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Weyburn Road",
+    "location_township": "Precinct 3",
+    "lat": 37.544721,
+    "lng": -77.5448822
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 17:22",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "600-BLK EFFINGHAM DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Effingham Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.5000998,
+    "lng": -77.4977173
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 17:43",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "RICH: @EXIT 76B - I95 SB (BELVIDERE ST)",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -261,42 +248,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 17:38",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "1000-BLK N 21ST ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 21st Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5401726,
-    "lng": -77.4167093
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 17:51",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
-    "street": "300-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5077898,
-    "lng": -77.525705
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 18:07",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "N MEADOW ST/W GRACE ST RICH",
+    "street": "700-BLK N MEADOW ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Meadow Street",
+    "nearest_intersection": "West Grace Street",
     "location_township": "Precinct 3",
-    "lat": 37.5582953,
-    "lng": -77.4592678
+    "lat": 37.556152,
+    "lng": -77.461354
   },
   {
     "type_general": "RPD",
@@ -336,5 +297,31 @@
     "location_township": "Precinct 1",
     "lat": 37.506154,
     "lng": -77.434326
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 18:23",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "1400-BLK ROGERS ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Rogers Street",
+    "location_township": "Precinct 1",
+    "lat": 37.545028,
+    "lng": -77.415759
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 18:21",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @EXIT 76B - I95 SB (BELVIDERE ST)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
