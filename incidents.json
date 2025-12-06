@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 13:44",
-    "box_no": "Precinct 3",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "2400-BLK SHEILA LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sheila Lane",
-    "location_township": "Precinct 3",
-    "lat": 37.5363096,
-    "lng": -77.5330408
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 14:14",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -154,6 +141,19 @@
     "location_township": "Precinct 1",
     "lat": 37.534547,
     "lng": -77.41439
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 14:25",
+    "box_no": "Precinct 1",
+    "type_specific": "OVERDOSE/POISONING , ALS Not Alert",
+    "street": "300-BLK E 19TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.514762,
+    "lng": -77.447047
   },
   {
     "type_general": "RPD",
@@ -248,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 14:25",
-    "box_no": "Precinct 1",
-    "type_specific": "OVERDOSE/POISONING , ALS Not Alert",
-    "street": "300-BLK E 19TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Everett Street",
-    "location_township": "Precinct 1",
-    "lat": 37.514762,
-    "lng": -77.447047
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 14:41",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -300,6 +287,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/06/2025 14:37",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1600-BLK OVERBROOK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Overbrook Road, Northside",
+    "location_township": "DPR",
+    "lat": 37.5654431,
+    "lng": -77.4576919
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/06/2025 14:43",
     "box_no": "Precinct 1",
     "type_specific": "OCCP STRUCTURE OR VEH , JUST OCCURRED/IN-PROGESS NON-EMS",
@@ -314,14 +314,27 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/06/2025 14:37",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1600-BLK OVERBROOK RD",
-    "status": "Dispatched",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1400-BLK KEMPER ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Overbrook Road, Northside",
-    "location_township": "DPR",
-    "lat": 37.5654431,
-    "lng": -77.4576919
+    "nearest_intersection": "Bethany Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.54149,
+    "lng": -77.46135
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 14:46",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "2600-BLK GRANITE HILL CIR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Granite Hill Circle",
+    "location_township": "FIRE",
+    "lat": 37.536255,
+    "lng": -77.521177
   }
 ]
