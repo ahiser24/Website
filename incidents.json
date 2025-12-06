@@ -93,19 +93,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/06/2025 12:14",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "0-BLK MALVERN AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Malvern Avenue",
-    "location_township": "DPR",
-    "lat": 37.5709315,
-    "lng": -77.485548
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 12:14",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "3000-BLK CHAMBERLAYNE AVE",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 2",
     "lat": 37.491725,
     "lng": -77.463688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 12:10",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "7100-BLK FOREST HILL AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5378286,
-    "lng": -77.5260018
   },
   {
     "type_general": "RPD",
@@ -182,6 +156,32 @@
     "lng": -77.4784074
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 12:14",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "0-BLK MALVERN AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Malvern Avenue",
+    "location_township": "DPR",
+    "lat": 37.5709315,
+    "lng": -77.485548
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 12:10",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "7100-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5378286,
+    "lng": -77.5260018
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/06/2025 12:10",
     "box_no": "FIRE",
@@ -206,5 +206,18 @@
     "location_township": "Precinct 1",
     "lat": 37.540361,
     "lng": -77.419652
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 12:35",
+    "box_no": "Precinct 1",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "1200-BLK N 22ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5413389,
+    "lng": -77.4141704
   }
 ]
