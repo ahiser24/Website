@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 21:19",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "W GRACE ST/N ADAMS ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "DPR",
-    "lat": 37.551079,
-    "lng": -77.453249
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 22:44",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 00:01",
+    "dispatch_time": "12/05/2025 23:14",
     "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3200-BLK MAPLEWOOD AVE",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Maplewood Avenue",
+    "nearest_intersection": "Old Midlothian Turnpike",
     "location_township": "Precinct 3",
-    "lat": 37.5502403,
-    "lng": -77.4847592
+    "lat": 37.508019,
+    "lng": -77.4897113
   },
   {
     "type_general": "RPD",
@@ -105,16 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 23:14",
-    "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "5000-BLK OLD MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "dispatch_time": "12/06/2025 01:02",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E CHARITY ST/N 1ST ST RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Old Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.508019,
-    "lng": -77.4897113
+    "nearest_intersection": "East Charity Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5512921,
+    "lng": -77.4351433
   },
   {
     "type_general": "RPD",
@@ -122,7 +109,7 @@
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "2200-BLK CHALFONT DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chalfont Drive, Southside",
     "location_township": "Precinct 2",
@@ -131,41 +118,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 00:44",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "6300-BLK JAHNKE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5215193,
-    "lng": -77.5137851
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 00:44",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "6300-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5215193,
-    "lng": -77.5137851
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 00:55",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "E CARY ST/S 13TH ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
     "lat": 37.5387002,
     "lng": -77.4393739
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:36",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2000-BLK 5TH AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "5th Avenue",
+    "location_township": "DPR",
+    "lat": 37.5592921,
+    "lng": -77.4223554
   }
 ]
