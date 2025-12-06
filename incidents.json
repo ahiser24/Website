@@ -105,6 +105,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/06/2025 05:52",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "200-BLK LABROOK DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Labrook Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5075612,
+    "lng": -77.5078404
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/06/2025 05:46",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -122,11 +135,24 @@
     "box_no": "FIRE",
     "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
     "street": "200-BLK S ARTHUR ASHE BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Downtown Expressway",
     "location_township": "FIRE",
     "lat": 37.5488772,
     "lng": -77.4777879
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 05:53",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
   }
 ]
