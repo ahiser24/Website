@@ -78,6 +78,19 @@
     "lng": -77.4470727
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 01:26",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "FIRE",
+    "lat": 37.58494,
+    "lng": -77.4478043
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "12/06/2025 01:52",
     "box_no": "Precinct 2",
@@ -144,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 01:36",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "E MAIN ST/N 14TH ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337997,
-    "lng": -77.4291343
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 02:13",
     "box_no": "DPR",
     "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
@@ -170,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 02:26",
+    "dispatch_time": "12/06/2025 01:36",
     "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "VIRGINIA ST/E CANAL ST RICH",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E MAIN ST/N 14TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Virginia Street",
+    "nearest_intersection": "East Main Street",
     "location_township": "Precinct 1",
-    "lat": 37.5328809,
-    "lng": -77.4338392
+    "lat": 37.5337997,
+    "lng": -77.4291343
   },
   {
     "type_general": "RPD",
@@ -193,44 +193,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5133362,
     "lng": -77.4470727
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/06/2025 01:26",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
-    "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "FIRE",
-    "lat": 37.58494,
-    "lng": -77.4478043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 02:26",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "FERNBROOK DR/WARWICK RD RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Fernbrook Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4878388,
-    "lng": -77.4850434
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 02:26",
-    "box_no": "Precinct 2",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "FERNBROOK DR/WARWICK RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fernbrook Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4878388,
-    "lng": -77.4850434
   }
 ]
