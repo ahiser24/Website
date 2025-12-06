@@ -141,18 +141,5 @@
     "location_township": "Precinct 4",
     "lat": 37.5618681,
     "lng": -77.4650329
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 04:15",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "REDD ST/MECHANICSVILLE TPKE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Redd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5458631,
-    "lng": -77.4179022
   }
 ]
