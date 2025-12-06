@@ -18,7 +18,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -57,11 +57,37 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "CHAMBERLAYNE PKWY/MITCHELL ST RICH",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 06:08",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "600-BLK E JACKSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Jackson Street",
+    "location_township": "Precinct 4",
+    "lat": 37.546594,
+    "lng": -77.431862
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 06:45",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1300-BLK GREENMOSS DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Greenmoss Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.519751,
+    "lng": -77.51884
   }
 ]
