@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 15:50",
-    "box_no": "Precinct 2",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "2400-BLK COURTLAND ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Courtland Street",
-    "location_township": "Precinct 2",
-    "lat": 37.4698523,
-    "lng": -77.4396672
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 21:04",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -128,6 +115,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5653911,
     "lng": -77.4995034
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 15:50",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "2400-BLK COURTLAND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Courtland Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4698523,
+    "lng": -77.4396672
   },
   {
     "type_general": "RPD",
@@ -261,19 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 23:32",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "LL(-77:26:43.1809,37:34:20.8560): EST 3002 CHAMBERLAYNE AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lng": -77.44532802777778,
-    "lat": 37.57246000000001
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/05/2025 23:27",
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -284,5 +271,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5426237,
     "lng": -77.4389179
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:32",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "500-BLK STOCKTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5224135,
+    "lng": -77.436784
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:38",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "900-BLK BARLEN DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Barlen Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.496787,
+    "lng": -77.499757
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:43",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 23:43",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
   }
 ]
