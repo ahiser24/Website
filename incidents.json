@@ -102,31 +102,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5030935,
     "lng": -77.5178344
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 05:06",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1000-BLK N 25TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5378656,
-    "lng": -77.413033
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 05:06",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1000-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5378656,
-    "lng": -77.413033
   }
 ]
