@@ -196,16 +196,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 22:36",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "6200-BLK GLYNDON LN",
-    "status": "Arrived",
+    "dispatch_time": "12/05/2025 22:45",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "3400-BLK WALMSLEY BLVD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.534917,
-    "lng": -77.509236
+    "nearest_intersection": "Angus Road",
+    "location_township": "Precinct 2",
+    "lat": 37.464799,
+    "lng": -77.460475
   },
   {
     "type_general": "RFD",
@@ -235,15 +235,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 22:45",
-    "box_no": "Precinct 2",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Enroute",
+    "dispatch_time": "12/05/2025 22:52",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E GLADSTONE AVE/CLIFF AVE RICH",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
+    "nearest_intersection": "East Gladstone Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5751692,
+    "lng": -77.4266807
   }
 ]
