@@ -157,45 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 15:14",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3100-BLK NINE MILE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.542438,
-    "lng": -77.398764
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 15:14",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "3100-BLK NINE MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.542438,
-    "lng": -77.398764
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 15:07",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1200-BLK CATHERINE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Catherine Street",
-    "location_township": "DPR",
-    "lat": 37.554275,
-    "lng": -77.450209
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 15:36",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -219,6 +180,32 @@
     "location_township": "Precinct 4",
     "lat": 37.551079,
     "lng": -77.453249
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 15:10",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "3000-BLK W MARSHALL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "DPR",
+    "lat": 37.5652469,
+    "lng": -77.4719101
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 15:45",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "3900-BLK WALMSLEY BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4687589,
+    "lng": -77.4676158
   },
   {
     "type_general": "RFD",
@@ -284,5 +271,44 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 15:50",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 15:50",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 15:48",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S 7TH ST/E BYRD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South 7th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5364177,
+    "lng": -77.4409091
   }
 ]
