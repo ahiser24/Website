@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 00:15",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WILLIAMSBURG AVE/ORLEANS ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Avenue, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5156963,
-    "lng": -77.4093438
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 00:18",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -167,5 +154,18 @@
     "location_township": "Precinct 3",
     "lat": 37.5215193,
     "lng": -77.5137851
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 00:55",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E CARY ST/S 13TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5387002,
+    "lng": -77.4393739
   }
 ]
