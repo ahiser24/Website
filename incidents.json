@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 23:38",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "900-BLK BARLEN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Barlen Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.496787,
-    "lng": -77.499757
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 00:01",
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 00:35",
-    "box_no": "Precinct 3",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "2900-BLK MONUMENT AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Monument Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5619317,
-    "lng": -77.4731515
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 00:18",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -167,5 +141,31 @@
     "location_township": "Precinct 2",
     "lat": 37.4908816,
     "lng": -77.4654757
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 00:44",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "6300-BLK JAHNKE RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5215193,
+    "lng": -77.5137851
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 00:44",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "6300-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5215193,
+    "lng": -77.5137851
   }
 ]
