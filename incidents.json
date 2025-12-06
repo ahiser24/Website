@@ -20,7 +20,7 @@
     "street": "2600-BLK GROVE AVE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
     "lat": 37.5543423,
     "lng": -77.4720912
@@ -46,10 +46,10 @@
     "street": "300-BLK S MEADOW ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "South Meadow Street",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5448002,
+    "lng": -77.4682238
   },
   {
     "type_general": "RPD",
@@ -85,10 +85,10 @@
     "street": "2400-BLK COURTLAND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Courtland Street",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4698523,
+    "lng": -77.4396672
   },
   {
     "type_general": "RPD",
@@ -98,10 +98,10 @@
     "street": "CARYTOWN",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Cary Street",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5536367,
+    "lng": -77.4819503
   },
   {
     "type_general": "RPD",
@@ -111,7 +111,7 @@
     "street": "CARYTOWN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Cary Street",
     "location_township": "Precinct 3",
     "lat": 37.5536367,
     "lng": -77.4819503
@@ -124,10 +124,10 @@
     "street": "200-BLK E 36TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East 36th Street, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.5076914,
+    "lng": -77.4713103
   },
   {
     "type_general": "RPD",
@@ -137,23 +137,10 @@
     "street": "N ALLEN AVE/W LEIGH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North Allen Avenue",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 17:16",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "2900-BLK NINE MILE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": null,
-    "lng": null
+    "lat": 37.5532301,
+    "lng": -77.4608627
   },
   {
     "type_general": "RPD",
@@ -163,10 +150,10 @@
     "street": "1500-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5541589,
+    "lng": -77.4554329
   },
   {
     "type_general": "RPD",
@@ -176,10 +163,10 @@
     "street": "2800-BLK BELLS RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Bells Road",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4724689,
+    "lng": -77.4489147
   },
   {
     "type_general": "RPD",
@@ -187,12 +174,25 @@
     "box_no": "Precinct 3",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "ROTHESAY CIR/PORTLAND PL RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Rothesay Circle",
     "location_township": "Precinct 3",
     "lat": 37.5431866,
     "lng": -77.4932816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 17:51",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "500-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "DPR",
+    "lat": 37.5240062,
+    "lng": -77.4383862
   },
   {
     "type_general": "RPD",
@@ -208,19 +208,6 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 18:10",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "1300-BLK MCDONOUGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": 37.5235784,
-    "lng": -77.4484232
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/05/2025 18:18",
     "box_no": "Precinct 1",
@@ -228,10 +215,10 @@
     "street": "1500-BLK OLD ARMSTRONG WAY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Old Armstrong Way, East End",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5384253,
-    "lng": -77.4013792
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -245,45 +232,6 @@
     "location_township": "Precinct 4",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 18:29",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "3100-BLK ENSLOW AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 18:35",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "1100-BLK SOUTHWOOD PKWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/05/2025 18:35",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "1100-BLK SOUTHWOOD PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": 37.4939666,
-    "lng": -77.4818206
   },
   {
     "type_general": "RPD",
@@ -308,21 +256,34 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5653911,
+    "lng": -77.4995034
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/05/2025 18:35",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "GROVE AVE/N HAMILTON ST RICH",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 18:44",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4961097,
+    "lng": -77.4759645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 18:44",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4961097,
+    "lng": -77.4759645
   },
   {
     "type_general": "RPD",
@@ -330,11 +291,50 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "RICH: @DOWNTOWN EXPY EB BETWEEN I195 SB & BOULEVARD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5518661,
+    "lng": -77.4834184
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/05/2025 18:46",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "0-BLK N LAUREL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": 37.5465072,
+    "lng": -77.4515552
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 18:50",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "5200-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.492722,
+    "lng": -77.4891674
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/05/2025 18:50",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "5200-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.492722,
+    "lng": -77.4891674
   }
 ]
