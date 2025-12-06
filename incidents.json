@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "2600-BLK GROVE AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Grove Avenue",
     "location_township": "Precinct 3",
@@ -27,16 +27,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 23:56",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WELLFORD ST/MONTEIRO ST RICH",
+    "dispatch_time": "12/06/2025 01:36",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E MAIN ST/N 14TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Wellford Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5585071,
-    "lng": -77.4308756
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5337997,
+    "lng": -77.4291343
   },
   {
     "type_general": "RPD",
@@ -78,6 +78,19 @@
     "lng": -77.4470727
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 01:26",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "FIRE",
+    "lat": 37.58494,
+    "lng": -77.4478043
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "12/06/2025 01:45",
     "box_no": "Precinct 4",
@@ -89,45 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5509845,
     "lng": -77.4474367
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 01:36",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "E MAIN ST/N 14TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337997,
-    "lng": -77.4291343
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 02:37",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5514093,
-    "lng": -77.4534673
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 02:03",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "2000-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5133362,
-    "lng": -77.4470727
   },
   {
     "type_general": "RPD",
@@ -157,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 03:05",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "500-BLK PORTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5259475,
-    "lng": -77.4407535
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 03:17",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -182,30 +143,43 @@
     "lng": -77.4493985
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/06/2025 01:26",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
-    "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 02:03",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2000-BLK MAURY ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "FIRE",
-    "lat": 37.58494,
-    "lng": -77.4478043
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 1",
+    "lat": 37.5133362,
+    "lng": -77.4470727
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/06/2025 03:17",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "2500-BLK BETHEL ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 03:31",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RICH: @POWHITE PKWY SB BETWEEN CARY ST & DOUGLASDALE RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Bethel Street",
-    "location_township": "FIRE",
-    "lat": 37.556229,
-    "lng": -77.414467
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "Precinct 3",
+    "lat": 37.5411754,
+    "lng": -77.4932097
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 03:23",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "400-BLK N 12TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54025,
+    "lng": -77.43045
   },
   {
     "type_general": "RFD",
@@ -219,5 +193,31 @@
     "location_township": "FIRE",
     "lat": 37.554242,
     "lng": -77.416264
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 03:31",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @POWHITE PKWY SB BETWEEN CARY ST & DOUGLASDALE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "FIRE",
+    "lat": 37.5411754,
+    "lng": -77.4932097
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/06/2025 03:31",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "3000-BLK HIDEN RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bangle Drive",
+    "location_township": "FIRE",
+    "lat": 37.496643,
+    "lng": -77.455203
   }
 ]
