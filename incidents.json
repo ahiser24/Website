@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 09:15",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1200-BLK BELLEVUE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.591085,
-    "lng": -77.452658
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 09:55",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 09:18",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "S 15TH ST/DOCK ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 15th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5333191,
-    "lng": -77.4315779
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 09:59",
     "box_no": "Precinct 4",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -128,32 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5995522,
     "lng": -77.4505625
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 10:31",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W CLAY ST/ALTAMONT AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5529593,
-    "lng": -77.449671
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 10:04",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "700-BLK S LOMBARDY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Lombardy Street",
-    "location_township": "DPR",
-    "lat": 37.5414279,
-    "lng": -77.4644394
   },
   {
     "type_general": "RPD",
@@ -193,5 +141,44 @@
     "location_township": "Precinct 4",
     "lat": 37.559299,
     "lng": -77.4474244
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 10:47",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 10:12",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "200-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "DPR",
+    "lat": 37.547,
+    "lng": -77.4435632
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 10:31",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W CLAY ST/ALTAMONT AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5529593,
+    "lng": -77.449671
   }
 ]
