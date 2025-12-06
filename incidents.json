@@ -118,28 +118,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 01:21",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3100-BLK W LEIGH ST",
-    "status": "Enroute",
+    "dispatch_time": "12/06/2025 01:30",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "00-BLK S DAVIS AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
+    "nearest_intersection": "South Davis Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.546673,
+    "lng": -77.4748608
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 01:26",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.5675871,
-    "lng": -77.4709163
+    "lat": 37.58494,
+    "lng": -77.4478043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 01:36",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "E MAIN ST/N 14TH ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5337997,
+    "lng": -77.4291343
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/06/2025 01:17",
+    "dispatch_time": "12/06/2025 01:26",
     "box_no": "FIRE",
-    "type_specific": "# CHEMICAL MATERIALS , SMELL OR ODOR (NO SPILL)",
-    "street": "400-BLK STOCKTON ST",
+    "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stockton Street",
+    "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "FIRE",
-    "lat": 37.523149,
-    "lng": -77.436061
+    "lat": 37.58494,
+    "lng": -77.4478043
   }
 ]
