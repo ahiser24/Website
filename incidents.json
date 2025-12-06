@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/05/2025 21:41",
-    "box_no": "Precinct 1",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2000-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5133362,
-    "lng": -77.4470727
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 00:18",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 01:52",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICHMOND HWY/MAURY ST RICH",
+    "dispatch_time": "12/05/2025 21:41",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "2000-BLK MAURY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.5153136,
-    "lng": -77.4482022
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 1",
+    "lat": 37.5133362,
+    "lng": -77.4470727
   },
   {
     "type_general": "RPD",
@@ -195,6 +182,19 @@
     "lng": -77.4470727
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 02:48",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1100-BLK PORTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5228999,
+    "lng": -77.4449127
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/06/2025 01:26",
     "box_no": "FIRE",
@@ -206,31 +206,5 @@
     "location_township": "FIRE",
     "lat": 37.58494,
     "lng": -77.4478043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 02:48",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1100-BLK PORTER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5228999,
-    "lng": -77.4449127
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/06/2025 02:43",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @EXIT 74C - I95 NB (BROAD ST / 17TH ST)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
   }
 ]
