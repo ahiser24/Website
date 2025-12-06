@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 07:48",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "5300-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 07:48",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "5300-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 08:08",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -91,30 +65,17 @@
     "lng": -77.456645
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/06/2025 08:24",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "1400-BLK CARLISLE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carlisle Avenue, East End",
-    "location_township": "FIRE",
-    "lat": 37.516544,
-    "lng": -77.400131
-  },
-  {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 08:33",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "1800-BLK SOUTHLAWN AVE",
+    "dispatch_time": "12/06/2025 07:48",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "5300-BLK HULL STREET RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Southlawn Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5028468,
-    "lng": -77.4343407
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4794055,
+    "lng": -77.5126339
   },
   {
     "type_general": "RPD",
@@ -128,18 +89,5 @@
     "location_township": "Precinct 1",
     "lat": 37.516544,
     "lng": -77.400131
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 08:33",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "N 25TH ST/PHAUP ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5417844,
-    "lng": -77.4091509
   }
 ]
