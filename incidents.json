@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 13:40",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "4000-BLK MACARTHUR AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nottoway Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.588312,
-    "lng": -77.458284
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 08:27",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -79,16 +66,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:53",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "N JEFFERSON ST/W MAIN ST RICH",
+    "dispatch_time": "12/07/2025 09:51",
+    "box_no": "Precinct 2",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "3600-BLK RICHMOND HWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Jefferson Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5458057,
-    "lng": -77.4445463
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4752744,
+    "lng": -77.4444157
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 08:27",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "400-BLK E LADIES MILE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Delmont Street",
+    "location_township": "FIRE",
+    "lat": 37.581493,
+    "lng": -77.427931
   },
   {
     "type_general": "RPD",
@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:10",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "500-BLK E MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "DPR",
-    "lat": 37.540352,
-    "lng": -77.43971
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 10:05",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -154,32 +141,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5747739,
     "lng": -77.4411082
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:15",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "3600-BLK E BROAD ROCK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5025962,
-    "lng": -77.4660676
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:10",
-    "box_no": "Precinct 2",
-    "type_specific": "ABDUCTION , INVESTIGATE",
-    "street": "BROAD ROCK BLVD/WALMSLEY BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4963453,
-    "lng": -77.4656428
   },
   {
     "type_general": "RPD",
@@ -224,7 +185,7 @@
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 10:34",
     "box_no": "Precinct 2",
-    "type_specific": "STABBING , JUST OCCURRED / IN- PROGRESS",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "3000-BLK CLYDEWOOD AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -232,19 +193,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4776815,
     "lng": -77.4686997
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:51",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "3600-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4752744,
-    "lng": -77.4444157
   },
   {
     "type_general": "RPD",
@@ -260,17 +208,69 @@
     "lng": -77.4367774
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 08:27",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "400-BLK E LADIES MILE RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 11:04",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2400-BLK P ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "P Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5404917,
+    "lng": -77.4175446
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 11:04",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2400-BLK P ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Delmont Street",
-    "location_township": "FIRE",
-    "lat": 37.581493,
-    "lng": -77.427931
+    "nearest_intersection": "P Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5404917,
+    "lng": -77.4175446
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:58",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "200-BLK W LEIGH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.550118,
+    "lng": -77.44173
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:59",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "3100-BLK GRAYLAND AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Grayland Avenue",
+    "location_township": "DPR",
+    "lat": 37.5516825,
+    "lng": -77.4812609
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:24",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1100-BLK ST JOHN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint John Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5531273,
+    "lng": -77.4363957
   },
   {
     "type_general": "RFD",
@@ -287,15 +287,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/07/2025 10:44",
+    "dispatch_time": "12/07/2025 11:00",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "2900-BLK E CLAY ST",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SICK PERSON",
+    "street": "5700-BLK SWANSON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 29th Street, East End",
+    "nearest_intersection": "Swanson Road",
     "location_township": "FIRE",
-    "lat": 37.531161,
-    "lng": -77.413346
+    "lat": 37.4899544,
+    "lng": -77.4972492
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 10:58",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "200-BLK W LEIGH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "FIRE",
+    "lat": 37.550118,
+    "lng": -77.44173
   }
 ]
