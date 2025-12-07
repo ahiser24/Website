@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:09",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "5700-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4972912,
-    "lng": -77.5005953
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 04:55",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -104,42 +91,42 @@
     "lng": -77.4393335
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 06:18",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2300-BLK W CARY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Addison Street",
-    "location_township": "Precinct 3",
-    "lat": 37.54954,
-    "lng": -77.470279
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 06:18",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2300-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Addison Street",
-    "location_township": "Precinct 3",
-    "lat": 37.54954,
-    "lng": -77.470279
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 06:20",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "4700-BLK PATTERSON AVE",
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 06:30",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2500-BLK ROSETTA ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Patterson Avenue, West End",
+    "nearest_intersection": "Rosetta Street",
+    "location_township": "FIRE",
+    "lat": 37.5487906,
+    "lng": -77.4025396
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 05:56",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 06:28",
+    "box_no": "Precinct 3",
+    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
+    "street": "RICH: @POWHITE PKWY SB BETWEEN DOUGLASDALE & FOREST HILL",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
     "location_township": "Precinct 3",
-    "lat": 37.5707305,
-    "lng": -77.4980145
+    "lat": 37.5411754,
+    "lng": -77.4932097
   }
 ]
