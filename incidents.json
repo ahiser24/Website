@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 04:20",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "100-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.55204,
-    "lng": -77.437396
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 03:48",
     "box_no": "Precinct 1",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 04:35",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "5000-BLK SNEAD RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770457,
-    "lng": -77.4856193
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 02:44",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -167,5 +141,31 @@
     "location_township": "Precinct 3",
     "lat": 37.538916,
     "lng": -77.568162
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 04:35",
+    "box_no": "Precinct 2",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4770457,
+    "lng": -77.4856193
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 04:35",
+    "box_no": "Precinct 2",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "5000-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4770457,
+    "lng": -77.4856193
   }
 ]
