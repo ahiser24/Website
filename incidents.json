@@ -78,19 +78,6 @@
     "lng": -77.43045
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 06:48",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "6000-BLK GENEVA DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Geneva Drive",
-    "location_township": "FIRE",
-    "lat": 37.4772655,
-    "lng": -77.5073709
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 06:44",
     "box_no": "Precinct 4",
@@ -104,16 +91,16 @@
     "lng": -77.4462032
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 07:04",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , TRAUMATIC INJURY",
-    "street": "1500-BLK BLAIR ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 07:20",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
+    "street": "6600-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Blair Street",
-    "location_township": "FIRE",
-    "lat": 37.5399797,
-    "lng": -77.4638057
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5030935,
+    "lng": -77.5178344
   }
 ]
