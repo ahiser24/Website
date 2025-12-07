@@ -208,16 +208,42 @@
     "lng": -77.452658
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 14:44",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SPRINKLER/WATERFLOW",
-    "street": "2300-BLK MAGNOLIA RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 14:47",
+    "box_no": "Precinct 2",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "4700-BLK CALDWELL AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Magnolia Road",
-    "location_township": "FIRE",
-    "lat": 37.5626262,
-    "lng": -77.4117022
+    "nearest_intersection": "Caldwell Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4634356,
+    "lng": -77.4473239
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 14:48",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON - JUVENILE 11  AND OLDER , INVESTIGATE",
+    "street": "1600-BLK GLENFIELD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Glenfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.506154,
+    "lng": -77.434326
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 14:47",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "2400-BLK DALE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dale Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4650627,
+    "lng": -77.4398822
   }
 ]
