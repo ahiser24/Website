@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 02:21",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1900-BLK HOPKINS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hopkins Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.491725,
-    "lng": -77.463688
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 22:33",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -50,6 +37,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5546,
     "lng": -77.418318
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 02:32",
+    "box_no": "Precinct 3",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "OLD MIDLOTHIAN TPKE/MOBILE RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Old Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5072886,
+    "lng": -77.4918224
   },
   {
     "type_general": "RPD",
@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 02:32",
-    "box_no": "Precinct 3",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "OLD MIDLOTHIAN TPKE/MOBILE RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5072886,
-    "lng": -77.4918224
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 03:31",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "0-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5524286,
-    "lng": -77.4397449
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 02:44",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -135,7 +109,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
     "street": "1900-BLK E MAIN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Main Street",
     "location_township": "FIRE",
@@ -154,5 +128,57 @@
     "location_township": "Precinct 1",
     "lat": 37.5323709,
     "lng": -77.4265259
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 04:03",
+    "box_no": "Precinct 2",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "3300-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4790478,
+    "lng": -77.4446827
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 03:59",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5602471,
+    "lng": -77.4431479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 04:05",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1100-BLK ST JOHN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint John Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5531273,
+    "lng": -77.4363957
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 04:03",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "3300-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "FIRE",
+    "lat": 37.4790478,
+    "lng": -77.4446827
   }
 ]
