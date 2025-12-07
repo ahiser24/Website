@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 20:59",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "2900-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4776426,
-    "lng": -77.4814156
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 21:59",
-    "box_no": "Precinct 4",
-    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 21:02",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -66,6 +40,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/06/2025 22:33",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5546,
+    "lng": -77.418318
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/06/2025 21:44",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 21:59",
+    "box_no": "Precinct 4",
+    "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   },
   {
     "type_general": "RPD",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 22:33",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK AMBROSE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ambrose Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5546,
-    "lng": -77.418318
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 23:38",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -141,45 +128,6 @@
     "location_township": "Precinct 2",
     "lat": 37.468084,
     "lng": -77.428152
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 23:34",
-    "box_no": "Precinct 1",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "2300-BLK AMBROSE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Ambrose Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5546,
-    "lng": -77.418318
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 23:44",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 23:44",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
   },
   {
     "type_general": "RPD",
@@ -195,45 +143,6 @@
     "lng": -77.4010222
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 23:50",
-    "box_no": "Precinct 3",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "4700-BLK BUTTE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Butte Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5586115,
-    "lng": -77.5478034
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/06/2025 23:50",
-    "box_no": "Precinct 3",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "4700-BLK BUTTE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Butte Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5586115,
-    "lng": -77.5478034
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 00:05",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "FIRE",
-    "lat": 37.516032,
-    "lng": -77.512119
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/07/2025 00:01",
     "box_no": "FIRE",
@@ -245,5 +154,57 @@
     "location_township": "FIRE",
     "lat": 37.5719648,
     "lng": -77.4119515
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 00:05",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "FIRE",
+    "lat": 37.516032,
+    "lng": -77.512119
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 23:34",
+    "box_no": "Precinct 1",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5546,
+    "lng": -77.418318
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 00:13",
+    "box_no": "Precinct 4",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "1600-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.554602,
+    "lng": -77.4561674
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 00:13",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "1600-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.554602,
+    "lng": -77.4561674
   }
 ]
