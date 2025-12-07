@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:16",
-    "box_no": "Precinct 3",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "00-BLK S NANSEMOND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Nansemond Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5541317,
-    "lng": -77.4873713
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 10:33",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN - EMS",
@@ -79,29 +66,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 12:51",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "700-BLK N 37TH ST",
-    "status": "Dispatched",
+    "dispatch_time": "12/07/2025 12:24",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2700BLK 4TH AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 37th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.528643,
-    "lng": -77.40461
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 12:51",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "700-BLK N 37TH ST",
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 11:37",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "600-BLK E GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5415708,
+    "lng": -77.4366965
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 11:37",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "600-BLK E GRACE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 37th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.528643,
-    "lng": -77.40461
+    "nearest_intersection": "East Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5415708,
+    "lng": -77.4366965
   },
   {
     "type_general": "RPD",
@@ -128,19 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5534446,
     "lng": -77.4517198
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 12:24",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2700BLK 4TH AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -235,42 +222,29 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/07/2025 13:58",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3800-BLK GUILDER LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Guilder Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4746722,
+    "lng": -77.465901
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/07/2025 13:43",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5800-BLK RIVERSIDE TRL",
-    "status": "Arrived",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "100-BLK HIOAKS RD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Riverside Trail",
+    "nearest_intersection": "Hioaks Road",
     "location_township": "Precinct 3",
-    "lat": 37.5275044,
-    "lng": -77.5032164
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 11:37",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "600-BLK E GRACE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 11:37",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "600-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
+    "lat": 37.5149743,
+    "lng": -77.5244606
   },
   {
     "type_general": "RFD",
@@ -297,19 +271,6 @@
     "location_township": "FIRE",
     "lng": -77.44175027777779,
     "lat": 37.54266255555555
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 13:11",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
-    "street": "700-BLK GORDON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Gordon Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5149015,
-    "lng": -77.4312646
   },
   {
     "type_general": "RFD",
@@ -336,5 +297,31 @@
     "location_township": "FIRE",
     "lat": 37.5080691,
     "lng": -77.4700277
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 13:56",
+    "box_no": "FIRE",
+    "type_specific": "# TAKE FIRE REPORT",
+    "street": "5900-BLK SUGARBUSH DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Skilift Lane",
+    "location_township": "FIRE",
+    "lat": 37.525195,
+    "lng": -77.506055
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 14:01",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "FIRE",
+    "lat": 37.590597,
+    "lng": -77.464322
   }
 ]
