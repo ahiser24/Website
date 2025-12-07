@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/07/2025 15:29",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
+    "street": "1900-BLK WHITCOMB ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Whitcomb Street",
+    "location_township": "Precinct 1",
+    "lat": 37.553667,
+    "lng": -77.4220683
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/07/2025 15:38",
     "box_no": "Precinct 2",
     "type_specific": "MAYDAY/Deputy/Officer Down , MAYDAY FIRE/EMS UNIT",
@@ -63,19 +76,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 15:43",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "3900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5884889,
-    "lng": -77.4485395
   },
   {
     "type_general": "RPD",
@@ -105,16 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 17:12",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "4300-BLK RICHMOND HWY",
+    "dispatch_time": "12/07/2025 15:43",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4669702,
-    "lng": -77.4434064
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
   },
   {
     "type_general": "RPD",
@@ -141,32 +141,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5654686,
     "lng": -77.4490078
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 17:42",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2100-BLK HULL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5132816,
-    "lng": -77.4561502
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 17:42",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2100-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5132816,
-    "lng": -77.4561502
   },
   {
     "type_general": "RPD",
@@ -222,6 +196,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/07/2025 17:52",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "2200-BLK E CARY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "DPR",
+    "lat": 37.5297586,
+    "lng": -77.4244833
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 17:57",
+    "box_no": "Precinct 2",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE - EMS",
+    "street": "2400-BLK RUFFIN RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ruffin Road",
+    "location_township": "Precinct 2",
+    "lat": 37.479379,
+    "lng": -77.441637
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/07/2025 17:42",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -247,19 +247,6 @@
     "lng": -77.421725
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 17:23",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "6200-BLK GLYNDON LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.534917,
-    "lng": -77.509236
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/07/2025 11:37",
     "box_no": "FIRE",
@@ -312,29 +299,16 @@
     "lat": 37.54266255555555
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 17:52",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "6000-BLK RIVER RD",
-    "status": "Dispatched",
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 18:01",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2400-BLK SHEILA LN",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Huguenot Road",
-    "location_township": "Precinct 3",
-    "lat": 37.568187,
-    "lng": -77.532789
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 17:52",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "2200-BLK E CARY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "DPR",
-    "lat": 37.5297586,
-    "lng": -77.4244833
+    "nearest_intersection": "Sheila Lane",
+    "location_township": "FIRE",
+    "lat": 37.5363096,
+    "lng": -77.5330408
   }
 ]
