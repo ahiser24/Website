@@ -117,19 +117,6 @@
     "lng": -77.568162
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 04:48",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "100-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5464347,
-    "lng": -77.4427708
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 04:56",
     "box_no": "Precinct 1",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 04:35",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "5000-BLK SNEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770457,
-    "lng": -77.4856193
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 04:55",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -167,5 +141,57 @@
     "location_township": "Precinct 2",
     "lat": 37.483041,
     "lng": -77.4393335
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 03:43",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 05:09",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "5700-BLK WARWICK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4972912,
+    "lng": -77.5005953
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 04:52",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4000-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4702608,
+    "lng": -77.4438114
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 04:48",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "100-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5464347,
+    "lng": -77.4427708
   }
 ]
