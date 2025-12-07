@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 08:04",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "3800-BLK N HUGUENOT RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Huguenot Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5472915,
-    "lng": -77.5518134
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 08:27",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 08:41",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "200-BLK S ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Downtown Expressway",
-    "location_township": "Precinct 3",
-    "lat": 37.5488772,
-    "lng": -77.4777879
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 08:50",
     "box_no": "Precinct 1",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -128,6 +102,19 @@
     "location_township": "Precinct 1",
     "lat": 37.504191,
     "lng": -77.443051
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 09:02",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2000-BLK ROSE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rose Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.560906,
+    "lng": -77.434437
   },
   {
     "type_general": "RPD",
@@ -196,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:09",
-    "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "00-BLK N 5TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 5th Street",
-    "location_township": "DPR",
-    "lat": 37.5497878,
-    "lng": -77.4309047
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 09:23",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
@@ -247,17 +221,17 @@
     "lng": -77.4660265
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:30",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "NORTON ST/W LEIGH ST RICH",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 08:27",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "400-BLK E LADIES MILE RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Norton Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5543032,
-    "lng": -77.451576
+    "nearest_intersection": "Delmont Street",
+    "location_township": "FIRE",
+    "lat": 37.581493,
+    "lng": -77.427931
   },
   {
     "type_general": "RPD",
@@ -273,17 +247,30 @@
     "lng": -77.459946
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 09:02",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "2000-BLK ROSE AVE",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 09:22",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "W GRACE ST/N JEFFERSON ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "DPR",
+    "lat": 37.551079,
+    "lng": -77.453249
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 09:35",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "2300-BLK SELDEN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rose Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.560906,
-    "lng": -77.434437
+    "nearest_intersection": "Selden Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549784,
+    "lng": -77.4058634
   },
   {
     "type_general": "RFD",
@@ -297,18 +284,5 @@
     "location_township": "FIRE",
     "lat": 37.5543032,
     "lng": -77.451576
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 08:27",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "400-BLK E LADIES MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Delmont Street",
-    "location_township": "FIRE",
-    "lat": 37.581493,
-    "lng": -77.427931
   }
 ]
