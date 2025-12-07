@@ -18,38 +18,12 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "4000-BLK MACARTHUR AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Nottoway Avenue",
     "location_township": "Precinct 4",
     "lat": 37.588312,
     "lng": -77.458284
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 02:32",
-    "box_no": "Precinct 3",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "OLD MIDLOTHIAN TPKE/MOBILE RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Old Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5072886,
-    "lng": -77.4918224
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 02:06",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "2200-BLK NORTHUMBERLAND AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Northumberland Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5624943,
-    "lng": -77.446649
   },
   {
     "type_general": "RPD",
@@ -63,6 +37,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5448445,
     "lng": -77.4566795
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 02:06",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "2200-BLK NORTHUMBERLAND AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Northumberland Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5624943,
+    "lng": -77.446649
   },
   {
     "type_general": "RPD",
@@ -91,19 +78,6 @@
     "lng": -77.4393335
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 06:30",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "2500-BLK ROSETTA ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Rosetta Street",
-    "location_township": "FIRE",
-    "lat": 37.5487906,
-    "lng": -77.4025396
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 05:56",
     "box_no": "Precinct 2",
@@ -118,6 +92,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/07/2025 06:34",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1300-BLK COALTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "Precinct 1",
+    "lat": 37.543765,
+    "lng": -77.422946
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/07/2025 06:28",
     "box_no": "Precinct 3",
     "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
@@ -128,5 +115,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5411754,
     "lng": -77.4932097
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 06:30",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2500-BLK ROSETTA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rosetta Street",
+    "location_township": "FIRE",
+    "lat": 37.5487906,
+    "lng": -77.4025396
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 05:51",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "1100-BLK ST JOHN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint John Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5531273,
+    "lng": -77.4363957
   }
 ]
