@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/06/2025 22:33",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK AMBROSE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ambrose Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5546,
-    "lng": -77.418318
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/06/2025 21:59",
     "box_no": "Precinct 4",
     "type_specific": "SUBJECT STOP , OFFICER-INITIATED",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.588312,
     "lng": -77.458284
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/06/2025 22:33",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2300-BLK AMBROSE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ambrose Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5546,
+    "lng": -77.418318
   },
   {
     "type_general": "RPD",
@@ -157,41 +157,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 01:45",
+    "dispatch_time": "12/07/2025 01:55",
     "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 01:45",
-    "box_no": "Precinct 3",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK W MAIN ST",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RICH: @EXIT - CHIPPENHAM PKWY NB (POWHITE PKWY NB)",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Main Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 01:50",
-    "box_no": "Precinct 3",
+    "dispatch_time": "12/07/2025 01:52",
+    "box_no": "Precinct 4",
     "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1400-BLK CLAIBORNE ST",
-    "status": "Enroute",
+    "street": "100-BLK S 1ST ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Claiborne Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5400826,
-    "lng": -77.4617077
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 4",
+    "lat": 37.541603,
+    "lng": -77.444485
   }
 ]
