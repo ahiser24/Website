@@ -104,32 +104,6 @@
     "lng": -77.4366965
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 12:01",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "LL(-77:26:30.3010,37:32:33.5852): @ALTRIA THEATRE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "FIRE",
-    "lng": -77.44175027777779,
-    "lat": 37.54266255555555
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 12:01",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "LL(-77:26:30.3010,37:32:33.5852): @ALTRIA THEATRE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "FIRE",
-    "lng": -77.44175027777779,
-    "lat": 37.54266255555555
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 13:58",
     "box_no": "Precinct 2",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 14:29",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "3100-BLK CAROLINA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carolina Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5735504,
-    "lng": -77.4202488
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 14:48",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON - JUVENILE 11  AND OLDER , INVESTIGATE",
@@ -193,19 +154,6 @@
     "location_township": "Precinct 1",
     "lat": 37.506154,
     "lng": -77.434326
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 14:56",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "600-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5398843,
-    "lng": -77.4385002
   },
   {
     "type_general": "RPD",
@@ -221,19 +169,6 @@
     "lng": -77.5260018
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 15:01",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "200-BLK W BAKER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Baker Street",
-    "location_township": "FIRE",
-    "lat": 37.551566,
-    "lng": -77.439165
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 14:47",
     "box_no": "Precinct 2",
@@ -245,5 +180,122 @@
     "location_township": "Precinct 2",
     "lat": 37.4650627,
     "lng": -77.4398822
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 15:03",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1900-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5323709,
+    "lng": -77.4265259
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 15:11",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "5800-BLK WESTOWER DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5238336,
+    "lng": -77.5039485
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 14:56",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "600-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5398843,
+    "lng": -77.4385002
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 15:13",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 14:53",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "CHIPPENHAM/N HUGUENOT RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Tremont Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5337582,
+    "lng": -77.5360979
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 12:01",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "LL(-77:26:30.3010,37:32:33.5852): @ALTRIA THEATRE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "FIRE",
+    "lng": -77.44175027777779,
+    "lat": 37.54266255555555
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 12:01",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "LL(-77:26:30.3010,37:32:33.5852): @ALTRIA THEATRE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "FIRE",
+    "lng": -77.44175027777779,
+    "lat": 37.54266255555555
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 15:01",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
+    "street": "200-BLK W BAKER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "FIRE",
+    "lat": 37.551566,
+    "lng": -77.439165
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 15:11",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "5800-BLK WESTOWER DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "FIRE",
+    "lat": 37.5238336,
+    "lng": -77.5039485
   }
 ]
