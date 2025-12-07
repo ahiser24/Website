@@ -70,7 +70,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
     "street": "3600-BLK RICHMOND HWY",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
@@ -144,45 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:25",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "S SHEPPARD ST/PARKWOOD AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Sheppard Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5513382,
-    "lng": -77.4794802
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:47",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "1200-BLK N 25TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5397543,
-    "lng": -77.4114201
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:47",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "1200-BLK N 25TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 25th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5397543,
-    "lng": -77.4114201
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 10:34",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -193,6 +154,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4776815,
     "lng": -77.4686997
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 10:45",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1200-BLK E MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.5404297,
+    "lng": -77.4303132
   },
   {
     "type_general": "RPD",
@@ -206,32 +180,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5484702,
     "lng": -77.4367774
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 11:04",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2400-BLK P ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 11:04",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2400-BLK P ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
   },
   {
     "type_general": "RPD",
@@ -273,30 +221,43 @@
     "lng": -77.4363957
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 10:45",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1200-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 11:08",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "2300-BLK CARMINE ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.5404297,
-    "lng": -77.4303132
+    "nearest_intersection": "Carmine Street",
+    "location_township": "Precinct 1",
+    "lat": 37.555794,
+    "lng": -77.418531
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 11:00",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SICK PERSON",
-    "street": "5700-BLK SWANSON RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 11:08",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "2300-BLK CARMINE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Swanson Road",
-    "location_township": "FIRE",
-    "lat": 37.4899544,
-    "lng": -77.4972492
+    "nearest_intersection": "Carmine Street",
+    "location_township": "Precinct 1",
+    "lat": 37.555794,
+    "lng": -77.418531
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:48",
+    "box_no": "Precinct 2",
+    "type_specific": "RECOVERED VEHICLE , TAKE A REPORT",
+    "street": "100-BLK BELT BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5071442,
+    "lng": -77.4853454
   },
   {
     "type_general": "RFD",
@@ -310,5 +271,18 @@
     "location_township": "FIRE",
     "lat": 37.550118,
     "lng": -77.44173
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 11:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SICK PERSON",
+    "street": "5700-BLK SWANSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Swanson Road",
+    "location_township": "FIRE",
+    "lat": 37.4899544,
+    "lng": -77.4972492
   }
 ]
