@@ -83,6 +83,19 @@
     "box_no": "Precinct 2",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
     "street": "3500-BLK STOCKTON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5039491,
+    "lng": -77.4660265
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 08:42",
+    "box_no": "Precinct 2",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "3500-BLK STOCKTON ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Stockton Street, Southside",
@@ -156,19 +169,6 @@
     "lng": -77.4175446
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:15",
-    "box_no": "Precinct 2",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "HULL ST/SWANSBORO LN RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4974544,
-    "lng": -77.4810279
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/07/2025 08:27",
     "box_no": "FIRE",
@@ -195,32 +195,6 @@
     "lng": -77.459946
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:22",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "W GRACE ST/N JEFFERSON ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "DPR",
-    "lat": 37.551079,
-    "lng": -77.453249
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 09:48",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1600-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4934886,
-    "lng": -77.4709086
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/07/2025 09:46",
     "box_no": "FIRE",
@@ -245,5 +219,70 @@
     "location_township": "Precinct 1",
     "lat": 37.549784,
     "lng": -77.4058634
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 09:53",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "N JEFFERSON ST/W MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Jefferson Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5458057,
+    "lng": -77.4445463
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 09:35",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1900-BLK ROSEWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rosewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5445645,
+    "lng": -77.4667016
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 09:48",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1600-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard, Southside",
+    "location_township": "FIRE",
+    "lat": 37.4934886,
+    "lng": -77.4709086
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 09:51",
+    "box_no": "Precinct 3",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1500-BLK GERMAN SCHOOL RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5224042,
+    "lng": -77.5172648
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 09:53",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "N JEFFERSON ST/W MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Jefferson Street",
+    "location_township": "FIRE",
+    "lat": 37.5458057,
+    "lng": -77.4445463
   }
 ]
