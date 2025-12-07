@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 01:22",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1400-BLK CLAIBORNE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Claiborne Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5400826,
-    "lng": -77.4617077
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 01:01",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5546,
     "lng": -77.418318
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 01:37",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "600-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5140128,
-    "lng": -77.4895724
   },
   {
     "type_general": "RPD",
@@ -183,15 +157,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 01:36",
+    "dispatch_time": "12/07/2025 01:45",
     "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "200-BLK S DAVIS AVE",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 01:45",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1900-BLK W MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Davis Avenue",
+    "nearest_intersection": "West Main Street",
     "location_township": "Precinct 3",
-    "lat": 37.5494989,
-    "lng": -77.4737347
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 01:50",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1400-BLK CLAIBORNE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Claiborne Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5400826,
+    "lng": -77.4617077
   }
 ]
