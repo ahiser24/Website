@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 02:21",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1900-BLK HOPKINS RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hopkins Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.491725,
-    "lng": -77.463688
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 02:44",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -89,45 +76,6 @@
     "location_township": "Precinct 3",
     "lat": 37.538916,
     "lng": -77.568162
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:09",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "5700-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4972912,
-    "lng": -77.5005953
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:09",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "5700-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4972912,
-    "lng": -77.5005953
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:09",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "5700-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4972912,
-    "lng": -77.5005953
   },
   {
     "type_general": "RPD",
@@ -183,15 +131,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:31",
+    "dispatch_time": "12/07/2025 05:37",
     "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2400-BLK CARMINE ST",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1100-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5212499,
+    "lng": -77.4431859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 05:09",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "5700-BLK WARWICK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Carmine Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5562698,
-    "lng": -77.4167992
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4972912,
+    "lng": -77.5005953
   }
 ]
