@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 03:13",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "5000-BLK SNEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770457,
-    "lng": -77.4856193
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 02:32",
     "box_no": "Precinct 3",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -143,29 +130,29 @@
     "lng": -77.568162
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 03:48",
-    "box_no": "Precinct 1",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 03:50",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
     "street": "1900-BLK E MAIN ST",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
+    "location_township": "FIRE",
     "lat": 37.5323709,
     "lng": -77.4265259
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 03:20",
+    "dispatch_time": "12/07/2025 03:48",
     "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "900-BLK E 4TH ST",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "1900-BLK E MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 4th Street",
+    "nearest_intersection": "East Main Street",
     "location_township": "Precinct 1",
-    "lat": 37.5173725,
-    "lng": -77.4290583
+    "lat": 37.5323709,
+    "lng": -77.4265259
   }
 ]
