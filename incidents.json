@@ -79,45 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 04:55",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3000-BLK KROUSE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Krouse Street",
-    "location_township": "Precinct 2",
-    "lat": 37.483041,
-    "lng": -77.4393335
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:29",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2800-BLK Q ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Q Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5368635,
-    "lng": -77.4093336
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:29",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2800-BLK Q ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Q Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5368635,
-    "lng": -77.4093336
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 04:52",
     "box_no": "Precinct 2",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -131,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:37",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1100-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5212499,
-    "lng": -77.4431859
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 05:09",
     "box_no": "Precinct 2",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -154,5 +102,44 @@
     "location_township": "Precinct 2",
     "lat": 37.4972912,
     "lng": -77.5005953
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 04:55",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3000-BLK KROUSE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Krouse Street",
+    "location_township": "Precinct 2",
+    "lat": 37.483041,
+    "lng": -77.4393335
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 05:37",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1100-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5212499,
+    "lng": -77.4431859
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 05:41",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5514093,
+    "lng": -77.4534673
   }
 ]
