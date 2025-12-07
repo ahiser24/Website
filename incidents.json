@@ -31,7 +31,7 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "4200-BLK TERMINAL AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Terminal Avenue, Southside",
     "location_township": "Precinct 2",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 4",
     "lat": 37.581493,
     "lng": -77.427931
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 08:40",
-    "box_no": "Precinct 2",
-    "type_specific": "ABDUCTION , JUST OCCURRED / IN-PROGRESS",
-    "street": "LL(-77:28:56.6041,37:28:08.1732): EST 3403 E BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lng": -77.48239002777778,
-    "lat": 37.468937000000004
   },
   {
     "type_general": "RPD",
@@ -104,32 +91,6 @@
     "lng": -77.4473886
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:11",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2400-BLK P ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:11",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "2400-BLK P ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5404917,
-    "lng": -77.4175446
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/07/2025 08:27",
     "box_no": "FIRE",
@@ -141,19 +102,6 @@
     "location_township": "FIRE",
     "lat": 37.581493,
     "lng": -77.427931
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 09:46",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "FIRE",
-    "lat": 37.464799,
-    "lng": -77.460475
   },
   {
     "type_general": "RPD",
@@ -183,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:35",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1900-BLK ROSEWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rosewood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5445645,
-    "lng": -77.4667016
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 09:48",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1600-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4934886,
-    "lng": -77.4709086
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 09:51",
     "box_no": "DPR",
     "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
@@ -234,6 +156,32 @@
     "lng": -77.504484
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:11",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "2400-BLK CARRINGTON ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Carrington Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5395588,
+    "lng": -77.413313
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:11",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "2400-BLK CARRINGTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Carrington Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5395588,
+    "lng": -77.413313
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/07/2025 09:59",
     "box_no": "FIRE",
@@ -245,5 +193,70 @@
     "location_township": "FIRE",
     "lat": 37.5175155,
     "lng": -77.46882
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 09:59",
+    "box_no": "FIRE",
+    "type_specific": "# SMOKE INVESTIGATION",
+    "street": "600-BLK W 33RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 33rd Street",
+    "location_township": "FIRE",
+    "lat": 37.5175155,
+    "lng": -77.46882
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:12",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5900-BLK SUGARBUSH DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Skilift Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.525195,
+    "lng": -77.506055
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:16",
+    "box_no": "Precinct 3",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "00-BLK S NANSEMOND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Nansemond Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5541317,
+    "lng": -77.4873713
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:09",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "700-BLK W CLAY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5508811,
+    "lng": -77.4459232
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 09:35",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1900-BLK ROSEWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Rosewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5445645,
+    "lng": -77.4667016
   }
 ]
