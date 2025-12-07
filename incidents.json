@@ -5,25 +5,12 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "13th Street",
     "location_township": "Precinct 4",
     "lat": 37.5396586,
     "lng": -77.4286204
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 08:27",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "400-BLK E LADIES MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Delmont Street",
-    "location_township": "Precinct 4",
-    "lat": 37.581493,
-    "lng": -77.427931
   },
   {
     "type_general": "RPD",
@@ -37,19 +24,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5039491,
     "lng": -77.4660265
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 09:35",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1900-BLK ROSEWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rosewood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5445645,
-    "lng": -77.4667016
   },
   {
     "type_general": "RPD",
@@ -78,17 +52,17 @@
     "lng": -77.4444157
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 08:27",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "400-BLK E LADIES MILE RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:05",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "3100-BLK MOSS SIDE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Delmont Street",
-    "location_township": "FIRE",
-    "lat": 37.581493,
-    "lng": -77.427931
+    "nearest_intersection": "Moss Side Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5747739,
+    "lng": -77.4411082
   },
   {
     "type_general": "RPD",
@@ -104,49 +78,23 @@
     "lng": -77.4873713
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:35",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1700-BLK E FRANKLIN ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 17th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534302,
-    "lng": -77.427504
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:35",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1700-BLK E FRANKLIN ST",
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 08:27",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "400-BLK E LADIES MILE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 17th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.534302,
-    "lng": -77.427504
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:05",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3100-BLK MOSS SIDE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Moss Side Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5747739,
-    "lng": -77.4411082
+    "nearest_intersection": "Delmont Street",
+    "location_township": "FIRE",
+    "lat": 37.581493,
+    "lng": -77.427931
   },
   {
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 10:34",
     "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "type_specific": "ASSAULT , INVESTIGATE",
     "street": "3000-BLK CLYDEWOOD AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -154,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4776815,
     "lng": -77.4686997
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 10:45",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1200-BLK E MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.5404297,
-    "lng": -77.4303132
   },
   {
     "type_general": "RPD",
@@ -260,29 +195,42 @@
     "lng": -77.4853454
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 10:58",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "200-BLK W LEIGH ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 11:30",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2000-BLK CREIGHTON RD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "FIRE",
-    "lat": 37.550118,
-    "lng": -77.44173
+    "nearest_intersection": "Creighton Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5439656,
+    "lng": -77.3997454
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 11:00",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SICK PERSON",
-    "street": "5700-BLK SWANSON RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 11:30",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2000-BLK CREIGHTON RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Swanson Road",
-    "location_township": "FIRE",
-    "lat": 37.4899544,
-    "lng": -77.4972492
+    "nearest_intersection": "Creighton Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5439656,
+    "lng": -77.3997454
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 11:30",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1200-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5359119,
+    "lng": -77.4342744
   }
 ]
