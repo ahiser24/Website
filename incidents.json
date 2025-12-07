@@ -143,19 +143,6 @@
     "lng": -77.5172648
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 10:00",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "1400-BLK OAKHURST LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Oakhurst Lane",
-    "location_township": "FIRE",
-    "lat": 37.521611,
-    "lng": -77.504484
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 10:11",
     "box_no": "Precinct 1",
@@ -182,45 +169,6 @@
     "lng": -77.413313
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 09:59",
-    "box_no": "FIRE",
-    "type_specific": "# SMOKE INVESTIGATION",
-    "street": "600-BLK W 33RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 33rd Street",
-    "location_township": "FIRE",
-    "lat": 37.5175155,
-    "lng": -77.46882
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 09:59",
-    "box_no": "FIRE",
-    "type_specific": "# SMOKE INVESTIGATION",
-    "street": "600-BLK W 33RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 33rd Street",
-    "location_township": "FIRE",
-    "lat": 37.5175155,
-    "lng": -77.46882
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:12",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5900-BLK SUGARBUSH DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Skilift Lane",
-    "location_township": "Precinct 3",
-    "lat": 37.525195,
-    "lng": -77.506055
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/07/2025 10:16",
     "box_no": "Precinct 3",
@@ -235,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 10:09",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "700-BLK W CLAY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5508811,
-    "lng": -77.4459232
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 09:35",
     "box_no": "Precinct 3",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -258,5 +193,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5445645,
     "lng": -77.4667016
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:25",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "S SHEPPARD ST/PARKWOOD AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Sheppard Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5513382,
+    "lng": -77.4794802
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:12",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5900-BLK SUGARBUSH DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Skilift Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.525195,
+    "lng": -77.506055
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/07/2025 10:09",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "700-BLK W CLAY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5508811,
+    "lng": -77.4459232
   }
 ]
