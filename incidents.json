@@ -128,18 +128,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5212499,
     "lng": -77.4431859
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 05:41",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5514093,
-    "lng": -77.4534673
   }
 ]
