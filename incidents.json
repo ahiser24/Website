@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 05:51",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "1100-BLK ST JOHN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5531273,
-    "lng": -77.4363957
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 06:34",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -83,38 +70,12 @@
     "box_no": "Precinct 1",
     "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
     "street": "400-BLK N 12TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 1",
     "lat": 37.54025,
     "lng": -77.43045
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 06:43",
-    "box_no": "FIRE",
-    "type_specific": "# LOCK-OUT , HOUSE",
-    "street": "1300-BLK COALTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "FIRE",
-    "lat": 37.543765,
-    "lng": -77.422946
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 06:51",
-    "box_no": "FIRE",
-    "type_specific": "# OTHER , SINGLE COMPANY",
-    "street": "3700-BLK BATHGATE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bathgate Road",
-    "location_township": "FIRE",
-    "lat": 37.4652351,
-    "lng": -77.4918793
   },
   {
     "type_general": "RFD",
@@ -135,11 +96,24 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "3200-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
     "lat": 37.5754748,
     "lng": -77.4462032
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/07/2025 07:04",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , TRAUMATIC INJURY",
+    "street": "1500-BLK BLAIR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Blair Street",
+    "location_township": "FIRE",
+    "lat": 37.5399797,
+    "lng": -77.4638057
   }
 ]
