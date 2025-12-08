@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 06:16",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "900-BLK SLEDD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 06:30",
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -91,16 +78,16 @@
     "lng": -77.4445175
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 06:34",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "6500-BLK JAHNKE RD",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 06:52",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W LABURNUM AVE/BROOK RD RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "FIRE",
-    "lat": 37.519498,
-    "lng": -77.51638
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
   }
 ]
