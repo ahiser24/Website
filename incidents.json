@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -96,24 +96,11 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "1000-BLK KINNEY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Leigh Street",
     "location_township": "Precinct 4",
     "lat": 37.556068,
     "lng": -77.451642
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 03:27",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "BOWE ST/W LEIGH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bowe Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5571637,
-    "lng": -77.4520867
   }
 ]
