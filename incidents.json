@@ -79,15 +79,54 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 06:58",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 06:58",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 06:52",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W LABURNUM AVE/BROOK RD RICH",
+    "street": "CHAMBERLAYNE AVE/W LABURNUM AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5845486,
+    "lng": -77.4473886
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 06:34",
+    "box_no": "Precinct 3",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "6500-BLK JAHNKE RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Laburnum Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5840069,
-    "lng": -77.4708596
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.519498,
+    "lng": -77.51638
   }
 ]
