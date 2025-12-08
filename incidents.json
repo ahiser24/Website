@@ -44,25 +44,12 @@
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
     "street": "1600-BLK ALTAMONT AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Altamont Avenue",
     "location_township": "Precinct 4",
     "lat": 37.5675544,
     "lng": -77.4691915
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 11:18",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2000-BLK 2ND AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "2nd Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.560795,
-    "lng": -77.425398
   },
   {
     "type_general": "RPD",
@@ -170,42 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 11:43",
+    "dispatch_time": "12/08/2025 11:55",
     "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1800-BLK FERNBROOK DR",
-    "status": "Enroute",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fernbrook Drive, Southside",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 2",
-    "lat": 37.489185,
-    "lng": -77.484279
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 11:31",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "600-BLK ST JAMES ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "Precinct 4",
-    "lat": 37.548677,
-    "lng": -77.439248
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 11:31",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "600-BLK ST JAMES ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "Precinct 4",
-    "lat": 37.548677,
-    "lng": -77.439248
+    "lat": 37.5089813,
+    "lng": -77.478859
   },
   {
     "type_general": "RPD",
@@ -213,7 +174,7 @@
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
     "street": "2000-BLK BROOK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bath Street, Northside",
     "location_township": "Precinct 4",
@@ -221,30 +182,30 @@
     "lng": -77.4479214
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 11:43",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "2500-BLK 4TH AVE",
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 11:26",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "00-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5640539,
-    "lng": -77.420097
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467727,
+    "lng": -77.4436631
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 11:48",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "2600-BLK STUART AVE",
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 11:43",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1800-BLK FERNBROOK DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Robinson Street",
-    "location_township": "FIRE",
-    "lat": 37.55646,
-    "lng": -77.470872
+    "nearest_intersection": "Fernbrook Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.489185,
+    "lng": -77.484279
   },
   {
     "type_general": "RFD",
@@ -258,19 +219,6 @@
     "location_township": "FIRE",
     "lat": 37.5582353,
     "lng": -77.4394875
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 11:55",
-    "box_no": "Precinct 2",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
   },
   {
     "type_general": "RPD",
@@ -310,5 +258,31 @@
     "location_township": "FIRE",
     "lat": 37.547507,
     "lng": -77.447148
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 12:25",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "6500-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5035598,
+    "lng": -77.5157461
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 12:23",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1400-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5195165,
+    "lng": -77.4456731
   }
 ]
