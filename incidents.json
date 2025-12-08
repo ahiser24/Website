@@ -105,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 14:07",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "300-BLK W BROAD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5475032,
-    "lng": -77.4444903
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 14:07",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "300-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5475032,
-    "lng": -77.4444903
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 13:54",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -209,16 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:15",
+    "dispatch_time": "12/08/2025 15:31",
     "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2900-BLK 2ND AVE",
-    "status": "Arrived",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "500-BLK CATHERINE ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "nearest_intersection": "West Catherine Street",
     "location_township": "Precinct 4",
-    "lat": 37.568818,
-    "lng": -77.419141
+    "lat": 37.550665,
+    "lng": -77.444195
   },
   {
     "type_general": "RPD",
@@ -234,42 +208,29 @@
     "lng": -77.520176
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 15:35",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2100-BLK S KENMORE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Kenmore Road",
-    "location_township": "FIRE",
-    "lat": 37.5307499,
-    "lng": -77.5370241
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 15:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "0-BLK W CANAL ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 15:39",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LL(-77:25:38.2081,37:33:13.2623): EST 1480 N 5TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Canal Street",
-    "location_township": "FIRE",
-    "lat": 37.5421793,
-    "lng": -77.4474595
+    "nearest_intersection": "North 5th Street",
+    "location_township": "Precinct 4",
+    "lng": -77.42728002777778,
+    "lat": 37.55368397222222
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:31",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "500-BLK CATHERINE ST",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 15:40",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "2100-BLK BELLEMEADE RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Catherine Street",
-    "location_township": "Precinct 4",
-    "lat": 37.550665,
-    "lng": -77.444195
+    "nearest_intersection": "Bellemeade Road",
+    "location_township": "FIRE",
+    "lat": 37.4919323,
+    "lng": -77.4362156
   }
 ]
