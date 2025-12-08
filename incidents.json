@@ -91,19 +91,6 @@
     "lng": -77.446604
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 10:44",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "4000-BLK DORSET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dorset Court",
-    "location_township": "FIRE",
-    "lat": 37.465067,
-    "lng": -77.477833
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/08/2025 10:50",
     "box_no": "Precinct 4",
@@ -117,55 +104,42 @@
     "lng": -77.4604808
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 10:58",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "200-BLK HIOAKS RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 11:11",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2000-BLK BROOK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "FIRE",
-    "lat": 37.5056338,
-    "lng": -77.5252413
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5608096,
+    "lng": -77.4479214
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 10:30",
-    "box_no": "Precinct 1",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "1200-BLK HULL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.520818,
-    "lng": -77.444127
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 10:59",
+    "dispatch_time": "12/08/2025 11:15",
     "box_no": "Precinct 4",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE - EMS",
-    "street": "1400-BLK WESTWOOD AVE",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "200-BLK E FRANKLIN ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Westwood Avenue",
+    "nearest_intersection": "Franklin Street Cycle Track",
     "location_township": "Precinct 4",
-    "lat": 37.578281,
-    "lng": -77.454965
+    "lat": 37.54283,
+    "lng": -77.441593
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 11:05",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "LANGDON DR/FOREST HILL AVE RICH",
-    "status": "Arrived",
+    "dispatch_time": "12/08/2025 11:18",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2000-BLK 2ND AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Langdon Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5293117,
-    "lng": -77.5006356
+    "nearest_intersection": "2nd Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.560795,
+    "lng": -77.425398
   }
 ]
