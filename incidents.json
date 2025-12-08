@@ -79,28 +79,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/08/2025 05:07",
+    "dispatch_time": "12/08/2025 05:10",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
-    "street": "1300-BLK N 22ND ST",
-    "status": "Dispatched",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "N 21ST ST/T ST RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fairmount Avenue",
+    "nearest_intersection": "North 21st Street",
     "location_township": "FIRE",
-    "lat": 37.542133,
-    "lng": -77.413212
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 05:07",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
-    "street": "1300-BLK N 22ND ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Fairmount Avenue",
-    "location_township": "FIRE",
-    "lat": 37.542133,
-    "lng": -77.413212
+    "lat": 37.5460125,
+    "lng": -77.4108059
   }
 ]
