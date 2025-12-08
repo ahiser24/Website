@@ -65,19 +65,6 @@
     "lng": -77.4722339
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 08:19",
-    "box_no": "Precinct 4",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "3300-BLK 5TH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "5th Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5698457,
-    "lng": -77.4109385
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/08/2025 08:00",
     "box_no": "FIRE",
@@ -92,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 08:46",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "2000-BLK RIVERSIDE DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.52427,
-    "lng": -77.4552133
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 08:56",
     "box_no": "Precinct 4",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
@@ -115,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5484702,
     "lng": -77.4367774
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 08:57",
-    "box_no": "Precinct 1",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "1500-BLK WILLIAMSBURG RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.514643,
-    "lng": -77.398292
   },
   {
     "type_general": "RPD",
@@ -170,41 +131,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 08:50",
-    "box_no": "Precinct 1",
+    "dispatch_time": "12/08/2025 08:46",
+    "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1900-BLK R ST",
+    "street": "2000-BLK RIVERSIDE DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "R Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5431122,
-    "lng": -77.4171675
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 09:13",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "3300-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5765192,
-    "lng": -77.4328957
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.52427,
+    "lng": -77.4552133
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 09:13",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "500-BLK HULL ST",
+    "dispatch_time": "12/08/2025 09:21",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , DPR Call - Take a Report Normal (NOT Juvenile or Elderly)",
+    "street": "3600-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4752744,
+    "lng": -77.4444157
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 09:26",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "900-BLK E 36TH ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Hull Street",
+    "nearest_intersection": "East 36th Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.502488,
+    "lng": -77.464629
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 09:26",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "1100-BLK JUNIPER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Juniper Street, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5626085,
+    "lng": -77.4222452
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 08:39",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2300-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": 37.5240062,
-    "lng": -77.4383862
+    "lat": 37.5292529,
+    "lng": -77.4235309
   }
 ]
