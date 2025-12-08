@@ -102,5 +102,31 @@
     "location_township": "Precinct 4",
     "lat": 37.58494,
     "lng": -77.4478043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 02:33",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "MECHANICSVILLE TPKE/FAIRFIELD AVE RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5514699,
+    "lng": -77.4128847
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 02:33",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "MECHANICSVILLE TPKE/FAIRFIELD AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5514699,
+    "lng": -77.4128847
   }
 ]
