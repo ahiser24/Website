@@ -70,7 +70,7 @@
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , DPR Call - Take a Report",
     "street": "2300-BLK W MAIN ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Main Street",
     "location_township": "Precinct 3",
@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 14:19",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "E 20TH ST/DINWIDDIE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5089918,
-    "lng": -77.4426351
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 15:41",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -222,6 +209,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 14:19",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "E 20TH ST/DINWIDDIE AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5089918,
+    "lng": -77.4426351
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 15:44",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -232,19 +232,6 @@
     "location_township": "Precinct 4",
     "lat": 37.544751,
     "lng": -77.4444328
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:54",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1300-BLK BLACKROCK DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Blackrock Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.519988,
-    "lng": -77.517726
   },
   {
     "type_general": "RPD",
@@ -299,19 +286,6 @@
     "lng": -77.529597
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:04",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "N 27TH ST/S ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 27th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5485322,
-    "lng": -77.4002685
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/08/2025 15:53",
     "box_no": "FIRE",
@@ -336,5 +310,31 @@
     "location_township": "DPR",
     "lat": 37.5240062,
     "lng": -77.4383862
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 15:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1300-BLK BLACKROCK DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Blackrock Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.519988,
+    "lng": -77.517726
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:22",
+    "box_no": "Precinct 1",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "800-BLK OLIVER HILL WAY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Oliver Hill Way",
+    "location_township": "Precinct 1",
+    "lat": 37.5501278,
+    "lng": -77.4239328
   }
 ]
