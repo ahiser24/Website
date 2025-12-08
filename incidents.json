@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 05:07",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1300-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairmount Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.542133,
-    "lng": -77.413212
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 05:25",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , CITY PROPERTY",
@@ -63,5 +50,44 @@
     "location_township": "Precinct 1",
     "lat": 37.532337,
     "lng": -77.419688
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 06:13",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1800-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.548457,
+    "lng": -77.463492
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 06:13",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1800-BLK W MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.548457,
+    "lng": -77.463492
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 06:16",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "900-BLK SLEDD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
   }
 ]
