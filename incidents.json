@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/07/2025 11:37",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "600-BLK E GRACE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/07/2025 11:37",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "600-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5415708,
-    "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/07/2025 12:01",
     "box_no": "FIRE",
     "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
@@ -157,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 23:57",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2400-BLK OAKLAND AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Webber Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.49694,
-    "lng": -77.442539
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 23:54",
     "box_no": "DPR",
     "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
@@ -183,29 +144,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 00:05",
+    "dispatch_time": "12/07/2025 23:57",
     "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3100-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5117693,
-    "lng": -77.4649524
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 00:05",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3100-BLK MIDLOTHIAN TPKE",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2400-BLK OAKLAND AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
+    "nearest_intersection": "Webber Avenue",
     "location_township": "Precinct 2",
-    "lat": 37.5117693,
-    "lng": -77.4649524
+    "lat": 37.49694,
+    "lng": -77.442539
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 00:20",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "1300-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "FIRE",
+    "lat": 37.520299,
+    "lng": -77.444944
   },
   {
     "type_general": "RPD",
@@ -219,5 +180,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4752966,
     "lng": -77.4838448
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 00:19",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "4000-BLK NORTH AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5840735,
+    "lng": -77.4381519
   }
 ]
