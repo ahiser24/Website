@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 09:49",
-    "box_no": "Precinct 3",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "7500-BLK DRUMHELLER DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Drumheller Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.534183,
-    "lng": -77.5340173
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 11:43",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5640539,
     "lng": -77.420097
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 11:43",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1800-BLK FERNBROOK DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fernbrook Drive, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.489185,
+    "lng": -77.484279
   },
   {
     "type_general": "RPD",
@@ -131,16 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:15",
+    "dispatch_time": "12/08/2025 13:30",
     "box_no": "Precinct 4",
-    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
-    "street": "HERMITAGE RD/BELLEVUE AVE RICH",
-    "status": "Arrived",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "CUMBERLAND ST/S HARRISON ST RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
+    "nearest_intersection": "Cumberland Street",
     "location_township": "Precinct 4",
-    "lat": 37.5586945,
-    "lng": -77.4600341
+    "lat": 37.5432833,
+    "lng": -77.4547531
   },
   {
     "type_general": "RPD",
@@ -170,29 +170,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:15",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2500-BLK E MAIN ST",
-    "status": "Arrived",
+    "dispatch_time": "12/08/2025 13:33",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "3200-BLK 2ND AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5290346,
-    "lng": -77.4208043
+    "nearest_intersection": "2nd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5727541,
+    "lng": -77.416248
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 11:43",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1800-BLK FERNBROOK DR",
-    "status": "Enroute",
+    "dispatch_time": "12/08/2025 13:22",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "100-BLK S 14TH ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Fernbrook Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.489185,
-    "lng": -77.484279
+    "nearest_intersection": "South 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5337178,
+    "lng": -77.4328912
   },
   {
     "type_general": "RPD",
@@ -206,19 +206,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5240062,
     "lng": -77.4383862
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:30",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "CUMBERLAND ST/S HARRISON ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Cumberland Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5432833,
-    "lng": -77.4547531
   },
   {
     "type_general": "RPD",
@@ -247,29 +234,42 @@
     "lng": -77.413212
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:33",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "3200-BLK 2ND AVE",
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 13:46",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "W BROAD ST/WESTWOOD AVE RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "2nd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5727541,
-    "lng": -77.416248
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5467727,
+    "lng": -77.4436631
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:22",
+    "dispatch_time": "12/08/2025 13:46",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W BROAD ST/WESTWOOD AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 13:42",
     "box_no": "Precinct 1",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "100-BLK S 14TH ST",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "700-BLK SEMMES AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South 14th Street",
+    "nearest_intersection": "Semmes Avenue",
     "location_township": "Precinct 1",
-    "lat": 37.5337178,
-    "lng": -77.4328912
+    "lat": 37.5270128,
+    "lng": -77.4441051
   }
 ]
