@@ -92,15 +92,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/08/2025 05:41",
+    "dispatch_time": "12/08/2025 05:50",
     "box_no": "FIRE",
-    "type_specific": "# CHEMICAL MATERIALS , SMELL OR ODOR (NO SPILL)",
-    "street": "1700-BLK EDWARDS AVE",
-    "status": "Arrived",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "6400-BLK HULL STREET RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Edwards Avenue",
+    "nearest_intersection": "Hull Street Road",
     "location_township": "FIRE",
-    "lat": 37.5112882,
-    "lng": -77.4415632
+    "lat": 37.4802785,
+    "lng": -77.5112055
   }
 ]
