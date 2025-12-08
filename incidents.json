@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:11",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "300-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5475032,
-    "lng": -77.4444903
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 13:30",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -157,32 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 12:51",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "7300-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.537392,
-    "lng": -77.530621
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:33",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "3200-BLK 2ND AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "2nd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5727541,
-    "lng": -77.416248
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 13:22",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -196,16 +157,55 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 13:11",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "300-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5475032,
+    "lng": -77.4444903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 13:33",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "3200-BLK 2ND AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "2nd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5727541,
+    "lng": -77.416248
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 13:19",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
     "street": "500-BLK HULL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Hull Street",
     "location_township": "Precinct 1",
     "lat": 37.5240062,
     "lng": -77.4383862
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 12:51",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "7300-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.537392,
+    "lng": -77.530621
   },
   {
     "type_general": "RPD",
@@ -234,32 +234,6 @@
     "lng": -77.413212
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 13:46",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "W BROAD ST/WESTWOOD AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:46",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "W BROAD ST/WESTWOOD AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/08/2025 13:42",
     "box_no": "Precinct 1",
@@ -271,5 +245,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5270128,
     "lng": -77.4441051
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 13:54",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "700-BLK N 21ST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53746,
+    "lng": -77.419569
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 13:46",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "W BROAD ST/WESTWOOD AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 13:52",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1400-BLK CLAIBORNE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Claiborne Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5400826,
+    "lng": -77.4617077
   }
 ]
