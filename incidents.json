@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:31",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "500-BLK CATHERINE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Catherine Street",
-    "location_township": "Precinct 4",
-    "lat": 37.550665,
-    "lng": -77.444195
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 15:54",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -144,16 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:51",
-    "box_no": "Precinct 3",
+    "dispatch_time": "12/08/2025 15:58",
+    "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "STONY POINT/STONY POINT PKWY RICH",
+    "street": "BOWE ST/W LEIGH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chippenham Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5502408,
-    "lng": -77.5692031
+    "nearest_intersection": "Bowe Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5571637,
+    "lng": -77.4520867
   },
   {
     "type_general": "RPD",
@@ -183,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:54",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1300-BLK BLACKROCK DR",
-    "status": "Enroute",
+    "dispatch_time": "12/08/2025 16:11",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "500-BLK HULL ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Blackrock Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.519988,
-    "lng": -77.517726
+    "nearest_intersection": "Hull Street",
+    "location_township": "DPR",
+    "lat": 37.5240062,
+    "lng": -77.4383862
   },
   {
     "type_general": "RPD",
@@ -200,7 +187,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "RICH: @WILLEY BRIDGE - SB",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -209,16 +196,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:58",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "BOWE ST/W LEIGH ST RICH",
+    "dispatch_time": "12/08/2025 15:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1300-BLK BLACKROCK DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bowe Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5571637,
-    "lng": -77.4520867
+    "nearest_intersection": "Blackrock Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.519988,
+    "lng": -77.517726
   },
   {
     "type_general": "RFD",
@@ -232,19 +219,6 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:11",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "500-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "DPR",
-    "lat": 37.5240062,
-    "lng": -77.4383862
   },
   {
     "type_general": "RPD",
@@ -262,28 +236,15 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/08/2025 16:40",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "1600-BLK DOCK ST",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Downtown Expressway",
-    "location_township": "Precinct 1",
+    "location_township": "DPR",
     "lat": 37.5329235,
     "lng": -77.4322075
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:35",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 1ST ST/E GRACE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 1st Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5553171,
-    "lng": -77.4314859
   },
   {
     "type_general": "RPD",
@@ -299,6 +260,58 @@
     "lng": -77.4545828
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 16:50",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "2800-BLK SKIPTON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Skipton Road",
+    "location_township": "FIRE",
+    "lat": 37.5370095,
+    "lng": -77.5147589
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:25",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W BROAD ST/N LOMBARDY ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:35",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 1ST ST/E GRACE ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 1st Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5553171,
+    "lng": -77.4314859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:17",
+    "box_no": "Precinct 3",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "8700-BLK CHEROKEE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cherokee Road",
+    "location_township": "Precinct 3",
+    "lat": 37.552726,
+    "lng": -77.553004
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "12/08/2025 16:47",
     "box_no": "Precinct 1",
@@ -310,5 +323,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:50",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "1600-BLK N 24TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 24th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5437795,
+    "lng": -77.4089939
   }
 ]
