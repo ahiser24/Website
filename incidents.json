@@ -40,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:14",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1000-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 3",
-    "lat": 37.540296,
-    "lng": -77.432735
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 13:19",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "500-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5240062,
-    "lng": -77.4383862
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 13:54",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -79,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 14:45",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "1900-BLK W MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5489827,
-    "lng": -77.4646467
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 14:16",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -102,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5156963,
     "lng": -77.4093438
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 14:19",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "E 20TH ST/DINWIDDIE AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5089918,
+    "lng": -77.4426351
   },
   {
     "type_general": "RPD",
@@ -157,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 15:54",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "100-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5464347,
+    "lng": -77.4427708
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 15:51",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -196,42 +183,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 14:19",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "E 20TH ST/DINWIDDIE AVE RICH",
-    "status": "Arrived",
+    "dispatch_time": "12/08/2025 15:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1300-BLK BLACKROCK DR",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East 20th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5089918,
-    "lng": -77.4426351
+    "nearest_intersection": "Blackrock Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.519988,
+    "lng": -77.517726
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:54",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "100-BLK W BROAD ST",
-    "status": "Arrived",
+    "dispatch_time": "12/08/2025 15:53",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RICH: @WILLEY BRIDGE - SB",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5464347,
-    "lng": -77.4427708
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
     "dispatch_time": "12/08/2025 15:58",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1400-BLK W LEIGH ST",
+    "street": "BOWE ST/W LEIGH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
+    "nearest_intersection": "Bowe Street",
     "location_township": "Precinct 4",
-    "lat": 37.556058,
-    "lng": -77.451724
+    "lat": 37.5571637,
+    "lng": -77.4520867
   },
   {
     "type_general": "RFD",
@@ -261,45 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:54",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1300-BLK BLACKROCK DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Blackrock Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.519988,
-    "lng": -77.517726
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 16:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , PREGNANCY",
-    "street": "0-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "FIRE",
-    "lat": 37.5630515,
-    "lng": -77.4777521
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 16:39",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "FIRE",
-    "lat": 37.516032,
-    "lng": -77.512119
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 16:27",
     "box_no": "Precinct 3",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -310,32 +258,6 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:13",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N LOMBARDY ST/OVERBROOK RD RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Lombardy Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5558128,
-    "lng": -77.4545828
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:53",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @WILLEY BRIDGE - SB",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -362,5 +284,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5553171,
     "lng": -77.4314859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:13",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N LOMBARDY ST/OVERBROOK RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Lombardy Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5558128,
+    "lng": -77.4545828
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:47",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "1800-BLK N 22ND ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5466404,
+    "lng": -77.4092602
   }
 ]
