@@ -284,5 +284,83 @@
     "location_township": "FIRE",
     "lat": 37.5630515,
     "lng": -77.4777521
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 16:39",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "FIRE",
+    "lat": 37.516032,
+    "lng": -77.512119
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:27",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:13",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N LOMBARDY ST/OVERBROOK RD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Lombardy Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5558128,
+    "lng": -77.4545828
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 15:53",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "RICH: @WILLEY BRIDGE - SB",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:40",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1600-BLK DOCK ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 1",
+    "lat": 37.5329235,
+    "lng": -77.4322075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:35",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 1ST ST/E GRACE ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 1st Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5553171,
+    "lng": -77.4314859
   }
 ]
