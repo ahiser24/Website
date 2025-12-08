@@ -128,5 +128,83 @@
     "location_township": "Precinct 4",
     "lat": 37.563296,
     "lng": -77.460563
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 09:47",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "2000-BLK E GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5334414,
+    "lng": -77.4236892
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 09:48",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1800-BLK BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.559299,
+    "lng": -77.4474244
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 09:53",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2100-BLK IDLEWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "South Shields Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.546853,
+    "lng": -77.4689311
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 09:48",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 09:45",
+    "box_no": "Precinct 2",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "5600-BLK PETOSKEY AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Petoskey Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4988816,
+    "lng": -77.5008037
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 09:48",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
