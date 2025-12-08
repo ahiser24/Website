@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 00:59",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4200-BLK COMMERCE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road Access Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468084,
-    "lng": -77.428152
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 00:59",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4200-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road Access Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468084,
-    "lng": -77.428152
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 01:15",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
@@ -105,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 22:15",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3400-BLK MIKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mike Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4770648,
-    "lng": -77.4318075
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 01:16",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "AZALEA AVE/W SEMINARY AVE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.6015861,
-    "lng": -77.4529869
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 01:46",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -141,5 +89,31 @@
     "location_township": "Precinct 1",
     "lat": 37.530459,
     "lng": -77.421197
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 01:53",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "AZALEA AVE/W SEMINARY AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "FIRE",
+    "lat": 37.6015861,
+    "lng": -77.4529869
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 01:16",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "AZALEA AVE/W SEMINARY AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.6015861,
+    "lng": -77.4529869
   }
 ]
