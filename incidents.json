@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 06:34",
-    "box_no": "Precinct 3",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
-    "street": "6500-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.519498,
-    "lng": -77.51638
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 06:52",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -89,5 +76,70 @@
     "location_township": "Precinct 2",
     "lat": 37.4829472,
     "lng": -77.4998228
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 07:18",
+    "box_no": "Precinct 4",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "0-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.551079,
+    "lng": -77.453249
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 07:19",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "1500-BLK DREWRY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Drewry Street",
+    "location_township": "FIRE",
+    "lat": 37.5001886,
+    "lng": -77.4377666
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 07:27",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "WINDSORVIEW DR/MONITOR RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Windsorview Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5397242,
+    "lng": -77.5150277
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 07:19",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "CARNATION ST/MIDLOTHIAN TPKE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5028688,
+    "lng": -77.5172407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 07:11",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "N 26TH ST/E BROAD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5315275,
+    "lng": -77.4174801
   }
 ]
