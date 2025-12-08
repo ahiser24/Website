@@ -79,45 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 08:56",
-    "box_no": "Precinct 4",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "700-BLK N 2ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 2nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5484702,
-    "lng": -77.4367774
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 09:12",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "CUSTIS RD/CHIPPENHAM PKWY RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Custis Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5421368,
-    "lng": -77.5387214
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 09:12",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "CUSTIS RD/CHIPPENHAM PKWY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Custis Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5421368,
-    "lng": -77.5387214
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 08:52",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -128,19 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5071442,
     "lng": -77.4853454
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 08:46",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "2000-BLK RIVERSIDE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.52427,
-    "lng": -77.4552133
   },
   {
     "type_general": "RPD",
@@ -157,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 09:26",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "900-BLK E 36TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 36th Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.502488,
-    "lng": -77.464629
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 09:26",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "1100-BLK JUNIPER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Juniper Street, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5626085,
-    "lng": -77.4222452
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 08:39",
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -193,5 +115,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5292529,
     "lng": -77.4235309
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 08:30",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1200-BLK HERMITAGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.563296,
+    "lng": -77.460563
   }
 ]
