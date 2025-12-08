@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 02:12",
-    "box_no": "Precinct 4",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "300-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5465274,
-    "lng": -77.4453903
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 02:19",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
