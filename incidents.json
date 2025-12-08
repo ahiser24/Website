@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1300-BLK E MARSHALL ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
@@ -128,5 +128,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4664874,
     "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 00:47",
+    "box_no": "Precinct 4",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "1200-BLK HERMITAGE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.563296,
+    "lng": -77.460563
   }
 ]
