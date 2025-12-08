@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 01:15",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "1800-BLK P ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "P Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.541579,
-    "lng": -77.419166
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 02:19",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -53,22 +40,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 04:42",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "0-BLK S MULBERRY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Mulberry Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5505725,
-    "lng": -77.4754652
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 05:07",
     "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "1300-BLK N 22ND ST",
     "status": "Arrived",
     "cross_street": "",
@@ -78,16 +52,16 @@
     "lng": -77.413212
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 05:10",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "N 21ST ST/T ST RICH",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 05:25",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , CITY PROPERTY",
+    "street": "300-BLK N 24TH ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 21st Street",
-    "location_township": "FIRE",
-    "lat": 37.5460125,
-    "lng": -77.4108059
+    "nearest_intersection": "North 24th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.532337,
+    "lng": -77.419688
   }
 ]
