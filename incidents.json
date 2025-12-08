@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 05:25",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , CITY PROPERTY",
-    "street": "300-BLK N 24TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 24th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532337,
-    "lng": -77.419688
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 06:16",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -63,6 +50,19 @@
     "location_township": "Precinct 4",
     "lat": 37.557176,
     "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 06:30",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "2000-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5539874,
+    "lng": -77.4116705
   },
   {
     "type_general": "RPD",
@@ -96,24 +96,11 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
     "street": "6500-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "FIRE",
     "lat": 37.519498,
     "lng": -77.51638
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 06:30",
-    "box_no": "Precinct 1",
-    "type_specific": "ROBBERY , INVESTIGATE",
-    "street": "2000-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5539874,
-    "lng": -77.4116705
   }
 ]
