@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:19",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1500-BLK BOWE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bowe Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5571637,
-    "lng": -77.4520867
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 15:53",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -105,16 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:03",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "S 2ND ST/E BYRD ST RICH",
-    "status": "Arrived",
+    "dispatch_time": "12/08/2025 17:13",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "South 2nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5401644,
-    "lng": -77.4443047
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -144,16 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:10",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "S 14TH ST/E CARY ST RICH",
+    "dispatch_time": "12/08/2025 17:12",
+    "box_no": "Precinct 2",
+    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
+    "street": "5400-BLK HULL STREET RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5354383,
-    "lng": -77.4320295
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4899001,
+    "lng": -77.4939365
   },
   {
     "type_general": "RPD",
@@ -170,16 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:49",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "800-BLK WELTON AVE",
-    "status": "Enroute",
+    "dispatch_time": "12/08/2025 17:17",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "1100-BLK AZALEA AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Welton Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.501383,
-    "lng": -77.474445
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.6015861,
+    "lng": -77.4529869
   },
   {
     "type_general": "RPD",
@@ -196,16 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:13",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "dispatch_time": "12/08/2025 16:49",
+    "box_no": "Precinct 2",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "800-BLK WELTON AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
+    "nearest_intersection": "Welton Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.501383,
+    "lng": -77.474445
   },
   {
     "type_general": "RPD",
@@ -235,58 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:23",
-    "box_no": "Precinct 4",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "100-BLK W FRANKLIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.544751,
-    "lng": -77.4444328
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:24",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1900-BLK POWHATAN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Powhatan Street",
-    "location_township": "Precinct 3",
-    "lat": 37.540323,
-    "lng": -77.4692232
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:12",
-    "box_no": "Precinct 2",
-    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
-    "street": "5400-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4899001,
-    "lng": -77.4939365
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 17:21",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1200-BLK ST JOHN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "FIRE",
-    "lat": 37.5535135,
-    "lng": -77.4360289
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 17:22",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
@@ -313,19 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:17",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1100-BLK AZALEA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.6015861,
-    "lng": -77.4529869
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 17:21",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -336,6 +258,32 @@
     "location_township": "Precinct 4",
     "lat": 37.5599292,
     "lng": -77.4443079
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:31",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "5200-BLK SCOTT ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Scott Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5121843,
+    "lng": -77.4036064
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:24",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1900-BLK POWHATAN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhatan Street",
+    "location_township": "Precinct 3",
+    "lat": 37.540323,
+    "lng": -77.4692232
   },
   {
     "type_general": "RFD",
@@ -349,5 +297,18 @@
     "location_township": "FIRE",
     "lat": 37.5121843,
     "lng": -77.4036064
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:32",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E FRANKLIN ST/N 3RD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5409621,
+    "lng": -77.4386469
   }
 ]
