@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:53",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @WILLEY BRIDGE - SB",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 15:54",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1300-BLK BLACKROCK DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Blackrock Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.519988,
-    "lng": -77.517726
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 16:11",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -63,19 +37,6 @@
     "location_township": "DPR",
     "lat": 37.5240062,
     "lng": -77.4383862
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:40",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1600-BLK DOCK ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Downtown Expressway",
-    "location_township": "DPR",
-    "lat": 37.5329235,
-    "lng": -77.4322075
   },
   {
     "type_general": "RPD",
@@ -92,6 +53,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:32",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1500-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5541589,
+    "lng": -77.4554329
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 16:40",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "1600-BLK DOCK ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "DPR",
+    "lat": 37.5329235,
+    "lng": -77.4322075
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 17:13",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -105,6 +92,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:17",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1700-BLK N 24TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 24th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5446022,
+    "lng": -77.4081806
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:17",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1700-BLK N 24TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 24th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5446022,
+    "lng": -77.4081806
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 16:50",
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
@@ -115,19 +128,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5437795,
     "lng": -77.4089939
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:32",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1500-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5541589,
-    "lng": -77.4554329
   },
   {
     "type_general": "RPD",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 16:53",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2500-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5290346,
-    "lng": -77.4208043
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 16:49",
     "box_no": "Precinct 2",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -196,29 +183,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:17",
+    "dispatch_time": "12/08/2025 16:53",
     "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1700-BLK N 24TH ST",
-    "status": "Dispatched",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "2500-BLK E MAIN ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 24th Street",
+    "nearest_intersection": "East Main Street",
     "location_township": "Precinct 1",
-    "lat": 37.5446022,
-    "lng": -77.4081806
+    "lat": 37.5290346,
+    "lng": -77.4208043
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:17",
+    "dispatch_time": "12/08/2025 17:14",
     "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1700-BLK N 24TH ST",
-    "status": "Arrived",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "700-BLK STOCKTON ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 24th Street",
+    "nearest_intersection": "Stockton Street",
     "location_township": "Precinct 1",
-    "lat": 37.5446022,
-    "lng": -77.4081806
+    "lat": 37.5214521,
+    "lng": -77.4386556
   },
   {
     "type_general": "RPD",
@@ -245,19 +232,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5878089,
     "lng": -77.5319679
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:21",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "SCHOOL ST/CHAMBERLAYNE PKWY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "School Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5599292,
-    "lng": -77.4443079
   },
   {
     "type_general": "RPD",
@@ -300,6 +274,58 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:41",
+    "box_no": "Precinct 4",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3100-BLK W BROAD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5656688,
+    "lng": -77.4738416
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:41",
+    "box_no": "Precinct 4",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3100-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5656688,
+    "lng": -77.4738416
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 17:41",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , WIRES ARCING",
+    "street": "2800-BLK WESTGATE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westgate Drive",
+    "location_township": "FIRE",
+    "lat": 37.534848,
+    "lng": -77.574296
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 17:43",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "600-BLK BROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5588478,
+    "lng": -77.4467516
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 17:32",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -310,5 +336,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5409621,
     "lng": -77.4386469
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:46",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2200-BLK FAIRMOUNT AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Fairmount Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5420636,
+    "lng": -77.4129639
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:46",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2200-BLK FAIRMOUNT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Fairmount Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5420636,
+    "lng": -77.4129639
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:41",
+    "box_no": "Precinct 4",
+    "type_specific": "INTOXICATED PERSON , INVESTIGATE - EMS",
+    "street": "500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.540352,
+    "lng": -77.43971
   }
 ]
