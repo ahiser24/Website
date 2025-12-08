@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 07:40",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WARWICK RD/HULL STREET RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4930304,
-    "lng": -77.4887357
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 08:00",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 08:29",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "0-BLK N 18TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5366474,
-    "lng": -77.4240552
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 08:00",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -174,7 +148,7 @@
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "3100-BLK W CARY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Cary Street",
     "location_township": "Precinct 3",
@@ -187,11 +161,37 @@
     "box_no": "Precinct 2",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
     "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 08:40",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3600-BLK MISSOURI AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Missouri Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5800768,
+    "lng": -77.4206539
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 08:45",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1000-BLK CLEVELAND ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.564545,
+    "lng": -77.475522
   }
 ]
