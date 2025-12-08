@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 09:47",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "2000-BLK E GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5334414,
-    "lng": -77.4236892
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 10:08",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -63,19 +50,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5433115,
     "lng": -77.4470688
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 08:00",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "4100-BLK OLD BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "FIRE",
-    "lat": 37.59131,
-    "lng": -77.446876
   },
   {
     "type_general": "RPD",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.580697,
     "lng": -77.4282483
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 08:00",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "4100-BLK OLD BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "FIRE",
+    "lat": 37.59131,
+    "lng": -77.446876
   },
   {
     "type_general": "RPD",
@@ -130,32 +117,6 @@
     "lng": -77.5068481
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 10:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "200-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.5476996,
-    "lng": -77.4428649
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 10:47",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "FIRE",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/08/2025 10:35",
     "box_no": "Precinct 3",
@@ -167,6 +128,84 @@
     "location_township": "Precinct 3",
     "lat": 37.5530934,
     "lng": -77.4801689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 10:47",
+    "box_no": "Precinct 4",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 10:49",
+    "box_no": "Precinct 1",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "1800-BLK N 24TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 24th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.545483,
+    "lng": -77.407356
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 10:51",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "1400-BLK SEMMES AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5239109,
+    "lng": -77.4498939
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 10:51",
+    "box_no": "Precinct 1",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "1400-BLK SEMMES AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5239109,
+    "lng": -77.4498939
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 10:50",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "900-BLK E BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 9th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5409883,
+    "lng": -77.4329612
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 10:50",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1600-BLK CLAREMONT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Claremont Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.587346,
+    "lng": -77.4604808
   },
   {
     "type_general": "RFD",
@@ -182,15 +221,15 @@
     "lng": -77.477833
   },
   {
-    "type_general": "RPD",
+    "type_general": "RFD",
     "dispatch_time": "12/08/2025 10:47",
-    "box_no": "Precinct 4",
-    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , MEDICAL ALARM",
     "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
+    "location_township": "FIRE",
     "lat": 37.590597,
     "lng": -77.464322
   }
