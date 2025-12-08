@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/07/2025 19:36",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "4500-BLK OLD WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Warwick Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.481805,
-    "lng": -77.476837
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/07/2025 20:02",
     "box_no": "Precinct 2",
     "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": 37.476232,
     "lng": -77.447812
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/07/2025 20:25",
-    "box_no": "Precinct 3",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "7200-BLK RIVERSIDE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.550218,
-    "lng": -77.521354
   },
   {
     "type_general": "RPD",
@@ -79,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 01:16",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "AZALEA AVE/W SEMINARY AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Azalea Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.6015861,
+    "lng": -77.4529869
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 01:46",
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -91,29 +78,42 @@
     "lng": -77.421197
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 01:53",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "AZALEA AVE/W SEMINARY AVE RICH",
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 02:19",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1900-BLK GROVE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
-    "location_township": "FIRE",
-    "lat": 37.6015861,
-    "lng": -77.4529869
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5512607,
+    "lng": -77.463378
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 01:16",
+    "dispatch_time": "12/08/2025 02:12",
     "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "AZALEA AVE/W SEMINARY AVE RICH",
+    "type_specific": "LOUD MUSIC , INVESTIGATE",
+    "street": "300-BLK W GRACE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Azalea Avenue",
+    "nearest_intersection": "West Grace Street",
     "location_township": "Precinct 4",
-    "lat": 37.6015861,
-    "lng": -77.4529869
+    "lat": 37.5465274,
+    "lng": -77.4453903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 02:19",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.58494,
+    "lng": -77.4478043
   }
 ]
