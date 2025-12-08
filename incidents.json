@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:13",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 17:17",
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:57",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "4000-BLK DORSET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dorset Court",
-    "location_township": "Precinct 2",
-    "lat": 37.465067,
-    "lng": -77.477833
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 17:44",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -206,6 +180,32 @@
     "location_township": "Precinct 2",
     "lat": 37.4889836,
     "lng": -77.4844124
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 17:13",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 18:04",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4700-BLK N SOUTHSIDE PLZ",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -247,58 +247,6 @@
     "lng": -77.4451986
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 18:04",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4700-BLK N SOUTHSIDE PLZ",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 18:22",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1200-BLK N 36TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 36th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5321696,
-    "lng": -77.4012407
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 18:34",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "3200-BLK HANOVER AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5581512,
-    "lng": -77.4790498
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 18:34",
-    "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "900-BLK ST JOHN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551303,
-    "lng": -77.437985
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/08/2025 18:28",
     "box_no": "FIRE",
@@ -310,32 +258,6 @@
     "location_township": "FIRE",
     "lat": 37.5154681,
     "lng": -77.4024783
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 18:30",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
-    "street": "1400-BLK N 22ND ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "FIRE",
-    "lat": 37.5430738,
-    "lng": -77.4125156
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 18:36",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "1600-BLK LONE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Lone Street",
-    "location_township": "FIRE",
-    "lat": 37.504897,
-    "lng": -77.4352179
   },
   {
     "type_general": "RPD",
@@ -362,5 +284,44 @@
     "location_township": "FIRE",
     "lat": 37.5581512,
     "lng": -77.4790498
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 18:34",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "900-BLK ST JOHN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint John Street",
+    "location_township": "Precinct 4",
+    "lat": 37.551303,
+    "lng": -77.437985
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 18:22",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1200-BLK N 36TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 36th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5321696,
+    "lng": -77.4012407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 18:35",
+    "box_no": "Precinct 3",
+    "type_specific": "WIRES DOWN (NO FIRE) , INVESTIGATE",
+    "street": "400-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.557348,
+    "lng": -77.473238
   }
 ]
