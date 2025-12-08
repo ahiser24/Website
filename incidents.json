@@ -57,11 +57,50 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , CITY PROPERTY",
     "street": "300-BLK N 24TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 24th Street",
     "location_township": "Precinct 1",
     "lat": 37.532337,
     "lng": -77.419688
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 05:42",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 05:42",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1900-BLK W MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5489827,
+    "lng": -77.4646467
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 05:41",
+    "box_no": "FIRE",
+    "type_specific": "# CHEMICAL MATERIALS , SMELL OR ODOR (NO SPILL)",
+    "street": "1700-BLK EDWARDS AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Edwards Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5112882,
+    "lng": -77.4415632
   }
 ]
