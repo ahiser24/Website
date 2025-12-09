@@ -14,16 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 11:07",
+    "dispatch_time": "12/09/2025 11:54",
     "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1300-BLK FLOYD AVE",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1400-BLK OAKHURST LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
+    "nearest_intersection": "Oakhurst Lane",
     "location_township": "Precinct 3",
-    "lat": 37.5474807,
-    "lng": -77.4566973
+    "lat": 37.521611,
+    "lng": -77.504484
   },
   {
     "type_general": "RPD",
@@ -40,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 11:55",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "BROWNS ISLAND WAY/S 2ND ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 11:54",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1400-BLK OAKHURST LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Oakhurst Lane",
-    "location_township": "Precinct 3",
-    "lat": 37.521611,
-    "lng": -77.504484
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 12:01",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
@@ -79,16 +53,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 12:14",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "E 9TH ST/EVERETT ST RICH",
+    "dispatch_time": "12/09/2025 12:01",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "2000-BLK BROOK RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East 9th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5208115,
-    "lng": -77.4399922
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5608096,
+    "lng": -77.4479214
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 11:55",
+    "box_no": "Precinct 4",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "BROWNS ISLAND WAY/S 2ND ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -115,32 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5511248,
     "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 12:26",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "BUTTE RD/RIVERSIDE DR RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Butte Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5576081,
-    "lng": -77.5483717
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 12:01",
-    "box_no": "Precinct 4",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "2000-BLK BROOK RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bath Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5608096,
-    "lng": -77.4479214
   },
   {
     "type_general": "RFD",
@@ -170,15 +131,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 12:20",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "N 7TH ST/HOSPITAL ST RICH",
+    "dispatch_time": "12/09/2025 12:35",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "WARWICK RD/HULL STREET RD RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 7th Street",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4930304,
+    "lng": -77.4887357
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 12:37",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.5461226,
-    "lng": -77.4316081
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 12:37",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 12:26",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "BUTTE RD/RIVERSIDE DR RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Butte Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5576081,
+    "lng": -77.5483717
   }
 ]
