@@ -92,6 +92,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 23:56",
+    "box_no": "Precinct 2",
+    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
+    "street": "2900-BLK BELLS RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Bells Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4729677,
+    "lng": -77.4505077
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 23:56",
+    "box_no": "Precinct 2",
+    "type_specific": "DISABLED VEHICLE - NON HAZARD - OCCUPPIED , INVESTIGATE",
+    "street": "2900-BLK BELLS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bells Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4729677,
+    "lng": -77.4505077
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 23:47",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -102,5 +128,18 @@
     "location_township": "Precinct 4",
     "lat": 37.580451,
     "lng": -77.430871
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/08/2025 23:58",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "4600-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5789985,
+    "lng": -77.4891247
   }
 ]
