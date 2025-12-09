@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 14:41",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 14:42",
     "box_no": "Precinct 3",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 1",
     "lng": -77.39297005555557,
     "lat": 37.53182897222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 14:41",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -183,19 +183,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/09/2025 15:19",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "DARDEN RD/LARCHMONT LN RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Darden Road",
-    "location_township": "FIRE",
-    "lat": 37.5094814,
-    "lng": -77.4763466
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/09/2025 15:24",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
@@ -206,32 +193,6 @@
     "location_township": "FIRE",
     "lat": 37.5301228,
     "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 15:34",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "1800-BLK N 30TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5419054,
-    "lng": -77.4021606
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 15:34",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "1800-BLK N 30TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5419054,
-    "lng": -77.4021606
   },
   {
     "type_general": "RPD",
@@ -252,7 +213,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "300-BLK N 7TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 7th Street",
     "location_township": "Precinct 4",
