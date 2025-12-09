@@ -27,16 +27,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 04:53",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "4500-BLK FITZHUGH AVE",
-    "status": "Arrived",
+    "dispatch_time": "12/09/2025 04:47",
+    "box_no": "Precinct 1",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "3000-BLK MECHANICSVILLE TPKE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Fitzhugh Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5760223,
-    "lng": -77.4888413
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.565391,
+    "lng": -77.4068934
   },
   {
     "type_general": "RFD",
@@ -57,11 +57,24 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , PREGNANCY",
     "street": "5500-BLK ALMOND AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Almond Avenue",
     "location_township": "FIRE",
     "lat": 37.5093712,
     "lng": -77.3999587
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 05:11",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2600-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5090289,
+    "lng": -77.4540629
   }
 ]
