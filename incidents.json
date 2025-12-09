@@ -37,31 +37,5 @@
     "location_township": "Precinct 1",
     "lat": 37.549784,
     "lng": -77.4058634
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 02:30",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "700-BLK W FRANKLIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5479619,
-    "lng": -77.4497989
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 02:35",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "5400-BLK NUTMEG CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Nutmeg Court",
-    "location_township": "Precinct 3",
-    "lat": 37.510316,
-    "lng": -77.499085
   }
 ]
