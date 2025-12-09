@@ -24,5 +24,18 @@
     "location_township": "Precinct 1",
     "lat": 37.537979,
     "lng": -77.414427
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 03:43",
+    "box_no": "Precinct 2",
+    "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
+    "street": "1300-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4694278,
+    "lng": -77.4434296
   }
 ]
