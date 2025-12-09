@@ -144,29 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 08:56",
+    "dispatch_time": "12/09/2025 09:05",
     "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1600-BLK MAGNOLIA ST",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "HERMITAGE RD/W LABURNUM AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Magnolia Street",
+    "nearest_intersection": "Hermitage Road",
     "location_township": "Precinct 4",
-    "lat": 37.564132,
-    "lng": -77.418106
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 08:31",
-    "box_no": "Precinct 3",
-    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
-    "street": "7500-BLK DRUMHELLER DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Drumheller Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.534183,
-    "lng": -77.5340173
+    "lat": 37.5586945,
+    "lng": -77.4600341
   },
   {
     "type_general": "RPD",
@@ -183,6 +170,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/09/2025 08:31",
+    "box_no": "Precinct 3",
+    "type_specific": "FRAUD /FORGERY INCIDENT , INVESTIGATE",
+    "street": "7500-BLK DRUMHELLER DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Drumheller Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.534183,
+    "lng": -77.5340173
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/09/2025 09:08",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -196,32 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 09:06",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "2600-BLK FLOYD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.553104,
-    "lng": -77.472742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 09:05",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HERMITAGE RD/W LABURNUM AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5586945,
-    "lng": -77.4600341
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 09:16",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -232,19 +206,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5049548,
     "lng": -77.5154213
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/09/2025 09:23",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "2600-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "FIRE",
-    "lat": 37.5090289,
-    "lng": -77.4540629
   },
   {
     "type_general": "RPD",
@@ -261,19 +222,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/09/2025 09:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
-    "street": "00-BLK S 17TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 17th Street",
-    "location_township": "FIRE",
-    "lat": 37.5328535,
-    "lng": -77.4290888
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/09/2025 09:19",
     "box_no": "FIRE",
     "type_specific": "# OTHER , SINGLE COMPANY",
@@ -287,29 +235,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 09:09",
-    "box_no": "Precinct 1",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "3500-BLK EAST RICHMOND RD",
+    "dispatch_time": "12/09/2025 09:37",
+    "box_no": "Precinct 2",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "3400-BLK WALMSLEY BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5301228,
-    "lng": -77.3889896
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 09:14",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
+    "nearest_intersection": "Angus Road",
     "location_township": "Precinct 2",
-    "lat": 37.4961097,
-    "lng": -77.4759645
+    "lat": 37.464799,
+    "lng": -77.460475
   },
   {
     "type_general": "RPD",
@@ -317,11 +252,50 @@
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "1000-BLK ST JOHN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Saint John Street",
     "location_township": "Precinct 4",
     "lat": 37.5521887,
     "lng": -77.4373302
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 09:38",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "LAFAYETTE ST/MONUMENT AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Lafayette Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5634458,
+    "lng": -77.4897321
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 09:41",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "4800-BLK OLD BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "FIRE",
+    "lat": 37.5976948,
+    "lng": -77.448636
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 09:14",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1400-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4961097,
+    "lng": -77.4759645
   }
 ]
