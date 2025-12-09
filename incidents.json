@@ -53,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 13:54",
-    "box_no": "Precinct 4",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "5200-BLK CHAMBERLAYNE AVE",
+    "dispatch_time": "12/09/2025 14:42",
+    "box_no": "Precinct 3",
+    "type_specific": "FOUND PROPERTY , INVESTIGATE",
+    "street": "AMELIA ST/S ALLEN AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
+    "nearest_intersection": "Amelia Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5403194,
+    "lng": -77.4735485
   },
   {
     "type_general": "RPD",
@@ -131,32 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 15:30",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "800-BLK E 36TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 36th Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.502979,
-    "lng": -77.465902
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 14:42",
-    "box_no": "Precinct 3",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "AMELIA ST/S ALLEN AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Amelia Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5403194,
-    "lng": -77.4735485
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 15:22",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -180,6 +154,32 @@
     "location_township": "Precinct 3",
     "lat": 37.5407317,
     "lng": -77.465806
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 15:18",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1600-BLK OVERBROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Overbrook Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5654431,
+    "lng": -77.4576919
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 15:16",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W CARY ST/S MEADOW ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5433115,
+    "lng": -77.4470688
   },
   {
     "type_general": "RFD",
@@ -206,6 +206,19 @@
     "location_township": "FIRE",
     "lng": -77.39297005555557,
     "lat": 37.53182897222222
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 15:30",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "800-BLK E 36TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 36th Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.502979,
+    "lng": -77.465902
   },
   {
     "type_general": "RPD",
@@ -247,16 +260,16 @@
     "lng": -77.5143962
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/09/2025 15:43",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALLERGIC REACTION",
-    "street": "1000-BLK E BROAD ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 15:45",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3100-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.540296,
-    "lng": -77.432735
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5656688,
+    "lng": -77.4738416
   }
 ]
