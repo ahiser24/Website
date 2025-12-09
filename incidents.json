@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 03:31",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2400-BLK BURTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Pink Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.537979,
-    "lng": -77.414427
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 03:43",
     "box_no": "Precinct 2",
     "type_specific": "STOLEN VEHICLE , JUST OCCURRED / IN- PROGRESS",
@@ -27,15 +14,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 04:18",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "dispatch_time": "12/09/2025 04:27",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "2500-BLK E FRANKLIN ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5746979,
-    "lng": -77.4644653
+    "nearest_intersection": "East Franklin Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5298716,
+    "lng": -77.4201706
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 04:34",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2200-BLK GROVE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5525961,
+    "lng": -77.467072
   }
 ]
