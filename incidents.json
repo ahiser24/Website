@@ -53,45 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 01:25",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 01:25",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 01:28",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 00:20",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -102,5 +63,18 @@
     "location_township": "Precinct 1",
     "lat": 37.549784,
     "lng": -77.4058634
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 01:57",
+    "box_no": "Precinct 4",
+    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
+    "street": "1600-BLK BROOKFIELD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Brookfield Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5576049,
+    "lng": -77.4405216
   }
 ]
