@@ -50,5 +50,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5244025,
     "lng": -77.5068684
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 03:31",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2400-BLK BURTON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Pink Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.537979,
+    "lng": -77.414427
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 03:32",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "PEAR ST/E CARY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Pear Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5269798,
+    "lng": -77.4193896
   }
 ]
