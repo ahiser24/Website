@@ -37,57 +37,5 @@
     "location_township": "Precinct 1",
     "lat": 37.549784,
     "lng": -77.4058634
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:45",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N MEADOW ST/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Meadow Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5582953,
-    "lng": -77.4592678
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 02:09",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 01:57",
-    "box_no": "Precinct 4",
-    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
-    "street": "1600-BLK BROOKFIELD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brookfield Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5576049,
-    "lng": -77.4405216
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 02:04",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1300-BLK WHITEHEAD RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Whitehead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4888707,
-    "lng": -77.5097912
   }
 ]
