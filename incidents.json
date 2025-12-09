@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 21:49",
-    "box_no": "Precinct 1",
-    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
-    "street": "1200-BLK MOSBY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mosby Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5371525,
-    "lng": -77.4209262
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 22:06",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -92,6 +79,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/08/2025 21:49",
+    "box_no": "Precinct 1",
+    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
+    "street": "1200-BLK MOSBY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mosby Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5371525,
+    "lng": -77.4209262
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/08/2025 22:49",
     "box_no": "Precinct 4",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -128,58 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5754748,
     "lng": -77.4462032
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 23:14",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2600-BLK BELLS RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road",
-    "location_township": "Precinct 2",
-    "lat": 37.472843,
-    "lng": -77.443917
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 23:14",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2600-BLK BELLS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bells Road",
-    "location_township": "Precinct 2",
-    "lat": 37.472843,
-    "lng": -77.443917
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 23:15",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "N THOMPSON ST/W BROAD ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Thompson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5658211,
-    "lng": -77.4807515
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 23:15",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "N THOMPSON ST/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Thompson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5658211,
-    "lng": -77.4807515
   },
   {
     "type_general": "RPD",
@@ -208,29 +156,29 @@
     "lng": -77.4385002
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 23:17",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "type_general": "RPD",
+    "dispatch_time": "12/08/2025 23:15",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "N THOMPSON ST/W BROAD ST RICH",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Thompson Street",
-    "location_township": "FIRE",
+    "location_township": "Precinct 3",
     "lat": 37.5658211,
     "lng": -77.4807515
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 23:11",
+    "dispatch_time": "12/08/2025 23:34",
     "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "500-BLK BAINBRIDGE ST",
-    "status": "Arrived",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:24:49.0681,37:32:16.7531): EST 914 RUSSELL ST RICH",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Bainbridge Street",
+    "nearest_intersection": "Venable Street, East End",
     "location_township": "Precinct 1",
-    "lat": 37.5249709,
-    "lng": -77.4395966
+    "lng": -77.41363002777778,
+    "lat": 37.53798697222222
   }
 ]
