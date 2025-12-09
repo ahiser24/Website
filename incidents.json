@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 06:30",
-    "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "2000-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5539874,
-    "lng": -77.4116705
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 17:17",
     "box_no": "Precinct 1",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -37,19 +24,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5446022,
     "lng": -77.4081806
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:01",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "RADY ST/MAGNOLIA ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "5th Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5665396,
-    "lng": -77.4149064
   },
   {
     "type_general": "RPD",
@@ -66,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:24",
+    "dispatch_time": "12/09/2025 00:01",
     "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "800-BLK E CLAY ST",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "RADY ST/MAGNOLIA ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Clay Street",
+    "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.543041,
-    "lng": -77.432925
+    "lat": 37.5665396,
+    "lng": -77.4149064
   },
   {
     "type_general": "RPD",
@@ -105,16 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:20",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK SELDEN ST",
+    "dispatch_time": "12/09/2025 00:24",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "800-BLK E CLAY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549784,
-    "lng": -77.4058634
+    "nearest_intersection": "East Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.543041,
+    "lng": -77.432925
   },
   {
     "type_general": "RPD",
@@ -144,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:44",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "600-BLK W BACON ST",
-    "status": "Enroute",
+    "dispatch_time": "12/09/2025 00:20",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2300-BLK SELDEN ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5565875,
-    "lng": -77.4412236
+    "nearest_intersection": "Selden Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549784,
+    "lng": -77.4058634
   },
   {
     "type_general": "RFD",
@@ -180,5 +154,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5582953,
     "lng": -77.4592678
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 00:44",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "600-BLK W BACON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5565875,
+    "lng": -77.4412236
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 01:01",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "FIRE",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 00:58",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "3200-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5754748,
+    "lng": -77.4462032
   }
 ]
