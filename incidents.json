@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 04:47",
-    "box_no": "Precinct 1",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "3000-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.565391,
-    "lng": -77.4068934
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 05:29",
     "box_no": "Precinct 1",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -53,15 +40,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 06:05",
+    "dispatch_time": "12/09/2025 05:59",
     "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1900-BLK E MARSHALL ST",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1600-BLK NATIONAL ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
+    "nearest_intersection": "National Street",
     "location_township": "Precinct 1",
-    "lat": 37.535815,
-    "lng": -77.423219
+    "lat": 37.5156527,
+    "lng": -77.3964186
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 06:14",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "700-BLK MOSBY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mosby Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5387652,
+    "lng": -77.4207419
   }
 ]
