@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 03:21",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "1600-BLK SKILIFT CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Skilift Court",
-    "location_township": "Precinct 3",
-    "lat": 37.5244025,
-    "lng": -77.5068684
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 03:31",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -37,5 +24,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4694278,
     "lng": -77.4434296
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 04:18",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "3100-BLK N ARTHUR ASHE BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5746979,
+    "lng": -77.4644653
   }
 ]
