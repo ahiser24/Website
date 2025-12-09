@@ -3,19 +3,6 @@
     "type_general": "RPD",
     "dispatch_time": "12/09/2025 05:29",
     "box_no": "Precinct 1",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "5200-BLK PARKER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Parker Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5128291,
-    "lng": -77.3954327
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 05:29",
-    "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , PERSON",
     "street": "1800-BLK INGRAM AVE",
     "status": "Enroute",
@@ -39,23 +26,10 @@
     "lng": -77.3964186
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/09/2025 06:41",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "1900-BLK RAVEN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Raven Street",
-    "location_township": "FIRE",
-    "lat": 37.549938,
-    "lng": -77.421725
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/09/2025 06:14",
     "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "700-BLK MOSBY ST",
     "status": "Arrived",
     "cross_street": "",
@@ -63,5 +37,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5387652,
     "lng": -77.4207419
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 06:41",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
+    "street": "1900-BLK RAVEN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Raven Street",
+    "location_township": "FIRE",
+    "lat": 37.549938,
+    "lng": -77.421725
   }
 ]
