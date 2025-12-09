@@ -83,7 +83,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2300-BLK SELDEN ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Selden Street",
     "location_township": "Precinct 1",
@@ -141,5 +141,57 @@
     "location_township": "Precinct 4",
     "lat": 37.543041,
     "lng": -77.432925
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 00:41",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "9300-BLK CREEKS CROSSING BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Creeks Crossing Boulevard",
+    "location_township": "FIRE",
+    "lat": 37.5466259,
+    "lng": -77.5755125
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 00:43",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3800-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4725725,
+    "lng": -77.4434741
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 00:43",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3800-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4725725,
+    "lng": -77.4434741
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 00:44",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "600-BLK W BACON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Bacon Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5565875,
+    "lng": -77.4412236
   }
 ]
