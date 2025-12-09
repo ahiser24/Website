@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 15:08",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "2300-BLK SELDEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549784,
-    "lng": -77.4058634
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 15:11",
     "box_no": "Precinct 3",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5235351,
     "lng": -77.5184305
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 15:30",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "5800-BLK PATTERSON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Patterson Avenue, West End",
-    "location_township": "DPR",
-    "lat": 37.5799667,
-    "lng": -77.5143962
   },
   {
     "type_general": "RPD",
@@ -157,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/09/2025 15:45",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3100-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5656688,
+    "lng": -77.4738416
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/09/2025 15:22",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -182,6 +169,19 @@
     "lng": -77.465902
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 15:08",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2300-BLK SELDEN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Selden Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549784,
+    "lng": -77.4058634
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/09/2025 15:24",
     "box_no": "FIRE",
@@ -196,19 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 15:45",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "3100-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5656688,
-    "lng": -77.4738416
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 15:54",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -219,5 +206,96 @@
     "location_township": "Precinct 4",
     "lat": 37.5461226,
     "lng": -77.4316081
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 15:47",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "4000-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "DPR",
+    "lat": 37.51637,
+    "lng": -77.47431
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 16:24",
+    "box_no": "Precinct 3",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5514093,
+    "lng": -77.4534673
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 16:26",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , PREGNANCY",
+    "street": "1900-BLK WHITCOMB ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Whitcomb Street",
+    "location_township": "FIRE",
+    "lat": 37.553667,
+    "lng": -77.4220683
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 16:22",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1600-BLK OVERBROOK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Overbrook Road, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5654431,
+    "lng": -77.4576919
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 16:24",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "FIRE",
+    "lat": 37.5514093,
+    "lng": -77.4534673
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 16:17",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1200-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5359119,
+    "lng": -77.4342744
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 16:20",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "2400-BLK CERSLEY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cersley Street",
+    "location_township": "Precinct 2",
+    "lat": 37.513136,
+    "lng": -77.4522639
   }
 ]
