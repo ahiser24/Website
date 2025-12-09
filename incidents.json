@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/09/2025 04:57",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3600-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5688593,
-    "lng": -77.4775192
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/09/2025 05:00",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , PREGNANCY",
