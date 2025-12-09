@@ -1,32 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:17",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1700-BLK N 24TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 24th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5446022,
-    "lng": -77.4081806
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 17:17",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1700-BLK N 24TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 24th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5446022,
-    "lng": -77.4081806
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 00:20",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -44,7 +18,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "1200-BLK MACTAVISH AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Mactavish Avenue",
     "location_township": "Precinct 4",
@@ -54,10 +28,23 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/09/2025 02:46",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "8100-BLK RIVERSIDE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Riverside Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.558364,
+    "lng": -77.541907
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 02:46",
     "box_no": "Precinct 4",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
     "street": "100-BLK S FOUSHEE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Cary Street",
     "location_township": "Precinct 4",
@@ -66,15 +53,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 02:46",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "8100-BLK RIVERSIDE DR",
-    "status": "Enroute",
+    "dispatch_time": "12/09/2025 03:00",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.558364,
-    "lng": -77.541907
+    "nearest_intersection": "North 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53551,
+    "lng": -77.431692
   }
 ]
