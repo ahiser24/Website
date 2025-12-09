@@ -1,32 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:20",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK SELDEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549784,
-    "lng": -77.4058634
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 02:45",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1200-BLK MACTAVISH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mactavish Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5694531,
-    "lng": -77.4722339
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 02:46",
     "box_no": "Precinct 4",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -40,41 +14,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 03:02",
+    "dispatch_time": "12/09/2025 03:00",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53551,
+    "lng": -77.431692
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 03:00",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.53551,
+    "lng": -77.431692
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 03:21",
     "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "4900-BLK W BROAD ST",
-    "status": "Arrived",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "1600-BLK SKILIFT CT",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "Skilift Court",
     "location_township": "Precinct 3",
-    "lat": 37.5820472,
-    "lng": -77.4934603
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 03:00",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 03:00",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
+    "lat": 37.5244025,
+    "lng": -77.5068684
   }
 ]
