@@ -92,29 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:43",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3800-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4725725,
-    "lng": -77.4434741
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:43",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3800-BLK RICHMOND HWY",
+    "dispatch_time": "12/09/2025 00:45",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N MEADOW ST/W BROAD ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4725725,
-    "lng": -77.4434741
+    "nearest_intersection": "North Meadow Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5582953,
+    "lng": -77.4592678
   },
   {
     "type_general": "RPD",
@@ -131,45 +118,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/09/2025 00:41",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "9300-BLK CREEKS CROSSING BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Creeks Crossing Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5466259,
-    "lng": -77.5755125
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:45",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N MEADOW ST/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Meadow Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5582953,
-    "lng": -77.4592678
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 00:44",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "600-BLK W BACON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Bacon Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5565875,
-    "lng": -77.4412236
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/09/2025 01:01",
     "box_no": "FIRE",
     "type_specific": "",
@@ -180,6 +128,32 @@
     "location_township": "FIRE",
     "lat": 37.590597,
     "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 01:04",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "3000-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5098428,
+    "lng": -77.4611804
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 01:04",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "3000-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5098428,
+    "lng": -77.4611804
   },
   {
     "type_general": "RFD",
@@ -193,5 +167,31 @@
     "location_township": "FIRE",
     "lat": 37.5754748,
     "lng": -77.4462032
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 01:16",
+    "box_no": "Precinct 3",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "2200-BLK W GRACE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5572892,
+    "lng": -77.4631518
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 01:16",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "1300-BLK W LEIGH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5556794,
+    "lng": -77.4510514
   }
 ]
