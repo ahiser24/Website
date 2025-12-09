@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 13:05",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W MAIN ST/N ROBINSON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 3",
-    "lat": 37.552686,
-    "lng": -77.4756125
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 13:30",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 13:49",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 13:51",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4823284,
     "lng": -77.5001855
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 13:49",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
   },
   {
     "type_general": "RPD",
@@ -131,16 +118,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 14:02",
-    "box_no": "Precinct 2",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
-    "street": "2200-BLK SUMMER HILL AVE",
+    "dispatch_time": "12/09/2025 14:20",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 14:20",
+    "box_no": "Precinct 4",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Summer Hill Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4809325,
-    "lng": -77.4392742
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   },
   {
     "type_general": "RPD",
@@ -182,42 +182,29 @@
     "lng": -77.4856193
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/09/2025 14:11",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3800-BLK GLENWOOD AVE",
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 14:26",
+    "box_no": "Precinct 1",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "2100-BLK CARRINGTON ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Glenwood Avenue",
-    "location_township": "FIRE",
-    "lat": 37.526235,
-    "lng": -77.4054165
+    "nearest_intersection": "Carrington Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5394511,
+    "lng": -77.4180765
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 14:20",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
+    "dispatch_time": "12/09/2025 14:28",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "6400-BLK ELKHARDT RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 14:20",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "2900-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5692515,
-    "lng": -77.4451986
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.480267,
+    "lng": -77.510608
   }
 ]
