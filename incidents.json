@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 16:56",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "3000-BLK STONY POINT RD",
+    "dispatch_time": "12/09/2025 17:19",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2700-BLK HADEN AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stony Point Road",
-    "location_township": "DPR",
-    "lat": 37.5387389,
-    "lng": -77.5642407
+    "nearest_intersection": "Haden Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.47719,
+    "lng": -77.44529
   },
   {
     "type_general": "RPD",
@@ -92,45 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 18:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "1400-BLK HOPKINS RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chapel Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.498434,
-    "lng": -77.459373
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 18:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "1400-BLK HOPKINS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chapel Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.498434,
-    "lng": -77.459373
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:19",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2700-BLK HADEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Haden Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.47719,
-    "lng": -77.44529
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 18:26",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -141,19 +102,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5340395,
     "lng": -77.4193693
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 18:30",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , NON-EMERGENCY",
-    "street": "WILLIAMSBURG RD/GOVERNMENT RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Williamsburg Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5146041,
-    "lng": -77.4006046
   },
   {
     "type_general": "RPD",
@@ -182,19 +130,6 @@
     "lng": -77.4490619
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 18:27",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/09/2025 18:30",
     "box_no": "FIRE",
@@ -208,6 +143,19 @@
     "lng": -77.5126339
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:27",
+    "box_no": "Precinct 3",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "RICH: @POWHITE PKWY NB - TOLL PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/09/2025 18:25",
     "box_no": "FIRE",
@@ -219,5 +167,31 @@
     "location_township": "FIRE",
     "lat": 37.5394846,
     "lng": -77.4015025
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:39",
+    "box_no": "Precinct 3",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "PATTERSON AVE/THREE CHOPT RD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5634214,
+    "lng": -77.4843201
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 18:40",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "200-BLK W MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.5476996,
+    "lng": -77.4428649
   }
 ]
