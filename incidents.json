@@ -27,6 +27,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/09/2025 17:02",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1500-BLK LYNHAVEN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Lynhaven Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.499317,
+    "lng": -77.442343
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/09/2025 17:01",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -53,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 16:34",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1000-BLK PORTER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Porter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5233856,
-    "lng": -77.4441406
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 16:56",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -76,19 +76,6 @@
     "location_township": "DPR",
     "lat": 37.5030478,
     "lng": -77.5189608
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:02",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1500-BLK LYNHAVEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lynhaven Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.499317,
-    "lng": -77.442343
   },
   {
     "type_general": "RPD",
@@ -118,16 +105,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:18",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "STOCKTON ST/E 10TH ST RICH",
+    "dispatch_time": "12/09/2025 17:36",
+    "box_no": "Precinct 2",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "3200-BLK HULL ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.507008,
+    "lng": -77.4653481
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 17:36",
+    "box_no": "Precinct 2",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "3200-BLK HULL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stockton Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.5021395,
-    "lng": -77.4691916
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.507008,
+    "lng": -77.4653481
   },
   {
     "type_general": "RPD",
@@ -144,16 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:29",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "7200-BLK FOREST HILL AVE",
-    "status": "Enroute",
+    "dispatch_time": "12/09/2025 17:30",
+    "box_no": "Precinct 2",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "HULL STREET RD/HEY RD RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.537455,
-    "lng": -77.530122
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4794055,
+    "lng": -77.5126339
   },
   {
     "type_general": "RPD",
@@ -182,6 +182,19 @@
     "lng": -77.5151182
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 17:29",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "7200-BLK FOREST HILL AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.537455,
+    "lng": -77.530122
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/09/2025 17:28",
     "box_no": "FIRE",
@@ -196,32 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:36",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "100-BLK BELT BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:36",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "100-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 17:44",
     "box_no": "Precinct 1",
     "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
@@ -248,15 +235,67 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:30",
-    "box_no": "Precinct 2",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "HULL STREET RD/HEY RD RICH",
+    "dispatch_time": "12/09/2025 17:51",
+    "box_no": "Precinct 4",
+    "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
+    "street": "1700-BLK WILMINGTON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Wilmington Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.583131,
+    "lng": -77.463216
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 17:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "5100-BLK KING WILLIAM RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
+    "nearest_intersection": "King William Road",
+    "location_township": "FIRE",
+    "lat": 37.5249874,
+    "lng": -77.4899677
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 17:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "1700-BLK WILMINGTON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Wilmington Avenue",
+    "location_township": "FIRE",
+    "lat": 37.583131,
+    "lng": -77.463216
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/09/2025 17:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "1700-BLK WILMINGTON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Wilmington Avenue",
+    "location_township": "FIRE",
+    "lat": 37.583131,
+    "lng": -77.463216
+  },
+  {
+    "type_general": "DPW",
+    "dispatch_time": "12/09/2025 17:40",
+    "box_no": "Public Works",
+    "type_specific": "PUBLIC WORKS , TRAFFIC SIGNAL OUT/MALFUNCTION",
+    "street": "N 12TH ST/E MARSHALL ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 12th Street",
+    "location_township": "Public Works",
+    "lat": 37.5413903,
+    "lng": -77.4292475
   }
 ]
