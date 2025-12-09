@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/08/2025 22:06",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3600-BLK CAROLINA AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carolina Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5790272,
-    "lng": -77.4159466
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/08/2025 23:15",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "N THOMPSON ST/W BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Thompson Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5658211,
-    "lng": -77.4807515
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/08/2025 21:49",
     "box_no": "Precinct 1",
     "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
@@ -130,16 +104,16 @@
     "lng": -77.430871
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/08/2025 23:58",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "4600-BLK W BROAD ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 00:01",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "RADY ST/MAGNOLIA ST RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5789985,
-    "lng": -77.4891247
+    "nearest_intersection": "5th Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5665396,
+    "lng": -77.4149064
   }
 ]
