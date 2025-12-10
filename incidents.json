@@ -11,5 +11,31 @@
     "location_township": "Precinct 1",
     "lat": 37.5478392,
     "lng": -77.4217136
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 05:10",
+    "box_no": "Precinct 4",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "900-BLK SLEDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 05:10",
+    "box_no": "Precinct 4",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "900-BLK SLEDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
   }
 ]
