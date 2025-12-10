@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 06:10",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "2800-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5630621,
-    "lng": -77.4702604
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 05:29",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -53,29 +40,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 06:17",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2200-BLK KESWICK AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Keswick Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5041351,
-    "lng": -77.441146
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 06:33",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "3100-BLK WARWICK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Warwick Road",
     "location_township": "Precinct 2",
     "lat": 37.4984757,
     "lng": -77.511526
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 06:37",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "600-BLK WARWICK VILLAGE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Village Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.500983,
+    "lng": -77.500299
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 06:45",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
+    "street": "00-BLK W COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5232341,
+    "lng": -77.4411957
   },
   {
     "type_general": "RFD",
@@ -89,18 +89,5 @@
     "location_township": "FIRE",
     "lat": 37.4984757,
     "lng": -77.511526
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 06:35",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "600-BLK WARWICK VILLAGE DR",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Village Drive",
-    "location_township": "Precinct 2",
-    "lat": 37.500983,
-    "lng": -77.500299
   }
 ]
