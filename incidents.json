@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 18:47",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1500-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4999081,
-    "lng": -77.4478148
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 21:35",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -79,28 +66,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 00:32",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1500-BLK E MAIN ST",
+    "dispatch_time": "12/10/2025 00:48",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "1500-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5541589,
+    "lng": -77.4554329
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 00:30",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.464094,
+    "lng": -77.442993
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/10/2025 00:37",
+    "dispatch_time": "12/10/2025 00:48",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "900-BLK SLEDD ST",
+    "type_specific": "",
+    "street": "400-BLK OLD CARNATION ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
+    "nearest_intersection": "Old Carnation Street",
     "location_township": "FIRE",
-    "lat": 37.557176,
-    "lng": -77.446604
+    "lat": 37.4990143,
+    "lng": -77.5163025
   }
 ]
