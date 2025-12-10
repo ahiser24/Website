@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 06:45",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
-    "street": "00-BLK W COMMERCE RD",
+    "dispatch_time": "12/10/2025 06:34",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
+    "street": "3400-BLK WALMSLEY BLVD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Commerce Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5232341,
-    "lng": -77.4411957
+    "nearest_intersection": "Angus Road",
+    "location_township": "Precinct 2",
+    "lat": 37.464799,
+    "lng": -77.460475
   },
   {
     "type_general": "RFD",
@@ -89,5 +89,18 @@
     "location_township": "FIRE",
     "lat": 37.4984757,
     "lng": -77.511526
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 06:45",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
+    "street": "00-BLK W COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5232341,
+    "lng": -77.4411957
   }
 ]
