@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:02",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1500-BLK LYNHAVEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lynhaven Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.499317,
-    "lng": -77.442343
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 17:22",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 17:58",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "00-BLK S 14TH ST",
-    "status": "Arrived",
+    "dispatch_time": "12/09/2025 17:02",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1500-BLK LYNHAVEN AVE",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "South 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5354383,
-    "lng": -77.4320295
+    "nearest_intersection": "Lynhaven Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.499317,
+    "lng": -77.442343
   },
   {
     "type_general": "RPD",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/09/2025 18:25",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
-    "street": "1500-BLK PETERSON DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Peterson Drive, East End",
-    "location_township": "FIRE",
-    "lat": 37.5394846,
-    "lng": -77.4015025
   },
   {
     "type_general": "RPD",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 18:47",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "ORCUTT LN/CLEARFIELD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4809816,
-    "lng": -77.4911797
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 17:27",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -193,6 +154,71 @@
     "location_township": "DPR",
     "lat": 37.5290346,
     "lng": -77.4208043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:47",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "ORCUTT LN/CLEARFIELD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4809816,
+    "lng": -77.4911797
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:49",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1500-BLK MECHANICSVILLE TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5469679,
+    "lng": -77.416023
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:56",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "00-BLK S 14TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5354383,
+    "lng": -77.4320295
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:56",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "00-BLK S 14TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5354383,
+    "lng": -77.4320295
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:56",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "00-BLK S 14TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5354383,
+    "lng": -77.4320295
   },
   {
     "type_general": "RFD",
@@ -209,15 +235,41 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/09/2025 18:40",
+    "dispatch_time": "12/09/2025 18:25",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "200-BLK W MARSHALL ST",
+    "type_specific": "# STRUCTURE FIRE , SMOKE/ODOR INSIDE STRUCTURE",
+    "street": "1500-BLK PETERSON DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
+    "nearest_intersection": "Peterson Drive, East End",
     "location_township": "FIRE",
-    "lat": 37.5476996,
-    "lng": -77.4428649
+    "lat": 37.5394846,
+    "lng": -77.4015025
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:57",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2600-BLK NINE MILE RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5409841,
+    "lng": -77.4081043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/09/2025 18:57",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2600-BLK NINE MILE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5409841,
+    "lng": -77.4081043
   }
 ]
