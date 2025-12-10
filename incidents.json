@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 22:26",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "6400-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5036311,
-    "lng": -77.5151182
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 04:03",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
