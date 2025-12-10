@@ -14,22 +14,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 00:30",
-    "box_no": "DPR",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "4600-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "DPR",
-    "lat": 37.464094,
-    "lng": -77.442993
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 02:08",
     "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS - EMS",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "1600-BLK 4TH AVE",
     "status": "Arrived",
     "cross_street": "",
