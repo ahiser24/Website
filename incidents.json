@@ -40,15 +40,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 01:57",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N 28TH ST/U ST RICH",
+    "dispatch_time": "12/10/2025 02:00",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2200-BLK W MAIN ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.550515,
+    "lng": -77.4687645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 02:00",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "2200-BLK W MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 28th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5446336,
-    "lng": -77.4020622
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 3",
+    "lat": 37.550515,
+    "lng": -77.4687645
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 01:53",
+    "box_no": "Precinct 4",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "900-BLK SLEDD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sledd Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.557176,
+    "lng": -77.446604
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 02:08",
+    "box_no": "Precinct 4",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "1600-BLK 4TH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "4th Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.556334,
+    "lng": -77.425946
   }
 ]
