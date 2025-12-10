@@ -53,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 12:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "5300-BLK HULL STREET RD",
+    "dispatch_time": "12/10/2025 13:35",
+    "box_no": "Precinct 1",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "1900-BLK MADDOX ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
+    "nearest_intersection": "Maddox Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5532148,
+    "lng": -77.4133957
   },
   {
     "type_general": "RPD",
@@ -76,19 +76,6 @@
     "location_township": "DPR",
     "lat": 37.548532,
     "lng": -77.4127685
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 13:35",
-    "box_no": "Precinct 1",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "1900-BLK MADDOX ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maddox Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5532148,
-    "lng": -77.4133957
   },
   {
     "type_general": "RPD",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 2",
     "lat": 37.49694,
     "lng": -77.442539
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 14:58",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W LABURNUM AVE/SAUNDERS AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Laburnum Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5840069,
-    "lng": -77.4708596
   },
   {
     "type_general": "RPD",
@@ -183,6 +157,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/10/2025 15:05",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "4300-BLK COMMERCE RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4664874,
+    "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 14:58",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W LABURNUM AVE/SAUNDERS AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Laburnum Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5840069,
+    "lng": -77.4708596
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/10/2025 15:54",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -284,19 +284,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5290346,
     "lng": -77.4208043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 16:00",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5063238,
-    "lng": -77.4972004
   },
   {
     "type_general": "RPD",
@@ -378,32 +365,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 16:00",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "2000-BLK BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bath Street, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5608096,
-    "lng": -77.4479214
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 16:12",
-    "box_no": "Precinct 3",
-    "type_specific": "",
-    "street": "4800-BLK FOREST HILL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.520415,
-    "lng": -77.4874711
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 16:14",
     "box_no": "Precinct 4",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -417,19 +378,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 16:19",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 16:17",
     "box_no": "Precinct 3",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
@@ -440,6 +388,19 @@
     "location_township": "Precinct 3",
     "lat": 37.5099124,
     "lng": -77.5193324
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 16:30",
+    "box_no": "Precinct 1",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "2200-BLK DEFORREST ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Deforrest Street",
+    "location_township": "Precinct 1",
+    "lat": 37.555395,
+    "lng": -77.414939
   },
   {
     "type_general": "RPD",
@@ -466,6 +427,58 @@
     "location_township": "Precinct 3",
     "lat": 37.5034416,
     "lng": -77.5206899
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 16:05",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "6400-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5036311,
+    "lng": -77.5151182
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 16:19",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 16:00",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "2000-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5608096,
+    "lng": -77.4479214
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 16:00",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "2000-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bath Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5608096,
+    "lng": -77.4479214
   },
   {
     "type_general": "RFD",
@@ -495,41 +508,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 16:30",
-    "box_no": "Precinct 1",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "2200-BLK DEFORREST ST",
-    "status": "Enroute",
+    "dispatch_time": "12/10/2025 16:39",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "600-BLK W SOUTHSIDE PLZ",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Deforrest Street",
-    "location_township": "Precinct 1",
-    "lat": 37.555395,
-    "lng": -77.414939
+    "nearest_intersection": "West Southside Plaza, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5012106,
+    "lng": -77.4784074
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/10/2025 16:29",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "3400-BLK CHAMBERLAYNE AVE",
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 16:39",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "600-BLK W SOUTHSIDE PLZ",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5845486,
-    "lng": -77.4473886
+    "nearest_intersection": "West Southside Plaza, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5012106,
+    "lng": -77.4784074
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/10/2025 16:26",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "5900-BLK SAWSTON RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 16:42",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "RICH: @SOUTHSIDE PLAZA",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 16:42",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "RICH: @SOUTHSIDE PLAZA",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Sawston Road",
-    "location_township": "FIRE",
-    "lat": 37.491271,
-    "lng": -77.502442
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   }
 ]
