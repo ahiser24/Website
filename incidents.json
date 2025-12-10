@@ -53,6 +53,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/10/2025 09:37",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2000-BLK 2ND AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "2nd Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.560795,
+    "lng": -77.425398
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/10/2025 07:54",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -63,19 +76,6 @@
     "location_township": "DPR",
     "lat": 37.5297586,
     "lng": -77.4244833
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 09:22",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "RICH: @MAIN STREET STATION",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 09:37",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2000-BLK 2ND AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "2nd Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.560795,
-    "lng": -77.425398
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 09:54",
     "box_no": "Precinct 3",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -180,19 +167,6 @@
     "location_township": "Precinct 3",
     "lat": 37.553291,
     "lng": -77.477067
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 10:15",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , INVESTIGATE",
-    "street": "1300-BLK CHAMBERS ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "Precinct 2",
-    "lat": 37.50362,
-    "lng": -77.439415
   },
   {
     "type_general": "RPD",
@@ -221,6 +195,32 @@
     "lng": -77.5126339
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 10:15",
+    "box_no": "Precinct 2",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1300-BLK CHAMBERS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Harwood Street",
+    "location_township": "Precinct 2",
+    "lat": 37.50362,
+    "lng": -77.439415
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 10:25",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "100-BLK W FRANKLIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.544751,
+    "lng": -77.4444328
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/10/2025 09:03",
     "box_no": "FIRE",
@@ -245,45 +245,6 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 10:30",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/10/2025 10:31",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "LL(-77:31:29.0671,37:31:41.0092): @POWHITE PKWY NB BETWEEN CHIPPENHAM PKWY & MAIN TOLL PLAZA",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Powhite Parkway",
-    "location_township": "FIRE",
-    "lng": -77.52474086111111,
-    "lat": 37.52805811111111
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 10:25",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "100-BLK W FRANKLIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.544751,
-    "lng": -77.4444328
   },
   {
     "type_general": "RPD",
@@ -330,11 +291,50 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "LL(-77:31:29.0671,37:31:41.0092): @POWHITE PKWY NB BETWEEN CHIPPENHAM PKWY & MAIN TOLL PLAZA",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Powhite Parkway",
     "location_township": "Precinct 3",
     "lng": -77.52474086111111,
     "lat": 37.52805811111111
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/10/2025 10:39",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5799327,
+    "lng": -77.4469305
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/10/2025 10:31",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "LL(-77:31:29.0671,37:31:41.0092): @POWHITE PKWY NB BETWEEN CHIPPENHAM PKWY & MAIN TOLL PLAZA",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Powhite Parkway",
+    "location_township": "FIRE",
+    "lng": -77.52474086111111,
+    "lat": 37.52805811111111
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 10:30",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
   }
 ]
