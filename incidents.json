@@ -1,16 +1,16 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 04:03",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "1900-BLK ACCOMMODATION ST",
+    "dispatch_time": "12/10/2025 05:25",
+    "box_no": "Precinct 2",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "9100-BLK BROOKWOOD GLEN DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5478392,
-    "lng": -77.4217136
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -18,7 +18,7 @@
     "box_no": "Precinct 2",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
     "street": "9100-BLK BROOKWOOD GLEN DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 06:33",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "3100-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4984757,
-    "lng": -77.511526
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 06:37",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -66,11 +53,37 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/10/2025 06:45",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
+    "street": "00-BLK W COMMERCE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Commerce Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5232341,
+    "lng": -77.4411957
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 06:33",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "3100-BLK WARWICK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4984757,
+    "lng": -77.511526
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/10/2025 06:34",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
     "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Angus Road",
     "location_township": "Precinct 2",
@@ -92,15 +105,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 06:45",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , ARMED WITH_____-(INVESTIGATE)",
-    "street": "00-BLK W COMMERCE RD",
+    "dispatch_time": "12/10/2025 06:52",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "DORSET RD/WALMSLEY BLVD RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Commerce Road",
+    "nearest_intersection": "Dorset Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4794243,
+    "lng": -77.4766371
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 06:56",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "700-BLK MOSBY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mosby Street",
     "location_township": "Precinct 1",
-    "lat": 37.5232341,
-    "lng": -77.4411957
+    "lat": 37.5387652,
+    "lng": -77.4207419
   }
 ]
