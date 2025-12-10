@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 23:02",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "9000-BLK W HUGUENOT RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Huguenot Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5377462,
-    "lng": -77.5630623
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 23:34",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/10/2025 00:01",
+    "box_no": "Precinct 3",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1300-BLK SPRUANCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Spruance Road",
+    "location_township": "Precinct 3",
+    "lat": 37.520671,
+    "lng": -77.50597
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/09/2025 23:39",
     "box_no": "Precinct 1",
     "type_specific": "LOUD MUSIC , INVESTIGATE",
@@ -89,31 +89,5 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 23:51",
-    "box_no": "Precinct 1",
-    "type_specific": "PERSON DOWN , INVESTIGATE",
-    "street": "N 30TH ST/E CLAY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5380706,
-    "lng": -77.4054489
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/09/2025 23:51",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "N 30TH ST/E CLAY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 30th Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.5380706,
-    "lng": -77.4054489
   }
 ]
