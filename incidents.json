@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 05:58",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "2200-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5297586,
-    "lng": -77.4244833
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 06:34",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -92,6 +79,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/10/2025 11:14",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "1800-BLK N 23RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 23rd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5460011,
+    "lng": -77.4082818
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/10/2025 11:31",
     "box_no": "Precinct 1",
     "type_specific": "FOUND PROPERTY , FIRE ARM",
@@ -144,6 +144,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/10/2025 11:59",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "300-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5077898,
+    "lng": -77.525705
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/10/2025 11:32",
     "box_no": "Precinct 3",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -167,19 +180,6 @@
     "location_township": "Precinct 2",
     "lat": 37.487195,
     "lng": -77.498162
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 11:14",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "1800-BLK N 23RD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5460011,
-    "lng": -77.4082818
   },
   {
     "type_general": "RPD",
@@ -222,32 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 11:59",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "300-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5077898,
-    "lng": -77.525705
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/10/2025 12:19",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "3200-BLK NORTH RABZA BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Rabza Boulevard, East End",
-    "location_township": "FIRE",
-    "lat": 37.5396212,
-    "lng": -77.4009639
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 12:20",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -258,19 +232,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5455615,
     "lng": -77.4335781
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 12:23",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E CLAY ST/N 11TH ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 12th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.541099,
-    "lng": -77.4298711
   },
   {
     "type_general": "RPD",
@@ -354,7 +315,7 @@
     "type_general": "RPD",
     "dispatch_time": "12/10/2025 12:16",
     "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "5300-BLK HULL STREET RD",
     "status": "Arrived",
     "cross_street": "",
@@ -365,15 +326,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 12:01",
+    "dispatch_time": "12/10/2025 12:40",
     "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "900-BLK SLEDD ST",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1200-BLK E BROOKLAND PARK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.57024,
+    "lng": -77.420545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 12:23",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "E CLAY ST/N 11TH ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Sledd Street, Northside",
+    "nearest_intersection": "North 12th Street",
     "location_township": "Precinct 4",
-    "lat": 37.557176,
-    "lng": -77.446604
+    "lat": 37.541099,
+    "lng": -77.4298711
   }
 ]
