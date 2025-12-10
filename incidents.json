@@ -14,16 +14,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 11:31",
-    "box_no": "Precinct 1",
-    "type_specific": "FOUND PROPERTY , FIRE ARM",
-    "street": "1000-BLK MOSBY ST",
-    "status": "Enroute",
+    "dispatch_time": "12/10/2025 12:16",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "5300-BLK HULL STREET RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Mosby Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5427329,
-    "lng": -77.4194034
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4794055,
+    "lng": -77.5126339
   },
   {
     "type_general": "RPD",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 12:16",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "5300-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 14:31",
     "box_no": "Precinct 4",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -79,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 17:17",
+    "dispatch_time": "12/10/2025 17:24",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @EXIT - POWHITE PKWY SB (FOREST HILL AVE)",
+    "street": "4000-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5722672,
+    "lng": -77.4813689
   },
   {
     "type_general": "RPD",
@@ -131,16 +118,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 17:24",
+    "dispatch_time": "12/10/2025 18:09",
     "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "4000-BLK W BROAD ST",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 18:09",
+    "box_no": "Precinct 3",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "300-BLK S MEADOW ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "South Meadow Street",
     "location_township": "Precinct 3",
-    "lat": 37.5722672,
-    "lng": -77.4813689
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 18:06",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "E BROAD ROCK RD/SPAINE ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5038637,
+    "lng": -77.4650326
   },
   {
     "type_general": "RPD",
@@ -235,45 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 18:09",
-    "box_no": "Precinct 3",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 18:09",
-    "box_no": "Precinct 3",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Meadow Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5448002,
-    "lng": -77.4682238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 18:06",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "E BROAD ROCK RD/SPAINE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5038637,
-    "lng": -77.4650326
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 18:24",
     "box_no": "Precinct 4",
     "type_specific": "FOUND PROPERTY , INVESTIGATE",
@@ -284,32 +258,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 18:27",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3100-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4694278,
-    "lng": -77.4434296
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 18:27",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3100-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4694278,
-    "lng": -77.4434296
   },
   {
     "type_general": "RPD",
@@ -352,19 +300,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 18:34",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "100-BLK W 24TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 24th Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5176752,
-    "lng": -77.4552715
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 18:16",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -375,19 +310,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5609666,
     "lng": -77.4210457
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/10/2025 18:34",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "100-BLK W 24TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 24th Street",
-    "location_township": "FIRE",
-    "lat": 37.5176752,
-    "lng": -77.4552715
   },
   {
     "type_general": "RPD",
@@ -429,32 +351,6 @@
     "lng": -77.516524
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 18:45",
-    "box_no": "Precinct 2",
-    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
-    "street": "3400-BLK WALMSLEY BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "Precinct 2",
-    "lat": 37.464799,
-    "lng": -77.460475
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/10/2025 18:44",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @EXIT 186 - I64 EB (LABURNUM AVE)",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/10/2025 18:45",
     "box_no": "FIRE",
@@ -466,5 +362,70 @@
     "location_township": "FIRE",
     "lat": 37.4999081,
     "lng": -77.4478148
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 18:48",
+    "box_no": "Precinct 2",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "5000-BLK WARWICK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4889567,
+    "lng": -77.4818104
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 18:45",
+    "box_no": "Precinct 2",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "3400-BLK WALMSLEY BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Angus Road",
+    "location_township": "Precinct 2",
+    "lat": 37.464799,
+    "lng": -77.460475
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 18:34",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "WESTWOOD AVE/MALVERN AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westwood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5782609,
+    "lng": -77.4685841
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 18:52",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "4300-BLK SILBURY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Silbury Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4694795,
+    "lng": -77.4765301
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/10/2025 18:44",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @EXIT 76B - I95 SB (BELVIDERE ST)",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
