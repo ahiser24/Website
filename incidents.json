@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 02:08",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "1600-BLK 4TH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "4th Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.556334,
-    "lng": -77.425946
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 02:57",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
