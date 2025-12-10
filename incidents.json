@@ -63,5 +63,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5041351,
     "lng": -77.441146
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 06:33",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "3100-BLK WARWICK RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4984757,
+    "lng": -77.511526
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/10/2025 06:33",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "3100-BLK WARWICK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "FIRE",
+    "lat": 37.4984757,
+    "lng": -77.511526
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 06:35",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "600-BLK WARWICK VILLAGE DR",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Village Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.500983,
+    "lng": -77.500299
   }
 ]
