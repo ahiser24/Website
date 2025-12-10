@@ -1,32 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/09/2025 21:35",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "900-BLK ST JOHNS WOOD DR",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/09/2025 21:35",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "900-BLK ST JOHNS WOOD DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/09/2025 22:26",
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -66,41 +40,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 01:26",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "1600-BLK ROBIN HOOD RD",
+    "dispatch_time": "12/10/2025 01:57",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N 28TH ST/U ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Robin Hood Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5737171,
-    "lng": -77.4603331
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 01:43",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "4800-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5974284,
-    "lng": -77.4498698
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 01:43",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "4800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5974284,
-    "lng": -77.4498698
+    "nearest_intersection": "North 28th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5446336,
+    "lng": -77.4020622
   }
 ]
