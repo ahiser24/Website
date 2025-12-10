@@ -24,5 +24,31 @@
     "location_township": "Precinct 1",
     "lat": 37.53511,
     "lng": -77.4302085
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 03:21",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "RICH: @EXIT 79 - I95 NB (I64 WB / I195 SB / POWHITE PKWY)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 03:21",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "RICH: @EXIT 79 - I95 NB (I64 WB / I195 SB / POWHITE PKWY)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   }
 ]
