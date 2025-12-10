@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 05:35",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "2800-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5126979,
-    "lng": -77.4593243
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 06:10",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , AGGRESSIVE",
@@ -68,39 +55,13 @@
     "type_general": "RPD",
     "dispatch_time": "12/10/2025 06:17",
     "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "2200-BLK KESWICK AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Keswick Avenue",
     "location_township": "Precinct 1",
     "lat": 37.5041351,
     "lng": -77.441146
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/10/2025 06:17",
-    "box_no": "Precinct 1",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "2200-BLK KESWICK AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Keswick Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5041351,
-    "lng": -77.441146
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/10/2025 06:17",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "200-BLK E GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.543725,
-    "lng": -77.4407637
   }
 ]
