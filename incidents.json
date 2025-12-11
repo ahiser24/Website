@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 01:28",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4400-BLK GREGORY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Gregory Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.471503,
-    "lng": -77.477479
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 01:40",
     "box_no": "Precinct 4",
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
@@ -102,32 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5849482,
     "lng": -77.4631317
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 01:43",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK OVERLOOK ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Overlook Street",
-    "location_township": "Precinct 2",
-    "lat": 37.5016804,
-    "lng": -77.4412937
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/11/2025 01:41",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "2900-BLK HATHAWAY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hathaway Road",
-    "location_township": "FIRE",
-    "lat": 37.5386349,
-    "lng": -77.5200352
   },
   {
     "type_general": "RFD",
@@ -141,5 +102,57 @@
     "location_township": "FIRE",
     "lat": 37.5849482,
     "lng": -77.4631317
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 01:52",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "4700-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4624001,
+    "lng": -77.4430084
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 01:43",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1400-BLK OVERLOOK ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Overlook Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5016804,
+    "lng": -77.4412937
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 01:28",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4400-BLK GREGORY AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Gregory Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.471503,
+    "lng": -77.477479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 01:54",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "700-BLK E 6TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 6th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5186554,
+    "lng": -77.4337993
   }
 ]
