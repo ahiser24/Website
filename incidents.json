@@ -54,15 +54,28 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/11/2025 15:50",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "2800-BLK BROAD ROCK BLVD",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 1",
+    "location_township": "DPR",
     "lat": 37.4801667,
     "lng": -77.4805903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 15:51",
+    "box_no": "DPR",
+    "type_specific": "BREAK & ENTER , DPR Call - Take a Report (Detached Shed/Garage)",
+    "street": "900-BLK IDLEWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Cherry Street",
+    "location_township": "DPR",
+    "lat": 37.541915,
+    "lng": -77.45301
   },
   {
     "type_general": "RPD",
@@ -76,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5462078,
     "lng": -77.4445175
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 16:28",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "9100-BLK STONY POINT DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stony Point Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5484502,
-    "lng": -77.5684972
   },
   {
     "type_general": "RPD",
@@ -131,16 +131,29 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/11/2025 17:54",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2800-BLK BROAD ROCK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4801667,
+    "lng": -77.4805903
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/11/2025 17:01",
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "3600-BLK DECATUR ST",
+    "street": "3500-BLK DECATUR ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Decatur Street, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.5042435,
-    "lng": -77.467669
+    "lat": 37.5047573,
+    "lng": -77.4668382
   },
   {
     "type_general": "RPD",
@@ -170,19 +183,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 17:43",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "700-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5492346,
-    "lng": -77.447515
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 17:12",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -200,7 +200,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
     "street": "3100-BLK HAWTHORNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hawthorne Avenue, Northside",
     "location_township": "FIRE",
@@ -222,15 +222,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 17:06",
+    "dispatch_time": "12/11/2025 17:43",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "700-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5492346,
+    "lng": -77.447515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 17:40",
     "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "4400-BLK NEW KENT AVE",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "7000-BLK FOREST HILL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Forest Hill Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.537934,
+    "lng": -77.524228
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/11/2025 17:52",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "W BROOKLAND PARK BLVD/NORTH AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "New Kent Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.521886,
-    "lng": -77.4791434
+    "nearest_intersection": "West Brookland Park Boulevard, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5724275,
+    "lng": -77.4487587
   }
 ]
