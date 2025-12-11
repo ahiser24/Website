@@ -78,16 +78,16 @@
     "lng": -77.4448967
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 04:57",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "500-BLK RANDOLPH ST",
+    "type_general": "RFD",
+    "dispatch_time": "12/11/2025 06:02",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1200-BLK E BROOKLAND PARK BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Randolph Street",
-    "location_township": "Precinct 3",
-    "lat": 37.542091,
-    "lng": -77.460455
+    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "location_township": "FIRE",
+    "lat": 37.57024,
+    "lng": -77.420545
   }
 ]
