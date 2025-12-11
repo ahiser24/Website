@@ -78,19 +78,6 @@
     "lng": -77.4448967
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/11/2025 04:53",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "3300-BLK HAZELHURST AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hazelhurst Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5790304,
-    "lng": -77.4291266
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/11/2025 04:57",
     "box_no": "Precinct 3",
@@ -104,16 +91,29 @@
     "lng": -77.460455
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/11/2025 05:32",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "600-BLK ST CHRISTOPHERS RD",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 05:44",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "200-BLK ORLEANS ST",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "Saint Christophers Road, West End",
-    "location_township": "FIRE",
-    "lat": 37.5782744,
-    "lng": -77.5235978
+    "nearest_intersection": "Admiral Gravely Boulevard, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5185816,
+    "lng": -77.4128043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 05:44",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "200-BLK ORLEANS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Admiral Gravely Boulevard, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5185816,
+    "lng": -77.4128043
   }
 ]
