@@ -130,29 +130,29 @@
     "lng": -77.4451986
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/11/2025 02:41",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "200-BLK HOSPITAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hospital Street",
+    "location_township": "FIRE",
+    "lat": 37.5533597,
+    "lng": -77.4314478
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "12/11/2025 02:31",
     "box_no": "Precinct 3",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
     "street": "7100-BLK TIM PRICE WAY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Tim Price Way",
     "location_township": "Precinct 3",
     "lat": 37.5005643,
     "lng": -77.5267218
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 02:35",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "500-BLK N 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "DPR",
-    "lat": 37.537407,
-    "lng": -77.423497
   }
 ]
