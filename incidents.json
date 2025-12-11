@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/10/2025 20:06",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "RICH: @EXIT 69 - I95 SB (BELLS RD)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/10/2025 20:52",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -57,7 +44,7 @@
     "box_no": "Precinct 1",
     "type_specific": "WELFARE CHECK , EMS RESPONSE",
     "street": "1300-BLK E CARY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5513504,
     "lng": -77.4281255
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/10/2025 17:26",
+    "box_no": "Precinct 4",
+    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS",
+    "street": "200-BLK W HILL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Hill Street",
+    "location_township": "Precinct 4",
+    "lat": 37.55464,
+    "lng": -77.4364061
   },
   {
     "type_general": "RPD",
@@ -105,15 +105,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 00:56",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "4300-BLK CHAMBERLAYNE AVE",
+    "dispatch_time": "12/11/2025 01:15",
+    "box_no": "Precinct 2",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "RICHMOND HWY/WALMSLEY BLVD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4694278,
+    "lng": -77.4434296
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 01:21",
+    "box_no": "DPR",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "3200-BLK SOUTH RABZA BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5946094,
-    "lng": -77.4494236
+    "nearest_intersection": "South Rabza Boulevard, East End",
+    "location_township": "DPR",
+    "lat": 37.5393826,
+    "lng": -77.4016142
   }
 ]
