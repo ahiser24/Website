@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 08:53",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "2400-BLK COLES ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Coles Street",
-    "location_township": "DPR",
-    "lat": 37.470787,
-    "lng": -77.439636
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 08:54",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 09:03",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "600-BLK ST JAMES ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "Precinct 4",
-    "lat": 37.548677,
-    "lng": -77.439248
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 09:22",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -196,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 09:14",
-    "box_no": "Precinct 4",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "4300-BLK HERMITAGE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5586945,
-    "lng": -77.4600341
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 09:31",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
@@ -219,19 +180,6 @@
     "location_township": "Precinct 2",
     "lat": 37.513339,
     "lng": -77.456128
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 09:29",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "6000-BLK GLENWAY CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Blandy Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.516347,
-    "lng": -77.508562
   },
   {
     "type_general": "RPD",
@@ -274,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 09:41",
-    "box_no": "Precinct 3",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "RICH: @BOULEVARD BRIDGE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 09:38",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -297,5 +232,70 @@
     "location_township": "Precinct 3",
     "lat": 37.5500332,
     "lng": -77.4553246
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 09:14",
+    "box_no": "Precinct 4",
+    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
+    "street": "4300-BLK HERMITAGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5586945,
+    "lng": -77.4600341
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 09:41",
+    "box_no": "Precinct 3",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "RICH: @BOULEVARD BRIDGE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 09:29",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "6000-BLK GLENWAY CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Blandy Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.516347,
+    "lng": -77.508562
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 09:52",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3100-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5083254,
+    "lng": -77.4635415
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 09:41",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "E GRACE ST/N 8TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5375801,
+    "lng": -77.4313482
   }
 ]
