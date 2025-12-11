@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 11:10",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "SWANSBORO LN/HULL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Swansboro Lane, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.507301,
-    "lng": -77.4611361
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 12:32",
     "box_no": "Precinct 1",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -89,19 +76,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5462078,
     "lng": -77.4445175
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 14:35",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2800-BLK FAIRFIELD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5479536,
-    "lng": -77.4005642
   },
   {
     "type_general": "RPD",
@@ -131,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 15:21",
-    "box_no": "Precinct 2",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "600-BLK W SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 15:06",
     "box_no": "Precinct 3",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -157,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 15:43",
+    "dispatch_time": "12/11/2025 15:21",
     "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
-    "street": "E BROAD ROCK RD/E 32ND ST RICH",
-    "status": "Enroute",
+    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
+    "street": "600-BLK W SOUTHSIDE PLZ",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
+    "nearest_intersection": "West Southside Plaza, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.5038637,
-    "lng": -77.4650326
+    "lat": 37.5012106,
+    "lng": -77.4784074
   },
   {
     "type_general": "RPD",
@@ -300,19 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 15:54",
-    "box_no": "Precinct 1",
-    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
-    "street": "700-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5214521,
-    "lng": -77.4386556
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 15:28",
     "box_no": "DPR",
     "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
@@ -336,5 +284,83 @@
     "location_township": "FIRE",
     "lat": 37.5484502,
     "lng": -77.5684972
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 16:28",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "9100-BLK STONY POINT DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Stony Point Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5484502,
+    "lng": -77.5684972
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 15:50",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "2800-BLK BROAD ROCK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "Precinct 1",
+    "lat": 37.4801667,
+    "lng": -77.4805903
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 16:34",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 16:34",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "300-BLK S MEADOW ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Meadow Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5448002,
+    "lng": -77.4682238
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 15:56",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "400-BLK N 18TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 18th Street",
+    "location_township": "DPR",
+    "lat": 37.536538,
+    "lng": -77.424302
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 15:51",
+    "box_no": "Precinct 4",
+    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
+    "street": "200-BLK W GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5462078,
+    "lng": -77.4445175
   }
 ]
