@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 05:03",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 05:03",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 04:57",
     "box_no": "Precinct 3",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -128,5 +102,18 @@
     "location_township": "Precinct 3",
     "lat": 37.542091,
     "lng": -77.460455
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/11/2025 05:32",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "600-BLK ST CHRISTOPHERS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saint Christophers Road, West End",
+    "location_township": "FIRE",
+    "lat": 37.5782744,
+    "lng": -77.5235978
   }
 ]
