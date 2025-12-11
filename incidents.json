@@ -31,7 +31,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
     "street": "400-BLK N 18TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 18th Street",
     "location_township": "Precinct 1",
@@ -63,19 +63,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5337582,
     "lng": -77.5360979
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 07:38",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK CLAIBORNE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Claiborne Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5400826,
-    "lng": -77.4617077
   },
   {
     "type_general": "RPD",
@@ -157,32 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 08:09",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "1000-BLK MELROSE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Melrose Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.57976,
-    "lng": -77.446711
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 08:23",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "N ARTHUR ASHE BLVD/ROBIN HOOD RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.5748547,
-    "lng": -77.4635584
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 08:40",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -232,5 +193,70 @@
     "location_township": "Precinct 4",
     "lat": 37.5497878,
     "lng": -77.4309047
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/11/2025 08:46",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "4900-BLK LINDY LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mandy Lane",
+    "location_township": "FIRE",
+    "lat": 37.479217,
+    "lng": -77.482685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 08:23",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "N ARTHUR ASHE BLVD/ROBIN HOOD RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5748547,
+    "lng": -77.4635584
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 08:53",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "2400-BLK COLES ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Coles Street",
+    "location_township": "DPR",
+    "lat": 37.470787,
+    "lng": -77.439636
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 08:54",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "2200-BLK BYWOOD LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bywood Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.477475,
+    "lng": -77.512842
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 08:54",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "2200-BLK BYWOOD LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bywood Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.477475,
+    "lng": -77.512842
   }
 ]
