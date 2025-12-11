@@ -89,31 +89,5 @@
     "location_township": "Precinct 3",
     "lat": 37.542091,
     "lng": -77.460455
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 05:44",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "200-BLK ORLEANS ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Admiral Gravely Boulevard, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5185816,
-    "lng": -77.4128043
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 05:44",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "200-BLK ORLEANS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Admiral Gravely Boulevard, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5185816,
-    "lng": -77.4128043
   }
 ]
