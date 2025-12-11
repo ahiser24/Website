@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 02:31",
-    "box_no": "Precinct 3",
-    "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
-    "street": "7100-BLK TIM PRICE WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tim Price Way",
-    "location_township": "Precinct 3",
-    "lat": 37.5005643,
-    "lng": -77.5267218
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 03:08",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -83,7 +70,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
     "street": "400-BLK N 18TH ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 18th Street",
     "location_township": "Precinct 1",
@@ -91,36 +78,10 @@
     "lng": -77.424302
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/11/2025 04:04",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "MAURY ST/I-95 RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street",
-    "location_township": "FIRE",
-    "lat": 37.5201095,
-    "lng": -77.4367691
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 03:54",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "3700-BLK GREER AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greer Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4688836,
-    "lng": -77.4640982
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/11/2025 04:00",
     "box_no": "Precinct 2",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "5000-BLK SNEAD RD",
     "status": "Arrived",
     "cross_street": "",
@@ -128,19 +89,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4770457,
     "lng": -77.4856193
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 04:07",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "MAURY ST/I-95 RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5201095,
-    "lng": -77.4367691
   },
   {
     "type_general": "RPD",
@@ -154,5 +102,44 @@
     "location_township": "Precinct 4",
     "lat": 37.5753775,
     "lng": -77.4255418
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 04:07",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "MAURY ST/I-95 RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5201095,
+    "lng": -77.4367691
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 04:12",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "3100-BLK ZION ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Zion Street",
+    "location_township": "Precinct 2",
+    "lat": 37.4804831,
+    "lng": -77.4555826
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 04:14",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "4100-BLK MCKAY AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "McKay Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4868376,
+    "lng": -77.4712851
   }
 ]
