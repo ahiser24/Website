@@ -92,24 +92,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 17:56",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1400-BLK MCDONOUGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "McDonough Street",
-    "location_township": "Precinct 1",
-    "lat": 37.523191,
-    "lng": -77.449155
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 17:58",
     "box_no": "Precinct 2",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
     "street": "1300-BLK DREWRY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Drewry Street",
     "location_township": "Precinct 2",
@@ -130,6 +117,32 @@
     "lng": -77.4346879
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 18:09",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "S 5TH ST/E BYRD ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5367101,
+    "lng": -77.4433141
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 18:09",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "S 5TH ST/E BYRD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5367101,
+    "lng": -77.4433141
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/11/2025 17:57",
     "box_no": "FIRE",
@@ -157,32 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 18:09",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "S 5TH ST/E BYRD ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5367101,
-    "lng": -77.4433141
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 18:09",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "S 5TH ST/E BYRD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5367101,
-    "lng": -77.4433141
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 18:27",
     "box_no": "Precinct 2",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
@@ -206,19 +193,6 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 18:16",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "500-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "DPR",
-    "lat": 37.5468144,
-    "lng": -77.447785
   },
   {
     "type_general": "RPD",
@@ -271,18 +245,5 @@
     "location_township": "Precinct 2",
     "lat": 37.4804874,
     "lng": -77.5121816
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/11/2025 18:44",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2300-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.564063,
-    "lng": -77.4440996
   }
 ]
