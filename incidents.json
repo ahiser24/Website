@@ -156,30 +156,30 @@
     "lng": -77.4386505
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 00:39",
-    "box_no": "Precinct 4",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "700-BLK W CARY ST",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "12/11/2025 00:47",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "3200-BLK NORTH RABZA BLVD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.54457,
-    "lng": -77.450508
+    "nearest_intersection": "North Rabza Boulevard, East End",
+    "location_township": "FIRE",
+    "lat": 37.5396212,
+    "lng": -77.4009639
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/11/2025 00:34",
+    "dispatch_time": "12/11/2025 00:51",
     "box_no": "FIRE",
-    "type_specific": "CRASH , PERSON TRAPPED",
-    "street": "HOSPITAL ST/N 7TH ST RICH",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "1300-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hospital Street",
+    "nearest_intersection": "East Cary Street",
     "location_township": "FIRE",
-    "lat": 37.5513504,
-    "lng": -77.4281255
+    "lat": 37.5353479,
+    "lng": -77.4336162
   },
   {
     "type_general": "RPD",
@@ -187,7 +187,7 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "HOSPITAL ST/N 7TH ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hospital Street",
     "location_township": "Precinct 4",
@@ -196,15 +196,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/11/2025 00:47",
+    "dispatch_time": "12/11/2025 00:55",
     "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3200-BLK NORTH RABZA BLVD",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "LL(-77:28:25.5361,37:35:06.4643): EST I-195 RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North Rabza Boulevard, East End",
+    "nearest_intersection": "West Laburnum Avenue",
     "location_township": "FIRE",
-    "lat": 37.5396212,
-    "lng": -77.4009639
+    "lng": -77.47376002777779,
+    "lat": 37.58512897222222
   }
 ]
