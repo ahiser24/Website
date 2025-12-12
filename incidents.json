@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 06:38",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 06:57",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -63,19 +50,6 @@
     "location_township": "Precinct 4",
     "lat": 37.56968,
     "lng": -77.466448
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 07:00",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "2300-BLK HARRODS LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Tremont Court",
-    "location_township": "Precinct 3",
-    "lat": 37.5330581,
-    "lng": -77.535607
   },
   {
     "type_general": "RPD",
@@ -91,29 +65,55 @@
     "lng": -77.4193693
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 07:02",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "N 23RD ST/X ST RICH",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 07:18",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2400-BLK VENABLE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "FIRE",
-    "lat": 37.5340395,
-    "lng": -77.4193693
+    "nearest_intersection": "Venable Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5385327,
+    "lng": -77.4144114
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 07:27",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "300-BLK N 20TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.534543,
+    "lng": -77.423317
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 07:28",
+    "box_no": "Precinct 2",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "3700-BLK CRUTCHFIELD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Crutchfield Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5123372,
+    "lng": -77.4727292
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/12/2025 07:14",
+    "dispatch_time": "12/12/2025 07:28",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "4900-BLK FOREST HILL AVE",
-    "status": "Arrived",
+    "type_specific": "",
+    "street": "5700-BLK THORNDALE LN",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
+    "nearest_intersection": "Thorndale Lane",
     "location_township": "FIRE",
-    "lat": 37.5212602,
-    "lng": -77.4895783
+    "lat": 37.5206297,
+    "lng": -77.5012375
   }
 ]
