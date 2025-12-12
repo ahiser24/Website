@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:18",
-    "box_no": "Precinct 1",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "1700-BLK JOPLIN AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Lenmore Street",
-    "location_township": "Precinct 1",
-    "lat": 37.507524,
-    "lng": -77.437799
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:26",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -141,19 +128,6 @@
     "location_township": "DPR",
     "lat": 37.56968,
     "lng": -77.466448
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:12",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1400-BLK OAKHURST LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Oakhurst Lane",
-    "location_township": "Precinct 3",
-    "lat": 37.521611,
-    "lng": -77.504484
   },
   {
     "type_general": "RPD",
@@ -208,6 +182,32 @@
     "lng": -77.4309696
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:18",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1700-BLK JOPLIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Lenmore Street",
+    "location_township": "Precinct 1",
+    "lat": 37.507524,
+    "lng": -77.437799
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:42",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "100-BLK W CHARITY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Charity Street",
+    "location_township": "Precinct 4",
+    "lat": 37.55204,
+    "lng": -77.437396
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/12/2025 14:31",
     "box_no": "FIRE",
@@ -221,17 +221,30 @@
     "lng": -77.4309696
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 14:34",
-    "box_no": "FIRE",
-    "type_specific": "# ELEVATOR INCIDENT",
-    "street": "300-BLK HIOAKS RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:42",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "1800-BLK N 22ND ST",
     "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5466404,
+    "lng": -77.4092602
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 14:54",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "100-BLK HIOAKS RD",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Hioaks Road",
     "location_township": "FIRE",
-    "lat": 37.5077898,
-    "lng": -77.525705
+    "lat": 37.5149743,
+    "lng": -77.5244606
   },
   {
     "type_general": "RPD",
@@ -245,18 +258,5 @@
     "location_township": "Precinct 3",
     "lat": 37.519751,
     "lng": -77.51884
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:42",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1800-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
   }
 ]
