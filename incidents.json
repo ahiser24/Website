@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 11:57",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2300-BLK WRIGHT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Wright Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4942501,
-    "lng": -77.4402846
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 12:20",
     "box_no": "Precinct 1",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -118,32 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 12:34",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.5725597,
-    "lng": -77.4456656
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 12:42",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1900-BLK REDD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Accommodation Street",
-    "location_township": "Precinct 1",
-    "lat": 37.547595,
-    "lng": -77.420888
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 12:39",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -157,6 +118,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/12/2025 12:42",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1900-BLK REDD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Accommodation Street",
+    "location_township": "Precinct 1",
+    "lat": 37.547595,
+    "lng": -77.420888
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/12/2025 12:43",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -167,5 +141,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5195165,
     "lng": -77.4456731
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 12:55",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "00-BLK E BROAD ROCK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "DPR",
+    "lat": 37.5038637,
+    "lng": -77.4650326
   }
 ]
