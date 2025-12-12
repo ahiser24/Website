@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "5300-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 07:58",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2900-BLK N ARTHUR ASHE BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.56968,
-    "lng": -77.466448
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 08:13",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -89,19 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5355217,
     "lng": -77.4004155
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 08:16",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "400-BLK S STAFFORD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South Stafford Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.547484,
-    "lng": -77.472872
   },
   {
     "type_general": "RPD",
@@ -157,16 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 08:42",
+    "dispatch_time": "12/12/2025 08:44",
     "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "0-BLK N 2ND ST",
-    "status": "Enroute",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2900-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 2nd Street",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
     "location_township": "Precinct 4",
-    "lat": 37.5517009,
-    "lng": -77.4333866
+    "lat": 37.56968,
+    "lng": -77.466448
   },
   {
     "type_general": "RPD",
@@ -183,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 08:45",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4600-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.5205244,
-    "lng": -77.4386505
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 08:52",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3500-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Iron Bridge Road",
-    "location_township": "Precinct 2",
-    "lat": 37.468377,
-    "lng": -77.486275
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 08:50",
     "box_no": "Precinct 4",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
@@ -219,5 +167,57 @@
     "location_township": "Precinct 4",
     "lat": 37.571276,
     "lng": -77.475525
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 09:03",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "3000-BLK ARCHDALE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Archdale Road",
+    "location_township": "Precinct 3",
+    "lat": 37.539231,
+    "lng": -77.545258
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 09:05",
+    "box_no": "Precinct 3",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE - EMS",
+    "street": "3500-BLK ELLWOOD AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ellwood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.556473,
+    "lng": -77.486031
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 09:02",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "1200-BLK N 35TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "R Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.532881,
+    "lng": -77.401451
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 09:03",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "3000-BLK ARCHDALE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Archdale Road",
+    "location_township": "FIRE",
+    "lat": 37.539231,
+    "lng": -77.545258
   }
 ]
