@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:09",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2400-BLK NORTHUMBERLAND AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Northumberland Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.564119,
-    "lng": -77.4474311
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:18",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -141,32 +128,6 @@
     "location_township": "Precinct 1",
     "lat": 37.507524,
     "lng": -77.437799
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:01",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "100-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5149743,
-    "lng": -77.5244606
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:13",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "2300-BLK MARION MASHORE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -195,17 +156,43 @@
     "lng": -77.4818545
   },
   {
-    "type_general": "RFD",
+    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:25",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "3000-BLK CHAMBERLAYNE AVE",
+    "box_no": "Precinct 3",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "1000-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5514093,
+    "lng": -77.4534673
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:26",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2900-BLK N ARTHUR ASHE BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "DPR",
+    "lat": 37.56968,
+    "lng": -77.466448
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:12",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "1400-BLK OAKHURST LN",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5725597,
-    "lng": -77.4456656
+    "nearest_intersection": "Oakhurst Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.521611,
+    "lng": -77.504484
   },
   {
     "type_general": "RPD",
@@ -219,19 +206,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5729476,
     "lng": -77.4829543
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:25",
-    "box_no": "Precinct 3",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5514093,
-    "lng": -77.4534673
   },
   {
     "type_general": "RFD",
@@ -248,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:21",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "AVONDALE AVE/MACARTHUR AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Avondale Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5852816,
-    "lng": -77.4568839
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:31",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -271,5 +232,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5457044,
     "lng": -77.4309696
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:39",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:34",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "E BROAD ST/N 8TH ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5442536,
+    "lng": -77.4397407
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:34",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "300-BLK HIOAKS RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5077898,
+    "lng": -77.525705
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 14:34",
+    "box_no": "FIRE",
+    "type_specific": "# ELEVATOR INCIDENT",
+    "street": "300-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "FIRE",
+    "lat": 37.5077898,
+    "lng": -77.525705
   }
 ]
