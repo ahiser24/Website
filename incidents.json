@@ -68,7 +68,7 @@
     "type_general": "RPD",
     "dispatch_time": "12/12/2025 05:12",
     "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "900-BLK E 15TH ST",
     "status": "Arrived",
     "cross_street": "",
@@ -76,18 +76,5 @@
     "location_township": "Precinct 1",
     "lat": 37.513208,
     "lng": -77.44072
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 05:01",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , WATER RELATED",
-    "street": "4300-BLK CRUTCHFIELD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Norcroft Drive",
-    "location_township": "FIRE",
-    "lat": 37.5107675,
-    "lng": -77.4859506
   }
 ]
