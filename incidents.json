@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 04:15",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "700-BLK W BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Brookland Park Boulevard, Northside",
-    "location_township": "DPR",
-    "lat": 37.5724275,
-    "lng": -77.4487587
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 04:34",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "900-BLK W MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551188,
-    "lng": -77.448785
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 04:38",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -128,5 +102,18 @@
     "location_township": "Precinct 2",
     "lat": 37.469697,
     "lng": -77.450641
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 04:46",
+    "box_no": "Precinct 2",
+    "type_specific": "SEX OFFENSE , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 2",
+    "lat": 37.516009,
+    "lng": -77.525109
   }
 ]
