@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 04:45",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2900-BLK TRANSPORT ST",
+    "dispatch_time": "12/12/2025 05:12",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "900-BLK E 15TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Transport Street",
-    "location_township": "Precinct 2",
-    "lat": 37.469697,
-    "lng": -77.450641
+    "nearest_intersection": "Dinwiddie Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.513208,
+    "lng": -77.44072
   },
   {
     "type_general": "RFD",
