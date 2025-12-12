@@ -59,10 +59,10 @@
     "street": "5800-BLK ORCUTT LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4829472,
-    "lng": -77.4998228
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -72,36 +72,10 @@
     "street": "7700-BLK E PARHAM RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Parham Road, Henrico",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.6312963,
     "lng": -77.5251363
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:20",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:20",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -113,8 +87,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5233856,
-    "lng": -77.4441406
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -124,10 +98,10 @@
     "street": "300-BLK W CLAY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Clay Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5492224,
-    "lng": -77.4430642
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -137,10 +111,10 @@
     "street": "1200-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Cary Street",
     "location_township": "DPR",
-    "lat": null,
-    "lng": null
+    "lat": 37.5359119,
+    "lng": -77.4342744
   },
   {
     "type_general": "RPD",
@@ -150,10 +124,10 @@
     "street": "600-BLK W SOUTHSIDE PLZ",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Southside Plaza, Southside",
     "location_township": "DPR",
-    "lat": null,
-    "lng": null
+    "lat": 37.5012106,
+    "lng": -77.4784074
   },
   {
     "type_general": "RPD",
@@ -163,23 +137,10 @@
     "street": "1600-BLK WILLIAMSBURG RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Williamsburg Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.51462,
-    "lng": -77.396434
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:09",
-    "box_no": "Precinct 3",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "2400-BLK W MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": 37.5511863,
-    "lng": -77.4707987
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -189,10 +150,10 @@
     "street": "2600-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hull Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.513339,
-    "lng": -77.456128
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -208,6 +169,32 @@
     "lng": -77.4644612
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 18:04",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "00-BLK GREENWAY LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": 37.5716117,
+    "lng": -77.5102709
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 18:06",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "ELLWOOD AVE/N BELMONT AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": 37.5533831,
+    "lng": -77.4775739
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/12/2025 18:00",
     "box_no": "FIRE",
@@ -215,7 +202,7 @@
     "street": "0-BLK N LAUREL ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North Laurel Street",
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
@@ -228,7 +215,7 @@
     "street": "0-BLK N LAUREL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North Laurel Street",
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
@@ -248,55 +235,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:21",
-    "box_no": "Precinct 2",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "E BROAD ROCK RD/MCGUIRE DR RICH",
+    "dispatch_time": "12/12/2025 18:20",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5038637,
-    "lng": -77.4650326
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:21",
-    "box_no": "Precinct 2",
-    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
-    "street": "E BROAD ROCK RD/MCGUIRE DR RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5038637,
-    "lng": -77.4650326
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:24",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK N 23RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.549793,
-    "lng": -77.40621
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:27",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "300-BLK W BROOKLAND PARK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Brookland Park Boulevard, Northside",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5718528,
-    "lng": -77.4364053
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 18:20",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -306,10 +267,10 @@
     "street": "W BROAD ST/N ROBINSON ST RICH",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "DPR",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -319,22 +280,74 @@
     "street": "N 21ST ST/PHAUP ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 21st Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
     "lat": 37.5460125,
     "lng": -77.4108059
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 18:33",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1500-BLK JENNIE SCHER RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 18:27",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "300-BLK W BROOKLAND PARK BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road, East End",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 18:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "SCHOOL ST/CHAMBERLAYNE PKWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": 37.5599292,
+    "lng": -77.4443079
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 18:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "SCHOOL ST/CHAMBERLAYNE PKWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": 37.5599292,
+    "lng": -77.4443079
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 18:44",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "SCHOOL ST/CHAMBERLAYNE PKWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "School Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5599292,
+    "lng": -77.4443079
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 18:38",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
     "location_township": "FIRE",
-    "lat": 37.5231263,
-    "lng": -77.3987139
+    "lat": 37.590597,
+    "lng": -77.464322
   }
 ]
