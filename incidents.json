@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:17",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "800-BLK E 36TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 36th Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.502979,
-    "lng": -77.465902
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:50",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -196,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:26",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "700-BLK E BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5419283,
+    "lng": -77.4353683
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/12/2025 15:37",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -215,23 +215,10 @@
     "street": "W BROAD ST/STAPLES MILL RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Broad Street",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:26",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "700-BLK E BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5419283,
-    "lng": -77.4353683
+    "lat": 37.5467727,
+    "lng": -77.4436631
   },
   {
     "type_general": "RPD",
@@ -252,11 +239,37 @@
     "box_no": "Precinct 2",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "5800-BLK SHALLOW WAY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Shallow Way",
     "location_township": "Precinct 2",
     "lat": 37.4998986,
     "lng": -77.5028901
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:50",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2900-BLK NOBLE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Noble Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5702327,
+    "lng": -77.4423159
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:57",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "601-BLK W SOUTHSIDE PLZ",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5043742,
+    "lng": -77.4751373
   }
 ]
