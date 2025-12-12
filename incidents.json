@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 07:46",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "400-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.523149,
-    "lng": -77.436061
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 08:17",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -63,32 +50,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5620282,
     "lng": -77.468756
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 08:23",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HULL ST/COMMERCE RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 1",
-    "lat": 37.4974544,
-    "lng": -77.4810279
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 08:36",
-    "box_no": "DPR",
-    "type_specific": "TRESPASSING , DPR/ADVICE",
-    "street": "4400-BLK ANGUS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Angus Road",
-    "location_township": "DPR",
-    "lat": 37.4663708,
-    "lng": -77.4598079
   },
   {
     "type_general": "RPD",
@@ -118,16 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 08:49",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "600-BLK HOLLY SPRING AVE",
-    "status": "Enroute",
+    "dispatch_time": "12/12/2025 08:50",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1900-BLK HOPKINS RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Holly Spring Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5048999,
-    "lng": -77.4623473
+    "nearest_intersection": "Hopkins Road, Southside",
+    "location_township": "DPR",
+    "lat": 37.491725,
+    "lng": -77.463688
   },
   {
     "type_general": "RPD",
@@ -170,29 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 09:17",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "600-BLK W SOUTHSIDE PLZ",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 09:17",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "600-BLK W SOUTHSIDE PLZ",
+    "dispatch_time": "12/12/2025 09:05",
+    "box_no": "Precinct 3",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE - EMS",
+    "street": "3500-BLK ELLWOOD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
+    "nearest_intersection": "Ellwood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.556473,
+    "lng": -77.486031
   },
   {
     "type_general": "RPD",
@@ -209,32 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 09:23",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "400-BLK S BELVIDERE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 09:23",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "400-BLK S BELVIDERE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 09:18",
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , DPR/ADVICE",
@@ -245,45 +167,6 @@
     "location_township": "Precinct 3",
     "lat": 37.548929,
     "lng": -77.4724384
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 09:05",
-    "box_no": "Precinct 3",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE - EMS",
-    "street": "3500-BLK ELLWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ellwood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.556473,
-    "lng": -77.486031
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 09:18",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "2300-BLK HANOVER AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hanover Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5543183,
-    "lng": -77.4681761
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 09:25",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "900-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.522337,
-    "lng": -77.441729
   },
   {
     "type_general": "RPD",
@@ -310,5 +193,57 @@
     "location_township": "FIRE",
     "lat": 37.539231,
     "lng": -77.545258
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 09:25",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "900-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.522337,
+    "lng": -77.441729
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 09:39",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "200-BLK HOSPITAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hospital Street",
+    "location_township": "FIRE",
+    "lat": 37.5533597,
+    "lng": -77.4314478
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 09:18",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "2300-BLK HANOVER AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hanover Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5543183,
+    "lng": -77.4681761
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 09:33",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "3200-BLK 5TH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "5th Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5693399,
+    "lng": -77.4125304
   }
 ]
