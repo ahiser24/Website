@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 21:44",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "E BROOKLAND PARK BLVD/NORTH AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard",
-    "location_township": "Precinct 4",
-    "lat": 37.568967,
-    "lng": -77.4167096
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 22:47",
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
@@ -109,7 +96,7 @@
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
     "street": "5000-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Fergerson Road",
     "location_township": "Precinct 3",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 23:34",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3400-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 23:12",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -157,16 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 00:16",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1300-BLK COALTER ST",
+    "dispatch_time": "12/11/2025 23:34",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "3400-BLK MAURY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Coalter Street",
-    "location_township": "Precinct 1",
-    "lat": 37.543765,
-    "lng": -77.422946
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5030567,
+    "lng": -77.4626598
   },
   {
     "type_general": "RPD",
@@ -222,16 +196,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 00:30",
-    "box_no": "Precinct 2",
-    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
-    "street": "2600-BLK RICHMOND HWY",
+    "dispatch_time": "12/12/2025 00:36",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3000-BLK NINE MILE RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4880431,
-    "lng": -77.4468592
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.542062,
+    "lng": -77.399754
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 00:23",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "00-BLK W GRACE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "DPR",
+    "lat": 37.551079,
+    "lng": -77.453249
   },
   {
     "type_general": "RPD",
@@ -239,24 +226,11 @@
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "6300-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Bergen Drive",
     "location_township": "Precinct 3",
     "lat": 37.5215193,
     "lng": -77.5137851
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 00:26",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "4600-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "FIRE",
-    "lat": 37.464094,
-    "lng": -77.442993
   }
 ]
