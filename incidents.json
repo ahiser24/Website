@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 23:12",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "PATTERSON AVE/THREE CHOPT RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Patterson Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5634214,
-    "lng": -77.4843201
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 05:48",
     "box_no": "Precinct 4",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -44,7 +31,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "4600-BLK W BROAD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 3",
@@ -63,5 +50,18 @@
     "location_township": "Precinct 2",
     "lat": 37.4664874,
     "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 06:51",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
   }
 ]
