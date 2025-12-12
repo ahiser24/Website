@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 10:00",
-    "box_no": "Precinct 4",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "2400-BLK CHAMBERLAYNE AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 10:00",
-    "box_no": "Precinct 4",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "2400-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5845486,
-    "lng": -77.4473886
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 10:05",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , NUISANCE",
@@ -141,6 +115,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5388033,
     "lng": -77.4367707
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 10:12",
+    "box_no": "Precinct 1",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "2100-BLK SELDEN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Selden Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5502101,
+    "lng": -77.4076761
   },
   {
     "type_general": "RFD",
@@ -183,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 10:12",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "2100-BLK SELDEN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Selden Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5502101,
-    "lng": -77.4076761
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 10:16",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -206,32 +180,6 @@
     "location_township": "Precinct 4",
     "lat": 37.557176,
     "lng": -77.446604
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 10:26",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "800-BLK PERRY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Perry Street",
-    "location_township": "Precinct 1",
-    "lat": 37.525285,
-    "lng": -77.443659
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 10:26",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "800-BLK PERRY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Perry Street",
-    "location_township": "Precinct 1",
-    "lat": 37.525285,
-    "lng": -77.443659
   },
   {
     "type_general": "RPD",
@@ -297,5 +245,57 @@
     "location_township": "Precinct 1",
     "lat": 37.545519,
     "lng": -77.398135
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 10:35",
+    "box_no": "Precinct 1",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "1600-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 1",
+    "lat": 37.5151725,
+    "lng": -77.4441974
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 10:38",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "1700-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5422553,
+    "lng": -77.4046343
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 10:26",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1700-BLK CLARKSON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 3",
+    "lat": 37.4923295,
+    "lng": -77.481047
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 10:41",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
+    "street": "WOODBINE RD/ARCHER AVE RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Woodbine Road",
+    "location_township": "FIRE",
+    "lat": 37.5240599,
+    "lng": -77.4805536
   }
 ]
