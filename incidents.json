@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "5300-BLK HULL STREET RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 04:11",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , AGGRESSIVE",
-    "street": "500-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5224135,
-    "lng": -77.436784
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 04:38",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "5800-BLK ORCUTT LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4829472,
-    "lng": -77.4998228
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 04:45",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -104,16 +78,16 @@
     "lng": -77.450641
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 04:46",
-    "box_no": "Precinct 2",
-    "type_specific": "SEX OFFENSE , INVESTIGATE",
-    "street": "7100-BLK JAHNKE RD",
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 05:01",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , WATER RELATED",
+    "street": "4300-BLK CRUTCHFIELD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 2",
-    "lat": 37.516009,
-    "lng": -77.525109
+    "nearest_intersection": "Norcroft Drive",
+    "location_township": "FIRE",
+    "lat": 37.5107675,
+    "lng": -77.4859506
   }
 ]
