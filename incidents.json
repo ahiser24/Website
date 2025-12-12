@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 05:32",
-    "box_no": "Precinct 1",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "1400-BLK JENNIE SCHER RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5226217,
-    "lng": -77.3994575
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 05:48",
     "box_no": "Precinct 4",
     "type_specific": "SEARCH WARRANT , INVESTIGATE",
@@ -53,41 +40,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 05:48",
-    "box_no": "Precinct 4",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "1500-BLK SIR WILLIAM CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 05:48",
-    "box_no": "Precinct 4",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "1500-BLK SIR WILLIAM CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 06:26",
-    "box_no": "Precinct 4",
+    "dispatch_time": "12/12/2025 06:29",
+    "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3200-BLK LANVALE AVE",
-    "status": "Enroute",
+    "street": "00-BLK N NANSEMOND ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Lanvale Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5760024,
-    "lng": -77.4672259
+    "nearest_intersection": "North Nansemond Street",
+    "location_township": "Precinct 3",
+    "lat": 37.563113,
+    "lng": -77.4820921
   }
 ]
