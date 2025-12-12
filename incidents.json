@@ -131,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:17",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "800-BLK E 36TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 36th Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.502979,
+    "lng": -77.465902
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:50",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -157,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:12",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "6900-BLK W CARNATION ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5097042,
-    "lng": -77.5233859
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 15:08",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -183,29 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:30",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "5200-BLK SALEM ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Salem Street",
-    "location_township": "DPR",
-    "lat": 37.5128151,
-    "lng": -77.3963255
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:17",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "800-BLK E 36TH ST",
+    "dispatch_time": "12/12/2025 15:12",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "6900-BLK W CARNATION ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 36th Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.502979,
-    "lng": -77.465902
+    "nearest_intersection": "West Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5097042,
+    "lng": -77.5233859
   },
   {
     "type_general": "RPD",
@@ -228,22 +215,48 @@
     "street": "W BROAD ST/STAPLES MILL RD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "lat": null,
+    "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 15:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
-    "street": "3500-BLK EAST RICHMOND RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:26",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "700-BLK E BROAD ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Richmond Road",
-    "location_township": "FIRE",
-    "lat": 37.5301228,
-    "lng": -77.3889896
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5419283,
+    "lng": -77.4353683
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:45",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "300-BLK W FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5460104,
+    "lng": -77.446368
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:50",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "5800-BLK SHALLOW WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Shallow Way",
+    "location_township": "Precinct 2",
+    "lat": 37.4998986,
+    "lng": -77.5028901
   }
 ]
