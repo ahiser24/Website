@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 00:03",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "6300-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5215193,
-    "lng": -77.5137851
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 01:25",
     "box_no": "Precinct 1",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
@@ -76,5 +63,44 @@
     "location_township": "Precinct 1",
     "lat": 37.513208,
     "lng": -77.44072
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 05:32",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1400-BLK JENNIE SCHER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5226217,
+    "lng": -77.3994575
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 05:37",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "400-BLK CATHERINE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Catherine Street",
+    "location_township": "Precinct 4",
+    "lat": 37.550167,
+    "lng": -77.443378
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 05:35",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2300-BLK E TREMONT CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Tremont Court",
+    "location_township": "FIRE",
+    "lat": 37.5333177,
+    "lng": -77.5362406
   }
 ]
