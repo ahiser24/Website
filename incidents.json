@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
     "street": "5300-BLK HULL STREET RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Hull Street Road",
     "location_township": "Precinct 2",
@@ -79,15 +79,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 03:42",
-    "box_no": "Precinct 1",
-    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
-    "street": "1200-BLK DECATUR ST",
+    "dispatch_time": "12/12/2025 04:04",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "3400-BLK W CLAY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Decatur Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5197075,
-    "lng": -77.443326
+    "nearest_intersection": "West Clay Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5694404,
+    "lng": -77.4748981
   }
 ]
