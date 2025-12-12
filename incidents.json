@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:43",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "100-BLK W MARSHALL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "DPR",
-    "lat": 37.547254,
-    "lng": -77.4419569
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:50",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -170,6 +157,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:37",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "STAPLES MILL RD/W BROAD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Staples Mill Road, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.5760916,
+    "lng": -77.4985378
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/12/2025 15:12",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
@@ -183,55 +183,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:26",
+    "dispatch_time": "12/12/2025 15:50",
     "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "700-BLK E BROAD ST",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2900-BLK NOBLE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
+    "nearest_intersection": "Noble Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.5419283,
-    "lng": -77.4353683
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:37",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "STAPLES MILL RD/W BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Staples Mill Road, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5760916,
-    "lng": -77.4985378
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 15:36",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "W BROAD ST/STAPLES MILL RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:45",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "300-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5460104,
-    "lng": -77.446368
+    "lat": 37.5702327,
+    "lng": -77.4423159
   },
   {
     "type_general": "RPD",
@@ -245,19 +206,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4998986,
     "lng": -77.5028901
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:50",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2900-BLK NOBLE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Noble Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5702327,
-    "lng": -77.4423159
   },
   {
     "type_general": "RPD",
