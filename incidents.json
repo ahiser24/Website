@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 15:50",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "2800-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "DPR",
-    "lat": 37.4801667,
-    "lng": -77.4805903
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 22:49",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -141,6 +128,19 @@
     "location_township": "Precinct 4",
     "lat": 37.581665,
     "lng": -77.446998
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 02:42",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "3100-BLK GARLAND AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Garland Avenue, Northside",
+    "location_township": "DPR",
+    "lat": 37.5731801,
+    "lng": -77.4340389
   },
   {
     "type_general": "RFD",
