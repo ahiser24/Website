@@ -118,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:50",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "5800-BLK SHALLOW WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Shallow Way",
-    "location_township": "Precinct 2",
-    "lat": 37.4998986,
-    "lng": -77.5028901
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 15:57",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -141,19 +128,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5043742,
     "lng": -77.4751373
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:50",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2900-BLK NOBLE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Noble Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5702327,
-    "lng": -77.4423159
   },
   {
     "type_general": "RPD",
@@ -170,16 +144,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:12",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
+    "dispatch_time": "12/12/2025 15:50",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2900-BLK NOBLE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Admiral Gravely Boulevard, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.520445,
-    "lng": -77.40241
+    "nearest_intersection": "Noble Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5702327,
+    "lng": -77.4423159
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:47",
+    "box_no": "DPR",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "1200-BLK DUBOIS AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Dubois Avenue, Northside",
+    "location_township": "DPR",
+    "lat": 37.566348,
+    "lng": -77.448966
   },
   {
     "type_general": "RPD",
@@ -187,12 +174,25 @@
     "box_no": "Precinct 3",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "German School Road",
     "location_township": "Precinct 3",
     "lat": 37.516032,
     "lng": -77.512119
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 16:03",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "DPR",
+    "lat": 37.53551,
+    "lng": -77.431692
   },
   {
     "type_general": "RFD",
@@ -247,16 +247,55 @@
     "lng": -77.4583743
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 16:12",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Admiral Gravely Boulevard, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.520445,
+    "lng": -77.40241
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/12/2025 16:22",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
     "street": "3600-BLK CAROLINA AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Carolina Avenue",
     "location_township": "FIRE",
     "lat": 37.5790272,
     "lng": -77.4159466
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 16:22",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5800-BLK ORCUTT LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4829472,
+    "lng": -77.4998228
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 16:28",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "2100-BLK PHAUP ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Phaup Street",
+    "location_township": "FIRE",
+    "lat": 37.5510819,
+    "lng": -77.407214
   }
 ]
