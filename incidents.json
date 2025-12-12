@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:42",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1800-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5466404,
-    "lng": -77.4092602
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:18",
     "box_no": "Precinct 1",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:00",
-    "box_no": "Precinct 4",
-    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
-    "street": "600-BLK S 2ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 2nd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5363511,
-    "lng": -77.4481027
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:50",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -183,16 +157,42 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:12",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "6900-BLK W CARNATION ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5097042,
+    "lng": -77.5233859
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/12/2025 15:08",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
     "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Dispatched",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "German School Road",
     "location_township": "Precinct 3",
     "lat": 37.516032,
     "lng": -77.512119
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:30",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "5200-BLK SALEM ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Salem Street",
+    "location_township": "DPR",
+    "lat": 37.5128151,
+    "lng": -77.3963255
   },
   {
     "type_general": "RPD",
@@ -208,42 +208,42 @@
     "lng": -77.465902
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 15:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "3200-BLK SHERBROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sherbrook Road",
-    "location_township": "FIRE",
-    "lat": 37.542379,
-    "lng": -77.552445
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 15:23",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "200-BLK HIOAKS RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hioaks Road",
-    "location_township": "FIRE",
-    "lat": 37.5056338,
-    "lng": -77.5252413
-  },
-  {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:12",
+    "dispatch_time": "12/12/2025 15:37",
     "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "6900-BLK W CARNATION ST",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "STAPLES MILL RD/W BROAD ST RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
+    "nearest_intersection": "Staples Mill Road, West End",
     "location_township": "Precinct 3",
-    "lat": 37.5097042,
-    "lng": -77.5233859
+    "lat": 37.5760916,
+    "lng": -77.4985378
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 15:36",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "W BROAD ST/STAPLES MILL RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 15:40",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STROKE",
+    "street": "3500-BLK EAST RICHMOND RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Richmond Road",
+    "location_township": "FIRE",
+    "lat": 37.5301228,
+    "lng": -77.3889896
   }
 ]
