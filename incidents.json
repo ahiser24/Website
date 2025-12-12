@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 12:20",
-    "box_no": "Precinct 1",
-    "type_specific": "SEARCH WARRANT , INVESTIGATE",
-    "street": "200-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 1",
-    "lat": 37.547,
-    "lng": -77.4435632
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:10",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -76,19 +63,6 @@
     "location_township": "Precinct 1",
     "lat": 37.507524,
     "lng": -77.437799
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:43",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1300-BLK GREENMOSS DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greenmoss Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.519751,
-    "lng": -77.51884
   },
   {
     "type_general": "RPD",
@@ -195,6 +169,32 @@
     "lng": -77.431692
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 16:13",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "2700-BLK GRANTWOOD CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Grantwood Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5389963,
+    "lng": -77.5359863
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:43",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1300-BLK GREENMOSS DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Greenmoss Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.519751,
+    "lng": -77.51884
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/12/2025 16:13",
     "box_no": "FIRE",
@@ -206,6 +206,19 @@
     "location_township": "FIRE",
     "lat": 37.5389963,
     "lng": -77.5359863
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 16:22",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5800-BLK ORCUTT LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4829472,
+    "lng": -77.4998228
   },
   {
     "type_general": "RPD",
@@ -222,41 +235,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:12",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1200-BLK ADMIRAL GRAVELY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Admiral Gravely Boulevard, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.520445,
-    "lng": -77.40241
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:13",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , EMS RESPONSE",
-    "street": "2700-BLK GRANTWOOD CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Grantwood Court",
-    "location_township": "Precinct 3",
-    "lat": 37.5389963,
-    "lng": -77.5359863
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:22",
+    "dispatch_time": "12/12/2025 16:44",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "5800-BLK ORCUTT LN",
+    "street": "3700-BLK GREENBAY RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Greenbay Road",
+    "location_township": "Precinct 2",
+    "lat": 37.481184,
+    "lng": -77.465414
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 16:46",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "1400-BLK OLIVER HILL WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Oliver Hill Way",
+    "location_township": "FIRE",
+    "lat": 37.5463731,
+    "lng": -77.424579
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 16:21",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1900-BLK LAKEVIEW AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Orcutt Lane",
-    "location_township": "Precinct 2",
-    "lat": 37.4829472,
-    "lng": -77.4998228
+    "nearest_intersection": "Lakeview Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5432505,
+    "lng": -77.4678122
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 16:35",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1000-BLK PORTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5233856,
+    "lng": -77.4441406
   }
 ]
