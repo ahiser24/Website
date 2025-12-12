@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 20:20",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
-    "street": "1500-BLK BANGLE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bangle Drive",
-    "location_township": "Precinct 1",
-    "lat": 37.4963744,
-    "lng": -77.4552953
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 20:20",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
-    "street": "1500-BLK BANGLE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bangle Drive",
-    "location_township": "Precinct 1",
-    "lat": 37.4963744,
-    "lng": -77.4552953
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 21:44",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -105,16 +79,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 22:40",
+    "dispatch_time": "12/11/2025 22:45",
     "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1800-BLK HIGHPOINT AVE",
+    "type_specific": "OVERDOSE/POISONING , OVERDOSE INTENTIONAL",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Highpoint Avenue",
+    "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.570312,
-    "lng": -77.469224
+    "lat": 37.5884889,
+    "lng": -77.4485395
   },
   {
     "type_general": "RPD",
@@ -141,45 +115,6 @@
     "location_township": "Precinct 4",
     "lat": 37.590597,
     "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 23:10",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "800-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5388033,
-    "lng": -77.4367707
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 23:34",
-    "box_no": "Precinct 2",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3400-BLK MAURY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 23:00",
-    "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "1200-BLK NELSON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nelson Street",
-    "location_township": "DPR",
-    "lat": 37.5131526,
-    "lng": -77.4030988
   },
   {
     "type_general": "RPD",
@@ -219,5 +154,57 @@
     "location_township": "Precinct 3",
     "lat": 37.5634214,
     "lng": -77.4843201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 23:10",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "800-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5388033,
+    "lng": -77.4367707
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 23:34",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "3400-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5030567,
+    "lng": -77.4626598
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 00:03",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "6300-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5215193,
+    "lng": -77.5137851
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 00:08",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2500-BLK PORTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Porter Street",
+    "location_township": "Precinct 2",
+    "lat": 37.51714,
+    "lng": -77.456796
   }
 ]
