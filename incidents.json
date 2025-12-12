@@ -135,25 +135,12 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSAULT , INVESTIGATE",
     "street": "1700-BLK BELLEVUE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bellevue Avenue",
     "location_township": "Precinct 4",
     "lat": 37.590597,
     "lng": -77.464322
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/11/2025 22:47",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , STABBING",
-    "street": "2900-BLK EDGEWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Edgewood Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5704194,
-    "lng": -77.4389372
   },
   {
     "type_general": "RPD",
@@ -170,48 +157,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/11/2025 23:26",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "500-BLK N 18TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "Precinct 1",
-    "lat": 37.537407,
-    "lng": -77.423497
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 23:26",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "500-BLK N 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Clay Street",
-    "location_township": "Precinct 1",
-    "lat": 37.537407,
-    "lng": -77.423497
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 23:16",
-    "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "00-BLK E 32ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 32nd Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5065641,
-    "lng": -77.4644767
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/11/2025 23:12",
     "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "type_specific": "CRASH , PERSONAL INJURY",
     "street": "PATTERSON AVE/THREE CHOPT RD RICH",
     "status": "Arrived",
     "cross_street": "",
@@ -219,19 +167,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5634214,
     "lng": -77.4843201
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/11/2025 22:49",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "1800-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532898,
-    "lng": -77.427455
   },
   {
     "type_general": "RPD",
@@ -297,5 +232,31 @@
     "location_township": "FIRE",
     "lat": 37.5634214,
     "lng": -77.4843201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/11/2025 22:49",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1800-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.532898,
+    "lng": -77.427455
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/11/2025 23:49",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "1200-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "FIRE",
+    "lat": 37.520818,
+    "lng": -77.444127
   }
 ]
