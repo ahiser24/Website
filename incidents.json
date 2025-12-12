@@ -81,7 +81,7 @@
     "type_general": "RPD",
     "dispatch_time": "12/12/2025 02:09",
     "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "3600-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
@@ -115,44 +115,5 @@
     "location_township": "Precinct 3",
     "lat": 37.5140128,
     "lng": -77.4895724
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 03:02",
-    "box_no": "Precinct 2",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "800-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.508793,
-    "lng": -77.4480183
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 03:02",
-    "box_no": "Precinct 2",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "800-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.508793,
-    "lng": -77.4480183
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 02:38",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3000-BLK LYNHAVEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Terminal Avenue",
-    "location_township": "FIRE",
-    "lat": 37.483094,
-    "lng": -77.440989
   }
 ]
