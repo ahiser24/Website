@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 11:06",
-    "box_no": "Precinct 1",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "2300-BLK ROSETTA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rosetta Street",
-    "location_township": "Precinct 1",
-    "lat": 37.548743,
-    "lng": -77.406126
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 11:11",
     "box_no": "Precinct 4",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:26",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "DABNEY RD/W BROAD ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Dabney Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5729476,
-    "lng": -77.4829543
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:10",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -92,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:31",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "700-BLK N 8TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 8th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5457044,
-    "lng": -77.4309696
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 14:42",
     "box_no": "Precinct 1",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -115,19 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5466404,
     "lng": -77.4092602
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 13:44",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "6000-BLK ST ANDREWS LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint Andrews Lane, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5727144,
-    "lng": -77.524302
   },
   {
     "type_general": "RPD",
@@ -170,16 +118,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 14:50",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2100-BLK SEMMES AVE",
-    "status": "Enroute",
+    "dispatch_time": "12/12/2025 15:09",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3800-BLK GREENBAY RD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5215929,
-    "lng": -77.4545457
+    "nearest_intersection": "Greenbay Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.481669,
+    "lng": -77.467646
   },
   {
     "type_general": "RPD",
@@ -196,24 +144,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:09",
-    "box_no": "Precinct 2",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3800-BLK GREENBAY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greenbay Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.481669,
-    "lng": -77.467646
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 15:00",
     "box_no": "Precinct 4",
     "type_specific": "RECKLESS DRIVING , INVESTIGATE",
     "street": "600-BLK S 2ND ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "South 2nd Street",
     "location_township": "Precinct 4",
@@ -221,30 +156,43 @@
     "lng": -77.4481027
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 15:10",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @EXIT 79 - I95 SB (I64 WB / I195 SB)",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:50",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2100-BLK SEMMES AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5215929,
+    "lng": -77.4545457
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 15:10",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @EXIT 79 - I95 SB (I64 WB / I195 SB)",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 14:26",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "DABNEY RD/W BROAD ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Dabney Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5729476,
+    "lng": -77.4829543
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 15:08",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516032,
+    "lng": -77.512119
   },
   {
     "type_general": "RPD",
@@ -260,16 +208,42 @@
     "lng": -77.465902
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 15:22",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "3200-BLK SHERBROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sherbrook Road",
+    "location_township": "FIRE",
+    "lat": 37.542379,
+    "lng": -77.552445
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 15:23",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "200-BLK HIOAKS RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hioaks Road",
+    "location_township": "FIRE",
+    "lat": 37.5056338,
+    "lng": -77.5252413
+  },
+  {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:19",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "600-BLK HULL ST",
+    "dispatch_time": "12/12/2025 15:12",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "6900-BLK W CARNATION ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.523849,
-    "lng": -77.439355
+    "nearest_intersection": "West Carnation Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5097042,
+    "lng": -77.5233859
   }
 ]
