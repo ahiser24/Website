@@ -44,7 +44,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
     "street": "500-BLK CRAIGIE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Craigie Avenue, Northside",
     "location_township": "Precinct 4",
@@ -63,45 +63,6 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:03",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1500-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 14th Street",
-    "location_township": "DPR",
-    "lat": 37.53551,
-    "lng": -77.431692
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:53",
-    "box_no": "Precinct 3",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "2000-BLK RIVERSIDE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.52427,
-    "lng": -77.4552133
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 15:50",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2900-BLK NOBLE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Noble Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5702327,
-    "lng": -77.4423159
   },
   {
     "type_general": "RPD",
@@ -131,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 17:13",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "E 10TH ST/STOCKTON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 10th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5202982,
-    "lng": -77.4407905
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 17:33",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -170,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:51",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "400-BLK HUNT AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hunt Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.580697,
-    "lng": -77.4282483
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 17:09",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -193,6 +128,71 @@
     "location_township": "Precinct 2",
     "lat": 37.5015735,
     "lng": -77.4755884
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 17:11",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "S 15TH ST/E CARY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 15th Street",
+    "location_township": "DPR",
+    "lat": 37.5333191,
+    "lng": -77.4315779
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 17:29",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "5400-BLK DECKER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Decker Road",
+    "location_township": "Precinct 3",
+    "lat": 37.512313,
+    "lng": -77.4989996
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 17:40",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "1100-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 17:45",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1500-BLK BRUCE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bruce Street",
+    "location_township": "Precinct 1",
+    "lat": 37.50618,
+    "lng": -77.434587
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 17:48",
+    "box_no": "Precinct 4",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "3300-BLK NORTH AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5765192,
+    "lng": -77.4328957
   },
   {
     "type_general": "RFD",
@@ -208,16 +208,16 @@
     "lng": -77.504484
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 17:36",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "4500-BLK CORBIN ST",
-    "status": "Dispatched",
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 17:46",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SPRINKLER/WATERFLOW",
+    "street": "1400-BLK W CARY ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Corbin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5925633,
-    "lng": -77.4399725
+    "nearest_intersection": "West Cary Street",
+    "location_township": "FIRE",
+    "lat": 37.545579,
+    "lng": -77.459189
   }
 ]
