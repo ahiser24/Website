@@ -209,32 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:20",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "I-95/I-64 RICH:EST LL(-77.4437,37.5527)",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond-Petersburg Turnpike",
-    "location_township": "Precinct 4",
-    "lat": 37.5741027,
-    "lng": -77.4601736
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:20",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "I-95/I-64 RICH:EST LL(-77.4437,37.5527)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond-Petersburg Turnpike",
-    "location_township": "Precinct 4",
-    "lat": 37.5741027,
-    "lng": -77.4601736
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 16:15",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -250,7 +224,7 @@
     "type_general": "RPD",
     "dispatch_time": "12/12/2025 16:12",
     "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "1200-BLK ADMIRAL GRAVELY BLVD",
     "status": "Arrived",
     "cross_street": "",
@@ -260,17 +234,17 @@
     "lng": -77.40241
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 16:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3600-BLK CAROLINA AVE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 16:13",
+    "box_no": "Precinct 3",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "2700-BLK GRANTWOOD CT",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Carolina Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5790272,
-    "lng": -77.4159466
+    "nearest_intersection": "Grantwood Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5389963,
+    "lng": -77.5359863
   },
   {
     "type_general": "RPD",
@@ -278,24 +252,11 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "5800-BLK ORCUTT LN",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Orcutt Lane",
     "location_township": "Precinct 2",
     "lat": 37.4829472,
     "lng": -77.4998228
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 16:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "2100-BLK PHAUP ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Phaup Street",
-    "location_township": "FIRE",
-    "lat": 37.5510819,
-    "lng": -77.407214
   }
 ]
