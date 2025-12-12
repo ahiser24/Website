@@ -108,26 +108,26 @@
     "dispatch_time": "12/12/2025 08:17",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "1800-BLK W BROAD ST",
+    "street": "2700-BLK W BROAD ST",
     "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5564183,
-    "lng": -77.4595959
+    "lat": 37.5620282,
+    "lng": -77.468756
   },
   {
     "type_general": "RPD",
     "dispatch_time": "12/12/2025 08:17",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "1800-BLK W BROAD ST",
+    "street": "2700-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5564183,
-    "lng": -77.4595959
+    "lat": 37.5620282,
+    "lng": -77.468756
   },
   {
     "type_general": "RPD",
@@ -170,15 +170,54 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/12/2025 08:49",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "600-BLK HOLLY SPRING AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Holly Spring Avenue, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5048999,
+    "lng": -77.4623473
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/12/2025 08:45",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "4600-BLK COMMERCE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Commerce Road",
     "location_township": "Precinct 2",
     "lat": 37.5205244,
     "lng": -77.4386505
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 08:52",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3500-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Iron Bridge Road",
+    "location_township": "Precinct 2",
+    "lat": 37.468377,
+    "lng": -77.486275
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 08:50",
+    "box_no": "Precinct 4",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1500-BLK BELLEVILLE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Belleville Street",
+    "location_township": "Precinct 4",
+    "lat": 37.571276,
+    "lng": -77.475525
   }
 ]
