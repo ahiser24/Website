@@ -91,16 +91,42 @@
     "lng": -77.4487587
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 04:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "3600-BLK RICHMOND HWY",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 04:34",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "900-BLK W MARSHALL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "FIRE",
-    "lat": 37.4752744,
-    "lng": -77.4444157
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.551188,
+    "lng": -77.448785
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 04:38",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "5800-BLK ORCUTT LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.4829472,
+    "lng": -77.4998228
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 04:45",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2900-BLK TRANSPORT ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Transport Street",
+    "location_township": "Precinct 2",
+    "lat": 37.469697,
+    "lng": -77.450641
   }
 ]
