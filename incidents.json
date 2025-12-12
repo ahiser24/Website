@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 03:39",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1200-BLK PARKWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Parkwood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.544069,
-    "lng": -77.457594
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 04:04",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
@@ -89,5 +76,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5694404,
     "lng": -77.4748981
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 04:09",
+    "box_no": "Precinct 1",
+    "type_specific": "ARMED PERSON WITH , INVESTIGATE",
+    "street": "500-BLK EVERETT ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everett Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5220829,
+    "lng": -77.4355912
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 04:11",
+    "box_no": "Precinct 1",
+    "type_specific": "DISORDERLY , AGGRESSIVE",
+    "street": "500-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Stockton Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5224135,
+    "lng": -77.436784
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 04:15",
+    "box_no": "Precinct 3",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "2600-BLK MELBOURNE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Melbourne Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.534392,
+    "lng": -77.517481
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 04:18",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
+    "street": "3100-BLK BROAD ROCK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard",
+    "location_township": "FIRE",
+    "lat": 37.4740153,
+    "lng": -77.4822441
   }
 ]
