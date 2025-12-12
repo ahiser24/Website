@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 01:41",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "400-BLK N 18TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.536538,
-    "lng": -77.424302
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 01:41",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "400-BLK N 18TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.536538,
-    "lng": -77.424302
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/12/2025 01:47",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -130,19 +104,6 @@
     "lng": -77.446998
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 02:42",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "3100-BLK GARLAND AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Garland Avenue, Northside",
-    "location_township": "DPR",
-    "lat": 37.5731801,
-    "lng": -77.4340389
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/12/2025 02:38",
     "box_no": "FIRE",
@@ -154,5 +115,18 @@
     "location_township": "FIRE",
     "lat": 37.483094,
     "lng": -77.440989
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/12/2025 02:54",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "1600-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "FIRE",
+    "lat": 37.554602,
+    "lng": -77.4561674
   }
 ]
