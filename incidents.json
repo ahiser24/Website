@@ -92,16 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:35",
+    "dispatch_time": "12/13/2025 07:38",
     "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N 1ST ST/E DUVAL ST RICH",
-    "status": "Arrived",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 1st Street",
+    "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
-    "lat": 37.5553171,
-    "lng": -77.4314859
+    "lat": 37.5602471,
+    "lng": -77.4431479
   },
   {
     "type_general": "RPD",
@@ -183,67 +183,15 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:17",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "100-BLK S BELVIDERE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:36",
-    "box_no": "Precinct 3",
+    "dispatch_time": "12/13/2025 08:51",
+    "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "street": "100-BLK S 15TH ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5063238,
-    "lng": -77.4972004
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:38",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1900-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5602471,
-    "lng": -77.4431479
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:32",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "LL(-77:30:41.5009,37:28:29.5679): EST 2293 MANDALAY RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mandalay Drive",
-    "location_township": "Precinct 2",
-    "lng": -77.51152802777777,
-    "lat": 37.474879972222226
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:36",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "300-BLK E 33RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 33rd Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5081386,
-    "lng": -77.4676639
+    "nearest_intersection": "South 15th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.533699,
+    "lng": -77.431349
   }
 ]
