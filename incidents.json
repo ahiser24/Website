@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 12:20",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "2900-BLK W STONY HILL CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Stony Hill Court",
-    "location_township": "Precinct 3",
-    "lat": 37.535933,
-    "lng": -77.568926
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 12:58",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -63,6 +50,19 @@
     "location_township": "Precinct 1",
     "lat": 37.548532,
     "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 13:20",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "S BELVIDERE ST/HOLLY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
   },
   {
     "type_general": "RPD",
@@ -82,26 +82,13 @@
     "dispatch_time": "12/13/2025 13:27",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1100-BLK W BROAD ST",
+    "street": "800-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.5518606,
-    "lng": -77.4518186
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 13:44",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2900-BLK COFER RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cofer Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4932381,
-    "lng": -77.4554705
+    "lat": 37.5499277,
+    "lng": -77.4485489
   },
   {
     "type_general": "RPD",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 13:20",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "S BELVIDERE ST/HOLLY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 14:10",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -193,6 +167,32 @@
     "location_township": "Precinct 3",
     "lat": 37.5235351,
     "lng": -77.5184305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 14:43",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "600-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5140128,
+    "lng": -77.4895724
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 14:38",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "10500-BLK DURYEA DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Duryea Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.536933,
+    "lng": -77.589364
   },
   {
     "type_general": "RFD",
