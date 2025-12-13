@@ -260,19 +260,6 @@
     "lng": -77.4366965
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 08:52",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "1100-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.5404762,
-    "lng": -77.4149768
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/13/2025 15:51",
     "box_no": "Precinct 2",
@@ -297,19 +284,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5367669,
     "lng": -77.4306282
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 16:05",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "FIRE",
-    "lat": 37.516032,
-    "lng": -77.512119
   },
   {
     "type_general": "RFD",
@@ -340,19 +314,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/13/2025 16:03",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "200-BLK N MADISON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 4",
-    "lat": 37.546498,
-    "lng": -77.445376
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 16:03",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "2200-BLK DINWIDDIE AVE",
@@ -364,12 +325,51 @@
     "lng": -77.446665
   },
   {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 16:13",
+    "box_no": "FIRE",
+    "type_specific": "# TRASH FIRE , DUMPSTER",
+    "street": "1500-BLK JENNIE SCHER RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "FIRE",
+    "lat": 37.5231263,
+    "lng": -77.3987139
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 16:03",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "200-BLK N MADISON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 4",
+    "lat": 37.546498,
+    "lng": -77.445376
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 16:17",
+    "box_no": "Precinct 3",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "5400-BLK NUTMEG CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nutmeg Court",
+    "location_township": "Precinct 3",
+    "lat": 37.510316,
+    "lng": -77.499085
+  },
+  {
     "type_general": "RPD",
     "dispatch_time": "12/13/2025 16:05",
     "box_no": "Precinct 3",
     "type_specific": "MEDICAL ALARM - DEFIBRILLATOR , INVESTIGATE",
     "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "German School Road",
     "location_township": "Precinct 3",
