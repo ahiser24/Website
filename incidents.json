@@ -106,32 +106,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/13/2025 18:36",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "6800-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5063238,
-    "lng": -77.4972004
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 18:30",
-    "box_no": "Precinct 1",
-    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
-    "street": "700-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.523338,
-    "lng": -77.440156
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 18:36",
     "box_no": "Precinct 1",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
     "street": "COOL LN/MECHANICSVILLE TPKE RICH",
@@ -141,32 +115,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5495323,
     "lng": -77.3958039
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 17:41",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "300-BLK E BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5442113,
-    "lng": -77.4388734
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 18:39",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "1000-BLK ST JOHN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Saint John Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5521887,
-    "lng": -77.4373302
   },
   {
     "type_general": "RPD",
@@ -206,6 +154,71 @@
     "location_township": "Precinct 4",
     "lat": 37.5514017,
     "lng": -77.4407689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 17:41",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "300-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5442113,
+    "lng": -77.4388734
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 18:39",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "1000-BLK ST JOHN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint John Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5521887,
+    "lng": -77.4373302
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 18:36",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5063238,
+    "lng": -77.4972004
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 18:39",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3000-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5725597,
+    "lng": -77.4456656
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 18:39",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3000-BLK CHAMBERLAYNE AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5725597,
+    "lng": -77.4456656
   },
   {
     "type_general": "RFD",
@@ -258,5 +271,44 @@
     "location_township": "FIRE",
     "lat": 37.4694278,
     "lng": -77.4434296
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 18:50",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "00-BLK W PILKINGTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Pilkington Street",
+    "location_township": "FIRE",
+    "lat": 37.5168832,
+    "lng": -77.4533286
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 18:50",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "N 18TH ST/E MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5366474,
+    "lng": -77.4240552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 18:50",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "N 18TH ST/E MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 18th Street",
+    "location_township": "FIRE",
+    "lat": 37.5366474,
+    "lng": -77.4240552
   }
 ]
