@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 00:21",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.581665,
-    "lng": -77.446998
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 00:37",
     "box_no": "Precinct 4",
     "type_specific": "ROBBERY , INVESTIGATE",
@@ -79,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 01:05",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "S BELVIDERE ST/W CARY ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 01:05",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "S BELVIDERE ST/W CARY ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Floyd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5450741,
-    "lng": -77.4489075
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 02:18",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -115,58 +76,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4865494,
     "lng": -77.5055394
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 02:21",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "100-BLK S 14TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South 14th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337178,
-    "lng": -77.4328912
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 03:01",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "400-BLK CALHOUN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Calhoun Street",
-    "location_township": "Precinct 4",
-    "lat": 37.553849,
-    "lng": -77.440305
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 02:53",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "100-BLK GRESHAMWOOD PL",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Greshamwood Place",
-    "location_township": "Precinct 3",
-    "lat": 37.5005134,
-    "lng": -77.5228532
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 03:02",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "MOSBY ST/E LEIGH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mosby Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5371525,
-    "lng": -77.4209262
   },
   {
     "type_general": "RPD",
@@ -245,5 +154,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5222275,
     "lng": -77.4453417
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 03:23",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "MONUMENT AVE/N ARTHUR ASHE BLVD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.566066,
+    "lng": -77.4807929
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 03:25",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "3500-BLK BROAD ROCK BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Iron Bridge Road",
+    "location_township": "FIRE",
+    "lat": 37.468377,
+    "lng": -77.486275
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 03:28",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "N 18TH ST/E MARSHALL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5366474,
+    "lng": -77.4240552
   }
 ]
