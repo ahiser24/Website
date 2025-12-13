@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 00:54",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "COWARDIN/SEMMES AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cowardin Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5186756,
-    "lng": -77.4487727
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 01:19",
     "box_no": "Precinct 1",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
@@ -209,32 +196,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 00:37",
-    "box_no": "Precinct 4",
-    "type_specific": "ROBBERY , INVESTIGATE",
-    "street": "400-BLK E FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Franklin Street",
-    "location_township": "Precinct 4",
-    "lat": 37.541751,
-    "lng": -77.439793
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 02:17",
-    "box_no": "Precinct 1",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "2400-BLK CARMINE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Carmine Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5562698,
-    "lng": -77.4167992
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 02:18",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -248,29 +209,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 02:21",
+    "dispatch_time": "12/13/2025 00:37",
     "box_no": "Precinct 4",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "300-BLK N ADAMS ST",
+    "type_specific": "ROBBERY , INVESTIGATE",
+    "street": "400-BLK E FRANKLIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "East Franklin Street",
     "location_township": "Precinct 4",
-    "lat": 37.546364,
-    "lng": -77.442794
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 02:21",
-    "box_no": "Precinct 4",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "300-BLK N ADAMS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.546364,
-    "lng": -77.442794
+    "lat": 37.541751,
+    "lng": -77.439793
   },
   {
     "type_general": "RPD",
@@ -287,6 +235,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/13/2025 02:21",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "300-BLK N ADAMS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.546364,
+    "lng": -77.442794
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 02:21",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "300-BLK N ADAMS ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.546364,
+    "lng": -77.442794
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/13/2025 02:24",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -297,19 +271,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5205385,
     "lng": -77.510489
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 02:34",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "6500-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5035598,
-    "lng": -77.5157461
   },
   {
     "type_general": "RPD",
@@ -323,5 +284,57 @@
     "location_township": "Precinct 2",
     "lat": 37.4999424,
     "lng": -77.5010213
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 02:42",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1300-BLK E CARY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "FIRE",
+    "lat": 37.5353479,
+    "lng": -77.4336162
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 02:40",
+    "box_no": "Precinct 2",
+    "type_specific": "PERSON DOWN , INVESTIGATE",
+    "street": "6500-BLK GREENBANK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greenbank Road",
+    "location_township": "Precinct 2",
+    "lat": 37.484961,
+    "lng": -77.513148
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 02:42",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "3000-BLK MONUMENT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Monument Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5626501,
+    "lng": -77.4741261
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 02:40",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "6500-BLK GREENBANK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Greenbank Road",
+    "location_township": "FIRE",
+    "lat": 37.484961,
+    "lng": -77.513148
   }
 ]
