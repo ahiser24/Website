@@ -96,7 +96,20 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "N 22ND ST/R ST RICH",
-    "status": "Arrived",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5407315,
+    "lng": -77.4144303
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:52",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "N 22ND ST/R ST RICH",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 22nd Street, East End",
     "location_township": "Precinct 1",
@@ -141,32 +154,6 @@
     "location_township": "Precinct 1",
     "lat": 37.54623,
     "lng": -77.419433
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 09:26",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3600-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5688593,
-    "lng": -77.4775192
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 09:24",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK - RUPTURED MAIN (OUTSIDE)",
-    "street": "3200-BLK GARLAND AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Garland Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5745759,
-    "lng": -77.4339325
   },
   {
     "type_general": "RPD",
@@ -226,12 +213,38 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
     "street": "00-BLK CLARKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Clarke Road, West End",
     "location_township": "Precinct 3",
     "lat": 37.5664132,
     "lng": -77.5060698
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 09:39",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "200-BLK HOSPITAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hospital Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5533597,
+    "lng": -77.4314478
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 09:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "700-BLK E 4TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 4th Street",
+    "location_township": "FIRE",
+    "lat": 37.5157611,
+    "lng": -77.4278016
   },
   {
     "type_general": "RPD",
@@ -245,5 +258,18 @@
     "location_township": "Precinct 1",
     "lat": 37.5553938,
     "lng": -77.4165144
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 09:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "6400-BLK WORTHINGTON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Worthington Road",
+    "location_township": "FIRE",
+    "lat": 37.4942298,
+    "lng": -77.5118297
   }
 ]
