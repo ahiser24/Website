@@ -144,6 +144,45 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/13/2025 07:32",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "2500-BLK W GRACE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Grace Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5594905,
+    "lng": -77.4668202
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 07:57",
+    "box_no": "Precinct 2",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "1700-BLK CLARKSON RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4923295,
+    "lng": -77.481047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 07:57",
+    "box_no": "Precinct 2",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "1700-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4923295,
+    "lng": -77.481047
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/13/2025 07:35",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -157,15 +196,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:32",
+    "dispatch_time": "12/13/2025 07:29",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "4000-BLK MACARTHUR AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nottoway Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.588312,
+    "lng": -77.458284
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:01",
     "box_no": "Precinct 3",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2500-BLK W GRACE ST",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
+    "street": "1300-BLK GERMAN SCHOOL RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
+    "nearest_intersection": "German School Road",
     "location_township": "Precinct 3",
-    "lat": 37.5594905,
-    "lng": -77.4668202
+    "lat": 37.5235351,
+    "lng": -77.5184305
   }
 ]
