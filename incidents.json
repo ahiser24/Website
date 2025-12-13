@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 05:25",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "3100-BLK SUNSET AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sunset Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5427352,
-    "lng": -77.4859495
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 04:01",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -89,5 +76,18 @@
     "location_township": "Precinct 3",
     "lat": 37.560944,
     "lng": -77.4793239
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 05:25",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "3100-BLK SUNSET AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sunset Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5427352,
+    "lng": -77.4859495
   }
 ]
