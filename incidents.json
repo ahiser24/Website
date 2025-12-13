@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 03:52",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "2100-BLK 5TH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "5th Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5601441,
-    "lng": -77.4217186
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 08:52",
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 11:01",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "5200-BLK PARKER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Parker Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5128291,
-    "lng": -77.3954327
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 11:07",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
@@ -154,32 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.568925,
     "lng": -77.440082
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 11:44",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1500-BLK TREEHAVEN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Treehaven Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4959016,
-    "lng": -77.4801286
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 12:05",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HOLLY SPRING AVE/MAURY ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Holly Spring Avenue, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5029551,
-    "lng": -77.4605948
   },
   {
     "type_general": "RPD",
@@ -206,6 +154,71 @@
     "location_township": "Precinct 2",
     "lat": 37.4664874,
     "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 11:31",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3500-BLK 1ST AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "1st Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5767599,
+    "lng": -77.4146846
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 11:31",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3500-BLK 1ST AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "1st Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5767599,
+    "lng": -77.4146846
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 11:01",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "5200-BLK PARKER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Parker Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5128291,
+    "lng": -77.3954327
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 12:10",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "BELLS RD/RICHMOND HWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bells Road",
+    "location_township": "Precinct 2",
+    "lat": 37.472385,
+    "lng": -77.453612
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 12:11",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1900-BLK SEDDON RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Seddon Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5812478,
+    "lng": -77.4661854
   },
   {
     "type_general": "RFD",
@@ -245,5 +258,44 @@
     "location_township": "FIRE",
     "lat": 37.54503,
     "lng": -77.438422
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 12:15",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3600-BLK SAUNDERS AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saunders Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5813139,
+    "lng": -77.4724158
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 12:15",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "3600-BLK SAUNDERS AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Saunders Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5813139,
+    "lng": -77.4724158
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 12:18",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1400-BLK NATIONAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "National Street",
+    "location_township": "FIRE",
+    "lat": 37.51561,
+    "lng": -77.400133
   }
 ]
