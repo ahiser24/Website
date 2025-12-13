@@ -170,28 +170,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/13/2025 03:25",
+    "dispatch_time": "12/13/2025 03:37",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "3500-BLK BROAD ROCK BLVD",
-    "status": "Enroute",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "700-BLK DINWIDDIE AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Iron Bridge Road",
+    "nearest_intersection": "Dinwiddie Avenue",
     "location_township": "FIRE",
-    "lat": 37.468377,
-    "lng": -77.486275
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 03:28",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "N 18TH ST/E MARSHALL ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5366474,
-    "lng": -77.4240552
+    "lat": 37.5170381,
+    "lng": -77.4342407
   }
 ]
