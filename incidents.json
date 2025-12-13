@@ -83,7 +83,7 @@
     "box_no": "Precinct 4",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
     "street": "4000-BLK MACARTHUR AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Nottoway Avenue",
     "location_township": "Precinct 4",
@@ -93,15 +93,15 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/13/2025 07:35",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "0-BLK S 25TH ST",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N 1ST ST/E DUVAL ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South 25th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5286198,
-    "lng": -77.4216957
+    "nearest_intersection": "North 1st Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5553171,
+    "lng": -77.4314859
   },
   {
     "type_general": "RPD",
@@ -128,19 +128,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4923295,
     "lng": -77.481047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:35",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "N 1ST ST/E DUVAL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 1st Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5553171,
-    "lng": -77.4314859
   },
   {
     "type_general": "RPD",
@@ -180,19 +167,6 @@
     "location_township": "FIRE",
     "lat": 37.5048999,
     "lng": -77.4623473
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:32",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "LL(-77:30:41.5009,37:28:29.5679): EST 2293 MANDALAY RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mandalay Drive",
-    "location_township": "Precinct 2",
-    "lng": -77.51152802777777,
-    "lat": 37.474879972222226
   },
   {
     "type_general": "RFD",
@@ -248,11 +222,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:32",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:30:41.5009,37:28:29.5679): EST 2293 MANDALAY RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mandalay Drive",
+    "location_township": "Precinct 2",
+    "lng": -77.51152802777777,
+    "lat": 37.474879972222226
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/13/2025 08:36",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "300-BLK E 33RD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East 33rd Street, Southside",
     "location_township": "Precinct 2",
