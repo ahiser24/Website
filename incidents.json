@@ -7,10 +7,10 @@
     "street": "1400-BLK GREYSTONE AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Greystone Avenue, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4954807,
+    "lng": -77.471603
   },
   {
     "type_general": "RPD",
@@ -20,23 +20,10 @@
     "street": "1300-BLK GREENMOSS DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Greenmoss Drive",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 16:13",
-    "box_no": "Precinct 3",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "2700-BLK GRANTWOOD CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.519751,
+    "lng": -77.51884
   },
   {
     "type_general": "RPD",
@@ -46,10 +33,10 @@
     "street": "5800-BLK ORCUTT LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Orcutt Lane",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4829472,
+    "lng": -77.4998228
   },
   {
     "type_general": "RPD",
@@ -59,23 +46,10 @@
     "street": "7700-BLK E PARHAM RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Parham Road, Henrico",
     "location_township": "Precinct 4",
     "lat": 37.6312963,
     "lng": -77.5251363
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:18",
-    "box_no": "DPR",
-    "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
-    "street": "1200-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -85,36 +59,23 @@
     "street": "3309-BLK WALMSLEY BLVD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Walmsley Boulevard",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4641771,
+    "lng": -77.4596493
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 18:14",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "W BROAD ST/MALVERN AVE RICH",
+    "dispatch_time": "12/12/2025 18:18",
+    "box_no": "DPR",
+    "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
+    "street": "1200-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/12/2025 19:18",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "100-BLK S 15TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "East Cary Street",
+    "location_township": "DPR",
+    "lat": 37.5359119,
+    "lng": -77.4342744
   },
   {
     "type_general": "RPD",
@@ -124,10 +85,10 @@
     "street": "1200-BLK BELLEVUE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Bellevue Avenue",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.591085,
+    "lng": -77.452658
   },
   {
     "type_general": "RPD",
@@ -137,7 +98,7 @@
     "street": "7000-BLK MARLOWE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Marlowe Road",
     "location_township": "Precinct 3",
     "lat": 37.5154461,
     "lng": -77.5238046
@@ -150,10 +111,10 @@
     "street": "400-BLK N 3RD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Marshall Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -170,29 +131,68 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/12/2025 19:47",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1300-BLK ROSENEATH RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Roseneath Road",
+    "location_township": "Precinct 4",
+    "lat": 37.568479,
+    "lng": -77.475732
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 19:25",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "700-BLK E MARSHALL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.542711,
+    "lng": -77.434656
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/12/2025 19:17",
     "box_no": "Precinct 1",
     "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
     "street": "2200-BLK N 23RD ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 23rd Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5492664,
+    "lng": -77.4065067
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 19:02",
+    "dispatch_time": "12/12/2025 19:23",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "MOORE ST/ROSENEATH RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Moore Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5560077,
+    "lng": -77.4493935
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 18:54",
     "box_no": "DPR",
-    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
-    "street": "600-BLK WARWICK VILLAGE DR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "DPR",
-    "lat": 37.500983,
-    "lng": -77.500299
+    "lat": 37.5089813,
+    "lng": -77.478859
   },
   {
     "type_general": "RFD",
@@ -202,10 +202,10 @@
     "street": "0-BLK N LAUREL ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North Laurel Street",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.5465072,
+    "lng": -77.4515552
   },
   {
     "type_general": "RFD",
@@ -221,21 +221,47 @@
     "lng": -77.4515552
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/12/2025 18:14",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "W BROAD ST/MALVERN AVE RICH",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 19:59",
+    "box_no": "Precinct 1",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "10-BLK S 13TH ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5361617,
+    "lng": -77.4332106
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 19:24",
+    "dispatch_time": "12/12/2025 20:02",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2100-BLK FORD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Ford Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.549697,
+    "lng": -77.41965
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 20:02",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2100-BLK FORD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Ford Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.549697,
+    "lng": -77.41965
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 20:01",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "3600-BLK CHAMBERLAYNE AVE",
@@ -248,15 +274,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/12/2025 19:25",
+    "dispatch_time": "12/12/2025 20:08",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "MECHANICSVILLE TPKE/COOL LN RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5514699,
+    "lng": -77.4128847
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 20:02",
     "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "700-BLK E MARSHALL ST",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "3800-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.58494,
+    "lng": -77.4478043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 20:03",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1400-BLK BAINBRIDGE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5205352,
+    "lng": -77.4464716
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/12/2025 20:06",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3400-BLK PATTERSON AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.542711,
-    "lng": -77.434656
+    "nearest_intersection": "Patterson Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5624644,
+    "lng": -77.4816024
   }
 ]
