@@ -92,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:38",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1900-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5602471,
-    "lng": -77.4431479
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 07:57",
     "box_no": "Precinct 2",
     "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
@@ -143,30 +130,82 @@
     "lng": -77.4623473
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 08:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "200-BLK LARNE AVE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 09:07",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Larne Avenue, Southside",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 08:52",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "1100-BLK N 22ND ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 22nd Street, East End",
     "location_township": "FIRE",
-    "lat": 37.5060844,
-    "lng": -77.4740107
+    "lat": 37.5404762,
+    "lng": -77.4149768
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:51",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "100-BLK S 15TH ST",
+    "dispatch_time": "12/13/2025 09:09",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "600-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5398843,
+    "lng": -77.4385002
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 09:07",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
+    "street": "1900-BLK LAKEVIEW AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South 15th Street",
+    "nearest_intersection": "Lakeview Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5432505,
+    "lng": -77.4678122
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 09:08",
+    "box_no": "Precinct 1",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "1500-BLK COALTER ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
     "location_township": "Precinct 1",
-    "lat": 37.533699,
-    "lng": -77.431349
+    "lat": 37.54623,
+    "lng": -77.419433
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 09:06",
+    "box_no": "Precinct 3",
+    "type_specific": "OVERDOSE/POISONING , ALS Unconscious",
+    "street": "1900-BLK LAKEVIEW AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Lakeview Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5432505,
+    "lng": -77.4678122
   },
   {
     "type_general": "RPD",
@@ -180,18 +219,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5407315,
     "lng": -77.4144303
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 08:52",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "1100-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.5404762,
-    "lng": -77.4149768
   }
 ]
