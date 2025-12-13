@@ -66,32 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 04:13",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "MOSBY ST/E LEIGH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mosby Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5371525,
-    "lng": -77.4209262
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 04:07",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "400-BLK LIBBIE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Libbie Avenue, West End",
-    "location_township": "FIRE",
-    "lat": 37.5745817,
-    "lng": -77.5183408
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 04:12",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -141,5 +115,44 @@
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 04:24",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1900-BLK WHITCOMB ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Whitcomb Street",
+    "location_township": "Precinct 1",
+    "lat": 37.553667,
+    "lng": -77.4220683
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 04:24",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1900-BLK WHITCOMB ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Whitcomb Street",
+    "location_township": "Precinct 1",
+    "lat": 37.553667,
+    "lng": -77.4220683
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 04:27",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "N 20TH ST/T ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 20th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5331033,
+    "lng": -77.4245845
   }
 ]
