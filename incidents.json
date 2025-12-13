@@ -78,19 +78,6 @@
     "lng": -77.512119
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 06:30",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "HENR: @MM 193 - I64 WB",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/13/2025 06:20",
     "box_no": "Precinct 4",
@@ -105,16 +92,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 05:09",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "3300-BLK 2ND AVE",
-    "status": "Enroute",
+    "dispatch_time": "12/13/2025 06:50",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "2nd Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5738696,
-    "lng": -77.4154015
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 06:50",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1500-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4952595,
+    "lng": -77.4785319
   },
   {
     "type_general": "RPD",
@@ -128,5 +128,31 @@
     "location_township": "Precinct 4",
     "lat": 37.5916148,
     "lng": -77.4490092
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 06:51",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "1700-BLK FAIRFIELD WAY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfield Way",
+    "location_township": "FIRE",
+    "lat": 37.548532,
+    "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 05:09",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3300-BLK 2ND AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "2nd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5738696,
+    "lng": -77.4154015
   }
 ]
