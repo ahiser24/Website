@@ -57,25 +57,12 @@
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "2100-BLK 5TH AVE",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "5th Avenue",
     "location_township": "Precinct 4",
     "lat": 37.5601441,
     "lng": -77.4217186
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 04:12",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "3400-BLK W CLAY ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5694404,
-    "lng": -77.4748981
   },
   {
     "type_general": "RPD",
@@ -104,16 +91,29 @@
     "lng": -77.5195251
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 04:39",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "3200-BLK NORTH RABZA BLVD",
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 04:04",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Rabza Boulevard, East End",
-    "location_township": "FIRE",
-    "lat": 37.5396212,
-    "lng": -77.4009639
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 04:04",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   }
 ]
