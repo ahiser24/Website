@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 04:15",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "6700-BLK EVERGLADES DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Everglades Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5035372,
-    "lng": -77.5195251
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 04:01",
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , PERSON",
@@ -128,5 +115,31 @@
     "location_township": "Precinct 3",
     "lat": 37.560944,
     "lng": -77.4793239
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 04:15",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "6700-BLK EVERGLADES DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Everglades Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5035372,
+    "lng": -77.5195251
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 04:39",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "3200-BLK NORTH RABZA BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Rabza Boulevard, East End",
+    "location_township": "FIRE",
+    "lat": 37.5396212,
+    "lng": -77.4009639
   }
 ]
