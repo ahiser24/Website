@@ -53,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 11:01",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "5200-BLK PARKER ST",
+    "dispatch_time": "12/13/2025 11:07",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "2700-BLK MONTROSE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Parker Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5128291,
-    "lng": -77.3954327
+    "nearest_intersection": "Montrose Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.568925,
+    "lng": -77.440082
   },
   {
     "type_general": "RFD",
@@ -76,32 +76,6 @@
     "location_township": "FIRE",
     "lat": 37.5404762,
     "lng": -77.4149768
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 11:50",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 11:50",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -170,32 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 12:26",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2700-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5620282,
-    "lng": -77.468756
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 11:07",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "2700-BLK MONTROSE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Montrose Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.568925,
-    "lng": -77.440082
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 12:11",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -206,6 +154,71 @@
     "location_township": "Precinct 3",
     "lat": 37.5812478,
     "lng": -77.4661854
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 11:41",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "400-BLK N 18TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 18th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.536538,
+    "lng": -77.424302
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 12:29",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "4300-BLK OLD BROOK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Old Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5946766,
+    "lng": -77.448233
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 12:26",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2700-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5620282,
+    "lng": -77.468756
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 11:50",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "400-BLK N 3RD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 11:50",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , VENUE",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RFD",
@@ -219,5 +232,31 @@
     "location_township": "FIRE",
     "lat": 37.5682213,
     "lng": -77.4128175
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 12:42",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "3000-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5725597,
+    "lng": -77.4456656
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 12:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
+    "street": "2400-BLK WARWICK AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Avenue",
+    "location_township": "FIRE",
+    "lat": 37.493276,
+    "lng": -77.44204
   }
 ]
