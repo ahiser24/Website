@@ -130,32 +130,6 @@
     "lng": -77.5060698
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 09:50",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
-    "street": "300-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "FIRE",
-    "lat": 37.5460104,
-    "lng": -77.446368
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 09:48",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "IDLEWOOD AVE/MCCLOY ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Idlewood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.541964,
-    "lng": -77.4565646
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/13/2025 10:25",
     "box_no": "Precinct 4",
@@ -183,45 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 10:19",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "2200-BLK N 23RD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 23rd Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5492664,
-    "lng": -77.4065067
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 10:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1900-BLK Q ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Q Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.5421232,
-    "lng": -77.4170719
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 10:29",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
-    "street": "2900-BLK MOORE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Moore Street",
-    "location_township": "FIRE",
-    "lat": 37.56677,
-    "lng": -77.468368
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 09:59",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -232,5 +167,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5445679,
     "lng": -77.4428056
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 09:48",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "IDLEWOOD AVE/MCCLOY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.541964,
+    "lng": -77.4565646
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 10:29",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "2900-BLK MOORE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Moore Street",
+    "location_township": "FIRE",
+    "lat": 37.56677,
+    "lng": -77.468368
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 10:36",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "2500-BLK HERMITAGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "FIRE",
+    "lat": 37.566145,
+    "lng": -77.460752
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 10:19",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "2200-BLK N 23RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 23rd Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5492664,
+    "lng": -77.4065067
   }
 ]
