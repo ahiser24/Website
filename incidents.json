@@ -96,7 +96,7 @@
     "box_no": "Precinct 1",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "N 22ND ST/R ST RICH",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "North 22nd Street, East End",
     "location_township": "Precinct 1",
@@ -130,32 +130,6 @@
     "lng": -77.440539
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 09:35",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "100-BLK BELT BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 09:35",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "100-BLK BELT BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5071442,
-    "lng": -77.4853454
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/13/2025 08:52",
     "box_no": "FIRE",
@@ -186,13 +160,26 @@
     "dispatch_time": "12/13/2025 09:45",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "700-BLK E 4TH ST",
+    "street": "900-BLK E 4TH ST",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East 4th Street",
     "location_township": "FIRE",
-    "lat": 37.5157611,
-    "lng": -77.4278016
+    "lat": 37.5173725,
+    "lng": -77.4290583
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 09:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "6400-BLK WORTHINGTON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Worthington Road",
+    "location_township": "FIRE",
+    "lat": 37.4942298,
+    "lng": -77.5118297
   },
   {
     "type_general": "RPD",
@@ -235,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 09:32",
-    "box_no": "Precinct 1",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "1500-BLK OAKWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Oakwood Avenue, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.534254,
-    "lng": -77.3994202
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 09:27",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -261,19 +235,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/13/2025 09:45",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "6400-BLK WORTHINGTON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Worthington Road",
-    "location_township": "FIRE",
-    "lat": 37.4942298,
-    "lng": -77.5118297
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/13/2025 09:50",
     "box_no": "FIRE",
     "type_specific": "# STRUCTURE FIRE , BUILDING FIRE",
@@ -284,5 +245,18 @@
     "location_township": "FIRE",
     "lat": 37.5460104,
     "lng": -77.446368
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 09:57",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
+    "street": "3200-BLK GARLAND AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Garland Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5745759,
+    "lng": -77.4339325
   }
 ]
