@@ -66,6 +66,32 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/13/2025 06:37",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "1000-BLK GERMAN SCHOOL RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516032,
+    "lng": -77.512119
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 06:30",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "HENR: @MM 193 - I64 WB",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/13/2025 06:20",
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -78,17 +104,17 @@
     "lng": -77.4407689
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 06:30",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "LL(-77:23:45.9109,37:32:47.5649): @EXIT 193 - 164 EB (NINE MILE RD)",
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 05:09",
+    "box_no": "Precinct 4",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "3300-BLK 2ND AVE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "I 64",
-    "location_township": "FIRE",
-    "lng": -77.39608636111112,
-    "lat": 37.54654580555555
+    "nearest_intersection": "2nd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5738696,
+    "lng": -77.4154015
   },
   {
     "type_general": "RPD",
@@ -96,24 +122,11 @@
     "box_no": "Precinct 4",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
     "street": "4200-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Avenue",
     "location_township": "Precinct 4",
     "lat": 37.5916148,
     "lng": -77.4490092
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 06:37",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "1000-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516032,
-    "lng": -77.512119
   }
 ]
