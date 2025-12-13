@@ -57,25 +57,12 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 02:18",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "1600-BLK TENNYSON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Tennyson Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4865494,
-    "lng": -77.5055394
   },
   {
     "type_general": "RPD",
@@ -92,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 03:56",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "N 18TH ST/E CLAY ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5366474,
-    "lng": -77.4240552
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 03:56",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "N 18TH ST/E CLAY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 18th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5366474,
-    "lng": -77.4240552
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 03:52",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
@@ -128,5 +89,18 @@
     "location_township": "Precinct 4",
     "lat": 37.545901,
     "lng": -77.45048
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 04:01",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "3300-BLK KENSINGTON AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Kensington Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.560944,
+    "lng": -77.4793239
   }
 ]
