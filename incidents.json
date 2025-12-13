@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 04:01",
-    "box_no": "Precinct 3",
-    "type_specific": "OVERDOSE/POISONING , OVERDOSE INTENTIONAL",
-    "street": "3300-BLK KENSINGTON AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Kensington Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.560944,
-    "lng": -77.4793239
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 07:29",
     "box_no": "Precinct 4",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -115,19 +102,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5286198,
     "lng": -77.4216957
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:32",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2500-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5594905,
-    "lng": -77.4668202
   },
   {
     "type_general": "RPD",
@@ -170,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:01",
-    "box_no": "Precinct 3",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
-    "street": "1300-BLK GERMAN SCHOOL RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5235351,
-    "lng": -77.5184305
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 08:19",
     "box_no": "Precinct 2",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
@@ -222,11 +183,37 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:32",
+    "box_no": "Precinct 2",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "LL(-77:30:41.5009,37:28:29.5679): EST 2293 MANDALAY RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mandalay Drive",
+    "location_township": "Precinct 2",
+    "lng": -77.51152802777777,
+    "lat": 37.474879972222226
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 08:28",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "200-BLK LARNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Larne Avenue, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5060844,
+    "lng": -77.4740107
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/13/2025 08:17",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , NUISANCE",
     "street": "100-BLK S BELVIDERE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Floyd Avenue",
     "location_township": "Precinct 4",
@@ -235,15 +222,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:19",
-    "box_no": "Precinct 4",
+    "dispatch_time": "12/13/2025 08:36",
+    "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "100-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
+    "street": "6800-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5063238,
+    "lng": -77.4972004
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 07:38",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "Precinct 4",
-    "lat": 37.5716039,
-    "lng": -77.4313272
+    "lat": 37.5602471,
+    "lng": -77.4431479
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:36",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "300-BLK E 33RD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 33rd Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5081386,
+    "lng": -77.4676639
   }
 ]
