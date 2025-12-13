@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 12:58",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "FAIRFIELD WAY/OLIVER HILL WAY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfield Way",
-    "location_township": "Precinct 1",
-    "lat": 37.548532,
-    "lng": -77.4127685
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 13:20",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -170,6 +157,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/13/2025 15:15",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "2500-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5290346,
+    "lng": -77.4208043
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/13/2025 14:47",
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
@@ -180,19 +180,6 @@
     "location_township": "Precinct 3",
     "lat": 37.554224,
     "lng": -77.562277
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 15:08",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "HULL STREET RD/SPAINE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4794055,
-    "lng": -77.5126339
   },
   {
     "type_general": "RPD",
@@ -219,6 +206,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5539874,
     "lng": -77.4116705
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 15:08",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "HULL STREET RD/SPAINE ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4794055,
+    "lng": -77.5126339
   },
   {
     "type_general": "RFD",
@@ -274,19 +274,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 15:15",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "2500-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5290346,
-    "lng": -77.4208043
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 15:21",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -326,19 +313,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/13/2025 15:42",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "1100-BLK GERMAN SCHOOL RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "German School Road",
-    "location_township": "FIRE",
-    "lat": 37.517118,
-    "lng": -77.513788
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/13/2025 15:40",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
@@ -349,5 +323,31 @@
     "location_township": "FIRE",
     "lat": 37.5089813,
     "lng": -77.478859
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 15:42",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "1100-BLK GERMAN SCHOOL RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "German School Road",
+    "location_township": "FIRE",
+    "lat": 37.517118,
+    "lng": -77.513788
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 15:49",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "14TH/DOCK ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 14th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5367669,
+    "lng": -77.4306282
   }
 ]
