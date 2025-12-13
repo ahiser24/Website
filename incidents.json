@@ -92,29 +92,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:28",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "600-BLK W 21ST ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 21st Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5228174,
-    "lng": -77.4553688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:36",
+    "dispatch_time": "12/13/2025 07:29",
     "box_no": "Precinct 4",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "4200-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "4000-BLK MACARTHUR AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
+    "nearest_intersection": "Nottoway Avenue",
     "location_township": "Precinct 4",
-    "lat": 37.5916148,
-    "lng": -77.4490092
+    "lat": 37.588312,
+    "lng": -77.458284
   },
   {
     "type_general": "RPD",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5286198,
     "lng": -77.4216957
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/13/2025 07:44",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "1000-BLK E 17TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Fairfax Avenue",
-    "location_township": "FIRE",
-    "lat": 37.510748,
-    "lng": -77.440625
   },
   {
     "type_general": "RPD",
@@ -196,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 07:29",
-    "box_no": "Precinct 4",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "4000-BLK MACARTHUR AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Nottoway Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.588312,
-    "lng": -77.458284
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 08:01",
     "box_no": "Precinct 3",
     "type_specific": "IN-PROGRESS (Assault or battery by mob) , INVESTIGATE",
@@ -219,5 +180,70 @@
     "location_township": "Precinct 3",
     "lat": 37.5235351,
     "lng": -77.5184305
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:19",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3700-BLK E BROAD ROCK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5019398,
+    "lng": -77.4680657
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:19",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3700-BLK E BROAD ROCK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5019398,
+    "lng": -77.4680657
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 08:18",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "600-BLK HOLLY SPRING AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Holly Spring Avenue, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5048999,
+    "lng": -77.4623473
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:17",
+    "box_no": "Precinct 4",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "100-BLK S BELVIDERE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Floyd Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5450741,
+    "lng": -77.4489075
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 08:19",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "100-BLK E BROOKLAND PARK BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5716039,
+    "lng": -77.4313272
   }
 ]
