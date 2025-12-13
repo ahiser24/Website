@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 08:52",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "N 22ND ST/R ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5407315,
-    "lng": -77.4144303
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 13:20",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -221,6 +208,19 @@
     "lng": -77.5126339
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 15:15",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "4200-BLK SHACKLEFORD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Shackleford Road",
+    "location_township": "Precinct 2",
+    "lat": 37.469132,
+    "lng": -77.460231
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/13/2025 11:50",
     "box_no": "FIRE",
@@ -313,19 +313,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/13/2025 15:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/13/2025 15:42",
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
@@ -349,5 +336,44 @@
     "location_township": "Precinct 1",
     "lat": 37.5367669,
     "lng": -77.4306282
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 15:51",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "00-BLK E 37TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 37th Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5073351,
+    "lng": -77.4719781
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 15:51",
+    "box_no": "Precinct 1",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "1400-BLK SPOTSYLVANIA ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Spotsylvania Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5449789,
+    "lng": -77.4182247
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/13/2025 15:47",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , CITY PROPERTY",
+    "street": "W LEIGH ST/BELLEVILLE ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5556224,
+    "lng": -77.451142
   }
 ]
