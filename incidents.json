@@ -14,19 +14,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 00:07",
-    "box_no": "Precinct 2",
-    "type_specific": "ROBBERY , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "3000-BLK HULL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5098428,
-    "lng": -77.4611804
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 01:53",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -79,15 +66,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 05:25",
-    "box_no": "Precinct 3",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "3100-BLK SUNSET AVE",
+    "dispatch_time": "12/13/2025 06:04",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , EMS RESPONSE",
+    "street": "MECHANICSVILLE TPKE/WHITCOMB ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Sunset Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5427352,
-    "lng": -77.4859495
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "Precinct 1",
+    "lat": 37.5514699,
+    "lng": -77.4128847
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/13/2025 06:04",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNKNOWN PROBLEM/PERSON DOWN",
+    "street": "MECHANICSVILLE TPKE/WHITCOMB ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mechanicsville Turnpike",
+    "location_township": "FIRE",
+    "lat": 37.5514699,
+    "lng": -77.4128847
   }
 ]
