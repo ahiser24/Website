@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:22",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "2200-BLK PARKWOOD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Parkwood Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5483902,
-    "lng": -77.46939
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 13:33",
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
@@ -180,6 +167,19 @@
     "location_township": "DPR",
     "lat": 37.5052382,
     "lng": -77.4476466
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 13:25",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "1400-BLK BAINBRIDGE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5205352,
+    "lng": -77.4464716
   },
   {
     "type_general": "RFD",
@@ -275,19 +275,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/14/2025 14:21",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "400-BLK MELMARK CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Melmark Court",
-    "location_township": "Precinct 3",
-    "lat": 37.5111106,
-    "lng": -77.5020742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 14:21",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "0-BLK N 4TH ST",
@@ -297,5 +284,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5507508,
     "lng": -77.4313014
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:21",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "400-BLK MELMARK CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Melmark Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5111106,
+    "lng": -77.5020742
   }
 ]
