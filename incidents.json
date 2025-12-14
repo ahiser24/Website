@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:59",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
-    "street": "1800-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5356036,
-    "lng": -77.4247666
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 11:02",
     "box_no": "Precinct 4",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -79,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:59",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , JUST OCCURRED / IN-PROGRESS",
+    "street": "1800-BLK E BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5356036,
+    "lng": -77.4247666
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 11:49",
     "box_no": "Precinct 4",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5630577,
     "lng": -77.4679006
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 12:00",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "E 21ST ST/CHICAGO AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 21st Street",
-    "location_township": "Precinct 1",
-    "lat": 37.515177,
-    "lng": -77.4498982
   },
   {
     "type_general": "RPD",
@@ -174,7 +161,7 @@
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "1200-BLK E CARY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
@@ -182,6 +169,19 @@
     "lng": -77.4342744
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 12:00",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "E 21ST ST/CHICAGO AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.515177,
+    "lng": -77.4498982
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 09:13",
     "box_no": "FIRE",
@@ -234,16 +234,55 @@
     "lng": -77.4366965
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 12:21",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2200-BLK STOCKTON ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 12:26",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "500-BLK PATRICK AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Patrick Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5800203,
+    "lng": -77.4249683
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 12:28",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N HUGUENOT RD RICH:EST LL(-77.5535,37.5445)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 12:28",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N HUGUENOT RD RICH:EST LL(-77.5535,37.5445)",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "FIRE",
-    "lat": 37.514084,
-    "lng": -77.450314
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 12:29",
+    "box_no": "Precinct 2",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "2600-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 2",
+    "lat": 37.513339,
+    "lng": -77.456128
   }
 ]
