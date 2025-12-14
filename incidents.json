@@ -104,45 +104,6 @@
     "lng": -77.438422
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 11:04",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2500-BLK BROAD ROCK BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4730152,
-    "lng": -77.4824373
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 11:04",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "2500-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4730152,
-    "lng": -77.4824373
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 11:22",
-    "box_no": "Precinct 4",
-    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
-    "street": "4200-BLK OLD BROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Old Brook Road",
-    "location_township": "Precinct 4",
-    "lat": 37.591781,
-    "lng": -77.447047
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 11:32",
     "box_no": "FIRE",
@@ -183,15 +144,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 11:13",
+    "dispatch_time": "12/14/2025 11:40",
     "box_no": "Precinct 2",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "600-BLK W SOUTHSIDE PLZ",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "1800-BLK BROAD ROCK BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Broad Rock Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4912925,
+    "lng": -77.4721515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 11:40",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "1800-BLK BROAD ROCK BLVD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
+    "nearest_intersection": "Broad Rock Boulevard, Southside",
     "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
+    "lat": 37.4912925,
+    "lng": -77.4721515
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 11:35",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "PATTERSON AVE/ST CHRISTOPHERS RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Patterson Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5634214,
+    "lng": -77.4843201
   }
 ]
