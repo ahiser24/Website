@@ -78,16 +78,55 @@
     "lng": -77.4895724
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 08:25",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
-    "street": "W COMMERCE RD/PERRY ST RICH",
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 08:32",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3700-BLK E BROAD ROCK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5019398,
+    "lng": -77.4680657
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 08:32",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "3700-BLK E BROAD ROCK RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Commerce Road",
-    "location_township": "FIRE",
-    "lat": 37.5232341,
-    "lng": -77.4411957
+    "nearest_intersection": "East Broad Rock Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5019398,
+    "lng": -77.4680657
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 08:37",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1900-BLK T ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "T Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5355217,
+    "lng": -77.4004155
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 08:37",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
+    "street": "1900-BLK T ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "T Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5355217,
+    "lng": -77.4004155
   }
 ]
