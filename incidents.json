@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 03:24",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4101-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.469844,
-    "lng": -77.4435727
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 03:47",
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -135,7 +122,7 @@
     "box_no": "Precinct 3",
     "type_specific": "OVERDOSE/POISONING , OVERDOSE INTENTIONAL",
     "street": "9100-BLK STONY POINT PKWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Stony Point Parkway",
     "location_township": "Precinct 3",
@@ -148,11 +135,37 @@
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "2200-BLK E CARY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
     "lat": 37.5297586,
     "lng": -77.4244833
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 05:36",
+    "box_no": "Precinct 3",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "600-BLK COWARDIN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5242935,
+    "lng": -77.452771
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 05:44",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2700-BLK HULL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5121322,
+    "lng": -77.4575591
   }
 ]
