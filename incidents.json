@@ -53,16 +53,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 16:27",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "6400-BLK JAHNKE RD",
+    "dispatch_time": "12/14/2025 16:37",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "600-BLK W SOUTHSIDE PLZ",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5204082,
-    "lng": -77.5140908
+    "nearest_intersection": "West Southside Plaza, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5012106,
+    "lng": -77.4784074
   },
   {
     "type_general": "RPD",
@@ -76,19 +76,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4923295,
     "lng": -77.481047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 16:37",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "600-BLK W SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Southside Plaza, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5012106,
-    "lng": -77.4784074
   },
   {
     "type_general": "RPD",
@@ -131,19 +118,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:26",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "400-BLK N 12TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 1",
-    "lat": 37.54025,
-    "lng": -77.43045
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 17:28",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
@@ -183,11 +157,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 16:38",
+    "box_no": "Precinct 3",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 17:19",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , NUISANCE",
     "street": "1200-BLK N 25TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 25th Street, East End",
     "location_township": "Precinct 1",
@@ -195,6 +182,19 @@
     "lng": -77.4114201
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:26",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "400-BLK N 12TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54025,
+    "lng": -77.43045
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 09:13",
     "box_no": "FIRE",
@@ -245,19 +245,6 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 17:35",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "1400-BLK SHERWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Sherwood Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.570202,
-    "lng": -77.447932
   },
   {
     "type_general": "RPD",
@@ -304,7 +291,7 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "1500-BLK JENNIE SCHER RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jennie Scher Road, East End",
     "location_township": "Precinct 1",
@@ -323,5 +310,18 @@
     "location_township": "Precinct 3",
     "lat": 37.542689,
     "lng": -77.483217
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:52",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "N 9TH ST/E BROAD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 9th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5436134,
+    "lng": -77.4312269
   }
 ]
