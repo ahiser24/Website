@@ -40,6 +40,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 12:00",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "E 21ST ST/CHICAGO AVE RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 21st Street",
+    "location_township": "Precinct 1",
+    "lat": 37.515177,
+    "lng": -77.4498982
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 09:27",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -66,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 11:30",
-    "box_no": "Precinct 1",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "2000-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5539874,
-    "lng": -77.4116705
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 12:00",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "E 21ST ST/CHICAGO AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 21st Street",
-    "location_township": "Precinct 1",
-    "lat": 37.515177,
-    "lng": -77.4498982
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 13:06",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:03",
-    "box_no": "Precinct 4",
-    "type_specific": "INDECENT EXPOSURE , INVESTIGATE",
-    "street": "500-BLK W GRACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Henry Street",
-    "location_township": "Precinct 4",
-    "lat": 37.547507,
-    "lng": -77.447148
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 12:41",
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -128,6 +102,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5400835,
     "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 13:38",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "CALVERTON ST/RICHMOND HWY RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Calverton Street",
+    "location_township": "Precinct 2",
+    "lat": 37.462249,
+    "lng": -77.4439895
   },
   {
     "type_general": "RPD",
@@ -182,6 +169,19 @@
     "lng": -77.4788573
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 13:35",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "1100-BLK RICHMOND HWY",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "DPR",
+    "lat": 37.5052382,
+    "lng": -77.4476466
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 09:13",
     "box_no": "FIRE",
@@ -232,71 +232,6 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:38",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "CALVERTON ST/RICHMOND HWY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Calverton Street",
-    "location_township": "Precinct 2",
-    "lat": 37.462249,
-    "lng": -77.4439895
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:49",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "9200-BLK STONY POINT PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5503586,
-    "lng": -77.5718286
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 14:05",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "2600-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "FIRE",
-    "lat": 37.5283755,
-    "lng": -77.4194866
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 14:09",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "4500-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5063238,
-    "lng": -77.4972004
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 14:09",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "4500-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5063238,
-    "lng": -77.4972004
   },
   {
     "type_general": "RPD",
@@ -326,15 +261,41 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 14:07",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "300-BLK E BROAD ST",
-    "status": "Enroute",
+    "dispatch_time": "12/14/2025 14:12",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
+    "street": "3100-BLK W CARY ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5530934,
+    "lng": -77.4801689
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:21",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "400-BLK MELMARK CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Melmark Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5111106,
+    "lng": -77.5020742
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:21",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "0-BLK N 4TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 4th Street",
     "location_township": "Precinct 4",
-    "lat": 37.5442113,
-    "lng": -77.4388734
+    "lat": 37.5507508,
+    "lng": -77.4313014
   }
 ]
