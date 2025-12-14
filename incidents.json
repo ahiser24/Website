@@ -40,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 07:11",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 07:11",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 06:54",
     "box_no": "Precinct 4",
     "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
@@ -79,11 +53,24 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 07:26",
+    "box_no": "Precinct 2",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "600-BLK EFFINGHAM DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Effingham Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.5000998,
+    "lng": -77.4977173
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 07:17",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "4100-BLK NORTH AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North Avenue",
     "location_township": "Precinct 4",
@@ -91,16 +78,42 @@
     "lng": -77.440752
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 07:29",
+    "box_no": "Precinct 3",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "6400-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5204082,
+    "lng": -77.5140908
+  },
+  {
     "type_general": "RFD",
-    "dispatch_time": "12/14/2025 06:47",
+    "dispatch_time": "12/14/2025 07:35",
     "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "RICH: @EXIT 69 - I95 SB (BELLS RD)",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "2100-BLK PHAUP ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Phaup Street",
+    "location_township": "FIRE",
+    "lat": 37.5510819,
+    "lng": -77.407214
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 07:32",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "100-BLK E 2ND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East 2nd Street",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.525093,
+    "lng": -77.435078
   }
 ]
