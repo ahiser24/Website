@@ -31,7 +31,7 @@
     "box_no": "Precinct 1",
     "type_specific": "LARCENY , DPR Call - Take a Report",
     "street": "1100-BLK HULL ST",
-    "status": "Enroute",
+    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "Hull Street",
     "location_township": "Precinct 1",
@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 02:51",
-    "box_no": "Precinct 3",
-    "type_specific": "LOUD MUSIC , INVESTIGATE",
-    "street": "6000-BLK GLENWAY CT",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Blandy Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.516347,
-    "lng": -77.508562
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 03:02",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
@@ -102,19 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.547451,
     "lng": -77.417935
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 03:18",
-    "box_no": "Precinct 3",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -131,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 03:35",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "700-BLK STOCKTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5214521,
-    "lng": -77.4386556
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 03:47",
     "box_no": "Precinct 4",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
@@ -154,6 +115,32 @@
     "location_township": "Precinct 4",
     "lat": 37.5525386,
     "lng": -77.4393965
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 04:07",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "SPRUANCE RD/JAHNKE RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Spruance Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5186428,
+    "lng": -77.5059865
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 04:17",
+    "box_no": "Precinct 3",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "600-BLK COWARDIN AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Cowardin Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5242935,
+    "lng": -77.452771
   },
   {
     "type_general": "RFD",
