@@ -53,32 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 08:32",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3700-BLK E BROAD ROCK RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5019398,
-    "lng": -77.4680657
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 08:32",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "3700-BLK E BROAD ROCK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5019398,
-    "lng": -77.4680657
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 08:37",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -128,5 +102,57 @@
     "location_township": "Precinct 4",
     "lat": 37.5584516,
     "lng": -77.4230047
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 09:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "400-BLK N 3RD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 09:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:13",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "3100-BLK KUHN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Kuhn Street",
+    "location_township": "Precinct 1",
+    "lat": 37.538641,
+    "lng": -77.4033
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:09",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3400-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5030567,
+    "lng": -77.4626598
   }
 ]
