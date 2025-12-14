@@ -44,7 +44,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "300-BLK W CHARITY ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "West Charity Street",
     "location_township": "Precinct 4",
@@ -63,58 +63,6 @@
     "location_township": "Precinct 4",
     "lat": 37.546364,
     "lng": -77.442794
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 04:50",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "6500-BLK HULL STREET RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4804874,
-    "lng": -77.5121816
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 04:50",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "6500-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4804874,
-    "lng": -77.5121816
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 04:52",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "6500-BLK HULL STREET RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4804874,
-    "lng": -77.5121816
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 04:52",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "6500-BLK HULL STREET RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4804874,
-    "lng": -77.5121816
   },
   {
     "type_general": "RPD",
@@ -161,11 +109,24 @@
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "2700-BLK HULL ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Hull Street, Southside",
     "location_township": "Precinct 2",
     "lat": 37.5121322,
     "lng": -77.4575591
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 05:45",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3400-BLK MAURY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5030567,
+    "lng": -77.4626598
   }
 ]
