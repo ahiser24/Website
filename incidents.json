@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 08:21",
-    "box_no": "Precinct 4",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.58494,
-    "lng": -77.4478043
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 08:37",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
@@ -89,6 +76,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5584516,
     "lng": -77.4230047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:09",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "3400-BLK MAURY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5030567,
+    "lng": -77.4626598
   },
   {
     "type_general": "RPD",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:09",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3400-BLK MAURY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Maury Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5030567,
-    "lng": -77.4626598
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 09:20",
     "box_no": "Precinct 2",
     "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
@@ -183,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:27",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "100-BLK S 5TH ST",
+    "dispatch_time": "12/14/2025 09:35",
+    "box_no": "Precinct 1",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "500-BLK HULL ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "South 5th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.539453,
-    "lng": -77.440891
+    "nearest_intersection": "Hull Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5240062,
+    "lng": -77.4383862
   },
   {
     "type_general": "RPD",
@@ -206,6 +193,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4796509,
     "lng": -77.461124
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:27",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "100-BLK S 5TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.539453,
+    "lng": -77.440891
   },
   {
     "type_general": "RFD",
@@ -234,32 +234,6 @@
     "lng": -77.438422
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:35",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "500-BLK HULL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Hull Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5240062,
-    "lng": -77.4383862
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 09:27",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1300-BLK WESTWOOD AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Brook Road, Northside",
-    "location_township": "FIRE",
-    "lat": 37.578261,
-    "lng": -77.452168
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 09:37",
     "box_no": "FIRE",
@@ -271,19 +245,6 @@
     "location_township": "FIRE",
     "lat": 37.535454,
     "lng": -77.571719
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:42",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "2400-BLK SHEILA LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Sheila Lane",
-    "location_township": "Precinct 3",
-    "lat": 37.5363096,
-    "lng": -77.5330408
   },
   {
     "type_general": "RFD",
@@ -304,7 +265,7 @@
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , GENERAL",
     "street": "2400-BLK SHEILA LN",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Sheila Lane",
     "location_township": "FIRE",
