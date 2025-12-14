@@ -170,16 +170,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 12:34",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "2200-BLK E CARY ST",
-    "status": "Enroute",
+    "dispatch_time": "12/14/2025 13:33",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "3000-BLK W CARY ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5297586,
-    "lng": -77.4244833
+    "nearest_intersection": "West Cary Street",
+    "location_township": "Precinct 3",
+    "lat": 37.5527107,
+    "lng": -77.4788573
   },
   {
     "type_general": "RFD",
@@ -247,19 +247,6 @@
     "lng": -77.4439895
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 13:51",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "2200-BLK INGRAM AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ingram Avenue",
-    "location_township": "FIRE",
-    "lat": 37.5060193,
-    "lng": -77.4421819
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/14/2025 13:49",
     "box_no": "Precinct 3",
@@ -273,71 +260,6 @@
     "lng": -77.5718286
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:59",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "7600-BLK CHIPPENHAM PKWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Chippenham Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5434723,
-    "lng": -77.540296
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:59",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "7600-BLK CHIPPENHAM PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chippenham Parkway",
-    "location_township": "Precinct 3",
-    "lat": 37.5434723,
-    "lng": -77.540296
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:51",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "2800-BLK DUNN AVE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Dunn Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.568603,
-    "lng": -77.425344
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:51",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "2800-BLK DUNN AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Dunn Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.568603,
-    "lng": -77.425344
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:33",
-    "box_no": "Precinct 3",
-    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
-    "street": "3000-BLK W CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5527107,
-    "lng": -77.4788573
-  },
-  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 14:05",
     "box_no": "FIRE",
@@ -349,5 +271,70 @@
     "location_township": "FIRE",
     "lat": 37.5283755,
     "lng": -77.4194866
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:09",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "4500-BLK MIDLOTHIAN TPKE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5063238,
+    "lng": -77.4972004
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:09",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "4500-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5063238,
+    "lng": -77.4972004
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 13:51",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "2800-BLK DUNN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dunn Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.568603,
+    "lng": -77.425344
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 13:59",
+    "box_no": "Precinct 4",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "N 12TH ST/E MAIN ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 12th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5413903,
+    "lng": -77.4292475
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:07",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "300-BLK E BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5442113,
+    "lng": -77.4388734
   }
 ]
