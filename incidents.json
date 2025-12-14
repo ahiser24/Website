@@ -27,32 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:15",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "4700-BLK WALMSLEY BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4704251,
-    "lng": -77.4818545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:15",
-    "box_no": "Precinct 2",
-    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
-    "street": "4700-BLK WALMSLEY BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walmsley Boulevard",
-    "location_township": "Precinct 2",
-    "lat": 37.4704251,
-    "lng": -77.4818545
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 09:09",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -76,6 +50,19 @@
     "location_township": "Precinct 2",
     "lat": 37.5089813,
     "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:39",
+    "box_no": "Precinct 4",
+    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
+    "street": "5000-BLK BROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Brook Road",
+    "location_township": "Precinct 4",
+    "lat": 37.6002259,
+    "lng": -77.4542662
   },
   {
     "type_general": "RPD",
@@ -130,30 +117,17 @@
     "lng": -77.5140908
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 09:59",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SHOOTING",
-    "street": "1800-BLK E BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.5356036,
-    "lng": -77.4247666
-  },
-  {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:39",
+    "dispatch_time": "12/14/2025 09:59",
     "box_no": "Precinct 4",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "5000-BLK BROOK RD",
+    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "street": "0-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Brook Road",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": 37.6002259,
-    "lng": -77.4542662
+    "lat": 37.5467727,
+    "lng": -77.4436631
   },
   {
     "type_general": "RFD",
@@ -161,7 +135,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
     "street": "1400-BLK GAVESTONE CT",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Gavestone Court",
     "location_township": "FIRE",
@@ -183,28 +157,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:59",
-    "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "0-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 10:09",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "2700-BLK W BROAD ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
     "lat": 37.5620282,
     "lng": -77.468756
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 10:21",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2300-BLK AFTON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Afton Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4923187,
+    "lng": -77.4405374
   }
 ]
