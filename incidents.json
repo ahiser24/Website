@@ -40,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 07:17",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "4100-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.585559,
-    "lng": -77.440752
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 07:29",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "6400-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5204082,
-    "lng": -77.5140908
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 07:41",
     "box_no": "Precinct 2",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
@@ -115,19 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.542133,
     "lng": -77.413212
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 07:50",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1200-BLK SEMMES AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Semmes Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5246138,
-    "lng": -77.4488098
   },
   {
     "type_general": "RPD",
@@ -144,15 +105,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/14/2025 07:54",
+    "dispatch_time": "12/14/2025 08:03",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "1100-BLK HAMPTON ST",
+    "type_specific": "",
+    "street": "1400-BLK SILVER AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hampton Street",
+    "nearest_intersection": "Silver Avenue",
     "location_township": "FIRE",
-    "lat": 37.5393099,
-    "lng": -77.4724291
+    "lat": 37.499919,
+    "lng": -77.435432
   }
 ]
