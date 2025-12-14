@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 21:38",
-    "box_no": "Precinct 2",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "E BROAD ROCK RD/HULL ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5038637,
-    "lng": -77.4650326
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/13/2025 22:33",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -128,19 +115,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5284359,
     "lng": -77.4067688
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/13/2025 23:30",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "4000-BLK GOVERNMENT RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Government Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5242231,
-    "lng": -77.4043881
   },
   {
     "type_general": "RPD",
@@ -235,45 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 00:23",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1600-BLK GAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Street",
-    "location_township": "Precinct 1",
-    "lat": 37.547451,
-    "lng": -77.417935
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 00:28",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 00:28",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 00:28",
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PERSONAL INJURY",
@@ -287,32 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 00:35",
-    "box_no": "Precinct 2",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "1400-BLK LYNHAVEN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lynhaven Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.5015983,
-    "lng": -77.442616
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 00:35",
-    "box_no": "Precinct 2",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "1500-BLK TREEHAVEN DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Treehaven Drive, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4959016,
-    "lng": -77.4801286
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 00:38",
     "box_no": "Precinct 2",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
@@ -338,6 +247,45 @@
     "lng": -77.4874998
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 00:41",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3900-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5884889,
+    "lng": -77.4485395
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 00:44",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2300-BLK E CARY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5292529,
+    "lng": -77.4235309
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 00:44",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "2300-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5292529,
+    "lng": -77.4235309
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 00:28",
     "box_no": "FIRE",
@@ -349,5 +297,18 @@
     "location_township": "FIRE",
     "lng": -77.56231002777777,
     "lat": 37.537718999999996
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 00:40",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "600-BLK OVERBROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Overbrook Road, Northside",
+    "location_township": "FIRE",
+    "lat": 37.565524,
+    "lng": -77.439859
   }
 ]
