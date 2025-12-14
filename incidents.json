@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:20",
-    "box_no": "Precinct 2",
-    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 09:39",
     "box_no": "Precinct 4",
     "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
@@ -76,6 +63,58 @@
     "location_township": "Precinct 4",
     "lat": 37.539453,
     "lng": -77.440891
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "6400-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5204082,
+    "lng": -77.5140908
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "6400-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5204082,
+    "lng": -77.5140908
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "6400-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5204082,
+    "lng": -77.5140908
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "6400-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5204082,
+    "lng": -77.5140908
   },
   {
     "type_general": "RFD",
@@ -105,22 +144,9 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:54",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "6400-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5204082,
-    "lng": -77.5140908
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 09:59",
     "box_no": "Precinct 4",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "0-BLK W BROAD ST",
     "status": "Arrived",
     "cross_street": "",
@@ -130,17 +156,17 @@
     "lng": -77.4436631
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 10:07",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "1400-BLK GAVESTONE CT",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 10:21",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2300-BLK AFTON AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Gavestone Court",
-    "location_township": "FIRE",
-    "lat": 37.4842169,
-    "lng": -77.5144586
+    "nearest_intersection": "Afton Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4923187,
+    "lng": -77.4405374
   },
   {
     "type_general": "RPD",
@@ -156,29 +182,16 @@
     "lng": -77.4247666
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 10:09",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "2700-BLK W BROAD ST",
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 10:30",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "2900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5620282,
-    "lng": -77.468756
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 10:21",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK AFTON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Afton Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4923187,
-    "lng": -77.4405374
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "FIRE",
+    "lat": 37.5692515,
+    "lng": -77.4451986
   }
 ]
