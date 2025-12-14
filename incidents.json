@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:33",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2800-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mongo's Way",
-    "location_township": "Precinct 1",
-    "lat": 37.527181,
-    "lng": -77.418761
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 17:28",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -183,6 +170,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:37",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "5400-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5072965,
+    "lng": -77.4968755
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 17:17",
     "box_no": "DPR",
     "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
@@ -245,19 +245,6 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:44",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1500-BLK JENNIE SCHER RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5231263,
-    "lng": -77.3987139
   },
   {
     "type_general": "RFD",
@@ -326,42 +313,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:37",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "5400-BLK MIDLOTHIAN TPKE",
+    "dispatch_time": "12/14/2025 18:37",
+    "box_no": "Precinct 2",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "800-BLK BELT BLVD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5072965,
-    "lng": -77.4968755
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:33",
-    "box_no": "Precinct 1",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "2800-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mongo's Way",
-    "location_township": "Precinct 1",
-    "lat": 37.527181,
-    "lng": -77.418761
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:52",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "00-BLK W 6TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West 6th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5267242,
-    "lng": -77.4423392
+    "nearest_intersection": "East Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.5009666,
+    "lng": -77.4729377
   },
   {
     "type_general": "RFD",
@@ -375,5 +336,70 @@
     "location_township": "FIRE",
     "lat": 37.527181,
     "lng": -77.418761
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:39",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:39",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 18:40",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
+    "street": "900-BLK W FRANKLIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "FIRE",
+    "lat": 37.5493204,
+    "lng": -77.4522596
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:52",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "00-BLK W 6TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 6th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5267242,
+    "lng": -77.4423392
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:40",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "E 10TH ST/STOCKTON ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 10th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5202982,
+    "lng": -77.4407905
   }
 ]
