@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -37,19 +37,6 @@
     "location_township": "Precinct 1",
     "lat": 37.547451,
     "lng": -77.417935
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 03:47",
-    "box_no": "Precinct 4",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "300-BLK W CHARITY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Charity Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5525386,
-    "lng": -77.4393965
   },
   {
     "type_general": "RPD",
@@ -105,15 +92,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/14/2025 05:53",
+    "dispatch_time": "12/14/2025 06:10",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEMORRHAGE",
-    "street": "2200-BLK CHALFONT DR",
-    "status": "Arrived",
+    "type_specific": "# OTHER , SINGLE COMPANY",
+    "street": "1100-BLK GERMAN SCHOOL RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Chalfont Drive, Southside",
+    "nearest_intersection": "German School Road",
     "location_township": "FIRE",
-    "lat": 37.4908816,
-    "lng": -77.4654757
+    "lat": 37.517118,
+    "lng": -77.513788
   }
 ]
