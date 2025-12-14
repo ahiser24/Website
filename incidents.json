@@ -27,16 +27,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/13/2025 23:18",
+    "dispatch_time": "12/13/2025 22:41",
     "box_no": "Precinct 4",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "E LEIGH ST/N 4TH ST RICH",
-    "status": "Arrived",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "4000-BLK OLD BROOK RD",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "East Leigh Street",
+    "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
-    "lat": 37.5284359,
-    "lng": -77.4067688
+    "lat": 37.589166,
+    "lng": -77.446522
   },
   {
     "type_general": "RPD",
@@ -50,19 +50,6 @@
     "location_township": "Precinct 4",
     "lat": 37.551566,
     "lng": -77.439165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 00:53",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "3000-BLK NOBLE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Noble Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5720993,
-    "lng": -77.4424364
   },
   {
     "type_general": "RPD",
@@ -144,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 02:03",
-    "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "LL(-77:29:55.6801,37:30:24.1271): EST 5452 MIDLOTHIAN TPKE RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lng": -77.49880002777778,
-    "lat": 37.506701972222224
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 02:05",
     "box_no": "Precinct 4",
     "type_specific": "STABBING , INVESTIGATE / NON-EMS",
@@ -187,7 +161,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "5000-BLK FOREST HILL AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Forest Hill Avenue",
     "location_township": "Precinct 3",
@@ -200,7 +174,7 @@
     "box_no": "Precinct 4",
     "type_specific": "INTOXICATED DRIVER , INVESTIGATE",
     "street": "900-BLK MYERS ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Myers Street",
     "location_township": "Precinct 4",
@@ -214,32 +188,6 @@
     "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
     "street": "3900-BLK E BROAD ROCK RD",
     "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5010195,
-    "lng": -77.4692833
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 02:18",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "3900-BLK E BROAD ROCK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Broad Rock Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5010195,
-    "lng": -77.4692833
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 02:18",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "3900-BLK E BROAD ROCK RD",
-    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Broad Rock Road, Southside",
     "location_township": "Precinct 2",
@@ -271,5 +219,18 @@
     "location_township": "FIRE",
     "lat": 37.5083332,
     "lng": -77.4922
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 02:24",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2700-BLK GRANTWOOD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grantwood Road",
+    "location_township": "FIRE",
+    "lat": 37.5366168,
+    "lng": -77.5359407
   }
 ]
