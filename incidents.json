@@ -200,7 +200,7 @@
     "box_no": "Precinct 2",
     "type_specific": "ARMED PERSON WITH , INVESTIGATE",
     "street": "3000-BLK BELT BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Belt Boulevard",
     "location_township": "Precinct 2",
@@ -234,19 +234,6 @@
     "lng": -77.438422
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 09:33",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1200-BLK N 28TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North 28th Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.5379459,
-    "lng": -77.408927
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/14/2025 09:35",
     "box_no": "Precinct 1",
@@ -261,32 +248,6 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/14/2025 09:35",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2300-BLK BETHEL ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Sussex Street",
-    "location_township": "FIRE",
-    "lat": 37.555212,
-    "lng": -77.418447
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 09:33",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "1800-BLK E MARSHALL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.536381,
-    "lng": -77.424125
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/14/2025 09:27",
     "box_no": "FIRE",
     "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
@@ -297,5 +258,57 @@
     "location_township": "FIRE",
     "lat": 37.578261,
     "lng": -77.452168
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 09:37",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "9400-BLK CHANNING LN",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Channing Lane",
+    "location_township": "FIRE",
+    "lat": 37.535454,
+    "lng": -77.571719
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:42",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "2400-BLK SHEILA LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sheila Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5363096,
+    "lng": -77.5330408
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 09:35",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2300-BLK BETHEL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Sussex Street",
+    "location_township": "FIRE",
+    "lat": 37.555212,
+    "lng": -77.418447
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 09:42",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2400-BLK SHEILA LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Sheila Lane",
+    "location_township": "FIRE",
+    "lat": 37.5363096,
+    "lng": -77.5330408
   }
 ]
