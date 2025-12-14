@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 12:41",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.5400835,
-    "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 16:30",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -76,6 +63,19 @@
     "location_township": "Precinct 4",
     "lat": 37.57024,
     "lng": -77.420545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 12:41",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
   },
   {
     "type_general": "RPD",
@@ -157,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 16:44",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "1400-BLK WESTOVER GARDENS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Gardens Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5198165,
-    "lng": -77.5212043
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 17:24",
     "box_no": "DPR",
     "type_specific": "LARCENY , INVESTIGATE",
@@ -193,6 +180,19 @@
     "location_township": "Precinct 1",
     "lat": 37.54025,
     "lng": -77.43045
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:17",
+    "box_no": "DPR",
+    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
+    "street": "3300-BLK MCGUIRE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "McGuire Drive, Southside",
+    "location_township": "DPR",
+    "lat": 37.496818,
+    "lng": -77.4608482
   },
   {
     "type_general": "RFD",
@@ -258,32 +258,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5231263,
     "lng": -77.3987139
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:38",
-    "box_no": "Precinct 3",
-    "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
-    "street": "2900-BLK RUGBY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Rugby Road",
-    "location_township": "Precinct 3",
-    "lat": 37.542689,
-    "lng": -77.483217
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:52",
-    "box_no": "Precinct 1",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "00-BLK W 6TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West 6th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5267242,
-    "lng": -77.4423392
   },
   {
     "type_general": "RFD",
@@ -362,5 +336,44 @@
     "location_township": "Precinct 3",
     "lat": 37.5072965,
     "lng": -77.4968755
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:33",
+    "box_no": "Precinct 1",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "2800-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Mongo's Way",
+    "location_township": "Precinct 1",
+    "lat": 37.527181,
+    "lng": -77.418761
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:52",
+    "box_no": "Precinct 1",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "00-BLK W 6TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West 6th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5267242,
+    "lng": -77.4423392
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 18:33",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "2800-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Mongo's Way",
+    "location_township": "FIRE",
+    "lat": 37.527181,
+    "lng": -77.418761
   }
 ]
