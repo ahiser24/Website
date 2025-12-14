@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 09:59",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "0-BLK W BROAD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 09:27",
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -79,16 +66,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 10:21",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2300-BLK AFTON AVE",
+    "dispatch_time": "12/14/2025 09:56",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "500-BLK E BROAD ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Afton Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4923187,
-    "lng": -77.4405374
+    "nearest_intersection": "North 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5431916,
+    "lng": -77.4365125
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 09:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "400-BLK N 3RD ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 09:13",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
+    "street": "400-BLK N 3RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "FIRE",
+    "lat": 37.54503,
+    "lng": -77.438422
   },
   {
     "type_general": "RPD",
@@ -144,16 +157,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 10:05",
-    "box_no": "Precinct 1",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "1200-BLK N 36TH ST",
+    "dispatch_time": "12/14/2025 10:40",
+    "box_no": "Precinct 2",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2900-BLK COMMERCE RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 36th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5321696,
-    "lng": -77.4012407
+    "nearest_intersection": "Richmond-Petersburg Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.4845737,
+    "lng": -77.4318255
   },
   {
     "type_general": "RPD",
@@ -170,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 10:36",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "00-BLK LABROOK DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Labrook Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5116488,
+    "lng": -77.5085263
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 10:20",
     "box_no": "Precinct 1",
     "type_specific": "DISORDERLY , NUISANCE",
@@ -180,44 +206,5 @@
     "location_township": "Precinct 1",
     "lat": 37.5539874,
     "lng": -77.4116705
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 10:36",
-    "box_no": "Precinct 3",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "00-BLK LABROOK DR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Labrook Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5116488,
-    "lng": -77.5085263
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 09:13",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "400-BLK N 3RD ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 09:13",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , SPECIAL-EVENT",
-    "street": "400-BLK N 3RD ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "FIRE",
-    "lat": 37.54503,
-    "lng": -77.438422
   }
 ]
