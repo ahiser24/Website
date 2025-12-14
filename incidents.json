@@ -66,16 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 16:44",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "1400-BLK WESTOVER GARDENS BLVD",
-    "status": "Enroute",
+    "dispatch_time": "12/14/2025 01:49",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "street": "1200-BLK E BROOKLAND PARK BLVD",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westover Gardens Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5198165,
-    "lng": -77.5212043
+    "nearest_intersection": "East Brookland Park Boulevard, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.57024,
+    "lng": -77.420545
   },
   {
     "type_general": "RPD",
@@ -102,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5511248,
     "lng": -77.4451238
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:10",
-    "box_no": "DPR",
-    "type_specific": "ASSAULT , DPR Call - Take a Report (Non-Domestic &Simple)",
-    "street": "100-BLK S 14TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "South 14th Street",
-    "location_township": "DPR",
-    "lat": 37.5337178,
-    "lng": -77.4328912
   },
   {
     "type_general": "RPD",
@@ -144,45 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:24",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1600-BLK ROBIN HOOD RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Robin Hood Road",
-    "location_township": "DPR",
-    "lat": 37.5737171,
-    "lng": -77.4603331
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:26",
-    "box_no": "Precinct 1",
-    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
-    "street": "400-BLK N 12TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Marshall Street",
-    "location_township": "Precinct 1",
-    "lat": 37.54025,
-    "lng": -77.43045
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:28",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "6700-BLK S GRAND BROOK CIR",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "South Grand Brook Circle",
-    "location_township": "Precinct 3",
-    "lat": 37.516645,
-    "lng": -77.519434
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 17:11",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -195,6 +143,58 @@
     "lng": -77.512119
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:14",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2000-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "DPR",
+    "lat": 37.534387,
+    "lng": -77.423143
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 16:44",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , NUISANCE",
+    "street": "1400-BLK WESTOVER GARDENS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Gardens Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5198165,
+    "lng": -77.5212043
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:24",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , INVESTIGATE",
+    "street": "1600-BLK ROBIN HOOD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Robin Hood Road",
+    "location_township": "DPR",
+    "lat": 37.5737171,
+    "lng": -77.4603331
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:26",
+    "box_no": "Precinct 1",
+    "type_specific": "SHOOTING (PERSON SHOT) , INVESTIGATE / HOSPITAL",
+    "street": "400-BLK N 12TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Marshall Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54025,
+    "lng": -77.43045
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 09:13",
     "box_no": "FIRE",
@@ -245,19 +245,6 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 17:35",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
-    "street": "600-BLK W 32ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 32nd Street",
-    "location_township": "FIRE",
-    "lat": 37.5179375,
-    "lng": -77.4677252
   },
   {
     "type_general": "RPD",
@@ -288,32 +275,6 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/14/2025 17:52",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
-    "street": "N 9TH ST/E BROAD ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 9th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5436134,
-    "lng": -77.4312269
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 17:59",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "FIRE",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:52",
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "00-BLK W 6TH ST",
@@ -325,17 +286,17 @@
     "lng": -77.4423392
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:08",
-    "box_no": "Precinct 4",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "1600-BLK ROBIN HOOD RD",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 18:14",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "street": "1900-BLK ELMSMERE AVE",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Robin Hood Road",
-    "location_township": "Precinct 4",
-    "lat": 37.5737171,
-    "lng": -77.4603331
+    "nearest_intersection": "Elmsmere Avenue",
+    "location_township": "FIRE",
+    "lat": 37.580343,
+    "lng": -77.4662151
   },
   {
     "type_general": "RPD",
@@ -343,7 +304,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
     "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Westover Hills Boulevard",
     "location_township": "Precinct 3",
@@ -352,29 +313,29 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/14/2025 18:10",
+    "dispatch_time": "12/14/2025 18:17",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "2300-BLK ROSETTA ST",
+    "type_specific": "# ASSIST POLICE , OTHER_(SEE REMARKS)",
+    "street": "1700-BLK BELLEVUE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Rosetta Street",
+    "nearest_intersection": "Bellevue Avenue",
     "location_township": "FIRE",
-    "lat": 37.548743,
-    "lng": -77.406126
+    "lat": 37.590597,
+    "lng": -77.464322
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:44",
-    "box_no": "Precinct 1",
+    "dispatch_time": "12/14/2025 18:06",
+    "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1600-BLK GAY ST",
-    "status": "Arrived",
+    "street": "500-BLK W FRANKLIN ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Richmond Street",
-    "location_township": "Precinct 1",
-    "lat": 37.547451,
-    "lng": -77.417935
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5468144,
+    "lng": -77.447785
   },
   {
     "type_general": "RPD",
@@ -390,16 +351,16 @@
     "lng": -77.441637
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 18:14",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "1900-BLK ELMSMERE AVE",
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:37",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "5400-BLK MIDLOTHIAN TPKE",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Elmsmere Avenue",
-    "location_township": "FIRE",
-    "lat": 37.580343,
-    "lng": -77.4662151
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5072965,
+    "lng": -77.4968755
   }
 ]
