@@ -70,25 +70,12 @@
     "box_no": "Precinct 1",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "1500-BLK N 28TH ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Nine Mile Road",
     "location_township": "Precinct 1",
     "lat": 37.5400835,
     "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:06",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "E MAIN ST/NICHOLSON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5337997,
-    "lng": -77.4291343
   },
   {
     "type_general": "RPD",
@@ -105,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 13:59",
-    "box_no": "Precinct 4",
-    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
-    "street": "N 12TH ST/E MAIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 12th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5413903,
-    "lng": -77.4292475
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 13:33",
     "box_no": "Precinct 3",
     "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
@@ -128,19 +102,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5527107,
     "lng": -77.4788573
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 14:12",
-    "box_no": "Precinct 3",
-    "type_specific": "DESTRUCTION OF PROPERTY , INVESTIGATE",
-    "street": "3100-BLK W CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5530934,
-    "lng": -77.4801689
   },
   {
     "type_general": "RPD",
@@ -170,6 +131,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:32",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "500-BLK BAINBRIDGE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bainbridge Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5249709,
+    "lng": -77.4395966
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 14:01",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -182,6 +156,45 @@
     "lng": -77.4583899
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:56",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N BELVIDERE ST RICH:EST LL(-77.4432,37.5532)",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:56",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "N BELVIDERE ST RICH:EST LL(-77.4432,37.5532)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 14:16",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "400-BLK MARX ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Marx Street",
+    "location_township": "DPR",
+    "lat": 37.519869,
+    "lng": -77.432765
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 09:13",
     "box_no": "FIRE",
@@ -232,31 +245,5 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 14:33",
-    "box_no": "Precinct 1",
-    "type_specific": "LARCENY , JUST OCCURRED / IN-PROGRESS",
-    "street": "1700-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5335013,
-    "lng": -77.4282824
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 14:32",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "500-BLK BAINBRIDGE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bainbridge Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5249709,
-    "lng": -77.4395966
   }
 ]
