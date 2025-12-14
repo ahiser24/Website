@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 08:42",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 08:45",
     "box_no": "Precinct 4",
     "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
@@ -144,6 +131,45 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:15",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "4700-BLK WALMSLEY BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4704251,
+    "lng": -77.4818545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:15",
+    "box_no": "Precinct 2",
+    "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
+    "street": "4700-BLK WALMSLEY BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Walmsley Boulevard",
+    "location_township": "Precinct 2",
+    "lat": 37.4704251,
+    "lng": -77.4818545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:15",
+    "box_no": "Precinct 1",
+    "type_specific": "STOLEN VEHICLE , TAKE A REPORT (Field Unit Required)",
+    "street": "1500-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South 15th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.533737,
+    "lng": -77.430987
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 09:09",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -154,5 +180,31 @@
     "location_township": "Precinct 2",
     "lat": 37.5030567,
     "lng": -77.4626598
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:20",
+    "box_no": "Precinct 2",
+    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 09:25",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2300-BLK AFTON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Afton Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4923187,
+    "lng": -77.4405374
   }
 ]
