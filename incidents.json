@@ -80,6 +80,19 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/14/2025 01:49",
+    "box_no": "Precinct 1",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "1400-BLK N 33RD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 33rd Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5368667,
+    "lng": -77.4026582
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 01:49",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
     "street": "1200-BLK E BROOKLAND PARK BLVD",
@@ -89,19 +102,6 @@
     "location_township": "Precinct 4",
     "lat": 37.57024,
     "lng": -77.420545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 01:53",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "CARGREEN RD/FLYNN RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Cargreen Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4855512,
-    "lng": -77.5157951
   },
   {
     "type_general": "RPD",
@@ -128,6 +128,19 @@
     "location_township": "Precinct 1",
     "lat": 37.535215,
     "lng": -77.4065935
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 02:02",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N ARTHUR ASHE BLVD/MYERS ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North Arthur Ashe Boulevard",
+    "location_township": "Precinct 4",
+    "lat": 37.5571579,
+    "lng": -77.473081
   },
   {
     "type_general": "RPD",
@@ -195,30 +208,43 @@
     "lng": -77.4692833
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 02:03",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "N ARTHUR ASHE BLVD/MYERS ST RICH",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 02:32",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , PERSON",
+    "street": "00-BLK E MAIN ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North Arthur Ashe Boulevard",
-    "location_township": "FIRE",
-    "lat": 37.5571579,
-    "lng": -77.473081
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5337997,
+    "lng": -77.4291343
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 02:19",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "5100-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 02:34",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "RICH: @POWHITE PKWY SB - TOLL PLAZA",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "FIRE",
-    "lat": 37.5083332,
-    "lng": -77.4922
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 02:35",
+    "box_no": "Precinct 1",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "1600-BLK DOCK ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Downtown Expressway",
+    "location_township": "Precinct 1",
+    "lat": 37.5329235,
+    "lng": -77.4322075
   },
   {
     "type_general": "RFD",
@@ -232,5 +258,18 @@
     "location_township": "FIRE",
     "lat": 37.5366168,
     "lng": -77.5359407
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 02:34",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @POWHITE PKWY SB - TOLL PLAZA",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
   }
 ]
