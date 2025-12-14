@@ -31,7 +31,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
     "street": "4000-BLK OLD BROOK RD",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Old Brook Road",
     "location_township": "Precinct 4",
@@ -102,6 +102,19 @@
     "location_township": "Precinct 4",
     "lat": 37.57024,
     "lng": -77.420545
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 01:59",
+    "box_no": "Precinct 1",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1900-BLK RAVEN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Raven Street",
+    "location_township": "Precinct 1",
+    "lat": 37.549938,
+    "lng": -77.421725
   },
   {
     "type_general": "RPD",
@@ -200,25 +213,12 @@
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "800-BLK PERRY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Perry Street",
     "location_township": "Precinct 1",
     "lat": 37.525285,
     "lng": -77.443659
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 02:32",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , PERSON",
-    "street": "00-BLK E MAIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5337997,
-    "lng": -77.4291343
   },
   {
     "type_general": "RPD",
@@ -247,6 +247,19 @@
     "lng": null
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 02:46",
+    "box_no": "Precinct 4",
+    "type_specific": "RANDOM GUNFIRE , INVESTIGATE",
+    "street": "N 1ST ST/E DUVAL ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 1st Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5553171,
+    "lng": -77.4314859
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 02:34",
     "box_no": "FIRE",
@@ -258,5 +271,18 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 02:51",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "200-BLK HOSPITAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Hospital Street",
+    "location_township": "FIRE",
+    "lat": 37.5533597,
+    "lng": -77.4314478
   }
 ]
