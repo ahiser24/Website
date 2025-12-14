@@ -128,5 +128,70 @@
     "location_township": "Precinct 1",
     "lat": 37.5355217,
     "lng": -77.4004155
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 08:42",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4300-BLK COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4664874,
+    "lng": -77.4274885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 08:42",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "4300-BLK COMMERCE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Commerce Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4664874,
+    "lng": -77.4274885
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 08:44",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "5800-BLK ORCUTT LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Orcutt Lane",
+    "location_township": "FIRE",
+    "lat": 37.4829472,
+    "lng": -77.4998228
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 08:45",
+    "box_no": "Precinct 4",
+    "type_specific": "OVERDOSE/POISONING , JUST OCCURRED",
+    "street": "1900-BLK 5TH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "5th Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5584516,
+    "lng": -77.4230047
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/14/2025 08:45",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
+    "street": "1900-BLK 5TH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "5th Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5584516,
+    "lng": -77.4230047
   }
 ]
