@@ -83,7 +83,7 @@
     "box_no": "Precinct 1",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "1600-BLK GAY ST",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Richmond Street",
     "location_township": "Precinct 1",
@@ -135,24 +135,11 @@
     "box_no": "Precinct 3",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "600-BLK COWARDIN AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Cowardin Avenue",
     "location_township": "Precinct 3",
     "lat": 37.5242935,
     "lng": -77.452771
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 04:09",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "900-BLK OLIVER HILL WAY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Oliver Hill Way",
-    "location_township": "FIRE",
-    "lat": 37.5501278,
-    "lng": -77.4239328
   }
 ]
