@@ -78,19 +78,6 @@
     "lng": -77.5066459
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 23:29",
-    "box_no": "FIRE",
-    "type_specific": "# VEHICLE FIRE , PROXIMITY TO STRUCTURE",
-    "street": "6000-BLK WARWICK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "FIRE",
-    "lat": 37.4979141,
-    "lng": -77.5066459
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/15/2025 01:05",
     "box_no": "Precinct 1",
@@ -144,58 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 01:40",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 01:40",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "1900-BLK MECHANICSVILLE TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Mechanicsville Turnpike",
-    "location_township": "Precinct 1",
-    "lat": 37.5528738,
-    "lng": -77.4124488
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 01:42",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 01:42",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "4300-BLK COMMERCE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Commerce Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4664874,
-    "lng": -77.4274885
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 01:36",
     "box_no": "Precinct 3",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -208,29 +143,16 @@
     "lng": -77.5100332
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 01:31",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , FORCIBLE ENTRY",
-    "street": "1900-BLK RAVEN ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 01:52",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2300-BLK COOL LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Raven Street",
-    "location_township": "FIRE",
-    "lat": 37.549938,
-    "lng": -77.421725
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 01:46",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "1700-BLK STOCKTON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Stockton Street",
-    "location_township": "FIRE",
-    "lat": 37.5164926,
-    "lng": -77.4466376
+    "nearest_intersection": "Cool Lane",
+    "location_township": "Precinct 1",
+    "lat": 37.5495323,
+    "lng": -77.3958039
   }
 ]
