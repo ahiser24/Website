@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 13:48",
-    "box_no": "DPR",
-    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
-    "street": "400-BLK ROSENEATH RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Roseneath Road",
-    "location_township": "DPR",
-    "lat": 37.560369,
-    "lng": -77.481713
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 12:23",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -183,16 +170,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 13:54",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "00-BLK ROSLYN RD",
+    "dispatch_time": "12/15/2025 13:48",
+    "box_no": "DPR",
+    "type_specific": "FRAUD /FORGERY INCIDENT , DPR Call - Take a Report",
+    "street": "400-BLK ROSENEATH RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Roslyn Road, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.568078,
-    "lng": -77.5111225
+    "nearest_intersection": "Roseneath Road",
+    "location_township": "DPR",
+    "lat": 37.560369,
+    "lng": -77.481713
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 13:58",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1400-BLK JENNIE SCHER RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jennie Scher Road, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5226217,
+    "lng": -77.3994575
   },
   {
     "type_general": "RPD",
@@ -261,19 +261,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 14:03",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "BELT BLVD/BELLS RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Belt Boulevard, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4819006,
-    "lng": -77.4619128
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 14:05",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -284,19 +271,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5816714,
     "lng": -77.4490731
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 13:58",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK JENNIE SCHER RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jennie Scher Road, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.5226217,
-    "lng": -77.3994575
   },
   {
     "type_general": "RPD",
@@ -339,19 +313,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 14:03",
-    "box_no": "Precinct 4",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "200-BLK W BAKER ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Baker Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551566,
-    "lng": -77.439165
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 13:58",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
@@ -375,5 +336,70 @@
     "location_township": "Precinct 3",
     "lat": 37.541964,
     "lng": -77.4565646
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 14:03",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "BELT BLVD/BELLS RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Belt Boulevard, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4819006,
+    "lng": -77.4619128
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 14:07",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "WESTWOOD AVE/BROOKLAND PKWY RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Westwood Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.5782609,
+    "lng": -77.4685841
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 14:17",
+    "box_no": "Precinct 2",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4200-BLK BRITANNIA RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Britannia Road",
+    "location_township": "Precinct 2",
+    "lat": 37.477887,
+    "lng": -77.472981
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 14:03",
+    "box_no": "Precinct 4",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "200-BLK W BAKER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Baker Street",
+    "location_township": "Precinct 4",
+    "lat": 37.551566,
+    "lng": -77.439165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 14:37",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE - EMS",
+    "street": "2000-BLK CREIGHTON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Creighton Road",
+    "location_township": "Precinct 1",
+    "lat": 37.5439656,
+    "lng": -77.3997454
   }
 ]
