@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 00:01",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "400-BLK N MONROE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "Precinct 4",
-    "lat": 37.548743,
-    "lng": -77.444628
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 00:41",
     "box_no": "Precinct 1",
     "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 23:29",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "6000-BLK WARWICK RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4979141,
-    "lng": -77.5066459
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 01:05",
     "box_no": "Precinct 1",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -89,6 +63,19 @@
     "location_township": "Precinct 1",
     "lat": 37.548532,
     "lng": -77.4127685
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 23:29",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6000-BLK WARWICK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4979141,
+    "lng": -77.5066459
   },
   {
     "type_general": "RPD",
@@ -144,15 +131,54 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 01:52",
+    "dispatch_time": "12/15/2025 01:59",
     "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2300-BLK COOL LN",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "900-BLK MOSBY ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Leigh Street Viaduct",
+    "location_township": "Precinct 1",
+    "lat": 37.5418142,
+    "lng": -77.4208953
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 01:59",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "900-BLK MOSBY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Cool Lane",
+    "nearest_intersection": "Leigh Street Viaduct",
     "location_township": "Precinct 1",
-    "lat": 37.5495323,
-    "lng": -77.3958039
+    "lat": 37.5418142,
+    "lng": -77.4208953
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 02:07",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "2600-BLK CHAMBERLAYNE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5668206,
+    "lng": -77.4448967
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 02:07",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "1800-BLK HIGHPOINT AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Highpoint Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.570312,
+    "lng": -77.469224
   }
 ]
