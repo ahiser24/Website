@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 03:38",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1800-BLK E CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532058,
-    "lng": -77.428257
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 03:11",
     "box_no": "Precinct 2",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
@@ -79,29 +66,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 03:45",
+    "dispatch_time": "12/15/2025 03:38",
     "box_no": "Precinct 1",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "300-BLK E 15TH ST",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1800-BLK E CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East 15th Street",
+    "nearest_intersection": "East Cary Street",
     "location_township": "Precinct 1",
-    "lat": 37.5167483,
-    "lng": -77.4432134
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 03:56",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "3700-BLK MCRAND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "McRand Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.5059981,
-    "lng": -77.4708616
+    "lat": 37.532058,
+    "lng": -77.428257
   },
   {
     "type_general": "RPD",
@@ -130,29 +104,16 @@
     "lng": -77.399754
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 04:34",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "200-BLK N LOMBARDY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "FIRE",
-    "lat": 37.549834,
-    "lng": -77.459708
-  },
-  {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 04:34",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "200-BLK N LOMBARDY ST",
-    "status": "Arrived",
+    "dispatch_time": "12/15/2025 03:47",
+    "box_no": "Precinct 2",
+    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
+    "street": "5700-BLK WARWICK RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.549834,
-    "lng": -77.459708
+    "nearest_intersection": "Warwick Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4972912,
+    "lng": -77.5005953
   }
 ]
