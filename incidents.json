@@ -18,25 +18,12 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 22:06",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "400-BLK W RANDOLPH RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4702608,
     "lng": -77.4438114
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:07",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2800-BLK DUNN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dunn Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.568603,
-    "lng": -77.425344
   },
   {
     "type_general": "RPD",
@@ -91,29 +65,42 @@
     "lng": -77.4995034
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 06:22",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 22:06",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "400-BLK W RANDOLPH RD",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Grace Street",
-    "location_township": "FIRE",
-    "lat": 37.5514093,
-    "lng": -77.4534673
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 06:29",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "10200-BLK APACHE RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 06:37",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 06:37",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "4600-BLK N SOUTHSIDE PLZ",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Apache Road",
-    "location_township": "FIRE",
-    "lat": 37.551075,
-    "lng": -77.581913
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
   }
 ]
