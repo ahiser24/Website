@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 03:47",
-    "box_no": "Precinct 2",
-    "type_specific": "LARCENY , TAKE A REPORT (Field Unit Required)",
-    "street": "5700-BLK WARWICK RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Warwick Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4972912,
-    "lng": -77.5005953
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 04:16",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
