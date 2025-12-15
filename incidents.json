@@ -131,19 +131,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 11:58",
-    "box_no": "Precinct 1",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "700-BLK N 37TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 37th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.528643,
-    "lng": -77.40461
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 11:38",
     "box_no": "Precinct 2",
     "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
@@ -196,6 +183,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/15/2025 12:02",
+    "box_no": "Precinct 3",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3900-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Midlothian Turnpike",
+    "location_township": "Precinct 3",
+    "lat": 37.5096091,
+    "lng": -77.4767267
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/15/2025 12:05",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -219,19 +219,6 @@
     "location_township": "Precinct 2",
     "lat": 37.504835,
     "lng": -77.478641
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 12:07",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "UNION ST/WILLIAMSBURG RD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Union Street",
-    "location_township": "FIRE",
-    "lat": 37.5161447,
-    "lng": -77.4038045
   },
   {
     "type_general": "RPD",
@@ -351,30 +338,17 @@
     "lng": -77.5119831
   },
   {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 12:02",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3900-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "type_general": "RFD",
+    "dispatch_time": "12/15/2025 12:55",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
+    "street": "9000-BLK STONY POINT PKWY",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5096091,
-    "lng": -77.4767267
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 12:38",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1300-BLK ROSENEATH RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Roseneath Road",
-    "location_township": "Precinct 4",
-    "lat": 37.568479,
-    "lng": -77.475732
+    "nearest_intersection": "Stony Point Parkway",
+    "location_township": "FIRE",
+    "lat": 37.5529921,
+    "lng": -77.5653742
   },
   {
     "type_general": "RPD",
@@ -390,29 +364,55 @@
     "lng": -77.4977314
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 12:55",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "9000-BLK STONY POINT PKWY",
-    "status": "Enroute",
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 12:57",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "3200-BLK MAURY ST",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Stony Point Parkway",
-    "location_township": "FIRE",
-    "lat": 37.5529921,
-    "lng": -77.5653742
+    "nearest_intersection": "Maury Street, Southside",
+    "location_township": "DPR",
+    "lat": 37.503929,
+    "lng": -77.461818
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 12:20",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "E BROAD ST/N 1ST ST RICH",
-    "status": "Dispatched",
+    "dispatch_time": "12/15/2025 13:03",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "JOSEPH BRYAN LN/ROSINAS LN RICH",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Broad Street",
-    "location_township": "DPR",
-    "lat": 37.5442536,
-    "lng": -77.4397407
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/15/2025 12:57",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "RICH: @EXIT 76B - I95 SB (BELVIDERE ST)",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/15/2025 13:05",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2900-BLK W CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "South Addison Street",
+    "location_township": "FIRE",
+    "lat": 37.5522352,
+    "lng": -77.4776189
   }
 ]
