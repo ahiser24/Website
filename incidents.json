@@ -53,29 +53,42 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/15/2025 02:53",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "5500-BLK SNEAD RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4777696,
+    "lng": -77.4965201
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 02:53",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "5500-BLK SNEAD RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Snead Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4777696,
+    "lng": -77.4965201
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 18:07",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2800-BLK DUNN AVE",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Dunn Avenue, Northside",
     "location_township": "Precinct 4",
     "lat": 37.568603,
     "lng": -77.425344
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 03:38",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1800-BLK E CARY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532058,
-    "lng": -77.428257
   },
   {
     "type_general": "RPD",
@@ -102,6 +115,19 @@
     "location_township": "Precinct 1",
     "lat": 37.542062,
     "lng": -77.399754
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 03:38",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1800-BLK E CARY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.532058,
+    "lng": -77.428257
   },
   {
     "type_general": "RPD",
