@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 13:54",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "00-BLK ROSLYN RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Roslyn Road, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.568078,
-    "lng": -77.5111225
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 13:28",
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -193,6 +180,19 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 13:54",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "00-BLK ROSLYN RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Roslyn Road, West End",
+    "location_township": "Precinct 3",
+    "lat": 37.568078,
+    "lng": -77.5111225
   },
   {
     "type_general": "RPD",
@@ -273,19 +273,6 @@
     "lng": -77.4619128
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 14:05",
-    "box_no": "FIRE",
-    "type_specific": "CRASH , HAZARD CONTROL",
-    "street": "WALTON AVE/CHAMBERLAYNE AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walton Avenue, Northside",
-    "location_township": "FIRE",
-    "lat": 37.5816714,
-    "lng": -77.4490731
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/15/2025 14:05",
     "box_no": "Precinct 4",
@@ -310,19 +297,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5226217,
     "lng": -77.3994575
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 13:58",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2700-BLK LAMBERTS AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Lamberts Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.476232,
-    "lng": -77.447812
   },
   {
     "type_general": "RPD",
@@ -375,5 +349,31 @@
     "location_township": "Precinct 4",
     "lat": 37.551566,
     "lng": -77.439165
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 13:58",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2700-BLK LAMBERTS AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Lamberts Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.476232,
+    "lng": -77.447812
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 14:23",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "IDLEWOOD AVE/S SHEPPARD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Idlewood Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.541964,
+    "lng": -77.4565646
   }
 ]
