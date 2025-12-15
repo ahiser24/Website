@@ -66,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/15/2025 17:15",
+    "box_no": "Precinct 4",
+    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
+    "street": "500-BLK E BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 5th Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5431916,
+    "lng": -77.4365125
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/15/2025 17:19",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -76,19 +89,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5323709,
     "lng": -77.4265259
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 17:25",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "50200-BLK N STAFFORD AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "North Stafford Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5553586,
-    "lng": -77.4683408
   },
   {
     "type_general": "RPD",
@@ -115,19 +115,6 @@
     "location_township": "Precinct 2",
     "lat": 37.498706,
     "lng": -77.470527
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 18:07",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "SMITH ST/CATHERINE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Smith Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5506095,
-    "lng": -77.4453779
   },
   {
     "type_general": "RPD",
@@ -170,24 +157,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 18:28",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "5400-BLK PATTERSON AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Patterson Avenue, West End",
-    "location_township": "Precinct 3",
-    "lat": 37.5770283,
-    "lng": -77.5104277
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 18:29",
     "box_no": "Precinct 4",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "ST JOHN ST/W FEDERAL ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Saint John Street",
     "location_township": "Precinct 4",
@@ -200,7 +174,7 @@
     "box_no": "Precinct 4",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
     "street": "5200-BLK BROOK RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Brook Road",
     "location_township": "Precinct 4",
@@ -232,32 +206,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5469679,
     "lng": -77.416023
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 18:40",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.57024,
-    "lng": -77.420545
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 18:40",
-    "box_no": "Precinct 4",
-    "type_specific": "HOTSPOT-CURVE , WITH FLASHING BLUE LIGHTS",
-    "street": "1200-BLK E BROOKLAND PARK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East Brookland Park Boulevard, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.57024,
-    "lng": -77.420545
   },
   {
     "type_general": "RPD",
