@@ -117,19 +117,6 @@
     "lng": -77.5005953
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 05:21",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "1600-BLK BROAD ROCK BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Broad Rock Boulevard, Southside",
-    "location_township": "FIRE",
-    "lat": 37.4934886,
-    "lng": -77.4709086
-  },
-  {
     "type_general": "RPD",
     "dispatch_time": "12/15/2025 04:16",
     "box_no": "Precinct 3",
