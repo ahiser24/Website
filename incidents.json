@@ -53,10 +53,10 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 06:37",
+    "dispatch_time": "12/14/2025 22:06",
     "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "400-BLK W RANDOLPH RD",
     "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "",
@@ -66,28 +66,28 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 06:37",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
+    "dispatch_time": "12/15/2025 07:02",
+    "box_no": "Precinct 4",
+    "type_specific": "HOLD-UP ALARM RESIDENTIAL , INVESTIGATE",
+    "street": "1700-BLK WILMINGTON AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Wilmington Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.583131,
+    "lng": -77.463216
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 22:06",
+    "dispatch_time": "12/15/2025 07:03",
     "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "400-BLK W RANDOLPH RD",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "700-BLK RICHMOND HWY",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4694278,
+    "lng": -77.4434296
   }
 ]
