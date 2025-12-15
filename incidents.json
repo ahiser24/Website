@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7700-BLK E PARHAM RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "East Parham Road, Henrico",
     "location_township": "Precinct 4",
@@ -37,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 00:41",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS - EMS",
-    "street": "2200-BLK INGRAM AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Ingram Avenue",
-    "location_township": "Precinct 1",
-    "lat": 37.5060193,
-    "lng": -77.4421819
   },
   {
     "type_general": "RPD",
@@ -102,19 +89,6 @@
     "location_township": "Precinct 4",
     "lat": 37.541603,
     "lng": -77.444485
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 02:26",
-    "box_no": "Precinct 1",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "700-BLK E 4TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 4th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5157611,
-    "lng": -77.4278016
   },
   {
     "type_general": "RPD",
