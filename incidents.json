@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 03:05",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2600-BLK GROVE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grove Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.5543423,
-    "lng": -77.4720912
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 22:06",
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -53,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 03:08",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3100-BLK CAROLINA AVE",
-    "status": "Arrived",
+    "dispatch_time": "12/15/2025 03:38",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1800-BLK E CARY ST",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Carolina Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5735504,
-    "lng": -77.4202488
+    "nearest_intersection": "East Cary Street",
+    "location_township": "Precinct 1",
+    "lat": 37.532058,
+    "lng": -77.428257
   },
   {
     "type_general": "RPD",
@@ -70,12 +57,25 @@
     "box_no": "Precinct 2",
     "type_specific": "BREAK & ENTER , JUST OCCURRED / IN-PROGRESS",
     "street": "4000-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
     "lat": 37.4702608,
     "lng": -77.4438114
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:07",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2800-BLK DUNN AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Dunn Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.568603,
+    "lng": -77.425344
   },
   {
     "type_general": "RPD",
@@ -105,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 03:38",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1800-BLK E CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Cary Street",
-    "location_township": "Precinct 1",
-    "lat": 37.532058,
-    "lng": -77.428257
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 04:16",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -141,5 +128,31 @@
     "location_township": "Precinct 1",
     "lat": 37.542062,
     "lng": -77.399754
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/15/2025 04:34",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "200-BLK N LOMBARDY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "FIRE",
+    "lat": 37.549834,
+    "lng": -77.459708
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 04:34",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "200-BLK N LOMBARDY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Grove Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.549834,
+    "lng": -77.459708
   }
 ]
