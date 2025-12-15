@@ -137,10 +137,10 @@
     "street": "100-BLK E MAIN ST",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Main Street",
     "location_township": "DPR",
-    "lat": null,
-    "lng": null
+    "lat": 37.5425606,
+    "lng": -77.4431814
   },
   {
     "type_general": "RPD",
@@ -170,19 +170,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 15:46",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "RIVERSIDE DR/EVELYN BYRD RD RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Riverside Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5279468,
-    "lng": -77.4870276
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 15:49",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -193,19 +180,6 @@
     "location_township": "Precinct 2",
     "lat": 37.504277,
     "lng": -77.4768127
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 15:52",
-    "box_no": "Precinct 3",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "7800-BLK BURRUNDIE DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Burrundie Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.535887,
-    "lng": -77.540091
   },
   {
     "type_general": "RPD",
@@ -254,10 +228,23 @@
     "street": "2200-BLK SELDEN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Selden Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.549692,
+    "lng": -77.405987
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 16:19",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "4000-BLK MONTICELLO ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Nottoway Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.588252,
+    "lng": -77.46043
   },
   {
     "type_general": "RPD",
@@ -286,17 +273,30 @@
     "lng": -77.458937
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 15:37",
-    "box_no": "FIRE",
-    "type_specific": "# SMOKE INVESTIGATION",
-    "street": "0-BLK BELLE ISLE",
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 16:26",
+    "box_no": "Precinct 4",
+    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
+    "street": "3200-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5748476,
+    "lng": -77.4327093
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 16:28",
+    "box_no": "Precinct 3",
+    "type_specific": "HOLD-UP ALARM COMMERCIAL , INVESTIGATE",
+    "street": "900-BLK LIBBIE AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Robert E. Lee Memorial Bridge",
-    "location_township": "FIRE",
-    "lat": 37.532685,
-    "lng": -77.4495938
+    "nearest_intersection": "Libbie Avenue",
+    "location_township": "Precinct 3",
+    "lat": 37.5809071,
+    "lng": -77.5128348
   },
   {
     "type_general": "RFD",
