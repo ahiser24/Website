@@ -40,19 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 07:43",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1500-BLK LYNHAVEN AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Lynhaven Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.499317,
-    "lng": -77.442343
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 10:31",
     "box_no": "Precinct 3",
     "type_specific": "BREAK & ENTER , INVESTIGATE",
@@ -89,6 +76,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5161447,
     "lng": -77.4038045
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 12:23",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "400-BLK W 14TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West 14th Street",
+    "location_township": "DPR",
+    "lat": 37.5235576,
+    "lng": -77.4495582
   },
   {
     "type_general": "RPD",
@@ -131,29 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 13:09",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "00-BLK W MAIN ST",
+    "dispatch_time": "12/15/2025 13:58",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2700-BLK LAMBERTS AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Main Street",
-    "location_township": "Precinct 4",
-    "lat": 37.552686,
-    "lng": -77.4756125
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 12:23",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "400-BLK W 14TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 14th Street",
-    "location_township": "DPR",
-    "lat": 37.5235576,
-    "lng": -77.4495582
+    "nearest_intersection": "Lamberts Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.476232,
+    "lng": -77.447812
   },
   {
     "type_general": "RPD",
@@ -170,19 +157,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 13:00",
-    "box_no": "DPR",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "100-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 13:58",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -193,6 +167,32 @@
     "location_township": "Precinct 1",
     "lat": 37.5226217,
     "lng": -77.3994575
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 13:07",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "200-BLK E BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Broad Street",
+    "location_township": "DPR",
+    "lat": 37.5446393,
+    "lng": -77.4398964
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 13:09",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "00-BLK W MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.552686,
+    "lng": -77.4756125
   },
   {
     "type_general": "RPD",
@@ -287,19 +287,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 13:58",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2700-BLK LAMBERTS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Lamberts Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.476232,
-    "lng": -77.447812
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 14:03",
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
@@ -336,32 +323,6 @@
     "location_township": "FIRE",
     "lat": 37.5480773,
     "lng": -77.4352319
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 14:43",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "400-BLK W 14TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West 14th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5235576,
-    "lng": -77.4495582
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 14:43",
-    "box_no": "Precinct 4",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "400-BLK W 14TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West 14th Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5235576,
-    "lng": -77.4495582
   },
   {
     "type_general": "RPD",
@@ -408,12 +369,38 @@
     "box_no": "Precinct 2",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "BELT BLVD/BELLS RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Belt Boulevard, Southside",
     "location_township": "Precinct 2",
     "lat": 37.4819006,
     "lng": -77.4619128
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 14:47",
+    "box_no": "DPR",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "600-BLK SHELBY DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Shelby Drive, Southside",
+    "location_township": "DPR",
+    "lat": 37.5014992,
+    "lng": -77.4862065
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/15/2025 14:49",
+    "box_no": "FIRE",
+    "type_specific": "CRASH , HAZARD CONTROL",
+    "street": "6200-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "FIRE",
+    "lat": 37.5205385,
+    "lng": -77.510489
   },
   {
     "type_general": "RPD",
@@ -427,5 +414,18 @@
     "location_township": "Precinct 4",
     "lat": 37.5480773,
     "lng": -77.4352319
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 14:49",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "6200-BLK JAHNKE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.5205385,
+    "lng": -77.510489
   }
 ]
