@@ -5,7 +5,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -40,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 14:07",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "WESTWOOD AVE/BROOKLAND PKWY RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westwood Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.5782609,
-    "lng": -77.4685841
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 14:39",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PERSONAL INJURY",
-    "street": "N 3RD ST/E JACKSON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 3rd Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5480773,
-    "lng": -77.4352319
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 15:22",
     "box_no": "DPR",
     "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
@@ -79,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 15:42",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3300-BLK IRVINGTON ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Irvington Street, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4820512,
-    "lng": -77.4591532
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 15:49",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -102,19 +63,6 @@
     "location_township": "Precinct 2",
     "lat": 37.504277,
     "lng": -77.4768127
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 16:23",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2000-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5573327,
-    "lng": -77.4604978
   },
   {
     "type_general": "RPD",
@@ -187,7 +135,7 @@
     "box_no": "Precinct 4",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "FRONT ST/2ND AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Front Street",
     "location_township": "Precinct 4",
@@ -219,19 +167,6 @@
     "location_township": "Precinct 2",
     "lat": 37.5086551,
     "lng": -77.4737059
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 16:54",
-    "box_no": "Precinct 3",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "2700-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 3",
-    "lat": 37.5620282,
-    "lng": -77.468756
   },
   {
     "type_general": "RPD",
