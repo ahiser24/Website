@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
@@ -53,45 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:07",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "2800-BLK DUNN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Dunn Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.568603,
-    "lng": -77.425344
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 02:53",
-    "box_no": "Precinct 2",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "5500-BLK SNEAD RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Snead Road",
-    "location_township": "Precinct 2",
-    "lat": 37.4777696,
-    "lng": -77.4965201
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 04:23",
-    "box_no": "Precinct 1",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "3000-BLK NINE MILE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
-    "location_township": "Precinct 1",
-    "lat": 37.542062,
-    "lng": -77.399754
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 03:38",
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -105,6 +66,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:07",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2800-BLK DUNN AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dunn Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.568603,
+    "lng": -77.425344
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/15/2025 04:16",
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -115,5 +89,31 @@
     "location_township": "Precinct 3",
     "lat": 37.5140128,
     "lng": -77.4895724
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/15/2025 06:06",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "FIRE",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/15/2025 06:01",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
+    "street": "1300-BLK COALTER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Coalter Street",
+    "location_township": "FIRE",
+    "lat": 37.543765,
+    "lng": -77.422946
   }
 ]
