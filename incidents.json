@@ -40,9 +40,22 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/14/2025 16:30",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1700-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Clarkson Road, Southside",
+    "location_township": "Precinct 2",
+    "lat": 37.4923295,
+    "lng": -77.481047
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/14/2025 01:49",
     "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
     "street": "1200-BLK E BROOKLAND PARK BLVD",
     "status": "Arrived",
     "cross_street": "",
@@ -63,58 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5400835,
     "lng": -77.4068808
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 16:25",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "3600-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Walton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.581665,
-    "lng": -77.446998
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 16:30",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1700-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4923295,
-    "lng": -77.481047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 17:28",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1700-BLK BELLEVUE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Bellevue Avenue",
-    "location_township": "Precinct 4",
-    "lat": 37.590597,
-    "lng": -77.464322
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:05",
-    "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "400-BLK WESTOVER HILLS BLVD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Westover Hills Boulevard",
-    "location_township": "Precinct 3",
-    "lat": 37.5110515,
-    "lng": -77.488118
   },
   {
     "type_general": "RPD",
@@ -141,6 +102,19 @@
     "location_township": "Precinct 1",
     "lat": 37.54025,
     "lng": -77.43045
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:40",
+    "box_no": "Precinct 1",
+    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
+    "street": "E 10TH ST/STOCKTON ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East 10th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5202982,
+    "lng": -77.4407905
   },
   {
     "type_general": "RPD",
@@ -182,6 +156,32 @@
     "lng": -77.4729377
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 17:28",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1700-BLK BELLEVUE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bellevue Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.590597,
+    "lng": -77.464322
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:38",
+    "box_no": "Precinct 4",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "700-BLK W LEIGH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5556224,
+    "lng": -77.451142
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/14/2025 09:13",
     "box_no": "FIRE",
@@ -232,19 +232,6 @@
     "location_township": "FIRE",
     "lat": 37.5415708,
     "lng": -77.4366965
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 18:14",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
-    "street": "1900-BLK ELMSMERE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Elmsmere Avenue",
-    "location_township": "FIRE",
-    "lat": 37.580343,
-    "lng": -77.4662151
   },
   {
     "type_general": "RFD",
@@ -261,71 +248,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:39",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:39",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 2",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:45",
-    "box_no": "Precinct 3",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 18:40",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "E 10TH ST/STOCKTON ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 10th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5202982,
-    "lng": -77.4407905
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/14/2025 18:40",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "900-BLK W FRANKLIN ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Franklin Street",
-    "location_township": "FIRE",
-    "lat": 37.5493204,
-    "lng": -77.4522596
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/14/2025 18:43",
     "box_no": "Precinct 1",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -336,5 +258,18 @@
     "location_township": "Precinct 1",
     "lat": 37.535815,
     "lng": -77.423219
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/14/2025 18:41",
+    "box_no": "Precinct 4",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "800-BLK W CANAL ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Canal Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5421793,
+    "lng": -77.4474595
   }
 ]
