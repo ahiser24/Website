@@ -20,10 +20,10 @@
     "street": "6000-BLK SUGARBUSH DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Sugarbush Drive",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5254806,
-    "lng": -77.5079418
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
