@@ -20,7 +20,7 @@
     "street": "7700-BLK E PARHAM RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Parham Road, Henrico",
     "location_township": "Precinct 4",
     "lat": 37.6312963,
     "lng": -77.5251363
@@ -44,25 +44,12 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2400-BLK CERSLEY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Cersley Street",
     "location_township": "Precinct 2",
     "lat": 37.513136,
     "lng": -77.4522639
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:09",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "OLIVER HILL WAY/E CLAY ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -72,10 +59,10 @@
     "street": "W BROAD ST/N ADAMS ST RICH",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -111,10 +98,10 @@
     "street": "1900-BLK BAINBRIDGE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Bainbridge Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.518483,
+    "lng": -77.450766
   },
   {
     "type_general": "RPD",
@@ -157,29 +144,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:48",
+    "dispatch_time": "12/16/2025 10:08",
     "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1800-BLK HIGHPOINT AVE",
-    "status": "Arrived",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "3500-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Highpoint Avenue",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
     "location_township": "Precinct 4",
-    "lat": 37.570312,
-    "lng": -77.469224
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:55",
-    "box_no": "Precinct 3",
-    "type_specific": "DISORDERLY , INVESTIGATE",
-    "street": "6300-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
-    "location_township": "Precinct 3",
-    "lat": 37.5215193,
-    "lng": -77.5137851
+    "lat": 37.5799327,
+    "lng": -77.4469305
   },
   {
     "type_general": "RPD",
@@ -200,25 +174,12 @@
     "box_no": "DPR",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
     "street": "800-BLK N 35TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "North 35th Street, East End",
     "location_township": "DPR",
     "lat": 37.5306918,
     "lng": -77.4057066
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 10:31",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "2900-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -235,16 +196,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 10:41",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "dispatch_time": "12/16/2025 10:44",
+    "box_no": "DPR",
+    "type_specific": "HARASSING / THREATENING PHONE CALLS , DPR Call",
+    "street": "00-BLK W 27TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "Precinct 4",
-    "lat": 37.5514017,
-    "lng": -77.4407689
+    "nearest_intersection": "West 27th Street",
+    "location_township": "DPR",
+    "lat": 37.5196704,
+    "lng": -77.4613917
   },
   {
     "type_general": "RPD",
@@ -254,36 +215,10 @@
     "street": "N 32ND ST/S ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 32nd Street, East End",
     "location_township": "Precinct 1",
     "lat": 37.533338,
     "lng": -77.4071263
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 10:51",
-    "box_no": "Precinct 4",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "800-BLK W GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 10:58",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "6500-BLK VISCHER RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": 37.5232322,
-    "lng": -77.520721
   },
   {
     "type_general": "RPD",
@@ -313,29 +248,42 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 11:02",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
-    "street": "1500-BLK CLARKSON RD",
+    "dispatch_time": "12/16/2025 11:17",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "1200-BLK N 28TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Clarkson Road, Southside",
-    "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5379459,
+    "lng": -77.408927
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 10:39",
-    "box_no": "FIRE",
-    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
-    "street": "WESTMORELAND PL/ROLFE RD RICH",
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 11:19",
+    "box_no": "Precinct 2",
+    "type_specific": "PROSTITUTION , INVESTIGATE",
+    "street": "3600-BLK ROSANELL LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Westmoreland Place, West End",
-    "location_township": "FIRE",
-    "lat": 37.5611664,
-    "lng": -77.5056109
+    "nearest_intersection": "Rosanell Lane",
+    "location_township": "Precinct 2",
+    "lat": 37.476435,
+    "lng": -77.459437
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 11:22",
+    "box_no": "Precinct 3",
+    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS",
+    "street": "900-BLK BYSWICK LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Byswick Lane",
+    "location_township": "Precinct 3",
+    "lat": 37.5160425,
+    "lng": -77.4978957
   },
   {
     "type_general": "RFD",
@@ -345,9 +293,35 @@
     "street": "6500-BLK VISCHER RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Vischer Road",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5232322,
-    "lng": -77.520721
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 11:19",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "1700-BLK FAIRFAX AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Fairfax Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5105481,
+    "lng": -77.440768
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 11:20",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "5600-BLK CHARLEVOIX CT",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Charlevoix Court",
+    "location_township": "FIRE",
+    "lat": 37.4999424,
+    "lng": -77.5010213
   }
 ]
