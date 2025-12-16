@@ -53,7 +53,33 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 01:26",
+    "dispatch_time": "12/16/2025 01:28",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "2200-BLK CHATEAU DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chateau Drive",
+    "location_township": "Precinct 2",
+    "lat": 37.4823284,
+    "lng": -77.5001855
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 01:31",
+    "box_no": "Precinct 2",
+    "type_specific": "UNNECESSARY NOISE , INVESTIGATE",
+    "street": "2400-BLK DALE AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Dale Avenue",
+    "location_township": "Precinct 2",
+    "lat": 37.4650627,
+    "lng": -77.4398822
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 01:42",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
     "street": "4200-BLK COMMERCE RD",
@@ -66,7 +92,7 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 01:26",
+    "dispatch_time": "12/16/2025 01:42",
     "box_no": "Precinct 2",
     "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
     "street": "4200-BLK COMMERCE RD",
@@ -79,16 +105,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 01:26",
+    "dispatch_time": "12/16/2025 01:42",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "6800-BLK W CARNATION ST",
+    "type_specific": "OVERDOSE/POISONING , ALS Narcotic/Opoid Arrest",
+    "street": "TILFORD RD/BYSWICK LN RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "West Carnation Street",
+    "nearest_intersection": "Tilford Road",
     "location_township": "Precinct 3",
-    "lat": 37.5033964,
-    "lng": -77.5173984
+    "lat": 37.5130061,
+    "lng": -77.4959045
   },
   {
     "type_general": "RFD",
@@ -115,5 +141,31 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 01:40",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
+    "street": "1500-BLK N 21ST ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 21st Street",
+    "location_township": "FIRE",
+    "lat": 37.5460125,
+    "lng": -77.4108059
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 01:44",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , OVERDOSE - POISONING - INGESTION",
+    "street": "TILFORD RD/BYSWICK LN RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Tilford Road",
+    "location_township": "FIRE",
+    "lat": 37.5130061,
+    "lng": -77.4959045
   }
 ]
