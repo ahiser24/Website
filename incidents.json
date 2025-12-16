@@ -20,7 +20,7 @@
     "street": "7700-BLK E PARHAM RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Parham Road, Henrico",
     "location_township": "Precinct 4",
     "lat": 37.6312963,
     "lng": -77.5251363
@@ -126,8 +126,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.536212,
-    "lng": -77.417112
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
