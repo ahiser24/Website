@@ -117,6 +117,58 @@
     "lng": -77.4407689
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 00:45",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 00:45",
+    "box_no": "Precinct 3",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "400-BLK WESTOVER HILLS BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westover Hills Boulevard",
+    "location_township": "Precinct 3",
+    "lat": 37.5110515,
+    "lng": -77.488118
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 00:49",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "4100-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4697327,
+    "lng": -77.4438269
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 00:49",
+    "box_no": "Precinct 2",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "4100-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.4697327,
+    "lng": -77.4438269
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/15/2025 17:45",
     "box_no": "FIRE",
