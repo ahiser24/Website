@@ -5,7 +5,7 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7700-BLK E PARHAM RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
@@ -35,8 +35,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -94,7 +94,7 @@
     "type_general": "RPD",
     "dispatch_time": "12/16/2025 11:56",
     "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT - EMS",
+    "type_specific": "D.O.A. , INVESTIGATE",
     "street": "1700-BLK N 29TH ST",
     "status": "Arrived",
     "cross_street": "",
@@ -144,19 +144,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 12:17",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @EXIT - POWHITE PKWY NB (DOUGLASDALE RD)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 12:47",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -174,7 +161,7 @@
     "box_no": "Precinct 3",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "W CARY ST/S DOOLEY AVE RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -191,19 +178,6 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:01",
-    "box_no": "Precinct 2",
-    "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
     "lat": null,
     "lng": null
   },
@@ -308,8 +282,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.548743,
+    "lng": -77.406126
   },
   {
     "type_general": "RPD",
@@ -332,10 +306,10 @@
     "street": "2300-BLK ROSETTA ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Rosetta Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.548743,
+    "lng": -77.406126
   },
   {
     "type_general": "RPD",
@@ -345,10 +319,10 @@
     "street": "0-BLK W GRACE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Grace Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.551079,
+    "lng": -77.453249
   },
   {
     "type_general": "RPD",
@@ -369,7 +343,7 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
     "street": "6300-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -378,14 +352,14 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:33",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "dispatch_time": "12/16/2025 13:37",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
+    "street": "3300-BLK CHEVERLY RD",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 4",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
   },
@@ -417,37 +391,24 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/16/2025 13:19",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CARDIAC/RESPIRATORY ARREST",
-    "street": "900-BLK DUNBAR ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 13:28",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "9600-BLK EVANSWAY LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
     "dispatch_time": "12/16/2025 13:37",
     "box_no": "FIRE",
     "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
     "street": "3300-BLK CHEVERLY RD",
-    "status": "Enroute",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 13:47",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , CARBON MONOXIDE",
+    "street": "1700-BLK 3RD AVE",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
