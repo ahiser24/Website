@@ -83,7 +83,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , INVESTIGATE",
     "street": "2900-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
@@ -102,5 +102,31 @@
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 05:41",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "1400-BLK ROSENEATH RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Roseneath Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5693094,
+    "lng": -77.4748683
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 05:46",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "3700-BLK DECATUR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Decatur Street, Southside",
+    "location_township": "FIRE",
+    "lat": 37.5037603,
+    "lng": -77.4684194
   }
 ]
