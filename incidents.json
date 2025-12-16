@@ -20,23 +20,10 @@
     "street": "7700-BLK E PARHAM RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "East Parham Road, Henrico",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.6312963,
     "lng": -77.5251363
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 07:29",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , NUISANCE",
-    "street": "1500-BLK CLARKSON RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -46,7 +33,7 @@
     "street": "6100-BLK DERWENT RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Derwent Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
     "lat": 37.483664,
     "lng": -77.505535
@@ -61,8 +48,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.553513,
+    "lng": -77.4869496
   },
   {
     "type_general": "RPD",
@@ -85,10 +72,10 @@
     "street": "2000-BLK JUNALUSKA CIR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Junaluska Circle",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5297661,
-    "lng": -77.5165267
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -96,7 +83,7 @@
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "2900-BLK W CARY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -122,7 +109,7 @@
     "box_no": "Precinct 4",
     "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
     "street": "1100BLK ALTHEA PKWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
@@ -139,8 +126,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.551762,
-    "lng": -77.436219
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -150,10 +137,62 @@
     "street": "5900-BLK THORNDALE LN",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Thorndale Lane",
+    "nearest_intersection": "",
     "location_township": "DPR",
-    "lat": 37.521813,
-    "lng": -77.505617
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 08:57",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1400-BLK TREEHAVEN DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.496241,
+    "lng": -77.4787022
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:01",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "N 5TH ST/E BROAD ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:07",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "2400-BLK CERSLEY ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.513136,
+    "lng": -77.4522639
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:09",
+    "box_no": "Precinct 1",
+    "type_specific": "WELFARE CHECK , INVESTIGATE",
+    "street": "1500-BLK E MAIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -174,7 +213,7 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
     "street": "200-BLK GREEN COVE DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Green Cove Drive",
     "location_township": "FIRE",
