@@ -79,32 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 22:50",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "200-BLK N 22ND ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 22nd Street",
-    "location_township": "DPR",
-    "lat": 37.5327643,
-    "lng": -77.4223669
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 23:06",
-    "box_no": "Precinct 4",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "1300-BLK ST PETER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint Peter Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5533937,
-    "lng": -77.4388408
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 23:07",
     "box_no": "Precinct 4",
     "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
@@ -118,19 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 23:10",
-    "box_no": "Precinct 1",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "300-BLK E 15TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "East 15th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.5167483,
-    "lng": -77.4432134
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 23:13",
     "box_no": "Precinct 1",
     "type_specific": "PARKING COMPLAINT , INVESTIGATE",
@@ -157,16 +118,68 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 23:14",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "1400-BLK W MARSHALL ST",
+    "dispatch_time": "12/15/2025 23:23",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1600-BLK GLENFIELD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Marshall Street",
-    "location_township": "DPR",
-    "lat": 37.5542325,
-    "lng": -77.4534865
+    "nearest_intersection": "Glenfield Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.506154,
+    "lng": -77.434326
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 23:25",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "street": "3100-BLK ALVIS AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Alvis Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.574264,
+    "lng": -77.426928
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 23:26",
+    "box_no": "Precinct 2",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "200-BLK W ROANOKE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Roanoke Street",
+    "location_township": "Precinct 2",
+    "lat": 37.5123438,
+    "lng": -77.4754932
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 23:30",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "500-BLK W FRANKLIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Franklin Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5468144,
+    "lng": -77.447785
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/15/2025 23:33",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "Precinct 4",
+    "lat": 37.5514017,
+    "lng": -77.4407689
   },
   {
     "type_general": "RFD",
@@ -193,5 +206,18 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/15/2025 23:23",
+    "box_no": "FIRE",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (INSIDE)",
+    "street": "1600-BLK GLENFIELD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Glenfield Avenue",
+    "location_township": "FIRE",
+    "lat": 37.506154,
+    "lng": -77.434326
   }
 ]
