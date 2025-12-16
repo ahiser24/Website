@@ -22,8 +22,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.6312963,
+    "lng": -77.5251363
   },
   {
     "type_general": "RPD",
@@ -46,23 +46,10 @@
     "street": "GRAYLAND AVE/S MEADOW ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Grayland Avenue",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 07:48",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "MIDLOTHIAN/BELT BLVD RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
-    "location_township": "Precinct 3",
-    "lat": 37.5085323,
-    "lng": -77.488689
+    "lat": 37.553513,
+    "lng": -77.4869496
   },
   {
     "type_general": "RPD",
@@ -72,10 +59,10 @@
     "street": "2000-BLK JUNALUSKA CIR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Junaluska Circle",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5297661,
-    "lng": -77.5165267
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -85,10 +72,10 @@
     "street": "2900-BLK W CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "South Addison Street",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5522352,
+    "lng": -77.4776189
   },
   {
     "type_general": "RPD",
@@ -111,10 +98,10 @@
     "street": "1000-BLK ST JAMES ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Saint James Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.551762,
+    "lng": -77.436219
   },
   {
     "type_general": "RPD",
@@ -124,10 +111,10 @@
     "street": "1300-BLK ST PETER ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Saint Peter Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5533937,
-    "lng": -77.4388408
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -141,19 +128,6 @@
     "location_township": "Precinct 4",
     "lat": 37.5497878,
     "lng": -77.4309047
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:03",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "3300-BLK MOORE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -176,10 +150,10 @@
     "street": "1500-BLK E MAIN ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 14th Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.53551,
+    "lng": -77.431692
   },
   {
     "type_general": "RPD",
@@ -193,19 +167,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5501278,
     "lng": -77.4239328
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:14",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "N DAVIS AVE/HANOVER AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -241,10 +202,62 @@
     "street": "1900-BLK BAINBRIDGE ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Bainbridge Street",
     "location_township": "Precinct 1",
+    "lat": 37.518483,
+    "lng": -77.450766
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:40",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "200-BLK GREEN COVE DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Green Cove Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5049548,
+    "lng": -77.5154213
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:44",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "CITY WIDE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:44",
+    "box_no": "Precinct 3",
+    "type_specific": "TRAFFIC COMPLAINT , INVESTIGATE",
+    "street": "CITY WIDE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:46",
+    "box_no": "Precinct 3",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RFD",
@@ -258,18 +271,5 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 09:31",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
-    "street": "3800-BLK MASTIN LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "FIRE",
-    "lat": 37.571676,
-    "lng": -77.481157
   }
 ]
