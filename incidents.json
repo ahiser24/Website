@@ -14,24 +14,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 16:26",
-    "box_no": "Precinct 4",
-    "type_specific": "MISSING PERSON , TAKE A REPORT (Field Unit Required",
-    "street": "3200-BLK NORTH AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5748476,
-    "lng": -77.4327093
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 23:25",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "3100-BLK ALVIS AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Alvis Avenue, Northside",
     "location_township": "Precinct 4",
@@ -40,24 +27,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 01:07",
-    "box_no": "DPR",
-    "type_specific": "MISSING PERSON , DPR Call - Take a Report Normal (NOT Juvenile or Elderly)",
-    "street": "5700-BLK SWANSON RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Swanson Road",
-    "location_township": "DPR",
-    "lat": 37.4899544,
-    "lng": -77.4972492
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 02:03",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "5600-BLK PETOSKEY AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Petoskey Avenue",
     "location_township": "Precinct 2",
@@ -76,6 +50,19 @@
     "location_township": "Precinct 2",
     "lat": 37.4735879,
     "lng": -77.4562796
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 03:02",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
+    "street": "2600-BLK CHAMBERLAYNE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Avenue, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.5668206,
+    "lng": -77.4448967
   },
   {
     "type_general": "RFD",
@@ -102,5 +89,18 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 03:02",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "1900-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "FIRE",
+    "lat": 37.5602471,
+    "lng": -77.4431479
   }
 ]
