@@ -20,10 +20,10 @@
     "street": "7700-BLK E PARHAM RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Parham Road, Henrico",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.6312963,
-    "lng": -77.5251363
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -33,10 +33,10 @@
     "street": "2900-BLK W CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Addison Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5522352,
-    "lng": -77.4776189
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -98,10 +98,10 @@
     "street": "W BROAD ST/N ADAMS ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5467727,
+    "lng": -77.4436631
   },
   {
     "type_general": "RPD",
@@ -131,16 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:40",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "200-BLK GREEN COVE DR",
+    "dispatch_time": "12/16/2025 09:44",
+    "box_no": "DPR",
+    "type_specific": "DISORDERLY , DPR CALL - ADVICE ONLY",
+    "street": "100-BLK E MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Green Cove Drive",
-    "location_township": "Precinct 3",
-    "lat": 37.5049548,
-    "lng": -77.5154213
+    "nearest_intersection": "East Main Street",
+    "location_township": "DPR",
+    "lat": 37.5425606,
+    "lng": -77.4431814
   },
   {
     "type_general": "RPD",
@@ -176,7 +176,7 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
@@ -202,7 +202,7 @@
     "street": "6300-BLK JAHNKE RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
+    "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
     "lat": 37.5215193,
     "lng": -77.5137851
@@ -215,23 +215,10 @@
     "street": "400-BLK MELMARK CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Melmark Court",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5111106,
-    "lng": -77.5020742
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 10:10",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "6400-BLK JAHNKE RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Bergen Drive",
-    "location_township": "DPR",
-    "lat": 37.5204082,
-    "lng": -77.5140908
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -260,6 +247,19 @@
     "lng": -77.4057066
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 10:37",
+    "box_no": "Precinct 2",
+    "type_specific": "PROSTITUTION , INVESTIGATE",
+    "street": "3600-BLK ROSANELL LN",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.476435,
+    "lng": -77.459437
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/16/2025 09:52",
     "box_no": "FIRE",
@@ -274,15 +274,41 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/16/2025 10:21",
+    "dispatch_time": "12/16/2025 10:39",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "3500-BLK N HOPKINS RD",
+    "type_specific": "# UTILITY INCIDENT , GAS LEAK/ODOR (OUTSIDE)",
+    "street": "100-BLK WESTMORELAND ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Hopkins Road, Southside",
+    "nearest_intersection": "Westmoreland Street, West End",
     "location_township": "FIRE",
-    "lat": 37.5012678,
-    "lng": -77.4568047
+    "lat": 37.5631708,
+    "lng": -77.5013586
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 10:46",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1000-BLK E LEIGH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East Leigh Street",
+    "location_township": "FIRE",
+    "lat": 37.5431192,
+    "lng": -77.429287
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 10:47",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "900-BLK N 25TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "North 25th Street, East End",
+    "location_township": "FIRE",
+    "lat": 37.5370722,
+    "lng": -77.4139206
   }
 ]
