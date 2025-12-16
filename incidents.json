@@ -22,8 +22,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5111106,
+    "lng": -77.5020742
   },
   {
     "type_general": "RPD",
@@ -113,8 +113,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.518679,
-    "lng": -77.502435
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -126,8 +126,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.551566,
+    "lng": -77.439165
   },
   {
     "type_general": "RPD",
@@ -222,27 +222,14 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:37",
+    "dispatch_time": "12/16/2025 13:39",
     "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "3300-BLK CHEVERLY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:45",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "9100-BLK CHEROKEE RD",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "6300-BLK MIDLOTHIAN TPKE",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "DPR",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
   },
@@ -261,14 +248,14 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 14:03",
-    "box_no": "Precinct 1",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
-    "street": "100-BLK E 2ND ST",
+    "dispatch_time": "12/16/2025 13:52",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "4000-BLK FOREST HILL AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 1",
+    "location_township": "DPR",
     "lat": null,
     "lng": null
   },
@@ -321,8 +308,21 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.538561,
-    "lng": -77.412322
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:13",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "4600-BLK HANOVER AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -347,8 +347,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.56341,
+    "lng": -77.469527
   },
   {
     "type_general": "RPD",
@@ -356,7 +356,7 @@
     "box_no": "Precinct 1",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "0-BLK S 14TH ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
@@ -373,6 +373,19 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:42",
+    "box_no": "Precinct 3",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "3100-BLK GROVE AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
   },
@@ -395,32 +408,6 @@
     "box_no": "FIRE",
     "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
     "street": "3300-BLK CHEVERLY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 14:15",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": 37.5089813,
-    "lng": -77.478859
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 14:27",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , SEIZURES",
-    "street": "4900-BLK CHAMBERLAYNE AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
