@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 07:13",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "3400-BLK W CLAY ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Clay Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5694404,
-    "lng": -77.4748981
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 07:29",
     "box_no": "Precinct 2",
     "type_specific": "DISORDERLY , NUISANCE",
@@ -48,8 +35,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4952595,
-    "lng": -77.4785319
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -59,10 +46,10 @@
     "street": "6100-BLK DERWENT RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Derwent Road",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.483664,
+    "lng": -77.505535
   },
   {
     "type_general": "RPD",
@@ -85,10 +72,10 @@
     "street": "MIDLOTHIAN/BELT BLVD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Midlothian Turnpike",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5085323,
-    "lng": -77.488689
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -96,7 +83,7 @@
     "box_no": "Precinct 3",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
     "street": "2000-BLK JUNALUSKA CIR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Junaluska Circle",
     "location_township": "Precinct 3",
@@ -118,19 +105,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:08",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "1100-BLK W LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5539958,
-    "lng": -77.4477219
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 08:23",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -144,29 +118,42 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/16/2025 08:27",
+    "box_no": "Precinct 4",
+    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
+    "street": "1100BLK ALTHEA PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": 37.5606791,
+    "lng": -77.4266558
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/16/2025 08:38",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "1000-BLK ST JAMES ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Saint James Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.551762,
     "lng": -77.436219
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:42",
+    "dispatch_time": "12/16/2025 08:55",
     "box_no": "DPR",
-    "type_specific": "DESTRUCTION OF PROPERTY , DPR Call - Take a Report",
-    "street": "5800-BLK WESTOWER DR",
-    "status": "Arrived",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "5900-BLK THORNDALE LN",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Thorndale Lane",
     "location_township": "DPR",
-    "lat": 37.5238336,
-    "lng": -77.5039485
+    "lat": 37.521813,
+    "lng": -77.505617
   },
   {
     "type_general": "RFD",
@@ -180,5 +167,18 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 08:56",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "200-BLK GREEN COVE DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Green Cove Drive",
+    "location_township": "FIRE",
+    "lat": 37.5049548,
+    "lng": -77.5154213
   }
 ]
