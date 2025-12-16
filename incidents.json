@@ -79,19 +79,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 11:41",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "ALTAMONT AVE/MOORE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 11:56",
     "box_no": "Precinct 1",
     "type_specific": "D.O.A. , INVESTIGATE",
@@ -113,8 +100,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5130784,
+    "lng": -77.4044849
   },
   {
     "type_general": "RPD",
@@ -126,8 +113,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4802516,
+    "lng": -77.4844809
   },
   {
     "type_general": "RPD",
@@ -144,16 +131,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 12:47",
+    "dispatch_time": "12/16/2025 12:49",
     "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "4200-BLK SULGRAVE RD",
+    "type_specific": "STOLEN VEHICLE , DPR Call - Take a Report",
+    "street": "6700-BLK EVERGLADES DR",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "DPR",
-    "lat": null,
-    "lng": null
+    "lat": 37.5035372,
+    "lng": -77.5195251
   },
   {
     "type_general": "RPD",
@@ -188,19 +175,6 @@
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
     "street": "5700-BLK ROUTE 1",
     "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:11",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "3700-BLK E BROAD ROCK RD",
-    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
@@ -334,16 +308,16 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5215193,
-    "lng": -77.5137851
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
     "dispatch_time": "12/16/2025 13:34",
     "box_no": "Precinct 3",
-    "type_specific": "LARCENY , INVESTIGATE",
-    "street": "300-BLK S MEADOW ST",
-    "status": "Enroute",
+    "type_specific": "BREAK & ENTER , INVESTIGATE",
+    "street": "1900-BLK MAPLEWOOD AVE",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -356,7 +330,7 @@
     "box_no": "Precinct 3",
     "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
     "street": "3300-BLK CHEVERLY RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -369,6 +343,71 @@
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
     "street": "1400-BLK CLARKSON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:05",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "MIDLOTHIAN TPKE/GERMAN SCHOOL RD RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:07",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:11",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "1100-BLK N 25TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:11",
+    "box_no": "Precinct 1",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "1100-BLK N 25TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:14",
+    "box_no": "Precinct 2",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
@@ -401,5 +440,31 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 14:10",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "2200-BLK STOCKTON ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 14:15",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "4000-BLK MIDLOTHIAN TPKE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": 37.5089813,
+    "lng": -77.478859
   }
 ]
