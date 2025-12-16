@@ -1,19 +1,6 @@
 [
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:04",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "2900-BLK W CARY ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 10:59",
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
@@ -22,8 +9,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5111106,
-    "lng": -77.5020742
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -61,21 +48,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 12:59",
-    "box_no": "Precinct 4",
-    "type_specific": "FOUND PROPERTY , INVESTIGATE",
-    "street": "800-BLK E MAIN ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.4802516,
+    "lng": -77.4844809
   },
   {
     "type_general": "RPD",
@@ -87,19 +61,6 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:15",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "N 6TH ST/E FRANKLIN ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
     "lat": null,
     "lng": null
   },
@@ -126,19 +87,6 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.551566,
-    "lng": -77.439165
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:18",
-    "box_no": "Precinct 1",
-    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "2300-BLK ROSETTA ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
     "lat": null,
     "lng": null
   },
@@ -167,6 +115,19 @@
     "location_township": "Precinct 1",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 13:18",
+    "box_no": "Precinct 1",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "2300-BLK ROSETTA ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": 37.548743,
+    "lng": -77.406126
   },
   {
     "type_general": "RPD",
@@ -226,7 +187,7 @@
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "6300-BLK MIDLOTHIAN TPKE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -243,8 +204,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.551703,
+    "lng": -77.4792407
   },
   {
     "type_general": "RPD",
@@ -282,8 +243,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.516009,
+    "lng": -77.525109
   },
   {
     "type_general": "RPD",
@@ -321,19 +282,6 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 14:14",
-    "box_no": "Precinct 2",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE - EMS",
-    "street": "4000-BLK MIDLOTHIAN TPKE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
     "lat": null,
     "lng": null
   },
@@ -390,6 +338,84 @@
     "lng": null
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:51",
+    "box_no": "Precinct 1",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE EMS",
+    "street": "1200-BLK HULL ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:53",
+    "box_no": "Precinct 3",
+    "type_specific": "DISORDERLY , INVESTIGATE",
+    "street": "0-BLK N THOMPSON ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:54",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "W CARY ST/S BELVIDERE ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:56",
+    "box_no": "Precinct 3",
+    "type_specific": "MISSING PERSON - AT RISK , INVESTIGATE",
+    "street": "1400-BLK CLAIBORNE ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:58",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hull Street Road",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:58",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "6500-BLK HULL STREET RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": 37.4804874,
+    "lng": -77.5121816
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/16/2025 12:07",
     "box_no": "FIRE",
@@ -414,5 +440,18 @@
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 15:00",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
+    "street": "3900-BLK W BROAD ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": 37.5722247,
+    "lng": -77.4796483
   }
 ]
