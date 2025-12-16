@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 22:34",
-    "box_no": "Precinct 1",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "1700-BLK SOUTHLAWN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Harwood Street",
-    "location_township": "Precinct 1",
-    "lat": 37.503888,
-    "lng": -77.434918
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/15/2025 23:25",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -66,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 00:17",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "5600-BLK PETOSKEY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Petoskey Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4988816,
-    "lng": -77.5008037
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 00:18",
     "box_no": "Precinct 1",
     "type_specific": "MERCHANT CHECK , OFFICER INITIATED",
@@ -102,19 +76,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5133362,
     "lng": -77.4470727
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 00:30",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "2200-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "DPR",
-    "lat": 37.5514017,
-    "lng": -77.4407689
   },
   {
     "type_general": "RPD",
@@ -148,20 +109,7 @@
     "box_no": "Precinct 2",
     "type_specific": "WELFARE CHECK , INVESTIGATE",
     "street": "4100-BLK RICHMOND HWY",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.4697327,
-    "lng": -77.4438269
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 00:49",
-    "box_no": "Precinct 2",
-    "type_specific": "WELFARE CHECK , INVESTIGATE",
-    "street": "4100-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
