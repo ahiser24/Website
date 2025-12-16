@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 04:53",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "2900-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.484409,
-    "lng": -77.445034
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 05:05",
     "box_no": "Precinct 1",
     "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
@@ -59,22 +46,61 @@
     "street": "1400-BLK N 26TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 26th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.54083,
-    "lng": -77.408699
+    "lat": null,
+    "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 05:03",
-    "box_no": "FIRE",
-    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
-    "street": "2100-BLK CREIGHTON RD",
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 05:13",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "N 29TH ST/M ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 29th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.5443386,
+    "lng": -77.4009177
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 05:13",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "N 29TH ST/M ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Creighton Road",
-    "location_township": "FIRE",
-    "lat": 37.5447691,
-    "lng": -77.3989708
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 05:15",
+    "box_no": "Precinct 2",
+    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 05:20",
+    "box_no": "Precinct 3",
+    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
+    "street": "7100-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Jahnke Road",
+    "location_township": "Precinct 3",
+    "lat": 37.516009,
+    "lng": -77.525109
   }
 ]
