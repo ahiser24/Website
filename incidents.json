@@ -22,8 +22,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.6312963,
-    "lng": -77.5251363
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -33,7 +33,7 @@
     "street": "6100-BLK DERWENT RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Derwent Road",
     "location_township": "Precinct 2",
     "lat": 37.483664,
     "lng": -77.505535
@@ -46,7 +46,7 @@
     "street": "GRAYLAND AVE/S MEADOW ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Grayland Avenue",
     "location_township": "Precinct 3",
     "lat": 37.553513,
     "lng": -77.4869496
@@ -72,10 +72,10 @@
     "street": "2000-BLK JUNALUSKA CIR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Junaluska Circle",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5297661,
+    "lng": -77.5165267
   },
   {
     "type_general": "RPD",
@@ -85,10 +85,10 @@
     "street": "2900-BLK W CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "South Addison Street",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5522352,
+    "lng": -77.4776189
   },
   {
     "type_general": "RPD",
@@ -124,36 +124,10 @@
     "street": "1000-BLK ST JAMES ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Saint James Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:55",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "5900-BLK THORNDALE LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:57",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1400-BLK TREEHAVEN DR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": 37.496241,
-    "lng": -77.4787022
+    "lat": 37.551762,
+    "lng": -77.436219
   },
   {
     "type_general": "RPD",
@@ -163,10 +137,23 @@
     "street": "N 5TH ST/E BROAD ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 5th Street",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5497878,
+    "lng": -77.4309047
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:03",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "100-BLK S DAVIS AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "DPR",
+    "lat": 37.550217,
+    "lng": -77.4728
   },
   {
     "type_general": "RPD",
@@ -174,12 +161,12 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2400-BLK CERSLEY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.513136,
-    "lng": -77.4522639
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -189,10 +176,75 @@
     "street": "1500-BLK E MAIN ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 14th Street",
     "location_township": "Precinct 1",
+    "lat": 37.53551,
+    "lng": -77.431692
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:09",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "OLIVER HILL WAY/E CLAY ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Oliver Hill Way",
+    "location_township": "Precinct 1",
+    "lat": 37.5501278,
+    "lng": -77.4239328
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:13",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1000-BLK N 36TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 36th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.53173,
+    "lng": -77.402885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:13",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
+    "street": "1000-BLK N 36TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 36th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.53173,
+    "lng": -77.402885
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:23",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "W BROAD ST/N ADAMS ST RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:23",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "W BROAD ST/N ADAMS ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": 37.5467727,
+    "lng": -77.4436631
   },
   {
     "type_general": "RFD",
@@ -215,7 +267,7 @@
     "street": "200-BLK GREEN COVE DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Green Cove Drive",
+    "nearest_intersection": "",
     "location_township": "FIRE",
     "lat": 37.5049548,
     "lng": -77.5154213
