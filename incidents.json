@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 02:05",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "W CARY ST/S STAFFORD AVE RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "West Cary Street",
-    "location_township": "DPR",
-    "lat": 37.5433115,
-    "lng": -77.4470688
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 02:24",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -89,32 +76,6 @@
     "location_township": "Precinct 2",
     "lat": 37.4735879,
     "lng": -77.4562796
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 02:34",
-    "box_no": "Precinct 2",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "800-BLK RICHMOND HWY",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.508793,
-    "lng": -77.4480183
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 02:34",
-    "box_no": "Precinct 2",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "800-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.508793,
-    "lng": -77.4480183
   },
   {
     "type_general": "RFD",
