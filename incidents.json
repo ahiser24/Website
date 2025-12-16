@@ -18,7 +18,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "3400-BLK W CLAY ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Clay Street",
     "location_township": "Precinct 4",
@@ -79,15 +79,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/16/2025 05:59",
+    "dispatch_time": "12/16/2025 06:27",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , PULL STATION",
-    "street": "7200-BLK FOREST HILL AVE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "3100-BLK STONY POINT RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
+    "nearest_intersection": "Stony Point Road",
     "location_township": "FIRE",
-    "lat": 37.537455,
-    "lng": -77.530122
+    "lat": 37.5410315,
+    "lng": -77.5653916
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 06:28",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "2500-BLK HERMITAGE RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "FIRE",
+    "lat": 37.566145,
+    "lng": -77.460752
   }
 ]
