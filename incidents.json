@@ -5,33 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "400-BLK W RANDOLPH RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 22:06",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "400-BLK W RANDOLPH RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/14/2025 22:06",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , TDO / ECO",
-    "street": "400-BLK W RANDOLPH RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
@@ -63,18 +37,5 @@
     "location_township": "Precinct 4",
     "lat": 37.564063,
     "lng": -77.4440996
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 03:49",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "2400-BLK BURTON ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Pink Street, East End",
-    "location_township": "FIRE",
-    "lat": 37.537979,
-    "lng": -77.414427
   }
 ]
