@@ -18,25 +18,12 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7700-BLK E PARHAM RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "East Parham Road, Henrico",
     "location_township": "Precinct 4",
     "lat": 37.6312963,
     "lng": -77.5251363
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 07:33",
-    "box_no": "Precinct 2",
-    "type_specific": "SUSPICIOUS , INVESTIGATE",
-    "street": "6100-BLK DERWENT RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Derwent Road",
-    "location_township": "Precinct 2",
-    "lat": 37.483664,
-    "lng": -77.505535
   },
   {
     "type_general": "RPD",
@@ -53,29 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:23",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "RICH: @EXIT 2C - DOWNTOWN EXPY EB (7TH ST / 9TH ST)",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 09:07",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
     "street": "2400-BLK CERSLEY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Cersley Street",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.513136,
+    "lng": -77.4522639
   },
   {
     "type_general": "RPD",
@@ -85,10 +59,10 @@
     "street": "1500-BLK E MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 14th Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.53551,
+    "lng": -77.431692
   },
   {
     "type_general": "RPD",
@@ -124,10 +98,23 @@
     "street": "W BROAD ST/N ADAMS ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "West Broad Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:23",
+    "box_no": "Precinct 4",
+    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
+    "street": "100-BLK E MAIN ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "East Main Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5425606,
+    "lng": -77.4431814
   },
   {
     "type_general": "RPD",
@@ -189,7 +176,7 @@
     "street": "7100-BLK JAHNKE RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Jahnke Road",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.516009,
     "lng": -77.525109
@@ -235,19 +222,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 10:07",
-    "box_no": "Precinct 1",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "400-BLK E 15TH ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East 15th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.515784,
-    "lng": -77.443334
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 10:10",
     "box_no": "DPR",
     "type_specific": "LARCENY , DPR Call - Take a Report",
@@ -260,17 +234,30 @@
     "lng": -77.5140908
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 08:29",
-    "box_no": "FIRE",
-    "type_specific": "# VEHICLE FIRE , LIMITED ACCESS HIGHWAY",
-    "street": "RICH: @EXIT 69 - I95 NB (BELLS RD)",
-    "status": "Arrived",
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 10:23",
+    "box_no": "Precinct 3",
+    "type_specific": "WANTED PERSON , INVESTIGATE",
+    "street": "6800-BLK EVERGLADES DR",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "nearest_intersection": "Everglades Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5034416,
+    "lng": -77.5206899
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 10:24",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "800-BLK N 35TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 35th Street, East End",
+    "location_township": "DPR",
+    "lat": 37.5306918,
+    "lng": -77.4057066
   },
   {
     "type_general": "RFD",
@@ -280,10 +267,10 @@
     "street": "7200-BLK FOREST HILL AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Forest Hill Avenue",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.537455,
+    "lng": -77.530122
   },
   {
     "type_general": "RFD",
@@ -291,11 +278,11 @@
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , GENERAL",
     "street": "3500-BLK N HOPKINS RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North Hopkins Road, Southside",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.5012678,
+    "lng": -77.4568047
   }
 ]
