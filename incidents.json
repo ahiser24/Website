@@ -18,7 +18,7 @@
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "6000-BLK SUGARBUSH DR",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Sugarbush Drive",
     "location_township": "Precinct 3",
@@ -46,10 +46,10 @@
     "street": "1400-BLK N 26TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 26th Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.54083,
+    "lng": -77.408699
   },
   {
     "type_general": "RPD",
@@ -72,10 +72,10 @@
     "street": "N 29TH ST/M ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 29th Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5443386,
+    "lng": -77.4009177
   },
   {
     "type_general": "RPD",
@@ -96,7 +96,7 @@
     "box_no": "Precinct 3",
     "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
     "street": "7100-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Jahnke Road",
     "location_township": "Precinct 3",
