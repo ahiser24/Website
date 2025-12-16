@@ -18,25 +18,12 @@
     "box_no": "Precinct 4",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "7700-BLK E PARHAM RD",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "East Parham Road, Henrico",
-    "location_township": "Precinct 4",
-    "lat": 37.6312963,
-    "lng": -77.5251363
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 06:17",
-    "box_no": "Precinct 2",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "4600-BLK N SOUTHSIDE PLZ",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "location_township": "Precinct 4",
+    "lat": 37.6312963,
+    "lng": -77.5251363
   },
   {
     "type_general": "RPD",
@@ -72,10 +59,10 @@
     "street": "6100-BLK DERWENT RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Derwent Road",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.483664,
+    "lng": -77.505535
   },
   {
     "type_general": "RPD",
@@ -85,23 +72,10 @@
     "street": "GRAYLAND AVE/S MEADOW ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Grayland Avenue",
     "location_township": "Precinct 3",
     "lat": 37.553513,
     "lng": -77.4869496
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 07:47",
-    "box_no": "Precinct 4",
-    "type_specific": "PANIC/DURESS ALARM , INVESTIGATE",
-    "street": "3200-BLK GRIFFIN AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Griffin Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5763624,
-    "lng": -77.4373508
   },
   {
     "type_general": "RPD",
@@ -111,36 +85,75 @@
     "street": "MIDLOTHIAN/BELT BLVD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
     "lat": 37.5085323,
     "lng": -77.488689
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 07:50",
-    "box_no": "Precinct 4",
-    "type_specific": "BURGLAR ALARM , INVESTIGATE",
-    "street": "1400-BLK ROSENEATH RD",
+    "dispatch_time": "12/16/2025 07:53",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT",
+    "street": "5800-BLK WESTOWER DR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Westower Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5238336,
+    "lng": -77.5039485
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 08:01",
+    "box_no": "Precinct 1",
+    "type_specific": "SUSPICIOUS , INVESTIGATE",
+    "street": "1200-BLK SEMMES AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Semmes Avenue",
+    "location_township": "Precinct 1",
+    "lat": 37.5246138,
+    "lng": -77.4488098
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 08:04",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "2900-BLK W CARY ST",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": 37.5693094,
-    "lng": -77.4748683
+    "location_township": "Precinct 3",
+    "lat": 37.5522352,
+    "lng": -77.4776189
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 07:26",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , APARTMENT FIRE",
-    "street": "3200-BLK BROAD ROCK BLVD",
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 08:06",
+    "box_no": "Precinct 3",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "1400-BLK NEWELL RD",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "FIRE",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 08:08",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1100-BLK W LEIGH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5539958,
+    "lng": -77.4477219
   },
   {
     "type_general": "RFD",
@@ -150,9 +163,9 @@
     "street": "S MEADOW ST/GRAYLAND AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "South Meadow Street",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.5448002,
+    "lng": -77.4682238
   }
 ]
