@@ -22,8 +22,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.476435,
-    "lng": -77.459437
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -66,19 +66,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:16",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT - EMS",
-    "street": "200-BLK W BAKER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 13:18",
     "box_no": "Precinct 1",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
@@ -113,8 +100,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.548743,
+    "lng": -77.406126
   },
   {
     "type_general": "RPD",
@@ -152,8 +139,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5215193,
+    "lng": -77.5137851
   },
   {
     "type_general": "RPD",
@@ -222,19 +209,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 14:13",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "4600-BLK HANOVER AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 14:20",
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
@@ -282,6 +256,19 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 14:44",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "200-BLK STRAWBERRY ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "DPR",
     "lat": null,
     "lng": null
   },
@@ -373,8 +360,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5404917,
+    "lng": -77.4175446
   },
   {
     "type_general": "RPD",
@@ -404,50 +391,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:16",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "500-BLK HULL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:16",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
-    "street": "500-BLK HULL ST",
+    "dispatch_time": "12/16/2025 15:27",
+    "box_no": "Precinct 3",
+    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
+    "street": "1200-BLK WALLACE ST",
     "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:27",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1200-BLK WALLACE ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:27",
-    "box_no": "Precinct 3",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "1200-BLK WALLACE ST",
-    "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
@@ -481,15 +429,106 @@
     "lng": null
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 12:07",
-    "box_no": "FIRE",
-    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
-    "street": "2500-BLK TITUS ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:28",
+    "box_no": "Precinct 2",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "3600-BLK RICHMOND HWY",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "FIRE",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:28",
+    "box_no": "Precinct 2",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "3600-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:28",
+    "box_no": "Precinct 2",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "3600-BLK RICHMOND HWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:30",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "6500-BLK GREENBANK RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:30",
+    "box_no": "Precinct 2",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "6500-BLK GREENBANK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:31",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "ROSENEATH RD/W BROAD ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:31",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PERSONAL INJURY",
+    "street": "RICH: @MAYO BRIDGE; NB",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:31",
+    "box_no": "Precinct 2",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "HOPKINS RD/WARWICK RD RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 2",
     "lat": null,
     "lng": null
   },
