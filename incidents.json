@@ -40,32 +40,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 07:36",
-    "box_no": "Precinct 3",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "GRAYLAND AVE/S MEADOW ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Grayland Avenue",
-    "location_township": "Precinct 3",
-    "lat": 37.553513,
-    "lng": -77.4869496
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 07:49",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "2000-BLK JUNALUSKA CIR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Junaluska Circle",
-    "location_township": "Precinct 3",
-    "lat": 37.5297661,
-    "lng": -77.5165267
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 08:04",
     "box_no": "Precinct 3",
     "type_specific": "TRESPASSING , INVESTIGATE",
@@ -98,10 +72,10 @@
     "street": "2400-BLK CERSLEY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Cersley Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.513136,
-    "lng": -77.4522639
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -111,10 +85,10 @@
     "street": "1500-BLK E MAIN ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 14th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -128,19 +102,6 @@
     "location_township": "Precinct 1",
     "lat": 37.5501278,
     "lng": -77.4239328
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:20",
-    "box_no": "Precinct 4",
-    "type_specific": "ASSAULT , INVESTIGATE",
-    "street": "1100-BLK W LEIGH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5539958,
-    "lng": -77.4477219
   },
   {
     "type_general": "RPD",
@@ -235,6 +196,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:48",
+    "box_no": "Precinct 4",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "1800-BLK HIGHPOINT AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Highpoint Avenue",
+    "location_township": "Precinct 4",
+    "lat": 37.570312,
+    "lng": -77.469224
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/16/2025 09:55",
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
@@ -248,6 +222,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/16/2025 10:04",
+    "box_no": "Precinct 3",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "400-BLK MELMARK CT",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Melmark Court",
+    "location_township": "Precinct 3",
+    "lat": 37.5111106,
+    "lng": -77.5020742
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/16/2025 10:07",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -258,6 +245,19 @@
     "location_township": "Precinct 1",
     "lat": 37.515784,
     "lng": -77.443334
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 10:10",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "6400-BLK JAHNKE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Bergen Drive",
+    "location_township": "DPR",
+    "lat": 37.5204082,
+    "lng": -77.5140908
   },
   {
     "type_general": "RFD",
@@ -280,35 +280,22 @@
     "street": "7200-BLK FOREST HILL AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Forest Hill Avenue",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.537455,
-    "lng": -77.530122
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/16/2025 10:03",
+    "dispatch_time": "12/16/2025 10:21",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "300-BLK NORCROFT CIR",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Norcroft Circle",
-    "location_township": "FIRE",
-    "lat": 37.5126503,
-    "lng": -77.4826702
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 10:09",
-    "box_no": "FIRE",
-    "type_specific": "",
-    "street": "2600-BLK NINE MILE RD",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "3500-BLK N HOPKINS RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "Nine Mile Road",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.5409841,
-    "lng": -77.4081043
+    "lat": null,
+    "lng": null
   }
 ]
