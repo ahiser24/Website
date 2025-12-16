@@ -53,19 +53,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/15/2025 23:42",
-    "box_no": "Precinct 2",
-    "type_specific": "DISORDERLY , INVESTIGATE - EMS",
-    "street": "4600-BLK RICHMOND HWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Richmond Highway",
-    "location_township": "Precinct 2",
-    "lat": 37.464094,
-    "lng": -77.442993
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 00:06",
     "box_no": "Precinct 4",
     "type_specific": "DOMESTIC TROUBLE , VIOLENT",
@@ -117,6 +104,19 @@
     "lng": -77.4470727
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 00:30",
+    "box_no": "DPR",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Chamberlayne Parkway",
+    "location_township": "DPR",
+    "lat": 37.5514017,
+    "lng": -77.4407689
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/15/2025 17:45",
     "box_no": "FIRE",
@@ -141,18 +141,5 @@
     "location_township": "FIRE",
     "lat": 37.5465072,
     "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 00:18",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , ALTERED MENTAL STATUS",
-    "street": "4900-BLK LINDY LN",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Mandy Lane",
-    "location_township": "FIRE",
-    "lat": 37.479217,
-    "lng": -77.482685
   }
 ]
