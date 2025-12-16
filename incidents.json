@@ -39,6 +39,19 @@
     "lng": -77.451142
   },
   {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 04:53",
+    "box_no": "Precinct 2",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2900-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "Precinct 2",
+    "lat": 37.484409,
+    "lng": -77.445034
+  },
+  {
     "type_general": "RFD",
     "dispatch_time": "12/16/2025 04:43",
     "box_no": "FIRE",
