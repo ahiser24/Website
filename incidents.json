@@ -20,10 +20,10 @@
     "street": "7700-BLK E PARHAM RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "East Parham Road, Henrico",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.6312963,
-    "lng": -77.5251363
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -48,8 +48,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -61,8 +61,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5467727,
+    "lng": -77.4436631
   },
   {
     "type_general": "RPD",
@@ -85,10 +85,10 @@
     "street": "N HENRY ST/W GRACE ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Henry Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.5494076,
-    "lng": -77.4451721
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -135,7 +135,7 @@
     "box_no": "Precinct 4",
     "type_specific": "TRESPASSING , INVESTIGATE",
     "street": "3500-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
@@ -157,16 +157,29 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/16/2025 10:27",
+    "box_no": "Precinct 4",
+    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
+    "street": "0-BLK OVERBROOK RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/16/2025 10:37",
     "box_no": "Precinct 2",
     "type_specific": "PROSTITUTION , INVESTIGATE",
     "street": "3600-BLK ROSANELL LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Rosanell Lane",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.476435,
+    "lng": -77.459437
   },
   {
     "type_general": "RPD",
@@ -178,8 +191,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.533338,
+    "lng": -77.4071263
   },
   {
     "type_general": "RPD",
@@ -189,7 +202,7 @@
     "street": "2300-BLK FAIRFIELD AVE",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Fairfield Avenue",
     "location_township": "DPR",
     "lat": 37.548113,
     "lng": -77.406139
@@ -200,23 +213,10 @@
     "box_no": "Precinct 3",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "400-BLK MELMARK CT",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 10:59",
-    "box_no": "Precinct 1",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "900-BLK OLIVER HILL WAY",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 1",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
   },
@@ -228,7 +228,7 @@
     "street": "3600-BLK ROSANELL LN",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Rosanell Lane",
     "location_township": "Precinct 2",
     "lat": 37.476435,
     "lng": -77.459437
@@ -245,19 +245,6 @@
     "location_township": "Precinct 3",
     "lat": 37.5160425,
     "lng": -77.4978957
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 11:31",
-    "box_no": "DPR",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER",
-    "street": "W BROAD ST/N BELVIDERE ST RICH",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": null,
-    "lng": null
   },
   {
     "type_general": "RPD",
@@ -295,6 +282,45 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
+    "lat": 37.5089813,
+    "lng": -77.478859
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 11:56",
+    "box_no": "Precinct 1",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , OTHER AGENCY OR DEPARTMENT - EMS",
+    "street": "1700-BLK N 29TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 12:01",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "7000-BLK FOREST HILL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "DPR",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 12:06",
+    "box_no": "Precinct 1",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "NELSON ST/SALEM ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
     "lat": null,
     "lng": null
   },
@@ -313,15 +339,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/16/2025 11:40",
+    "dispatch_time": "12/16/2025 12:06",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1000-BLK HIOAKS RD",
-    "status": "Arrived",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , CHEST PAIN",
+    "street": "400-BLK N 9TH ST",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.5423376,
+    "lng": -77.4333377
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 12:07",
+    "box_no": "FIRE",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
+    "street": "2500-BLK TITUS ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": 37.4802516,
+    "lng": -77.4844809
   }
 ]
