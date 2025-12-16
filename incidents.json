@@ -46,10 +46,10 @@
     "street": "GRAYLAND AVE/S MEADOW ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Grayland Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.553513,
-    "lng": -77.4869496
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -59,16 +59,16 @@
     "street": "MIDLOTHIAN/BELT BLVD RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Midlothian Turnpike",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5085323,
+    "lng": -77.488689
   },
   {
     "type_general": "RPD",
     "dispatch_time": "12/16/2025 07:49",
     "box_no": "Precinct 3",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
+    "type_specific": "ASSAULT , INVESTIGATE",
     "street": "2000-BLK JUNALUSKA CIR",
     "status": "Arrived",
     "cross_street": "",
@@ -85,10 +85,10 @@
     "street": "2900-BLK W CARY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "South Addison Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5522352,
-    "lng": -77.4776189
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -105,29 +105,29 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:27",
-    "box_no": "Precinct 4",
-    "type_specific": "DRUG/NARCOTICS OFFENSE , INVESTIGATE / OUTSIDE",
-    "street": "1100BLK ALTHEA PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": 37.5606791,
-    "lng": -77.4266558
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 08:38",
     "box_no": "Precinct 4",
     "type_specific": "WANTED PERSON , INVESTIGATE",
     "street": "1000-BLK ST JAMES ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Saint James Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": 37.551762,
-    "lng": -77.436219
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 08:56",
+    "box_no": "Precinct 4",
+    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
+    "street": "1300-BLK ST PETER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Saint Peter Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5533937,
+    "lng": -77.4388408
   },
   {
     "type_general": "RPD",
@@ -145,15 +145,15 @@
   {
     "type_general": "RPD",
     "dispatch_time": "12/16/2025 09:03",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "100-BLK S DAVIS AVE",
-    "status": "Enroute",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "3300-BLK MOORE ST",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": 37.550217,
-    "lng": -77.4728
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -163,10 +163,10 @@
     "street": "2400-BLK CERSLEY ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Cersley Street",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.513136,
+    "lng": -77.4522639
   },
   {
     "type_general": "RPD",
@@ -176,10 +176,10 @@
     "street": "1500-BLK E MAIN ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "North 14th Street",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.53551,
-    "lng": -77.431692
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -196,40 +196,14 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:13",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1000-BLK N 36TH ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North 36th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.53173,
-    "lng": -77.402885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:13",
-    "box_no": "Precinct 1",
-    "type_specific": "HOTSPOT-CURVE , WITHOUT FLASHING BLUE LIGHTS",
-    "street": "1000-BLK N 36TH ST",
+    "dispatch_time": "12/16/2025 09:14",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "N DAVIS AVE/HANOVER AVE RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 36th Street, East End",
-    "location_township": "Precinct 1",
-    "lat": 37.53173,
-    "lng": -77.402885
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:23",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "W BROAD ST/N ADAMS ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 4",
+    "location_township": "DPR",
     "lat": null,
     "lng": null
   },
@@ -239,12 +213,38 @@
     "box_no": "Precinct 4",
     "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
     "street": "W BROAD ST/N ADAMS ST RICH",
-    "status": "Arrived",
+    "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Broad Street",
     "location_township": "Precinct 4",
     "lat": 37.5467727,
     "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:23",
+    "box_no": "Precinct 4",
+    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
+    "street": "W BROAD ST/N ADAMS ST RICH",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Broad Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5467727,
+    "lng": -77.4436631
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:35",
+    "box_no": "Precinct 1",
+    "type_specific": "SEARCH WARRANT , INVESTIGATE",
+    "street": "1900-BLK BAINBRIDGE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -261,15 +261,15 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/16/2025 08:56",
+    "dispatch_time": "12/16/2025 09:31",
     "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
-    "street": "200-BLK GREEN COVE DR",
+    "type_specific": "# ASSIST EMS , LIFTING ASSISTANCE",
+    "street": "3800-BLK MASTIN LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "West Broad Street",
     "location_township": "FIRE",
-    "lat": 37.5049548,
-    "lng": -77.5154213
+    "lat": 37.571676,
+    "lng": -77.481157
   }
 ]
