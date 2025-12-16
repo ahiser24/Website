@@ -27,24 +27,11 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 04:32",
-    "box_no": "Precinct 4",
-    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
-    "street": "W LEIGH ST/N BELVIDERE ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Leigh Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5556224,
-    "lng": -77.451142
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 04:53",
     "box_no": "Precinct 2",
     "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
     "street": "2900-BLK RICHMOND HWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Richmond Highway",
     "location_township": "Precinct 2",
@@ -52,16 +39,42 @@
     "lng": -77.445034
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 04:43",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , HEART PROBLEM",
-    "street": "300-BLK MELMARK CT",
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 05:05",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54083,
+    "lng": -77.408699
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 05:05",
+    "box_no": "Precinct 1",
+    "type_specific": "HOTSPOT-CURVE , OFFICER INITATED",
+    "street": "1400-BLK N 26TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Melmark Court",
+    "nearest_intersection": "North 26th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.54083,
+    "lng": -77.408699
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 05:03",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "2100-BLK CREIGHTON RD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Creighton Road",
     "location_township": "FIRE",
-    "lat": 37.5097833,
-    "lng": -77.5018274
+    "lat": 37.5447691,
+    "lng": -77.3989708
   }
 ]
