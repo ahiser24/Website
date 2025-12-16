@@ -27,6 +27,19 @@
   },
   {
     "type_general": "RPD",
+    "dispatch_time": "12/16/2025 06:02",
+    "box_no": "Precinct 4",
+    "type_specific": "RECKLESS DRIVING , INVESTIGATE",
+    "street": "HERMITAGE RD/ROBIN HOOD RD RICH",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "Hermitage Road",
+    "location_township": "Precinct 4",
+    "lat": 37.5586945,
+    "lng": -77.4600341
+  },
+  {
+    "type_general": "RPD",
     "dispatch_time": "12/16/2025 06:11",
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
@@ -124,10 +137,10 @@
     "street": "2300-BLK M ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 23rd Street, East End",
     "location_township": "FIRE",
-    "lat": null,
-    "lng": null
+    "lat": 37.536212,
+    "lng": -77.417112
   },
   {
     "type_general": "RFD",
@@ -137,9 +150,22 @@
     "street": "2300-BLK M ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 23rd Street, East End",
     "location_township": "FIRE",
     "lat": 37.536212,
     "lng": -77.417112
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 06:50",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "4600-BLK RICHMOND HWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Richmond Highway",
+    "location_township": "FIRE",
+    "lat": 37.464094,
+    "lng": -77.442993
   }
 ]
