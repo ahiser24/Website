@@ -7,10 +7,10 @@
     "street": "400-BLK MELMARK CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Melmark Court",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5111106,
-    "lng": -77.5020742
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 11:56",
-    "box_no": "Precinct 1",
-    "type_specific": "D.O.A. , INVESTIGATE",
-    "street": "1700-BLK N 29TH ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "North 29th Street",
-    "location_township": "Precinct 1",
-    "lat": 37.541536,
-    "lng": -77.40372
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 13:10",
     "box_no": "Precinct 2",
     "type_specific": "REFERRAL FROM NGO OR GO , OFFICER INITIATED",
@@ -50,19 +37,6 @@
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 13:16",
-    "box_no": "Precinct 3",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "5600-BLK JAHNKE RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": 37.518679,
-    "lng": -77.502435
   },
   {
     "type_general": "RPD",
@@ -152,34 +126,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 14:20",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "900-BLK MYERS ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 14:27",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "E BROAD ST/N 18TH ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5063821,
+    "lng": -77.4979375
   },
   {
     "type_general": "RPD",
@@ -217,21 +165,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5400826,
-    "lng": -77.4617077
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 14:59",
-    "box_no": "DPR",
-    "type_specific": "LARCENY , DPR Call - Take a Report",
-    "street": "3500-BLK BRIEL ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "DPR",
-    "lat": 37.533429,
-    "lng": -77.397248
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -241,10 +176,10 @@
     "street": "2700-BLK HOPKINS RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Hopkins Road",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.481456,
+    "lng": -77.467665
   },
   {
     "type_general": "RPD",
@@ -280,34 +215,8 @@
     "street": "1600-BLK OLIVER HILL WAY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Oliver Hill Way",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.5487019,
-    "lng": -77.4248619
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:27",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSAULT , JUST OCCURRED / IN-PROGRESS",
-    "street": "1200-BLK WALLACE ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:28",
-    "box_no": "Precinct 3",
-    "type_specific": "ASSIST FIRE DEPARTMENT , TRAFFIC AND/OR CROWD CONTROL",
-    "street": "1900-BLK STONEWALL AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
   },
@@ -356,25 +265,12 @@
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
     "street": "1400-BLK CLARKSON RD",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:30",
-    "box_no": "Precinct 2",
-    "type_specific": "DOMESTIC TROUBLE , ASSIST OR STANDBY",
-    "street": "1400-BLK CLARKSON RD",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4961097,
+    "lng": -77.4759645
   },
   {
     "type_general": "RPD",
@@ -399,8 +295,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.484961,
+    "lng": -77.513148
   },
   {
     "type_general": "RPD",
@@ -410,10 +306,10 @@
     "street": "ROSENEATH RD/W BROAD ST RICH",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Roseneath Road",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.5648403,
+    "lng": -77.4793039
   },
   {
     "type_general": "RPD",
@@ -421,7 +317,7 @@
     "box_no": "Precinct 1",
     "type_specific": "CRASH , PERSONAL INJURY",
     "street": "RICH: @MAYO BRIDGE; NB",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
@@ -443,40 +339,14 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:38",
-    "box_no": "Precinct 2",
-    "type_specific": "MENTAL SUBJECT , INVESTIGATE",
-    "street": "W 21ST ST/SEMMES AVE RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 15:39",
     "box_no": "Precinct 3",
     "type_specific": "PRISONER TRANSPORT , PRISONER TRANSPORT",
     "street": "4900-BLK W BROAD ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:43",
-    "box_no": "Precinct 1",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "N 23RD ST/T ST RICH",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
-    "location_township": "Precinct 1",
+    "location_township": "Precinct 3",
     "lat": null,
     "lng": null
   },
@@ -490,8 +360,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.54917,
+    "lng": -77.449917
   },
   {
     "type_general": "RPD",
@@ -516,6 +386,19 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 15:47",
+    "box_no": "DPR",
+    "type_specific": "LARCENY , DPR Call - Take a Report",
+    "street": "2800-BLK COFER RD",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "DPR",
     "lat": null,
     "lng": null
   },
@@ -534,32 +417,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 15:52",
-    "box_no": "Precinct 3",
-    "type_specific": "PARKING COMPLAINT , INVESTIGATE",
-    "street": "ROSEWOOD AVE/S ROWLAND ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 13:37",
-    "box_no": "FIRE",
-    "type_specific": "# VEHICLE FIRE , CAR OR PICKUP",
-    "street": "3300-BLK CHEVERLY RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "FIRE",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 15:58",
     "box_no": "Precinct 1",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -568,8 +425,21 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.542584,
-    "lng": -77.413694
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:01",
+    "box_no": "Precinct 3",
+    "type_specific": "CRASH , PROPERTY DAMAGE",
+    "street": "3400-BLK PATTERSON AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -581,6 +451,110 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
+    "lat": 37.51501,
+    "lng": -77.394172
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:09",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1300-BLK ST PETER ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:13",
+    "box_no": "Precinct 3",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "4200-BLK W BROAD ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:13",
+    "box_no": "Precinct 1",
+    "type_specific": "DISABLE VEHICLE - HAZARD , INVESTIGATE",
+    "street": "RICH: @MAYO BRIDGE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:24",
+    "box_no": "Precinct 4",
+    "type_specific": "UNSECURE BUILDING , INVESTIGATE",
+    "street": "700-BLK CHEATWOOD AVE",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:24",
+    "box_no": "Precinct 4",
+    "type_specific": "UNSECURE BUILDING , INVESTIGATE",
+    "street": "700-BLK CHEATWOOD AVE",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:27",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
+    "street": "2200-BLK CHAMBERLAYNE PKWY",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:30",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "200-BLK S BELVIDERE ST",
+    "status": "Dispatched",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:30",
+    "box_no": "Precinct 4",
+    "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
+    "street": "200-BLK S BELVIDERE ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
     "lat": null,
     "lng": null
   },
@@ -599,10 +573,23 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 16:16",
+    "dispatch_time": "12/16/2025 16:32",
+    "box_no": "Precinct 3",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "5700-BLK WESTOWER DR",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 3",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 16:36",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S BELVIDERE ST RICH:EST LL(-77.4523,37.5260)",
+    "street": "1800-BLK SPRINGHILL AVE",
     "status": "Dispatched",
     "cross_street": "",
     "nearest_intersection": "",
@@ -612,14 +599,27 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 16:16",
+    "dispatch_time": "12/16/2025 16:36",
     "box_no": "Precinct 4",
     "type_specific": "TRAFFIC STOP , OFFICER-INITIATED",
-    "street": "S BELVIDERE ST RICH:EST LL(-77.4523,37.5260)",
+    "street": "1800-BLK SPRINGHILL AVE",
     "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 16:36",
+    "box_no": "FIRE",
+    "type_specific": "# FIRE ALARM , GENERAL",
+    "street": "1200-BLK N ARTHUR ASHE BLVD",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
     "lat": null,
     "lng": null
   }
