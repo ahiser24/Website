@@ -5,25 +5,12 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "400-BLK W RANDOLPH RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/15/2025 23:25",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , VIOLENT",
-    "street": "3100-BLK ALVIS AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Alvis Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.574264,
-    "lng": -77.426928
   },
   {
     "type_general": "RPD",
@@ -52,55 +39,16 @@
     "lng": -77.5079418
   },
   {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 17:45",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "0-BLK N LAUREL ST",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "FIRE",
-    "lat": 37.5465072,
-    "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/15/2025 17:45",
-    "box_no": "FIRE",
-    "type_specific": "# FIRE STANDBY , VENUE",
-    "street": "0-BLK N LAUREL ST",
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 03:23",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "100-BLK W MARSHALL ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North Laurel Street",
-    "location_township": "FIRE",
-    "lat": 37.5465072,
-    "lng": -77.4515552
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 03:02",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
-    "street": "1900-BLK CHAMBERLAYNE PKWY",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Chamberlayne Parkway",
-    "location_township": "FIRE",
-    "lat": 37.5602471,
-    "lng": -77.4431479
-  },
-  {
-    "type_general": "RFD",
-    "dispatch_time": "12/16/2025 03:14",
-    "box_no": "FIRE",
-    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
-    "street": "3000-BLK TERMINAL AVE",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "Terminal Avenue",
-    "location_township": "FIRE",
-    "lat": 37.4823241,
-    "lng": -77.4526867
+    "nearest_intersection": "West Marshall Street",
+    "location_township": "Precinct 4",
+    "lat": 37.547254,
+    "lng": -77.4419569
   }
 ]
