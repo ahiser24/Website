@@ -5,7 +5,7 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "400-BLK W RANDOLPH RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
@@ -18,12 +18,12 @@
     "box_no": "Precinct 3",
     "type_specific": "LARCENY , INVESTIGATE",
     "street": "6000-BLK SUGARBUSH DR",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Sugarbush Drive",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5254806,
+    "lng": -77.5079418
   },
   {
     "type_general": "RPD",
@@ -37,5 +37,57 @@
     "location_township": "Precinct 4",
     "lat": 37.564063,
     "lng": -77.4440996
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 04:30",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 04:30",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "North 28th Street, East End",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 04:30",
+    "box_no": "Precinct 1",
+    "type_specific": "TRESPASSING , INVESTIGATE",
+    "street": "1500-BLK N 28TH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 1",
+    "lat": 37.5400835,
+    "lng": -77.4068808
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 04:32",
+    "box_no": "Precinct 4",
+    "type_specific": "TROUBLE UNKNOWN , INVESTIGATE",
+    "street": "W LEIGH ST/N BELVIDERE ST RICH",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5556224,
+    "lng": -77.451142
   }
 ]
