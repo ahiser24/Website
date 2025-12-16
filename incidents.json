@@ -27,19 +27,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 02:03",
-    "box_no": "Precinct 2",
-    "type_specific": "ASSIST - OTHER AGENCY OR CALLER , CITIZEN",
-    "street": "5600-BLK PETOSKEY AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Petoskey Avenue",
-    "location_township": "Precinct 2",
-    "lat": 37.4988816,
-    "lng": -77.5008037
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 02:24",
     "box_no": "Precinct 2",
     "type_specific": "BURGLAR ALARM , INVESTIGATE",
@@ -53,16 +40,16 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 03:02",
-    "box_no": "Precinct 4",
-    "type_specific": "MENTAL SUBJECT , MENTAL SUBJECT EMERGENT",
-    "street": "2600-BLK CHAMBERLAYNE AVE",
-    "status": "Enroute",
+    "dispatch_time": "12/16/2025 03:09",
+    "box_no": "Precinct 3",
+    "type_specific": "DESTRUCTION OF PROPERTY , JUST OCCURRED / IN- PROGRESS",
+    "street": "6000-BLK SUGARBUSH DR",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Chamberlayne Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.5668206,
-    "lng": -77.4448967
+    "nearest_intersection": "Sugarbush Drive",
+    "location_township": "Precinct 3",
+    "lat": 37.5254806,
+    "lng": -77.5079418
   },
   {
     "type_general": "RFD",
@@ -96,11 +83,24 @@
     "box_no": "FIRE",
     "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , UNCONSCIOUSNESS/FAINTING",
     "street": "1900-BLK CHAMBERLAYNE PKWY",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Chamberlayne Parkway",
     "location_township": "FIRE",
     "lat": 37.5602471,
     "lng": -77.4431479
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 03:14",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "3000-BLK TERMINAL AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Terminal Avenue",
+    "location_township": "FIRE",
+    "lat": 37.4823241,
+    "lng": -77.4526867
   }
 ]
