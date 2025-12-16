@@ -5,12 +5,25 @@
     "box_no": "Precinct 2",
     "type_specific": "MENTAL SUBJECT , TDO / ECO",
     "street": "400-BLK W RANDOLPH RD",
-    "status": "Arrived",
+    "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 05:50",
+    "box_no": "Precinct 4",
+    "type_specific": "MENTAL SUBJECT , TDO / ECO",
+    "street": "7700-BLK E PARHAM RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": 37.6312963,
+    "lng": -77.5251363
   },
   {
     "type_general": "RPD",
@@ -24,6 +37,19 @@
     "location_township": "Precinct 4",
     "lat": 37.5694404,
     "lng": -77.4748981
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 06:17",
+    "box_no": "Precinct 4",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "2900-BLK NORTH AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "West Essex Street, Northside",
+    "location_township": "Precinct 4",
+    "lat": 37.570084,
+    "lng": -77.43294
   },
   {
     "type_general": "RPD",
@@ -92,15 +118,28 @@
   },
   {
     "type_general": "RFD",
-    "dispatch_time": "12/16/2025 06:28",
+    "dispatch_time": "12/16/2025 06:31",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , GENERAL",
-    "street": "2500-BLK HERMITAGE RD",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "2300-BLK M ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Hermitage Road",
+    "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.566145,
-    "lng": -77.460752
+    "lat": 37.536212,
+    "lng": -77.417112
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 06:31",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , FALL",
+    "street": "2300-BLK M ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": 37.536212,
+    "lng": -77.417112
   }
 ]
