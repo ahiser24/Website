@@ -20,7 +20,7 @@
     "street": "7700-BLK E PARHAM RD",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "East Parham Road, Henrico",
     "location_township": "Precinct 4",
     "lat": 37.6312963,
     "lng": -77.5251363
@@ -33,7 +33,7 @@
     "street": "6100-BLK DERWENT RD",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Derwent Road",
     "location_township": "Precinct 2",
     "lat": 37.483664,
     "lng": -77.505535
@@ -92,32 +92,6 @@
   },
   {
     "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:38",
-    "box_no": "Precinct 4",
-    "type_specific": "WANTED PERSON , INVESTIGATE",
-    "street": "1000-BLK ST JAMES ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint James Street",
-    "location_township": "Precinct 4",
-    "lat": 37.551762,
-    "lng": -77.436219
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 08:56",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "1300-BLK ST PETER ST",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Saint Peter Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5533937,
-    "lng": -77.4388408
-  },
-  {
-    "type_general": "RPD",
     "dispatch_time": "12/16/2025 09:07",
     "box_no": "Precinct 2",
     "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
@@ -154,6 +128,19 @@
     "location_township": "Precinct 1",
     "lat": 37.5501278,
     "lng": -77.4239328
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 09:20",
+    "box_no": "Precinct 4",
+    "type_specific": "ASSAULT , INVESTIGATE",
+    "street": "1100-BLK W LEIGH ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "West Leigh Street",
+    "location_township": "Precinct 4",
+    "lat": 37.5539958,
+    "lng": -77.4477219
   },
   {
     "type_general": "RPD",
@@ -252,12 +239,25 @@
     "box_no": "Precinct 3",
     "type_specific": "DISORDERLY , INVESTIGATE",
     "street": "6300-BLK JAHNKE RD",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "Bergen Drive",
     "location_township": "Precinct 3",
     "lat": 37.5215193,
     "lng": -77.5137851
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 10:07",
+    "box_no": "Precinct 1",
+    "type_specific": "BURGLAR ALARM , INVESTIGATE",
+    "street": "400-BLK E 15TH ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "East 15th Street",
+    "location_township": "Precinct 1",
+    "lat": 37.515784,
+    "lng": -77.443334
   },
   {
     "type_general": "RFD",
@@ -284,5 +284,31 @@
     "location_township": "FIRE",
     "lat": 37.537455,
     "lng": -77.530122
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 10:03",
+    "box_no": "FIRE",
+    "type_specific": "# EMS - 1ST RESP CALL (FIRE RESP ONLY) , BREATHING PROBLEM",
+    "street": "300-BLK NORCROFT CIR",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "Norcroft Circle",
+    "location_township": "FIRE",
+    "lat": 37.5126503,
+    "lng": -77.4826702
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 10:09",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "2600-BLK NINE MILE RD",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Nine Mile Road",
+    "location_township": "FIRE",
+    "lat": 37.5409841,
+    "lng": -77.4081043
   }
 ]
