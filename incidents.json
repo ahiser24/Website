@@ -9,8 +9,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 4",
-    "lat": null,
-    "lng": null
+    "lat": 37.6312963,
+    "lng": -77.5251363
   },
   {
     "type_general": "RPD",
@@ -22,34 +22,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.5522352,
-    "lng": -77.4776189
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:23",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "W BROAD ST/N ADAMS ST RICH",
-    "status": "Dispatched",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:23",
-    "box_no": "Precinct 4",
-    "type_specific": "WALKING ASSIGNMENT , OFFICER INITIATED",
-    "street": "W BROAD ST/N ADAMS ST RICH",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "West Broad Street",
-    "location_township": "Precinct 4",
-    "lat": 37.5467727,
-    "lng": -77.4436631
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -61,8 +35,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.518483,
-    "lng": -77.450766
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -113,21 +87,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 3",
-    "lat": 37.516009,
-    "lng": -77.525109
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 09:49",
-    "box_no": "Precinct 4",
-    "type_specific": "DOMESTIC TROUBLE , INVESTIGATE",
-    "street": "3800-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 4",
-    "lat": 37.58494,
-    "lng": -77.4478043
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -137,23 +98,10 @@
     "street": "6800-BLK EVERGLADES DR",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Everglades Drive",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 10:27",
-    "box_no": "Precinct 4",
-    "type_specific": "ABANDONED VEHICLE , INVESTIGATE",
-    "street": "0-BLK OVERBROOK RD",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Overbrook Road, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.565677,
-    "lng": -77.4441142
+    "lat": 37.5034416,
+    "lng": -77.5206899
   },
   {
     "type_general": "RPD",
@@ -165,8 +113,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.476435,
+    "lng": -77.459437
   },
   {
     "type_general": "RPD",
@@ -176,10 +124,10 @@
     "street": "N 32ND ST/S ST RICH",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "North 32nd Street, East End",
+    "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": 37.533338,
-    "lng": -77.4071263
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -189,7 +137,7 @@
     "street": "400-BLK MELMARK CT",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Melmark Court",
+    "nearest_intersection": "",
     "location_township": "Precinct 3",
     "lat": 37.5111106,
     "lng": -77.5020742
@@ -202,23 +150,10 @@
     "street": "3600-BLK ROSANELL LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Rosanell Lane",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 11:22",
-    "box_no": "Precinct 3",
-    "type_specific": "IN-PROGRESS (Assault or battery by mob) , IN-PROGRESS- EMS",
-    "street": "900-BLK BYSWICK LN",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.476435,
+    "lng": -77.459437
   },
   {
     "type_general": "RPD",
@@ -226,9 +161,9 @@
     "box_no": "Precinct 4",
     "type_specific": "CRASH , PROPERTY DAMAGE",
     "street": "ALTAMONT AVE/MOORE ST RICH",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Altamont Avenue",
+    "nearest_intersection": "",
     "location_township": "Precinct 4",
     "lat": 37.5647641,
     "lng": -77.4723231
@@ -241,10 +176,10 @@
     "street": "1700-BLK N 29TH ST",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "North 29th Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.541536,
+    "lng": -77.40372
   },
   {
     "type_general": "RPD",
@@ -282,8 +217,8 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
+    "lat": 37.5130784,
+    "lng": -77.4044849
   },
   {
     "type_general": "RPD",
@@ -306,10 +241,10 @@
     "street": "1200-BLK SOUTHWOOD PKWY",
     "status": "Dispatched",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Southwood Parkway, Southside",
     "location_township": "Precinct 2",
-    "lat": null,
-    "lng": null
+    "lat": 37.4937634,
+    "lng": -77.4828589
   },
   {
     "type_general": "RPD",
@@ -319,10 +254,10 @@
     "street": "1200-BLK SOUTHWOOD PKWY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "Southwood Parkway, Southside",
+    "nearest_intersection": "",
     "location_township": "Precinct 2",
-    "lat": 37.4937634,
-    "lng": -77.4828589
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RPD",
@@ -332,10 +267,10 @@
     "street": "4700-BLK RADFORD AVE",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Radford Avenue",
     "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5785766,
+    "lng": -77.491196
   },
   {
     "type_general": "RPD",
@@ -345,7 +280,7 @@
     "street": "1700-BLK FAIRFIELD WAY",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Fairfield Way",
     "location_township": "Precinct 2",
     "lat": 37.548532,
     "lng": -77.4127685
@@ -362,19 +297,6 @@
     "location_township": "Precinct 3",
     "lat": null,
     "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 12:27",
-    "box_no": "Precinct 4",
-    "type_specific": "CRASH , PROPERTY DAMAGE",
-    "street": "3600-BLK CHAMBERLAYNE AVE",
-    "status": "Arrived",
-    "cross_street": "",
-    "nearest_intersection": "Walton Avenue, Northside",
-    "location_township": "Precinct 4",
-    "lat": 37.581665,
-    "lng": -77.446998
   },
   {
     "type_general": "RPD",
@@ -410,23 +332,10 @@
     "street": "1400-BLK LENMORE ST",
     "status": "Enroute",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Lenmore Street",
     "location_township": "Precinct 1",
-    "lat": null,
-    "lng": null
-  },
-  {
-    "type_general": "RPD",
-    "dispatch_time": "12/16/2025 12:31",
-    "box_no": "Precinct 3",
-    "type_specific": "TRESPASSING , INVESTIGATE",
-    "street": "1000-BLK W GRACE ST",
-    "status": "Enroute",
-    "cross_street": "",
-    "nearest_intersection": "",
-    "location_township": "Precinct 3",
-    "lat": null,
-    "lng": null
+    "lat": 37.5074523,
+    "lng": -77.4378018
   },
   {
     "type_general": "RPD",
@@ -434,7 +343,7 @@
     "box_no": "Precinct 4",
     "type_specific": "SUSPICIOUS , INVESTIGATE",
     "street": "1100-BLK W LEIGH ST",
-    "status": "Dispatched",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "West Leigh Street",
     "location_township": "Precinct 4",
@@ -449,10 +358,23 @@
     "street": "3600-BLK ROSANELL LN",
     "status": "Arrived",
     "cross_street": "",
-    "nearest_intersection": "",
+    "nearest_intersection": "Rosanell Lane",
     "location_township": "Precinct 2",
     "lat": 37.476435,
     "lng": -77.459437
+  },
+  {
+    "type_general": "RPD",
+    "dispatch_time": "12/16/2025 12:40",
+    "box_no": "Precinct 4",
+    "type_specific": "OVERDOSE/POISONING , ALS Abnormal Breathing",
+    "street": "500-BLK W FRANKLIN ST",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "Precinct 4",
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
@@ -464,16 +386,16 @@
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
-    "lat": 37.4802516,
-    "lng": -77.4844809
+    "lat": null,
+    "lng": null
   },
   {
     "type_general": "RFD",
     "dispatch_time": "12/16/2025 12:31",
     "box_no": "FIRE",
-    "type_specific": "# FIRE ALARM , SMOKE DETECTOR",
+    "type_specific": "# STRUCTURE FIRE , HOUSE FIRE",
     "street": "1400-BLK LENMORE ST",
-    "status": "Enroute",
+    "status": "Arrived",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
@@ -486,11 +408,37 @@
     "box_no": "FIRE",
     "type_specific": "# FIRE ALARM , GENERAL",
     "street": "2800-BLK DECATUR ST",
+    "status": "Arrived",
+    "cross_street": "",
+    "nearest_intersection": "",
+    "location_township": "FIRE",
+    "lat": 37.510827,
+    "lng": -77.457654
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 12:45",
+    "box_no": "FIRE",
+    "type_specific": "# ASSIST EMS , OTHER (SEE REMARKS)",
+    "street": "1700-BLK STOCKTON ST",
     "status": "Enroute",
     "cross_street": "",
     "nearest_intersection": "",
     "location_township": "FIRE",
     "lat": null,
     "lng": null
+  },
+  {
+    "type_general": "RFD",
+    "dispatch_time": "12/16/2025 12:45",
+    "box_no": "FIRE",
+    "type_specific": "",
+    "street": "1700-BLK INGRAM AVE",
+    "status": "Enroute",
+    "cross_street": "",
+    "nearest_intersection": "Ingram Avenue",
+    "location_township": "FIRE",
+    "lat": 37.5082036,
+    "lng": -77.4384555
   }
 ]
