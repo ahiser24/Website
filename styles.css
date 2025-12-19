@@ -18,6 +18,12 @@ body {
     margin: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+    /* Match header height exactly for tight fit */
+}
+
 /* Gradient Text */
 .text-gradient-purple {
     background: linear-gradient(to right, #a78bfa, #60a5fa);
