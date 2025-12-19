@@ -1,206 +1,470 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andrew Hiser - IT Professional</title>
-    <meta name="description" content="The portfolio of Andrew Hiser, an IT Professional specializing in Microsoft 365, Azure, and process automation.">
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Andrew Hiser - IT Professional">
-    <meta property="og:description" content="Portfolio, apps, and career highlights of Andrew Hiser, IT Professional.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://andrewhiser.com/index.html">
-    <meta property="og:image" content="https://andrewhiser.com/images/mainLogo.png">
-    <meta property="og:site_name" content="Andrew Hiser">
-    <!-- Twitter Card Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Andrew Hiser - IT Professional">
-    <meta name="twitter:description" content="Portfolio, apps, and career highlights of Andrew Hiser, IT Professional.">
-    <meta name="twitter:image" content="https://andrewhiser.com/images/mainLogo.png">
-    <!-- Canonical URL -->
-    <link rel="canonical" href="https://andrewhiser.com/index.html">
-    <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
-    <link rel="icon" type="image/x-icon" href="favicon/favicon.ico">
-    <link rel="manifest" href="favicon/site.webmanifest">
-    <meta name="theme-color" content="#ffffff">
-    <!-- Android Chrome -->
-    <link rel="icon" type="image/png" sizes="192x192" href="favicon/android-chrome-192x192.png">
-    <link rel="icon" type="image/png" sizes="512x512" href="favicon/android-chrome-512x512.png">
-    <!-- Styles and Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <link rel="stylesheet" href="styles.css">
-    <!-- JSON-LD Structured Data -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Andrew Hiser",
-      "url": "https://andrewhiser.com",
-      "sameAs": [
-        "https://www.linkedin.com/in/hiserandrew",
-        "https://github.com/ahiser24"
-      ],
-      "jobTitle": "IT Professional",
-      "worksFor": {
-        "@type": "Organization",
-        "name": "Andrew Hiser"
-      }
-    }
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Andrew Hiser - Portfolio</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Configure Tailwind theme -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'page-bg': '#0D0525', // Deep dark purple/black
+                        'card-bg': 'rgba(255, 255, 255, 0.05)', // Transparent card background
+                        'card-border': 'rgba(255, 255, 255, 0.1)',
+                        'brand-purple': '#8B5CF6',
+                        'brand-cyan': '#06b6d4',
+                        'glow-blue': '#0EA5E9',
+                        'text-secondary': '#9CA3AF',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    boxShadow: {
+                        'neon-blue': '0 0 15px 2px rgba(14, 165, 233, 0.3), inset 0 0 15px 2px rgba(14, 165, 233, 0.1)',
+                    }
+                }
+            }
+        }
     </script>
+    <!-- Custom CSS for specific effects -->
+    <!-- Custom CSS moved to styles.css -->
+    <link rel="stylesheet" href="styles.css">
 </head>
-<body class="body">
-    <header class="header">
-        <div class="logo">Andrew Hiser</div>
-        <nav class="nav">
-            <ul class="nav-list">                <li><a href="#about" class="nav-link">About Me</a></li>
-                <li><a href="#certifications" class="nav-link">Certifications</a></li>
-                <li><a href="#portfolio" class="nav-link">Portfolio</a></li>
-                <li><a href="#career" class="nav-link">Career</a></li>
-                <li><a href="#Socials" class="nav-link">Socials</a></li>
-                <li><a href="apps.html" class="nav-link">Apps</a></li>
-            </ul>
-        </nav>
-    </header>
 
-    <main class="main-content">
-        <section id="about" class="section">
-            <h2 class="section-heading">About Me</h2>
-            <div class="about-content">
-                <div class="about-image">
-                    <video autoplay loop muted playsinline class="profile-video" title="Animated character representing Andrew Hiser">
-                        <source src="images/character.mp4" type="video/mp4">
-                        Your browser does not support the video tag.
-                    </video>
+<body class="font-sans antialiased selection:bg-purple-500 selection:text-white">
+    <!-- BEGIN: Header -->
+    <header class="sticky top-0 z-50 backdrop-blur-md bg-[#0f0729]/80 border-b border-white/10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-20">
+                <!-- Logo -->
+                <div class="flex-shrink-0">
+                    <a class="text-3xl font-bold text-gradient-purple tracking-tight" href="#">Andrew Hiser</a>
                 </div>
-                <div class="about-text">
-                    <p class="paragraph">
-                        Hey, I'm Andrew—an IT enthusiast who took an unexpected detour from Criminal Justice to the world of technology.
-                        When I'm not immersed in work, my hobbies include::
-                    </p>
-                    <ul class="bulleted-list inner-list">
-                        <li>Learning</li>
-                        <li>Adventures</li>
-                        <li>Coding</li>
-                        <li>Guitar</li>
-                        <li>Gaming</li>
+                <!-- Desktop Navigation -->
+                <nav class="hidden md:block">
+                    <ul class="ml-10 flex items-baseline space-x-8">
+                        <li><a class="text-white hover:text-brand-purple px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="#about">About Me</a></li>
+                        <li><a class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="#certifications">Certifications</a></li>
+                        <li><a class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="#key-projects">Key Projects</a></li>
+                        <li><a class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="#professional-experience">Professional Experience</a></li>
+
+                        <li><a class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="apps.html">Apps</a></li>
                     </ul>
-                    <p class="paragraph">
-                        <b>Core skills:</b> Microsoft 365 Administration, Root Cause Analysis, Project Management, Documentation and Reporting, PowerShell, Python, Azure Cloud, AI, CoPilot, SharePoint Online, Exchange Online.
-                    </p>
+                </nav>
+                <!-- Mobile menu button -->
+                <div class="-mr-2 flex md:hidden">
+                    <button id="mobile-menu-button"
+                        class="bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
+                        type="button" aria-controls="mobile-menu" aria-expanded="false">
+                        <span class="sr-only">Open main menu</span>
+                        <!-- Icon when menu is closed -->
+                        <svg class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                            stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                        <!-- Icon when menu is open -->
+                        <svg class="hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                            stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Menu, show/hide based on menu state. -->
+        <div class="hidden md:hidden" id="mobile-menu">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-[#0f0729] border-b border-white/10">
+                <a href="#about"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">About Me</a>
+                <a href="#certifications"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Certifications</a>
+                <a href="#key-projects"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Key
+                    Projects</a>
+                <a href="#professional-experience"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Professional
+                    Experience</a>
+                <a href="apps.html"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Apps</a>
+            </div>
+        </div>
+    </header>
+    <!-- END: Header -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-24">
+        <!-- BEGIN: About Me Section -->
+        <section class="scroll-mt-24 py-12 md:py-24" id="about">
+            <h2 class="text-3xl font-bold text-white mb-6">About Me</h2>
+            <div class="border border-card-border rounded-3xl p-8 md:p-12 backdrop-blur-sm bg-[#171725]"
+                style="border: 1px solid rgba(255, 255, 255, 0.1);">
+                <div class="flex flex-col md:flex-row gap-12 items-center">
+                    <!-- Left: Graphic -->
+                    <div class="w-full md:w-1/3 flex justify-center">
+                        <div class="relative w-64 h-64 md:w-96 md:h-96 rounded-full flex items-center justify-center">
+                            <!-- Using provided placeholder for the neon circle graphic -->
+                            <video autoplay loop muted playsinline
+                                class="w-full h-full object-cover rounded-full shadow-[0_0_30px_rgba(6,182,212,0.3)]"
+                                title="Andrew Hiser Character">
+                                <source src="images/character.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+                    <!-- Right: Content -->
+                    <div class="w-full md:w-2/3 space-y-6">
+                        <p class="text-gray-300 text-lg leading-relaxed">
+                            I’m an IT Professional specializing in Microsoft 365, Azure, and automation, with a proven
+                            track record of delivering scalable cloud solutions, driving process improvements, and
+                            leading technical initiatives across enterprise environments.</p>
+                        <br>
+                        <p>When I'm not immersed in work, my hobbies include:</p>
+                        <!-- Hobbies List -->
+                        <div class="flex flex-wrap gap-2">
+                            <span
+                                class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Learning</span>
+                            <span
+                                class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Adventures</span>
+                            <span
+                                class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Coding</span>
+                            <span
+                                class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Guitar</span>
+                            <span
+                                class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Gaming</span>
+                        </div>
+                        <!-- Core Skills -->
+                        <div class="pt-4">
+                            <h3 class="text-white font-semibold mb-3">Core Skills:</h3>
+                            <div class="flex flex-wrap gap-2">
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Microsoft
+                                    365 Administration</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Root
+                                    Cause Analysis</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Project
+                                    Management</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Documentation
+                                    and Reporting</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">PowerShell</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Python</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Azure
+                                    Cloud</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">AI</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">CoPilot</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">SharePoint
+                                    Online</span>
+                                <span
+                                    class="px-4 py-1.5 rounded-full text-xs md:text-sm font-medium bg-[#2d2d3b] text-white">Exchange
+                                    Online</span>
+                            </div>
+                        </div>
+
+                        <!-- Socials -->
+                        <div class="pt-6 flex items-center gap-4">
+                            <span class="text-white font-semibold">Let's connect:</span>
+                            <div class="flex space-x-4">
+                                <!-- LinkedIn -->
+                                <a href="https://www.linkedin.com/in/hiserandrew" target="_blank"
+                                    rel="noopener noreferrer"
+                                    class="text-gray-400 hover:text-[#0077b5] transition-colors">
+                                    <span class="sr-only">LinkedIn</span>
+                                    <svg class="h-6 w-6 fill-current" viewbox="0 0 24 24"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z">
+                                        </path>
+                                    </svg>
+                                </a>
+                                <!-- GitHub -->
+                                <a href="https://github.com/ahiser24" target="_blank" rel="noopener noreferrer"
+                                    class="text-gray-400 hover:text-white transition-colors">
+                                    <span class="sr-only">GitHub</span>
+                                    <svg class="h-6 w-6 fill-current" viewbox="0 0 24 24"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z">
+                                        </path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
-
-        <section id="certifications" class="section">
-            <h2 class="section-heading">Certifications</h2>
-            <div class="certifications-grid">
-                <div class="certification-card">
-                    <h3 class="card-heading">AI-900 - Microsoft Certified Azure AI Fundamentals</h3>
-                    <p class="card-text">Establishes my foundational knowledge of Azure AI services and solutions.</p>
+        <!-- END: About Me Section -->
+        <!-- BEGIN: Certifications Section -->
+        <section class="scroll-mt-24 py-12 md:py-24" id="certifications">
+            <h2 class="text-3xl font-bold text-white mb-6">Certifications</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <!-- Cert Card 1 -->
+                <div class="cert-card bg-card-bg rounded-2xl p-6 flex flex-col items-center text-center group">
+                    <div
+                        class="w-32 h-32 mb-4 rounded-full bg-white/10 flex items-center justify-center overflow-hidden">
+                        <img alt="AI-900 Badge" class="w-full h-full object-contain" src="images/AI900.png" />
+                    </div>
+                    <h3 class="text-xl font-bold text-white mb-1">AI-900 - Microsoft Certified</h3>
+                    <h4 class="text-lg font-semibold text-gray-300 mb-3">Azure AI Fundamentals</h4>
+                    <p class="text-sm text-gray-400">Establishes my foundational knowledge of Azure AI services and
+                        solutions.</p>
                 </div>
-                <div class="certification-card">
-                    <h3 class="card-heading">AZ-104 - Microsoft Certified Azure Administrator</h3>
-                    <p class="card-text">Demonstrates my expertise in managing Azure resources, security, and governance.</p>
+                <!-- Cert Card 2 -->
+                <div class="cert-card bg-card-bg rounded-2xl p-6 flex flex-col items-center text-center group">
+                    <div
+                        class="w-32 h-32 mb-4 rounded-full bg-white/10 flex items-center justify-center overflow-hidden">
+                        <img alt="AZ-104 Badge" class="w-full h-full object-contain" src="images/AZ104.png" />
+                    </div>
+                    <h3 class="text-xl font-bold text-white mb-1">AZ-104 - Microsoft Certified</h3>
+                    <h4 class="text-lg font-semibold text-gray-300 mb-3">Azure Administrator</h4>
+                    <p class="text-sm text-gray-400">Demonstrates my expertise in managing Azure resources, security,
+                        and governance.</p>
                 </div>
-                <div class="certification-card">
-                    <h3 class="card-heading">AZ-900 - Microsoft Certified Azure Fundamentals</h3>
-                    <p class="card-text">Establishes my foundational knowledge of Azure cloud services and solutions.</p>
+                <!-- Cert Card 3 -->
+                <div class="cert-card bg-card-bg rounded-2xl p-6 flex flex-col items-center text-center group">
+                    <div
+                        class="w-32 h-32 mb-4 rounded-full bg-white/10 flex items-center justify-center overflow-hidden">
+                        <img alt="AZ-900 Badge" class="w-full h-full object-contain" src="images/AZ900.png" />
+                    </div>
+                    <h3 class="text-xl font-bold text-white mb-1">AZ-900 - Microsoft Certified</h3>
+                    <h4 class="text-lg font-semibold text-gray-300 mb-3">Azure Fundamentals</h4>
+                    <p class="text-sm text-gray-400">Establishes my foundational knowledge of Azure cloud services and
+                        solutions.</p>
                 </div>
             </div>
         </section>
+        <!-- END: Certifications Section -->
+        <!-- BEGIN: Portfolio Section -->
+        <section class="scroll-mt-24 py-12 md:py-24" id="key-projects">
+            <h2 class="text-3xl font-bold text-white mb-6">Key Projects</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Portfolio Item 1 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-xl overflow-hidden hover:border-gray-600 transition-colors">
 
-        <section id="portfolio" class="section">
-            <h2 class="section-heading">Portfolio</h2>
-            <div class="portfolio-grid">
-                <div class="portfolio-card">
-                    <h3 class="card-heading">Microsoft 365 Migrations</h3>
-                    <p class="card-text">Successfully migrated organizations from On-Premises to the Microsoft 365 platform.</p>
-                </div>
-                <div class="portfolio-card">
-                    <h3 class="card-heading">IT Hardware Inventory System</h3>
-                    <p class="card-text">Developed an IT Hardware Inventory system for tracking Assets.</p>
-                </div>
-                <div class="portfolio-card">
-                    <h3 class="card-heading">Microsoft Stream Caption Translator</h3>
-                    <p class="card-text">Created a Python tool to translate Microsoft Stream video caption files.</p>
-                </div>
-                <div class="portfolio-card">
-                    <h3 class="card-heading">Game Drop</h3>
-                    <p class="card-text">A desktop application that makes it easy to clip, compress and share gaming videos directly to Discord Communities. <a href="gamedrop.html" class="app-link">Learn more and download →</a></p>
-                </div>
-                <div class="portfolio-card">
-                    <h3 class="card-heading">SharePoint Online Migrations</h3>
-                    <p class="card-text">Led large scale SharePoint Online migrations.</p>
-                </div>
-                 <div class="portfolio-card">
-                    <h3 class="card-heading">Microsoft Copilot Implementation</h3>
-                    <p class="card-text">Led the implementation and adoption of AI and Microsoft Copilot.</p>
-                </div>
-                <div class="portfolio-card">
-                    <h3 class="card-heading">Duck, Duck, Go!</h3>
-                    <p class="card-text">A random name or item picker via a duck race. <a href="duck.html" class="app-link" target="_blank" rel="noopener noreferrer">Play now →</a></p></p>
-                </div>
-                <div class="portfolio-card">
-                    <h3 class="card-heading">Richmond Incidents</h3>
-                    <p class="card-text">A web app that displays and filters public safety incidents in Richmond, VA. <a href="richmond_incidents.html" class="app-link">View the app →</a></p>
-                </div>
-            </div>
-            <div style="text-align:center; margin-top: 2rem;">
-                <a href="apps.html" class="app-link" style="font-weight:600; font-size:1.1rem;">See all apps →</a>
-            </div>
-            </div>
-        </section>
+                    <div class="p-5">
+                        <h3 class="text-white font-bold mb-2 text-lg">Microsoft 365 Migrations</h3>
+                        <p class="text-gray-400 text-sm mb-4 leading-relaxed">Migrated organizations from legacy
+                            On-Premises systems to Microsoft 365, improving collaboration, security, and scalability.
+                        </p>
 
-        <section id="career" class="section">
-            <h2 class="section-heading">Career</h2>
-            <div class="career-list">
-                <article class="career-card">
-                    <h3 class="job-title">Senior IT Technical Analyst</h3>
-                    <p class="job-description">Collaborated with stakeholders at all levels of the business to provide innovative solutions.</p>
-                    <p class="job-description">Focused on automations, process improvements, and training initiatives.</p>
-                    <p class="job-description">Bridged the gap between technology implementation and business requirements, driving efficiency and growth.</p>
-                </article>
-                <article class="career-card">
-                    <h3 class="job-title">Network Engineer</h3>
-                    <p class="job-description">Collaborated with colleagues to develop the tier 2 networking team, collaborating on documentation, processes, and procedures.</p>
-                    <p class="job-description">Managed and configured networks across multiple locations (stores & warehouses), ensuring seamless connectivity and optimal performance.</p>
-                </article>
-                <article class="career-card">
-                    <h3 class="job-title">Cloud Engineer (MSP Experience)</h3>
-                    <p class="job-description">At an MSP (Managed Service Provider), I played a critical role in supporting clients' Amazon Web Services (AWS) environments.</p>
-                    <p class="job-description">Despite the intense learning curve, I quickly adapted and became proficient in AWS within a tight timeframe.</p>
-                    <p class="job-description">I was tasked with training the tier 1 team, sharing my knowledge and empowering them to handle AWS-related challenges effectively.</p>
-                </article>
-                <article class="career-card">
-                    <h3 class="job-title">IT Business Owner</h3>
-                    <p class="job-description">As the founder of Sky Time LLC, I successfully established and operated a small IT services business.</p>
-                    <p class="job-description">I consulted with residential clients and small businesses to address their IT needs, troubleshoot issues, and provide tailored solutions.</p>
-                    <p class="job-description">Leveraging my experience, I was able to enhance operational efficiency and ensure seamless technology experiences for clients.</p>
-                </article>
-            </div>
-        </section>
+                    </div>
+                </div>
+                <!-- Portfolio Item 2 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-xl overflow-hidden hover:border-gray-600 transition-colors">
 
-        <section id="Socials" class="section">
-            <h2 class="section-heading socials-heading">Socials</h2>
-            <div class="social-icons">
-                <a href="https://www.linkedin.com/in/hiserandrew" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-                    <i class="fab fa-linkedin fa-2x"></i>
+                    <div class="p-5">
+                        <h3 class="text-white font-bold mb-2 text-lg">IT Hardware Inventory System</h3>
+                        <p class="text-gray-400 text-sm mb-4 leading-relaxed">Designed and deployed a cross-platform
+                            inventory management solution using PowerAutomate and Power Apps. Streamlined asset
+                            tracking, reduced manual errors, and empowered IT teams to manage hardware from any device.
+                        </p>
+
+                    </div>
+                </div>
+                <!-- Portfolio Item 3 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-xl overflow-hidden hover:border-gray-600 transition-colors">
+
+                    <div class="p-5">
+                        <h3 class="text-white font-bold mb-2 text-lg">Microsoft Stream Caption Translator</h3>
+                        <p class="text-gray-400 text-sm mb-4 leading-relaxed">Built a Python-based caption translation
+                            tool leveraging Google Cloud Translate. Automated multilingual caption generation for
+                            Microsoft Stream videos, accelerating global content accessibility and reducing manual
+                            translation time.</p>
+
+                    </div>
+                </div>
+                <!-- Portfolio Item 4 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-xl overflow-hidden hover:border-gray-600 transition-colors">
+
+                    <div class="p-5">
+                        <h3 class="text-white font-bold mb-2 text-lg">Game Drop</h3>
+                        <p class="text-gray-400 text-sm mb-4 leading-relaxed">Developed a desktop app for gamers to
+                            clip, compress, and share videos directly to Discord. Simplified content creation workflows,
+                            saving creators time and bandwidth while boosting community engagement.</p>
+                        <a class="text-sm font-semibold hover:text-blue-300 flex items-center gap-1 text-[#38bdf8]"
+                            href="gamedrop.html">Learn more <span>→</span></a>
+                    </div>
+                </div>
+                <!-- Portfolio Item 5 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-xl overflow-hidden hover:border-gray-600 transition-colors">
+
+                    <div class="p-5">
+                        <h3 class="text-white font-bold mb-2 text-lg">SharePoint Online Migrations</h3>
+                        <p class="text-gray-400 text-sm mb-4 leading-relaxed">Led enterprise-scale migrations from
+                            On-Premises and Online SharePoint to SharePoint Online. Improved document accessibility,
+                            version control, and compliance while reducing maintenance overhead.</p>
+
+                    </div>
+                </div>
+                <!-- Portfolio Item 6 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-xl overflow-hidden hover:border-gray-600 transition-colors">
+
+                    <div class="p-5">
+                        <h3 class="text-white font-bold mb-2 text-lg">Microsoft Copilot Implementation</h3>
+                        <p class="text-gray-400 text-sm mb-4 leading-relaxed">Championed organizational change
+                            management for Microsoft 365 Copilot adoption. Enabled teams to harness AI-powered
+                            productivity tools, enhancing decision-making and reducing repetitive tasks.</p>
+
+                    </div>
+                </div>
+                <!-- Portfolio Item 7 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-xl overflow-hidden hover:border-gray-600 transition-colors">
+
+                    <div class="p-5">
+                        <h3 class="text-white font-bold mb-2 text-lg">Duck, Duck, Go!</h3>
+                        <p class="text-gray-400 text-sm mb-4 leading-relaxed">Developed a playful web app that helps
+                            users make decisions by turning choices into a duck race. Users input up to 8 options,
+                            whether restaurants, names, or activities, and watch animated ducks race to reveal the
+                            winning pick. This engaging format adds fun to everyday decisions and encourages group
+                            participation.</p>
+                        <a class="text-sm font-semibold hover:text-blue-300 flex items-center gap-1 text-[#38bdf8]"
+                            href="duck.html">Learn more <span>→</span></a>
+                    </div>
+                </div>
+                <!-- Portfolio Item 8 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-xl overflow-hidden hover:border-gray-600 transition-colors">
+
+                    <div class="p-5">
+                        <h3 class="text-white font-bold mb-2 text-lg">Richmond Incidents</h3>
+                        <p class="text-gray-400 text-sm mb-4 leading-relaxed">Built a real-time incident mapping tool
+                            that scrapes live 911 data from Richmond, VA and plots it using OpenStreetMap. The app
+                            provides a clear, dynamic view of emergency activity across the city, helping users stay
+                            informed and aware of local safety trends. *Note:* The page is currently set to static as a
+                            Proof of Concept.</p>
+                        <a class="text-sm font-semibold hover:text-blue-300 flex items-center gap-1 text-[#38bdf8]"
+                            href="richmond_incidents.html">Learn more <span>→</span></a>
+                    </div>
+                </div>
+            </div>
+            <div class="flex justify-center mt-8">
+                <a class="font-semibold text-sm hover:text-blue-300 flex items-center gap-1 group text-[#38bdf8]"
+                    href="apps.html">
+                    See all apps
+                    <span class="group-hover:translate-x-1 transition-transform">→</span>
                 </a>
-                <a href="https://github.com/ahiser24" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-                    <i class="fab fa-github fa-2x"></i>
-                </a>
             </div>
         </section>
+        <!-- END: Portfolio Section -->
+        <!-- BEGIN: Career Section -->
+        <section class="scroll-mt-24 py-12 md:py-24" id="professional-experience">
+            <h2 class="text-3xl font-bold text-white mb-6">Professional Experience</h2>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                <!-- Career Card 1 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-2xl p-6 sm:p-8 hover:bg-white/5 transition-colors">
+                    <div class="text-gray-400 text-sm mb-2"></div>
+                    <h3 class="text-xl font-bold text-white mb-1">Senior IT Technical Analyst</h3>
+                    <div class="text-gray-300 text-sm mb-4"></div>
+                    <ul class="list-none list-outside ml-4 space-y-2 text-gray-400 text-sm">
+                        <li>> Responsibilities and advanced backend maintenance support on shared domain environments.
+                        </li>
+                        <li>> Review team collaboration knowledge of M365 Services and development of environmental
+                            policies and engaged user community.</li>
+                        <li>> Achievement and complete merger of electric incubators, shared with program analysts.</li>
+                    </ul>
+                </div>
+                <!-- Career Card 2 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-2xl p-6 sm:p-8 hover:bg-white/5 transition-colors">
+                    <div class="text-gray-400 text-sm mb-2"></div>
+                    <h3 class="text-xl font-bold text-white mb-1">Network Engineer</h3>
+                    <div class="text-gray-300 text-sm mb-4"></div>
+                    <ul class="list-none list-outside ml-4 space-y-2 text-gray-400 text-sm">
+                        <li>> Enhanced passing and context and compare mission own analysis, subnetting, standards,
+                            intricate rentals database and network engineer.</li>
+                        <li>> Enforced functionality and sustainable expense, health structures and maintained
+                            renovations.</li>
+                        <li>> Achievement cost and flow refinancing to run tactical transplant managing and secured
+                            access.</li>
+                    </ul>
+                </div>
+                <!-- Career Card 3 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-2xl p-6 sm:p-8 hover:bg-white/5 transition-colors">
+                    <div class="text-gray-400 text-sm mb-2"></div>
+                    <h3 class="text-xl font-bold text-white mb-1">Cloud Engineer (MSP Experience)</h3>
+                    <div class="text-gray-300 text-sm mb-4"></div>
+                    <ul class="list-none list-outside ml-4 space-y-2 text-gray-400 text-sm">
+                        <li>> Responsibilities and showed own business out cloud engineer and commitment to option
+                            wireless omnicommunications in secure concrete.</li>
+                        <li>> Finished tasks implements and cloud engineer translating, collocate, common, msp closed
+                            technologies and manage, system smartness rommings.</li>
+                        <li>> Achievement creative associative cloud engineer stack work honestly process breakcord MSP
+                            engineer.</li>
+                    </ul>
+                </div>
+                <!-- Career Card 4 -->
+                <div
+                    class="bg-card-bg border border-card-border rounded-2xl p-6 sm:p-8 hover:bg-white/5 transition-colors">
+                    <div class="text-gray-400 text-sm mb-2"></div>
+                    <h3 class="text-xl font-bold text-white mb-1">IT Business Owner</h3>
+                    <div class="text-gray-300 text-sm mb-4">SkyTime LLC</div>
+                    <ul class="list-none list-outside ml-4 space-y-2 text-gray-400 text-sm">
+                        <li>> Business operations trend and vocal batteries for network engineer trolcanics supply and
+                            Otho.</li>
+                        <li>> Developed shoesstication standard interfaces assets and routers and tech communications.
+                        </li>
+                        <li>> Achievements of applicable over to lardalants, teams, and business documents.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <!-- END: Career Section -->
     </main>
-
-    <footer class="footer">
-        <p>© 2025 Andrew Hiser. All rights reserved.</p>
+    <!-- BEGIN: Footer -->
+    <footer class="border-t border-white/10 bg-[#0a041f] py-8 mt-12">
+        <div class="max-w-7xl mx-auto px-4 flex flex-col items-center gap-4">
+            <!-- Social Icons -->
+            <div class="flex space-x-6">
+                <a class="text-gray-400 hover:text-white transition-colors"
+                    href="https://www.linkedin.com/in/hiserandrew" target="_blank" rel="noopener noreferrer"><span
+                        class="sr-only">LinkedIn</span><svg class="h-6 w-6 fill-current" viewbox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z">
+                        </path>
+                    </svg></a>
+                <a class="text-gray-400 hover:text-white transition-colors" href="https://github.com/ahiser24"
+                    target="_blank" rel="noopener noreferrer"><span class="sr-only">GitHub</span><svg
+                        class="h-6 w-6 fill-current" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z">
+                        </path>
+                    </svg></a>
+            </div>
+            <p class="text-center text-xs text-gray-500">
+                © 2025 Andrew Hiser. All rights reserved.
+            </p>
+        </div>
     </footer>
-
+    <!-- END: Footer -->
     <script>
         // Smooth scrolling for navigation links
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
@@ -211,6 +475,85 @@
                 });
             });
         });
+
+        // Intersection Observer for active navigation highlighting
+        const observerOptions = {
+            root: null,
+            rootMargin: '0px',
+            threshold: 0.3 // Trigger when 30% of the section is visible
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const id = entry.target.getAttribute('id');
+                    // Find the link that corresponds to this section
+                    const activeLink = document.querySelector(`nav ul li a[href="#${id}"]`);
+
+                    if (activeLink) {
+                        // Remove active class from all links
+                        document.querySelectorAll('nav ul li a').forEach(link => {
+                            link.classList.remove('nav-active');
+                            // Reset text color for inactive state
+                            link.classList.remove('text-white');
+                            link.classList.add('text-gray-300');
+                        });
+
+                        // Add active class to current link
+                        activeLink.classList.add('nav-active');
+                        // Set text color for active state
+                        activeLink.classList.remove('text-gray-300');
+                        activeLink.classList.add('text-white');
+                    }
+                }
+            });
+        }, observerOptions);
+
+        // Observe all sections that have an ID and are linked in the nav
+        document.querySelectorAll('section[id]').forEach(section => {
+            observer.observe(section);
+        });
+
+        // Mobile menu toggle
+        const btn = document.getElementById('mobile-menu-button');
+        const menu = document.getElementById('mobile-menu');
+        // Initial state check - ensure icons are correct
+        const openIcon = btn.querySelector('svg:first-of-type');
+        const closeIcon = btn.querySelector('svg:last-of-type');
+
+        btn.addEventListener('click', () => {
+            menu.classList.toggle('hidden');
+
+            // Toggle icons
+            if (menu.classList.contains('hidden')) {
+                openIcon.classList.remove('hidden');
+                openIcon.classList.add('block');
+                closeIcon.classList.remove('block');
+                closeIcon.classList.add('hidden');
+                btn.setAttribute('aria-expanded', 'false');
+            } else {
+                openIcon.classList.remove('block');
+                openIcon.classList.add('hidden');
+                closeIcon.classList.remove('hidden');
+                closeIcon.classList.add('block');
+                btn.setAttribute('aria-expanded', 'true');
+            }
+        });
+
+        // Close mobile menu when a link is clicked
+        menu.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => {
+                menu.classList.add('hidden');
+
+                openIcon.classList.remove('hidden');
+                openIcon.classList.add('block');
+                closeIcon.classList.remove('block');
+                closeIcon.classList.add('hidden');
+
+                btn.setAttribute('aria-expanded', 'false');
+            });
+        });
     </script>
 </body>
+
 </html>

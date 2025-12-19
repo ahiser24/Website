@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrew Hiser - IT Professional</title>
+    <meta name="description" content="The portfolio of Andrew Hiser, an IT Professional specializing in Microsoft 365, Azure, and process automation.">
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Andrew Hiser - IT Professional">
+    <meta property="og:description" content="Portfolio, apps, and career highlights of Andrew Hiser, IT Professional.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://andrewhiser.com/index.html">
+    <meta property="og:image" content="https://andrewhiser.com/images/mainLogo.png">
+    <meta property="og:site_name" content="Andrew Hiser">
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Andrew Hiser - IT Professional">
+    <meta name="twitter:description" content="Portfolio, apps, and career highlights of Andrew Hiser, IT Professional.">
+    <meta name="twitter:image" content="https://andrewhiser.com/images/mainLogo.png">
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://andrewhiser.com/index.html">
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="favicon/favicon.ico">
+    <link rel="manifest" href="favicon/site.webmanifest">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Android Chrome -->
+    <link rel="icon" type="image/png" sizes="192x192" href="favicon/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="favicon/android-chrome-512x512.png">
+    <!-- Styles and Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Andrew Hiser",
+      "url": "https://andrewhiser.com",
+      "sameAs": [
+        "https://www.linkedin.com/in/hiserandrew",
+        "https://github.com/ahiser24"
+      ],
+      "jobTitle": "IT Professional",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Andrew Hiser"
+      }
+    }
+    </script>
+</head>
+<body class="body">
+    <header class="header">
+        <div class="logo">Andrew Hiser</div>
+        <nav class="nav">
+            <ul class="nav-list">                <li><a href="#about" class="nav-link">About Me</a></li>
+                <li><a href="#certifications" class="nav-link">Certifications</a></li>
+                <li><a href="#portfolio" class="nav-link">Portfolio</a></li>
+                <li><a href="#career" class="nav-link">Career</a></li>
+                <li><a href="#Socials" class="nav-link">Socials</a></li>
+                <li><a href="apps.html" class="nav-link">Apps</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <section id="about" class="section">
+            <h2 class="section-heading">About Me</h2>
+            <div class="about-content">
+                <div class="about-image">
+                    <video autoplay loop muted playsinline class="profile-video" title="Animated character representing Andrew Hiser">
+                        <source src="images/character.mp4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+                <div class="about-text">
+                    <p class="paragraph">
+                        Hey, I'm Andrew—an IT enthusiast who took an unexpected detour from Criminal Justice to the world of technology.
+                        When I'm not immersed in work, my hobbies include::
+                    </p>
+                    <ul class="bulleted-list inner-list">
+                        <li>Learning</li>
+                        <li>Adventures</li>
+                        <li>Coding</li>
+                        <li>Guitar</li>
+                        <li>Gaming</li>
+                    </ul>
+                    <p class="paragraph">
+                        <b>Core skills:</b> Microsoft 365 Administration, Root Cause Analysis, Project Management, Documentation and Reporting, PowerShell, Python, Azure Cloud, AI, CoPilot, SharePoint Online, Exchange Online.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="certifications" class="section">
+            <h2 class="section-heading">Certifications</h2>
+            <div class="certifications-grid">
+                <div class="certification-card">
+                    <h3 class="card-heading">AI-900 - Microsoft Certified Azure AI Fundamentals</h3>
+                    <p class="card-text">Establishes my foundational knowledge of Azure AI services and solutions.</p>
+                </div>
+                <div class="certification-card">
+                    <h3 class="card-heading">AZ-104 - Microsoft Certified Azure Administrator</h3>
+                    <p class="card-text">Demonstrates my expertise in managing Azure resources, security, and governance.</p>
+                </div>
+                <div class="certification-card">
+                    <h3 class="card-heading">AZ-900 - Microsoft Certified Azure Fundamentals</h3>
+                    <p class="card-text">Establishes my foundational knowledge of Azure cloud services and solutions.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="portfolio" class="section">
+            <h2 class="section-heading">Portfolio</h2>
+            <div class="portfolio-grid">
+                <div class="portfolio-card">
+                    <h3 class="card-heading">Microsoft 365 Migrations</h3>
+                    <p class="card-text">Successfully migrated organizations from On-Premises to the Microsoft 365 platform.</p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">IT Hardware Inventory System</h3>
+                    <p class="card-text">Developed an IT Hardware Inventory system for tracking Assets.</p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">Microsoft Stream Caption Translator</h3>
+                    <p class="card-text">Created a Python tool to translate Microsoft Stream video caption files.</p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">Game Drop</h3>
+                    <p class="card-text">A desktop application that makes it easy to clip, compress and share gaming videos directly to Discord Communities. <a href="gamedrop.html" class="app-link">Learn more and download →</a></p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">SharePoint Online Migrations</h3>
+                    <p class="card-text">Led large scale SharePoint Online migrations.</p>
+                </div>
+                 <div class="portfolio-card">
+                    <h3 class="card-heading">Microsoft Copilot Implementation</h3>
+                    <p class="card-text">Led the implementation and adoption of AI and Microsoft Copilot.</p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">Duck, Duck, Go!</h3>
+                    <p class="card-text">A random name or item picker via a duck race. <a href="duck.html" class="app-link" target="_blank" rel="noopener noreferrer">Play now →</a></p></p>
+                </div>
+                <div class="portfolio-card">
+                    <h3 class="card-heading">Richmond Incidents</h3>
+                    <p class="card-text">A web app that displays and filters public safety incidents in Richmond, VA. <a href="richmond_incidents.html" class="app-link">View the app →</a></p>
+                </div>
+            </div>
+            <div style="text-align:center; margin-top: 2rem;">
+                <a href="apps.html" class="app-link" style="font-weight:600; font-size:1.1rem;">See all apps →</a>
+            </div>
+            </div>
+        </section>
+
+        <section id="career" class="section">
+            <h2 class="section-heading">Career</h2>
+            <div class="career-list">
+                <article class="career-card">
+                    <h3 class="job-title">Senior IT Technical Analyst</h3>
+                    <p class="job-description">Collaborated with stakeholders at all levels of the business to provide innovative solutions.</p>
+                    <p class="job-description">Focused on automations, process improvements, and training initiatives.</p>
+                    <p class="job-description">Bridged the gap between technology implementation and business requirements, driving efficiency and growth.</p>
+                </article>
+                <article class="career-card">
+                    <h3 class="job-title">Network Engineer</h3>
+                    <p class="job-description">Collaborated with colleagues to develop the tier 2 networking team, collaborating on documentation, processes, and procedures.</p>
+                    <p class="job-description">Managed and configured networks across multiple locations (stores & warehouses), ensuring seamless connectivity and optimal performance.</p>
+                </article>
+                <article class="career-card">
+                    <h3 class="job-title">Cloud Engineer (MSP Experience)</h3>
+                    <p class="job-description">At an MSP (Managed Service Provider), I played a critical role in supporting clients' Amazon Web Services (AWS) environments.</p>
+                    <p class="job-description">Despite the intense learning curve, I quickly adapted and became proficient in AWS within a tight timeframe.</p>
+                    <p class="job-description">I was tasked with training the tier 1 team, sharing my knowledge and empowering them to handle AWS-related challenges effectively.</p>
+                </article>
+                <article class="career-card">
+                    <h3 class="job-title">IT Business Owner</h3>
+                    <p class="job-description">As the founder of Sky Time LLC, I successfully established and operated a small IT services business.</p>
+                    <p class="job-description">I consulted with residential clients and small businesses to address their IT needs, troubleshoot issues, and provide tailored solutions.</p>
+                    <p class="job-description">Leveraging my experience, I was able to enhance operational efficiency and ensure seamless technology experiences for clients.</p>
+                </article>
+            </div>
+        </section>
+
+        <section id="Socials" class="section">
+            <h2 class="section-heading socials-heading">Socials</h2>
+            <div class="social-icons">
+                <a href="https://www.linkedin.com/in/hiserandrew" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                    <i class="fab fa-linkedin fa-2x"></i>
+                </a>
+                <a href="https://github.com/ahiser24" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                    <i class="fab fa-github fa-2x"></i>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>© 2025 Andrew Hiser. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>

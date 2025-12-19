@@ -1,7 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --color-page-bg: #0D0525;
+    --color-card-bg: rgba(255, 255, 255, 0.05);
+    --color-card-border: rgba(255, 255, 255, 0.1);
+    --color-brand-purple: #8B5CF6;
+    --color-brand-cyan: #06b6d4;
+    --color-glow-blue: #0EA5E9;
+    --color-text-secondary: #9CA3AF;
+}
+
 body {
-    font-family: 'Inter', sans-serif;
-    background-color: #111827;
-    color: #f9fafb;
+    background: linear-gradient(135deg, #0a0a16 0%, #1b1b3a 100%);
+    color: #ffffff;
+    min-height: 100vh;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    margin: 0;
+}
+
+/* Gradient Text */
+.text-gradient-purple {
+    background: linear-gradient(to right, #a78bfa, #60a5fa);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0f0729;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4b5563;
+    border-radius: 4px;
+}
+
+/* Bullet Point Glow */
+.glow-bullet {
+    box-shadow: 0 0 5px #3b82f6;
+}
+
+/* Certification Card Glow Animation/Hover */
+.cert-card {
+    transition: all 0.3s ease;
+    border: 1px solid #06b6d4;
+    box-shadow: 0 0 20px rgba(6, 182, 212, 0.4), inset 0 0 10px rgba(6, 182, 212, 0.1);
+}
+
+.cert-card:hover {
+    box-shadow: 0 0 25px rgba(6, 182, 212, 0.7), inset 0 0 30px rgba(6, 182, 212, 0.3);
+    transform: translateY(-2px);
 }
 
 .section {
@@ -76,11 +129,25 @@ body {
 }
 
 @keyframes color-change {
-    0% { color: #a855f7; }
-    25% { color: #f43f5e; }
-    50% { color: #3b82f6; }
-    75% { color: #10b981; }
-    100% { color: #a855f7; }
+    0% {
+        color: #a855f7;
+    }
+
+    25% {
+        color: #f43f5e;
+    }
+
+    50% {
+        color: #3b82f6;
+    }
+
+    75% {
+        color: #10b981;
+    }
+
+    100% {
+        color: #a855f7;
+    }
 }
 
 .about-content {
@@ -104,11 +171,15 @@ body {
 }
 
 .profile-video {
-    border-radius: 9999px; /* Makes the video circular */
+    border-radius: 9999px;
+    /* Makes the video circular */
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
-    border: 2px solid #a855f7; /* Matches the original border style */
-    width: 80%; /* Adjusts the size to match the original image */
-    object-fit: cover; /* Ensures the video scales properly */
+    border: 2px solid #a855f7;
+    /* Matches the original border style */
+    width: 80%;
+    /* Adjusts the size to match the original image */
+    object-fit: cover;
+    /* Ensures the video scales properly */
 }
 
 @media (min-width: 768px) {
@@ -125,8 +196,9 @@ body {
 }
 
 .about-text {
-     width: 100%;
+    width: 100%;
 }
+
 @media (min-width: 768px) {
     .about-text {
         width: 66.66667%;
@@ -134,9 +206,9 @@ body {
 }
 
 .bulleted-list {
-  list-style-type: disc;
-  padding-left: 1.5rem;
-  list-style-position: inside;
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    list-style-position: inside;
 }
 
 .bulleted-list.inner-list {
@@ -148,25 +220,32 @@ body {
     margin-bottom: 0.5rem;
 }
 
-.certifications-grid, .portfolio-grid {
+.certifications-grid,
+.portfolio-grid {
     display: grid;
     grid-template-columns: repeat(1, minmax(0, 1fr));
     gap: 1.5rem;
 }
 
 @media (min-width: 768px) {
-    .certifications-grid, .portfolio-grid {
+
+    .certifications-grid,
+    .portfolio-grid {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 }
 
 @media (min-width: 1024px) {
-    .certifications-grid, .portfolio-grid {
+
+    .certifications-grid,
+    .portfolio-grid {
         grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 }
 
-.certification-card, .portfolio-card, .career-card {
+.certification-card,
+.portfolio-card,
+.career-card {
     border: 1px solid #a855f7;
     border-radius: 0.5rem;
     padding: 1rem;
@@ -181,7 +260,8 @@ body {
     margin-bottom: 0.5rem;
 }
 
-.card-text, .job-description {
+.card-text,
+.job-description {
     color: #d1d5db;
 }
 
@@ -212,7 +292,7 @@ body {
     margin-top: 1rem;
 }
 
-.socials-heading{
+.socials-heading {
     display: flex;
     justify-content: center;
 }
@@ -276,7 +356,8 @@ body {
         flex-direction: column;
     }
 
-    .about-image, .about-text {
+    .about-image,
+    .about-text {
         width: 100%;
     }
 
@@ -383,12 +464,16 @@ body {
     margin: 1.5rem 0 1rem;
 }
 
-.feature-list, .requirements-list, .troubleshooting-list {
+.feature-list,
+.requirements-list,
+.troubleshooting-list {
     list-style-type: none;
     padding: 0;
 }
 
-.feature-list li, .requirements-list li, .troubleshooting-list li {
+.feature-list li,
+.requirements-list li,
+.troubleshooting-list li {
     margin-bottom: 0.75rem;
     color: #d1d5db;
     padding-left: 1.5rem;
@@ -420,11 +505,11 @@ body {
     .app-container {
         padding: 1rem;
     }
-    
+
     .app-title {
         font-size: 1.5rem;
     }
-    
+
     .section-subtitle {
         font-size: 1.25rem;
     }
@@ -483,25 +568,44 @@ body {
 
 /* Center and shrink the Game Drop image */
 .game-drop-image {
-    display: block; /* Ensures the image is treated as a block element */
-    margin: 0 auto; /* Centers the image horizontally */
-    max-width: 80%; /* Shrinks the image to fit within 80% of its container */
-    height: auto; /* Maintains the aspect ratio */
-    border-radius: 0.5rem; /* Optional: Adds rounded corners */
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow */
+    display: block;
+    /* Ensures the image is treated as a block element */
+    margin: 0 auto;
+    /* Centers the image horizontally */
+    max-width: 80%;
+    /* Shrinks the image to fit within 80% of its container */
+    height: auto;
+    /* Maintains the aspect ratio */
+    border-radius: 0.5rem;
+    /* Optional: Adds rounded corners */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+    /* Optional: Adds a shadow */
 }
 
 .video-container {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-bottom: 56.25%;
+    /* 16:9 Aspect Ratio */
 }
 
 .video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Navigation Active State */
+.nav-active {
+    border-bottom-width: 2px;
+    border-color: #06b6d4;
+    color: #ffffff;
+}
+
+/* Reset hover/transition for active state if needed to prevent flicker */
+.nav-active:hover {
+    color: #ffffff;
 }

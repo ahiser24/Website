@@ -1,13 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Apps - Andrew Hiser</title>
-    <meta name="description" content="A desktop app to clip, compress, and share gaming videos directly to Discord Communities.">
+    <meta name="description"
+        content="A desktop app to clip, compress, and share gaming videos directly to Discord Communities.">
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Game Drop - Share Gaming Clips by Andrew Hiser">
-    <meta property="og:description" content="A desktop app to clip, compress, and share gaming videos directly to Discord Communities.">
+    <meta property="og:description"
+        content="A desktop app to clip, compress, and share gaming videos directly to Discord Communities.">
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <!-- Configure Tailwind theme -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'page-bg': '#0D0525', // Deep dark purple/black
+                        'card-bg': 'rgba(255, 255, 255, 0.05)', // Transparent card background
+                        'card-border': 'rgba(255, 255, 255, 0.1)',
+                        'brand-purple': '#8B5CF6',
+                        'brand-cyan': '#06b6d4',
+                        'glow-blue': '#0EA5E9',
+                        'text-secondary': '#9CA3AF',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    boxShadow: {
+                        'neon-blue': '0 0 15px 2px rgba(14, 165, 233, 0.3), inset 0 0 15px 2px rgba(14, 165, 233, 0.1)',
+                    }
+                }
+            }
+        }
+    </script>
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://andrewhiser.com/gamedrop.html">
     <meta property="og:image" content="https://andrewhiser.com/images/logo.png">
@@ -15,7 +44,8 @@
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Game Drop - Share Gaming Clips by Andrew Hiser">
-    <meta name="twitter:description" content="A desktop app to clip, compress, and share gaming videos directly to Discord Communities.">
+    <meta name="twitter:description"
+        content="A desktop app to clip, compress, and share gaming videos directly to Discord Communities.">
     <meta name="twitter:image" content="https://andrewhiser.com/images/logo.png">
     <!-- Canonical URL -->
     <link rel="canonical" href="https://andrewhiser.com/gamedrop.html">
@@ -34,23 +64,78 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
-<body class="body">
-    <header class="header">
-        <div class="logo">Andrew Hiser</div>
-        <nav class="nav">
-            <ul class="nav-list">
-                <li><a href="index.html#about" class="nav-link">About Me</a></li>
-                <li><a href="index.html#certifications" class="nav-link">Certifications</a></li>
-                <li><a href="index.html#portfolio" class="nav-link">Portfolio</a></li>
-                <li><a href="index.html#career" class="nav-link">Career</a></li>
-                <li><a href="index.html#Socials" class="nav-link">Socials</a></li>
-                <li><a href="apps.html" class="nav-link">Apps</a></li>
-            </ul>
-        </nav>
-    </header>
 
-    <main class="main-content">
-        <div class="app-container">
+<body class="font-sans antialiased selection:bg-purple-500 selection:text-white">
+    <!-- BEGIN: Header -->
+    <header class="sticky top-0 z-50 backdrop-blur-md bg-[#0f0729]/80 border-b border-white/10">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-20">
+                <!-- Logo -->
+                <div class="flex-shrink-0">
+                    <a class="text-3xl font-bold text-gradient-purple tracking-tight" href="index.html">Andrew
+                        Hiser</a>
+                </div>
+                <!-- Desktop Navigation -->
+                <nav class="hidden md:block">
+                    <ul class="ml-10 flex items-baseline space-x-8">
+                        <li><a class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="index.html#about">About Me</a></li>
+                        <li><a class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="index.html#certifications">Certifications</a></li>
+                        <li><a class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="index.html#key-projects">Key Projects</a></li>
+                        <li><a class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="index.html#professional-experience">Professional Experience</a></li>
+                        <li><a class="nav-active px-3 py-2 rounded-md text-sm font-medium transition-colors"
+                                href="apps.html">Apps</a></li>
+                    </ul>
+                </nav>
+                <!-- Mobile menu button -->
+                <div class="-mr-2 flex md:hidden">
+                    <button id="mobile-menu-button"
+                        class="bg-gray-800 inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
+                        type="button" aria-controls="mobile-menu" aria-expanded="false">
+                        <span class="sr-only">Open main menu</span>
+                        <!-- Icon when menu is closed -->
+                        <svg class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                            stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                        <!-- Icon when menu is open -->
+                        <svg class="hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                            stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Mobile Menu, show/hide based on menu state. -->
+        <div class="hidden md:hidden" id="mobile-menu">
+            <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-[#0f0729] border-b border-white/10">
+                <a href="index.html#about"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">About Me</a>
+                <a href="index.html#certifications"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Certifications</a>
+                <a href="index.html#key-projects"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Key
+                    Projects</a>
+                <a href="index.html#professional-experience"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Professional
+                    Experience</a>
+                <a href="apps.html"
+                    class="text-gray-300 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Apps</a>
+            </div>
+        </div>
+    </header>
+    <!-- END: Header -->
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-24">
+        <div class="border border-card-border rounded-3xl p-8 md:p-12 backdrop-blur-sm bg-[#171725]"
+            style="border: 1px solid rgba(255, 255, 255, 0.1);">
             <div class="app-header">
                 <img src="images/logo.png" alt="Game Drop Logo" class="app-logo">
                 <h1 class="app-title section-heading">Game Drop</h1>
@@ -58,17 +143,25 @@
 
             <div class="overview-content">
                 <p class="overview-text">
-                    <h2><center>Revolutionize Your Gameplay Highlights with Clipping and Seamless Discord Sharing!</h2></center>
+                <h2>
+                    <center>Revolutionize Your Gameplay Highlights with Clipping and Seamless Discord Sharing!
+                </h2>
+                </center>
                 </p>
                 <img src="images/Game Drop.png" alt="Game Drop Screenshot" class="game-drop-image">
                 <div class="key-points">
                     <h2 class="section-subtitle section-heading">Key Features</h2>
                     <ul class="overview-list">
-                        <li><strong>Smart Video Clipping:</strong> Easily select portions of your gameplay videos with precise control</li>
-                        <li><strong>Discord-Optimized:</strong> Automatically targets Discord's 10MB file limit for direct sharing</li>
-                        <li><strong>Hardware Acceleration:</strong> Utilizes NVIDIA (NVENC), AMD (AMF), Intel, or VA-API GPU encoding</li>
-                        <li><strong>Custom Export Options:</strong> Adjustable file sizes and quality settings for non-Discord purposes</li>
-                        <li><strong>One-click Discord Integration:</strong> Send clips directly to your Discord servers via webhooks</li>
+                        <li><strong>Smart Video Clipping:</strong> Easily select portions of your gameplay videos with
+                            precise control</li>
+                        <li><strong>Discord-Optimized:</strong> Automatically targets Discord's 10MB file limit for
+                            direct sharing</li>
+                        <li><strong>Hardware Acceleration:</strong> Utilizes NVIDIA (NVENC), AMD (AMF), Intel, or VA-API
+                            GPU encoding</li>
+                        <li><strong>Custom Export Options:</strong> Adjustable file sizes and quality settings for
+                            non-Discord purposes</li>
+                        <li><strong>One-click Discord Integration:</strong> Send clips directly to your Discord servers
+                            via webhooks</li>
                         <li><strong>Cross-Platform Support:</strong> Runs on Windows, Linux, and Steam Deck</li>
                         <li><strong>Dark-mode Interface:</strong> Clean, modern dark UI designed for gamers</li>
                     </ul>
@@ -77,11 +170,10 @@
 
             <section class="app-section">
                 <h2 class="section-subtitle section-heading">Getting Started</h2>
-                                <div class="video-container">
-                    <iframe src="https://www.youtube.com/embed/fFhfKb545To"
-                            title="Game Drop Demo Video" frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                            allowfullscreen>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/fFhfKb545To" title="Game Drop Demo Video" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
                     </iframe>
                 </div>
                 <h3 class="subsection-title">Installation</h3>
@@ -89,16 +181,18 @@
                     <h4>Windows</h4>
                     <p>Please report any bugs: <a href="mailto:tecrexit@gmail.com">tecrexit@gmail.com</a></p>
                     <ol class="numbered-list">
-                        <li><a href="https://github.com/ahiser24/GameDrop/releases" class="app-link">Download GameDrop_Setup.zip</a></li>
+                        <li><a href="https://github.com/ahiser24/GameDrop/releases" class="app-link">Download
+                                GameDrop_Setup.zip</a></li>
                         <li>Extract the files</li>
                         <li>Run the installer and follow the on-screen instructions</li>
                         <li>Launch Game Drop</li>
                     </ol>
-                    
+
                     <h4>Linux & Steam Deck</h4>
                     <p>Please report any bugs: <a href="mailto:tecrexit@gmail.com">tecrexit@gmail.com</a></p>
                     <ol class="numbered-list">
-                        <li><a href="https://github.com/ahiser24/GameDrop/releases" class="app-link">Download GameDrop_Setup.tar.gz</a></li>
+                        <li><a href="https://github.com/ahiser24/GameDrop/releases" class="app-link">Download
+                                GameDrop_Setup.tar.gz</a></li>
                         <li>Extract the files</li>
                         <li>Run install_GameDrop.sh and follow the on-screen instructions</li>
                         <li>Launch Game Drop</li>
@@ -107,33 +201,39 @@
                 <h2 class="section-subtitle section-heading">How To</h2>
 
             </section>
-                <ol class="numbered-list">
-                    <li>Click <strong>Load Video</strong> to open a gameplay video file</li>
-                    <li>Use the slider to select the start and end points of your clip</li>
-                    <li>For Discord sharing:
-                        <ul class="overview-list">
-                            <li>RECOMMENDED: Use the "Optimize for Discord (30s / 10MB)" option</li>
-                            <li>(Optional) Set up Discord webhooks by clicking <strong>Manage Webhooks</strong></li>
-                            <li>Add an optional custom clip name</li>
-                        </ul>
-                    </li>
-                    <li>For longer clips:
-                        <ul class="overview-list">
-                            <li>Uncheck the Discord limit to access size and quality options</li>
-                            <li>Select your desired file size or enter a custom value</li>
-                            <li>Add an optional custom clip name</li>
-                        </ul>
-                    </li>
-                    <li>Click <strong>Drop It</strong> to create your clip (and send to Discord if webhooks are configured)</li>
-                </ol>
-                <p class="card-text"><strong>NOTE:</strong> Discord limits sending videos by webhook to 10MB. If the file size is larger, you'll still need to upload it manually. (Nitro may be required for larger file sizes)</p>
+            <ol class="numbered-list">
+                <li>Click <strong>Load Video</strong> to open a gameplay video file</li>
+                <li>Use the slider to select the start and end points of your clip</li>
+                <li>For Discord sharing:
+                    <ul class="overview-list">
+                        <li>RECOMMENDED: Use the "Optimize for Discord (30s / 10MB)" option</li>
+                        <li>(Optional) Set up Discord webhooks by clicking <strong>Manage Webhooks</strong></li>
+                        <li>Add an optional custom clip name</li>
+                    </ul>
+                </li>
+                <li>For longer clips:
+                    <ul class="overview-list">
+                        <li>Uncheck the Discord limit to access size and quality options</li>
+                        <li>Select your desired file size or enter a custom value</li>
+                        <li>Add an optional custom clip name</li>
+                    </ul>
+                </li>
+                <li>Click <strong>Drop It</strong> to create your clip (and send to Discord if webhooks are configured)
+                </li>
+            </ol>
+            <p class="card-text"><strong>NOTE:</strong> Discord limits sending videos by webhook to 10MB. If the file
+                size is larger, you'll still need to upload it manually. (Nitro may be required for larger file sizes)
+            </p>
             </section>
 
             <section class="app-section">
                 <h2 class="section-subtitle section-heading">Setting Up Discord Webhooks</h2>
                 <ol class="numbered-list">
-                    <li>In your Discord server, go to <strong>Server Settings</strong> > <strong>Integrations</strong> > <strong>Webhooks</strong></li>
-                    <li>Click <strong>New Webhook</strong>, give it a name, and select the channel where clips will be posted</li>
+                    <li>In your Discord server, go to <strong>Server Settings</strong> > <strong>Integrations</strong> >
+                        <strong>Webhooks</strong>
+                    </li>
+                    <li>Click <strong>New Webhook</strong>, give it a name, and select the channel where clips will be
+                        posted</li>
                     <li>Copy the webhook URL</li>
                     <li>In Game Drop, click <strong>Manage Webhooks</strong>, then <strong>Add Webhook</strong></li>
                     <li>Enter a name for the webhook and paste the URL</li>
@@ -142,7 +242,7 @@
 
             <section class="app-section">
                 <h2 class="section-subtitle section-heading">System Requirements</h2>
-                
+
                 <h3 class="subsection-title">Windows</h3>
                 <ul class="requirements-list">
                     <li>Windows 10 or later</li>
@@ -163,20 +263,48 @@
             <section class="app-section">
                 <h2 class="section-subtitle section-heading">Troubleshooting</h2>
                 <ul class="troubleshooting-list">
-                    <li><strong>FFmpeg Missing:</strong> Game Drop will automatically prompt to download and install FFmpeg on first run</li>
-                    <li><strong>Video Won't Load:</strong> Make sure your video is in a supported format (MP4, AVI, MKV, MOV)</li>
+                    <li><strong>FFmpeg Missing:</strong> Game Drop will automatically prompt to download and install
+                        FFmpeg on first run</li>
+                    <li><strong>Video Won't Load:</strong> Make sure your video is in a supported format (MP4, AVI, MKV,
+                        MOV)</li>
                     <li><strong>Discord Upload Failing:</strong> Verify your webhook URL and internet connection</li>
-                    <li><strong>Quality Issues:</strong> For better quality but larger files, uncheck the Discord limit and select a higher file size</li>
+                    <li><strong>Quality Issues:</strong> For better quality but larger files, uncheck the Discord limit
+                        and select a higher file size</li>
                     <li><strong>Hardware Acceleration Not Working:</strong> Update your graphics drivers</li>
                 </ul>
             </section>
         </div>
     </main>
 
-    <footer class="footer">
-        <p>© 2025 Andrew Hiser. All rights reserved.</p>
-        <p>For support, contact us at: <a href="mailto:tecrexit@gmail.com">tecrexit@gmail.com</a></p>
+    <!-- BEGIN: Footer -->
+    <footer class="border-t border-white/10 bg-[#0a041f] py-8 mt-12">
+        <div class="max-w-7xl mx-auto px-4 flex flex-col items-center gap-4">
+            <!-- Social Icons -->
+            <div class="flex space-x-6">
+                <a class="text-gray-400 hover:text-white transition-colors"
+                    href="https://www.linkedin.com/in/hiserandrew" target="_blank" rel="noopener noreferrer"><span
+                        class="sr-only">LinkedIn</span><svg class="h-6 w-6 fill-current" viewbox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z">
+                        </path>
+                    </svg></a>
+                <a class="text-gray-400 hover:text-white transition-colors" href="https://github.com/ahiser24"
+                    target="_blank" rel="noopener noreferrer"><span class="sr-only">GitHub</span><svg
+                        class="h-6 w-6 fill-current" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                            d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z">
+                        </path>
+                    </svg></a>
+            </div>
+            <p class="text-center text-xs text-gray-500">
+                © 2025 Andrew Hiser. All rights reserved.
+            </p>
+            <p class="text-xs text-gray-500">For support, contact us at: <a href="mailto:tecrexit@gmail.com"
+                    class="hover:text-white">tecrexit@gmail.com</a></p>
+        </div>
     </footer>
+    <!-- END: Footer -->
 
     <script>
         // Smooth scrolling for navigation links
@@ -188,9 +316,39 @@
                 });
             });
         });
+
+        // Mobile menu toggle
+        const btn = document.getElementById('mobile-menu-button');
+        const menu = document.getElementById('mobile-menu');
+        // Initial state check - ensure icons are correct
+        const openIcon = btn.querySelector('svg:first-of-type');
+        const closeIcon = btn.querySelector('svg:last-of-type');
+
+        btn.addEventListener('click', () => {
+            menu.classList.toggle('hidden');
+
+            // Toggle icons
+            if (menu.classList.contains('hidden')) {
+                openIcon.classList.remove('hidden');
+                openIcon.classList.add('block');
+                closeIcon.classList.remove('block');
+                closeIcon.classList.add('hidden');
+                btn.setAttribute('aria-expanded', 'false');
+            } else {
+                openIcon.classList.remove('block');
+                openIcon.classList.add('hidden');
+                closeIcon.classList.remove('hidden');
+                closeIcon.classList.add('block');
+                btn.setAttribute('aria-expanded', 'true');
+            }
+        });
     </script>
 
     <!-- Buy Me a Coffee Widget -->
-    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="andrewhiser" data-description="Support me on Buy me a coffee!" data-message="Love your clips? Fuel the next update!" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+        data-id="andrewhiser" data-description="Support me on Buy me a coffee!"
+        data-message="Love your clips? Fuel the next update!" data-color="#BD5FFF" data-position="Right"
+        data-x_margin="18" data-y_margin="18"></script>
 </body>
+
 </html>
