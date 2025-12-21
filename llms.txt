@@ -1,0 +1,13 @@
+# Andrew Hiser Portfolio
+> Technical portfolio and project showcase for Andrew Hiser, an IT Professional and Cloud Engineer specializing in Microsoft 365, Azure, and automation.
+
+## Core Pages
+- [Home](index.html): Main landing page featuring bio, skills (M365, Azure, Python), certifications (AI-900, AZ-104, AZ-900), and key projects.
+- [App Hub](apps.html): Directory of web and desktop applications developed by Andrew Hiser.
+- [Game Drop](gamedrop.html): Landing page for the Game Drop desktop application, a tool for clipping and sharing gaming videos. Optimized for Discord.
+- [Duck, Duck, Go!](duck.html): A random decision-making web app featuring a duck race.
+- [Richmond Incidents](richmond_incidents.html): A real-time incident mapping tool for Richmond, VA (Proof of Concept).
+
+## Data Sources
+- [Incident Data](incidents.json): JSON data source for the Richmond Incidents map.
+- [Scraper Script](scrape.py): Python script used to fetch and update incident data.
